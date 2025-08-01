@@ -81,3 +81,51 @@
 - Looking forward to deep-diving into core subjects in coming days.
 
 ---
+
+## 🗓️ Day 2 - August 1, 2025 (Friday)
+
+### 🧪 Lab Session – Data Structures & Algorithms (DSA)
+- **Time:** 11:40 AM – 1:30 PM  
+- **Classroom:** E-1108C  
+- **Faculty:** Ankit Thakkar (AT Sir)  
+- **Activity:**  
+  - Implemented algorithms for:
+    - Selection Sort
+    - Insertion Sort
+    - Bubble Sort  
+  - Took large input sizes to measure runtimes - 10K, 50K AND 1 LAC input size of array.
+  - Tasked with plotting runtime graphs  
+  - Midway, attended a guest talk on AI at the MCA classroom  
+  - Could not finish Practical 1; sir granted 2 lab sessions for completion
+
+---
+
+### 📚 Lectures (Post-Recess) – Room E-1106B
+
+#### 1️⃣ Data Science System Design
+- **Time:** 2:25 PM – 3:30 PM  
+- **Faculty:** Monika Shah Ma'am  
+- **Content Covered:**  
+  - Introductory session on course structure and importance
+
+#### 2️⃣ Statistics for Data Science
+- **Time:** 3:30 PM – 4:15 PM  
+- **Faculty:** Swati Jain Ma'am  
+- **Content Covered:**  
+  - Brief introduction to statistical concepts for data science
+
+---
+
+### 💻 Lab Session – ProgCode
+- **Time:** 4:30 PM – 6:20 PM  
+- **Activity:**  
+  - Open-ended coding lab  
+  - Completed Selection Sort algorithm  
+  - Plotted runtime using `plotext` library (terminal-based plotting)
+
+---
+
+### ✅ Summary of the Day
+- Productive DSA lab with focus on sorting and performance analysis  
+- Introductory insights into system design and statistics for DS  
+- Used coding lab time to implement and visualize sorting performance  
