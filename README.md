@@ -143,6 +143,7 @@
     - Bubble Sort  
   - Covered all cases: Best, Worst, and Average  
   - Plotted time complexity comparison graphs using `plotext` library
+  - **GitHub Repository:** [View Code on GitHub](https://github.com/davesohamm/Nirma-Practical/blob/main/DSA/sorting.py)
 
 ---
 
