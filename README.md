@@ -129,3 +129,32 @@
 - Productive DSA lab with focus on sorting and performance analysis  
 - Introductory insights into system design and statistics for DS  
 - Used coding lab time to implement and visualize sorting performance  
+
+---
+
+## 🗓️ Day 3 - August 2, 2025 (Saturday)
+
+### 💻 DSA Lab Practical Completion
+- **Activity:**  
+  - Completed Practical 1 of DSA  
+  - Implemented:
+    - Insertion Sort
+    - Selection Sort
+    - Bubble Sort  
+  - Covered all cases: Best, Worst, and Average  
+  - Plotted time complexity comparison graphs using `plotext` library
+
+---
+
+### ❤️ Post-Recess Personal Time
+- Spent a memorable afternoon with her ❤️  
+- She visited the college for the first time  
+- Explored the library and campus together  
+- Enjoyed tasty food and had long, heartfelt conversations  
+
+---
+
+### ✅ Summary of the Day
+- Productive completion of DSA practical with full implementation and visualizations  
+- A special and unforgettable college day personally 🌸  
+
