@@ -159,3 +159,54 @@
 - Productive completion of DSA practical with full implementation and visualizations  
 - A special and unforgettable college day personally 🌸  
 
+---
+
+## 🗓️ Day 4 - August 4, 2025 (Monday)
+
+### 📚 Lectures
+
+#### 1️⃣ Big Data Systems (BDS)
+- **Time:** 11:40 AM – 12:35 PM  
+- **Faculty:** JV Sir  
+- **Topics Covered:**  
+  - Overview of database systems  
+  - RDBMS, Data Warehousing  
+  - Introduction to data visualization  
+
+#### 2️⃣ Applied Machine Learning (AML)
+- **Time:** 12:35 PM – 1:30 PM  
+- **Faculty:** NKP Sir  
+- **Topics Covered:**  
+  - Challenges in model training:
+    - Overfitting, Underfitting  
+    - Data bias, poor data collection  
+  - Case Study: Literary Digest (1936 U.S. election prediction failure)  
+  - Introduction to Linear Regression  
+
+---
+
+### 🍽️ Recess
+- **Time:** 1:30 PM – 2:25 PM
+
+---
+
+### 🧪 Big Data Systems Lab
+- **Time:** 2:25 PM – 4:30 PM  
+- **Practical 1 Started:** *Big Data Applications Study*  
+- Explored domains like:
+  - Retail, Healthcare, Education, E-commerce, etc.  
+- Task: Choose one domain, study applications, and write a report on digital data types generated
+
+---
+
+### 📖 Library Time
+- **Time:** 4:30 PM – 6:30 PM  
+- **Note:** DSSD lecture postponed to **Aug 5 (12:35 – 1:30)**  
+- Spent time studying and working in the library
+
+---
+
+### ✅ Summary of the Day
+- Gained foundational insights into BDS and AML challenges  
+- Began hands-on exploration of Big Data applications  
+- Productive and quiet wrap-up in the library due to rescheduled lecture  
