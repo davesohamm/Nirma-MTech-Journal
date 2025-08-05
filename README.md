@@ -209,4 +209,72 @@
 ### ✅ Summary of the Day
 - Gained foundational insights into BDS and AML challenges  
 - Began hands-on exploration of Big Data applications  
-- Productive and quiet wrap-up in the library due to rescheduled lecture  
+- Productive and quiet wrap-up in the library due to rescheduled lecture
+
+---
+
+## 🗓️ Day 5 - August 5, 2025 (Tuesday)
+
+### 🌅 Pre-College Activity
+- Solved 3 DSA problems on LeetCode (1 string-based)
+- Learnt and practiced Python string functions: `strip()`, `split()`
+
+---
+
+### 📚 Lectures
+
+#### 1️⃣ Big Data Systems (BDS)
+- **Time:** 11:40 AM – 12:35 PM  
+- **Faculty:** JV Sir  
+- **Topics Covered:**  
+  - The 5 V’s of Big Data: Volume, Velocity, Variety, Veracity, Value
+
+#### 2️⃣ Data Science System Design (DSSD)
+- **Time:** 12:35 PM – 1:30 PM  
+- **Faculty:** Monika Shah Ma’am  
+- **Topics Covered:**  
+  - What is Data Science?  
+  - Importance of system design in DS projects  
+  - Group project initiated – 10 days to select a domain  
+
+---
+
+### 🍽️ Recess
+- **Time:** 1:30 PM – 2:25 PM
+
+---
+
+#### 3️⃣ Data Structures & Algorithms (DSA)
+- **Time:** 2:25 PM – 3:45 PM  
+- **Faculty:** Ankit Thakkar Sir  
+- **Topics Covered:**  
+  - Big-O, Omega (Ω), and Theta (Θ) notations  
+  - Examples and case-based analysis  
+  - **Note to Self:** Practice these before exams
+
+#### 4️⃣ Statistics for Data Science
+- **Time:** 3:45 PM – 4:15 PM  
+- **Faculty:** Swati Jain Ma’am  
+- **Topics Covered:**  
+  - Engineering methods vs. statistical approaches in DS
+
+---
+
+### 🧪 Statistics Lab
+- **Time:** 4:25 PM – 6:20 PM  
+- **Activity:**  
+  - Set up Jupyter Notebook in Kaggle  
+  - Loaded titanic dataset and explored:
+    - Descriptive statistics  
+    - Histograms, Boxplots, Heatmaps, etc.  
+- **Tools to Practice Soon:**  
+  - `seaborn`, `matplotlib`, `numpy`, `pandas`, `scikit-learn`
+
+---
+
+### ✅ Summary of the Day
+- Productive day with coding practice, theory, and hands-on labs  
+- Strong start on group project planning  
+- Planning to practice Python data science libraries actively  
+
+---
