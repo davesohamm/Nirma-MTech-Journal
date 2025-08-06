@@ -278,3 +278,70 @@
 - Planning to practice Python data science libraries actively  
 
 ---
+
+## 🗓️ Day 6 - August 6, 2025 (Wednesday)
+
+### 🌅 Pre-College Activity
+- Solved another LeetCode problem (similar to yesterday)
+- Learnt two new techniques:
+  - Sequence Tree  
+  - Square Root Decomposition
+
+---
+
+### 🧪 Data Science System Design (DSSD) Lab
+- **Time:** 11:40 AM – 1:30 PM  
+- **Activity:**  
+  - Continued domain selection process for group project  
+  - Explored case studies on system design techniques  
+  - Goal: Finalize domain and design data pipeline in upcoming labs
+
+---
+
+### 🍽️ Recess
+- **Time:** 1:30 PM – 2:25 PM
+
+---
+
+### 📚 Lectures
+
+#### 1️⃣ Applied Machine Learning (AML)
+- **Time:** 2:25 PM – 3:45 PM  
+- **Faculty:** NKP Sir  
+- **Topics Covered:**  
+  - Use cases of ML  
+  - Introduction to **GAN (Generative Adversarial Network)**  
+    - Generator & Discriminator model  
+    - Developed by Ian Goodfellow  
+  - Mentions of pioneers in Deep Learning:
+    - Geoffrey Hinton, Yoshua Bengio, Yann LeCun, Andrew Ng  
+  - Brief intro to **Computer Vision**  
+    - YOLO (You Only Look Once) model for face detection
+
+#### 2️⃣ Data Structures & Algorithms (DSA)
+- **Time:** 3:45 PM – 4:30 PM  
+- **Faculty:** Ankit Thakkar Sir  
+- **Topics Covered:**  
+  - Solved examples on asymptotic notation  
+  - Started **Recurrence Relations**  
+  - Binary Search used as an example
+
+---
+
+### 🧪 AML Lab
+- **Time:** 4:45 PM – 6:20 PM  
+- **Activity:**  
+  - NKP Sir shared ML practical files  
+  - Topics include:
+    - `numpy`, `pandas`, `matplotlib`  
+    - Various functions and data operations  
+  - Plan to start hands-on practice soon
+
+---
+
+### ✅ Summary of the Day
+- Productive mix of theory, problem-solving, and lab insights  
+- Inspired by deep learning pioneers and GAN concept  
+- Excited to practice the ML libraries shared today  
+
+----
