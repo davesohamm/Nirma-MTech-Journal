@@ -345,3 +345,146 @@
 - Excited to practice the ML libraries shared today  
 
 ----
+
+## 🗓️ Day 7 - August 7, 2025 (Thursday)
+
+### 🏦 Pre-College Activity
+- Opened new bank account at **Kalupur Bank, Nirma University Branch**  
+- Purpose: Stipend processing for MTech program
+
+---
+
+### 📚 Lectures
+
+#### 1️⃣ Statistics for Data Science
+- **Time:** 11:40 AM – 12:35 PM  
+- **Faculty:** Swati Jain Ma’am  
+- **Topics Covered:**  
+  - Mechanistic vs. Empirical Models  
+  - Probability Models, Statistical Methods in Engineering  
+  - Dimensionality, Resolution/Granularity of Datasets  
+  - One-Hot Encoding  
+  - Attributes/Features:
+    - Univariate, Bivariate, Multivariate  
+    - Nominal, Binary, Ordinal, Numeric  
+  - Central Tendency (Mean, Median, Mode), Dispersion
+
+#### 2️⃣ Capstone Course (C Language)
+- **Time:** 12:35 PM – 1:30 PM  
+- **Activity:** Quick revision of C programming concepts
+
+---
+
+### 🍽️ Recess
+- **Time:** 1:30 PM – 2:25 PM
+
+---
+
+#### 3️⃣ Applied Machine Learning (AML)
+- **Time:** 2:25 PM – 3:30 PM  
+- **Faculty:** NKP Sir  
+- **Topics Covered:**  
+  - Regression, Hyperparameters  
+  - Solving Linear Regression:
+    - Closed-form (Normal Equation)  
+    - Iterative (Gradient Descent: Batch, Stochastic, Mini-batch)  
+  - Dependent vs. Independent Variables  
+  - Regularization Techniques
+
+#### 4️⃣ Data Structures & Algorithms (DSA)
+- **Time:** 3:30 PM – 4:30 PM  
+- **Faculty:** Ankit Thakkar Sir  
+- **Topics Covered:**  
+  - Recurrence Relation Methods:
+    - Iteration Method (with examples)  
+    - Substitution Method (practiced examples)
+
+#### 5️⃣ Big Data Systems (BDS)
+- **Time:** 4:30 PM – 5:30 PM  
+- **Faculty:** JV Sir  
+- **Topics Covered:**  
+  - Introduction to **FPGA**  
+  - Big Data Tools:
+    - NoSQL, MapReduce  
+    - Storage: S3, HDFS, SDFS  
+    - Servers: EC2, Heroku  
+    - Processing: R, Yahoo Pipes
+
+---
+
+### ✅ Summary of the Day
+- Opened bank account for stipend  
+- Rich academic day with in-depth concepts in statistics, regression, and recurrence  
+- Introduced to real-world tools used in big data environments  
+
+
+----
+
+## 🗓️ Day 8 - August 8, 2025 (Friday)
+
+### 🌅 Pre-College Activity
+- Solved a DSA problem based on **Dynamic Programming**  
+- Debugged and improved **DSA Practical 1 (Sorting Algorithms)**
+
+---
+
+### 🧪 DSA Lab
+- **Time:** 11:30 AM – 1:30 PM  
+- **Faculty:** Ankit Thakkar Sir  
+- **Instructions Given:**  
+  - Use **bar charts** instead of line charts (since line charts are for continuous data)  
+  - Store **runtime results in a separate CSV file** to preserve data across sessions  
+  - Avoid printing large data in console output; better to save and analyze externally
+
+---
+
+### 📚 Data Science System Design (DSSD)
+- **Time:** 2:25 PM – 3:30 PM  
+- **Faculty:** Monika Shah Ma’am  
+- **Topics Covered:**  
+  - **"Lift" Metric in Data Science:**  
+    - `Lift = CTR(Target Group) / CTR(General Group)`  
+    - **Lift > 1:** Ad is effective  
+    - **Lift < 1:** Campaign is underperforming  
+    - Used in measuring targeting effectiveness in marketing analytics  
+  - **Steps in a DS Project:**
+    - Understand business objective  
+    - Define problem  
+    - Collect data  
+    - Prepare & clean data  
+    - Modeling & evaluation  
+    - Define success metrics (accuracy, precision, etc.)
+
+---
+
+### 📊 Statistics for Data Science
+- **Time:** 3:30 PM – 4:30 PM  
+- **Faculty:** Swati Jain Ma’am  
+- **Topics Covered:**  
+  - Visualization:
+    - Scatter plots, Dot plots, Stacked dotplots, Histograms  
+    - Histogram types: Unimodal, Bimodal, Multimodal, Uniform  
+  - Statistical concepts:
+    - Sample mean vs. Population mean  
+    - Skewness, Variance, Standard Deviation  
+    - Quartiles, Outliers, Whiskers, Median
+
+---
+
+### 📖 Library Work (Skipped ProgCode)
+- **Time:** 4:30 PM – 6:30 PM  
+- **Activity:**  
+  - Finalized **DSA Practical 1**:
+    - Added CSV storage for runtime data  
+    - Handled large input cases  
+    - Generated **PDF report** of sorting runtimes  
+
+---
+
+### ✅ Summary of the Day
+- Improved coding practices with persistent runtime tracking  
+- Learnt a key metric (*Lift*) in ad targeting analysis  
+- Continued in-depth coverage of statistics and visualization  
+- Productive solo work session in the library  
+
+---
