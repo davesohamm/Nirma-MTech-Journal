@@ -488,3 +488,64 @@
 - Productive solo work session in the library  
 
 ---
+
+## 🗓️ Day 11 - August 11, 2025 (Monday)
+
+### 🌅 Pre-College Activity
+- Solved **2 DSA problems** on LeetCode
+
+---
+
+### 📚 Big Data Systems
+- **Time:** 11:40 AM – 12:35 PM  
+- **Faculty:** JV Sir  
+- **Topics Covered:**  
+  - Classification of digital data by **format, type, size, source**  
+  - Need for data classification  
+  - **Main 4 types:** Nominal, Ordinal, Interval, Ratio  
+  - **Data structures:** Structured, Semi-structured, Unstructured  
+- **Assignment:** Identify different types of data generated during shopping in a mall
+
+---
+
+### 🤖 Applied Machine Learning
+- **Time:** 12:35 PM – 1:30 PM  
+- **Faculty:** NKP Sir  
+- **Topics Covered:**  
+  - Regression basics & formula:  
+    - $\hat{y} = \theta^T X$ (vectorized form)  
+    - Hypothesis function: $h_\theta(x) = \theta^T x$  
+  - Training = finding parameters for best fit to training data  
+  - **Performance measures:**  
+    - RMSE (Root Mean Square Error) — sensitive to outliers  
+    - MSE formula: $\frac{1}{n} \sum_{i=1}^n (\hat{y_i} - y_i)^2$  
+  - Introduction to Gradient Descent:  
+    - Slope = gradient; descent = downhill movement  
+    - Update rule: $\theta := \theta - \eta \cdot G$  
+      - $\eta$ = learning rate (step size)
+
+---
+
+### 🖥️ Big Data Systems Lab
+- **Time:** 2:25 PM – 4:30 PM  
+- **Faculty:** JV Sir  
+- **Activity:**  
+  - Modified project document  
+  - Added justification of how selected datasets fit into **5Vs of Big Data**
+
+---
+
+### ⏳ Free Period
+- **Time:** 4:30 PM – 6:30 PM  
+- **Activity:**  
+  - Solved **6 DSA problems** on **string** manipulation
+
+---
+
+### ✅ Summary of the Day
+- Expanded knowledge of **data classification** and **data structures**  
+- Understood **linear regression math** and gradient descent fundamentals  
+- Progressed on **BDS lab documentation** with focus on 5Vs  
+- Strong practice session with multiple DSA problems  
+
+---
