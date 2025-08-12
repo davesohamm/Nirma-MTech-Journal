@@ -549,3 +549,60 @@
 - Strong practice session with multiple DSA problems  
 
 ---
+
+## 🗓️ Day 12 - August 12, 2025 (Tuesday)
+
+### 🌅 Pre-College Activity
+- Solved **1 DSA problem**
+- Wrote a farewell letter to **Het** (best friend) who is moving to Canada for higher studies
+
+---
+
+### 📚 Big Data Systems
+- **Time:** 11:40 AM – 12:30 PM  
+- **Faculty:** JV Sir  
+- **Topics Covered:**  
+  - **Characteristics of Big Data** from multiple perspectives:
+    - **Gartner (Douglas Laney):** 3Vs  
+    - **IBM (Zikopoulos):** 4Vs  
+    - **Yuri Demchenko:** 5Vs  
+    - **Oracle Hyperion FM:** 5Vs  
+    - **Microsoft:** 6Vs  
+
+---
+
+### 🧠 Data Science System Design (DSSD)
+- **Time:** 12:30 PM – 1:30 PM  
+- **Faculty:** Monika Shah Ma’am  
+- **Topics Covered:**  
+  - Recap of **System Design Pipeline**  
+  - Example case: *Reducing monthly customer churn for a subscription service*  
+  - Formula for **Model Lift on Target Group**:  
+    - `Lift = Churn rate in prediction model (selected group) / Churn rate in random group`
+
+---
+
+### ☕ Recess
+- **Time:** 1:30 PM – 2:25 PM  
+
+---
+
+### ✈️ Personal Activity
+- Skipped **NASSCOM Center Industry Visit** at GIFT City, Gandhinagar  
+- Left for airport to see off **Het**  
+  - Printed **2 photographs** as a farewell souvenir  
+  - Reached airport around **4:00 PM**  
+  - Spent time with Het and his parents until departure  
+  - Left airport at **6:45 PM** for home  
+
+---
+
+### ✅ Summary of the Day
+- Learnt various **Big Data characteristics** from multiple industry definitions  
+- Understood a **practical churn reduction example** in system design  
+- Spent quality time bidding farewell to a close friend before his journey abroad  
+
+---
+
+
+
