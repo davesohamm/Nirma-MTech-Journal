@@ -604,5 +604,73 @@
 
 ---
 
+## 🗓️ Day 13 - August 13, 2025 (Wednesday)
+
+### 🌅 Pre-College Activity
+- Solved **6 DSA problems** on LeetCode
+
+---
+
+### 🖥️ Data Science System Design Lab
+- **Time:** 11:40 AM – 1:30 PM  
+- **Faculty:** Monika Shah Ma’am  
+- **Topics Covered:**  
+  - Overview of **MongoDB** commands & query structure  
+  - How to configure MongoDB for a **Flask project**  
+  - Next lab task:  
+    - Create a Flask server  
+    - Perform **CRUD operations** using MongoDB  
+- **References:**  
+  - [MongoDB CRUD Manual](https://www.mongodb.com/docs/manual/crud/)  
+  - [Flask + MongoDB CRUD Guide](https://obikastanya.medium.com/flask-mongodb-complete-crud-guide-step-by-step-8dc7b27787bf)  
+
+---
+
+### 🍴 Recess
+- **Time:** 1:30 PM – 2:25 PM  
+
+---
+
+### 🤖 Applied Machine Learning
+- **Time:** 2:25 PM – 3:35 PM  
+- **Faculty:** NKP Sir  
+- **Topics Covered:**  
+  - In-depth **Gradient Descent** overview  
+  - Derived formula:  
+    $$ \frac{\partial MSE}{\partial \theta} = \frac{2}{m} X^T (X\theta - y) $$  
+  - Key note: For **n features**, model parameters = **n+1**  
+
+---
+
+### 📊 DSA
+- **Time:** 3:35 PM – 4:15 PM  
+- **Faculty:** Ankit Thakkar Sir  
+- **Topics Covered:**  
+  - **Change of Variable** method for recurrence relations  
+  - **Recursion Tree** method  
+  - Multiple example problems solved in class  
+
+---
+
+### 🧪 Applied Machine Learning Lab
+- **Time:** 4:30 PM – 6:20 PM  
+- **Faculty:** NKP Sir  
+- **Activity:**  
+  - Practical exercises on **NumPy**, **Pandas**, and **Matplotlib**  
+  - Created `.ipynb` notebooks for submission by next lab  
+  - Slowly getting comfortable with **NumPy** commands  
+  - Plan: Complete assignment by weekend  
+
+---
+
+### ✅ Summary of the Day
+- Learned MongoDB setup & CRUD workflow for Flask integration  
+- Understood gradient descent formula derivation & parameter calculation  
+- Practiced recurrence relation solving methods in DSA  
+- Hands-on progress in Python data science libraries  
+
+---
+
+
 
 
