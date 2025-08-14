@@ -671,6 +671,85 @@
 
 ---
 
+## 🗓️ Day 14 - August 14, 2025 (Thursday)
+
+### 🌅 Pre-College Activity
+- Solved **8 DSA problems** on LeetCode
+
+---
+
+### 📈 Statistics
+- **Time:** 11:40 AM – 12:35 PM  
+- **Faculty:** Swati Ma’am  
+- **Topics Covered:**  
+  - **Median** & **IQR** more robust to skewness/outliers than **Mean** & **SD**  
+  - **Categorical data** concepts  
+  - **Contingency table** — summarizing two categorical variables  
+  - Difference between **bar plots** and **histograms**  
+  - Benefits of **mosaic bar plots**  
+  - Case study: **Gender discrimination in job promotions** (48 candidates) using hypothesis testing  
+  - Simulated experiment:  
+    - Face cards (3 removed) → promoted  
+    - Number cards (1 removed) → not promoted  
+
+---
+
+### 💻 Capstone Course (C Language Revision)
+- **Time:** 12:35 PM – 1:30 PM  
+- **Topics Covered:**  
+  - Functions: declaration, definition, and call  
+  - Function call stack  
+  - Difference between **call by value** and **call by reference**
+
+---
+
+### 🍴 Recess
+- **Time:** 1:30 PM – 2:25 PM  
+
+---
+
+### 🇮🇳 Tiranga Yatra
+- **Time:** 2:25 PM – 3:30 PM  
+- **Activity:** Independence Day celebration march organized by college  
+
+---
+
+### 📊 DSA
+- **Time:** 3:30 PM – 4:30 PM  
+- **Faculty:** Ankit Thakkar Sir  
+- **Topics Covered:**  
+  - **Master Theorem** for recurrence relations & regularity condition  
+  - 3 cases of Master Theorem with formulas  
+  - Example problems solved in class  
+  - Semester evaluation process explained  
+  - **Term paper requirement:**  
+    - Survey of ≥ 20 research papers  
+    - Analysis of an algorithm outside syllabus  
+    - Include time complexities of various algorithms  
+
+---
+
+### 🖥️ Big Data Systems
+- **Time:** 4:30 PM – 5:30 PM  
+- **Faculty:** JV Sir  
+- **Topics Covered:**  
+  - **8 steps** of Big Data Analytics Cycle  
+  - Types of analytics: Descriptive, Diagnostic, Predictive, Prescriptive  
+  - OLTP, OLAP, RTAP  
+  - Visualization tools: Tableau, QlikView, Pentaho, Spotfire  
+  - Spark: Spark SQL, Spark Streaming, MLlib, GraphX  
+  - Data ingestion tools: Logstash, Kafka, Loggly, Sqoop, Flume  
+  - YARN, HDFS, MapReduce, Pig, Hive, HBase, Storm, Slider  
+  - NoSQL databases: CouchDB, Redis, Cassandra, MongoDB, HBase  
+
+---
+
+### 📚 Library
+- **Time:** 5:30 PM – 6:20 PM  
+- **Activity:** Self-study during free period  
+
+---
+
 
 
 
