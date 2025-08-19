@@ -750,6 +750,138 @@
 
 ---
 
+## 🗓️ Day 18 - August 18, 2025 (Monday)
+
+### 🌅 Pre-College Activity
+- Solved **1 DSA problem** on LeetCode  
+- Collected **passbook** from the bank branch  
+
+---
+
+### 🎤 Guest Lecture
+- **Time:** 11:00 AM – 12:30 PM  
+- **Title of the Talk:** *Industrial Internet of Things Applications Using AI/ML*  
+- **Expert:** Mr. Dhananjay Vyas  
+  - BE Electrical and Electronics Engineering  
+  - Managing Director, Garima System Solutions Pvt. Ltd.  
+
+---
+
+### 🤖 Applied Machine Learning
+- **Time:** 12:30 PM – 1:30 PM  
+- **Faculty:** NKP Sir  
+- **Topics Covered:**  
+  - **Steps of Batch Gradient Descent Algorithm:**  
+    1. Select the dataset  
+    2. Split into **X (features)** and **y (labels)**  
+    3. Gradient Descent method:  
+       - Initialize θ (thetas = features + 1), using zeros/ones/random values  
+       - Compute gradient vector:  
+         \[
+         \text{Gradient} = \frac{2}{m} X^T (X\theta - y)
+         \]  
+       - Update rule:  
+         \[
+         \theta_{\text{new}} = \theta_{\text{old}} - \eta \cdot \text{Gradient}
+         \]  
+       - Repeat until **convergence** (gradient ≈ 0)  
+    4. Test the model → performance measure: **Error** (e.g., MSE, ME)  
+    5. Validate  
+  - **Stochastic Gradient Descent (SGD):**  
+    - Learns in a randomized manner  
+    - Differs from batch GD (which is sequential and can introduce bias)  
+
+---
+
+### 🍴 Recess
+- **Time:** 1:30 PM – 2:25 PM  
+
+---
+
+### 📊 Big Data Systems Lab
+- **Time:** 2:25 PM – 4:15 PM  
+- **Faculty:** JV Sir (proxy faculty present)  
+- **Activity:** Continued working on **AML assignment**  
+
+---
+
+### 📚 Library
+- **Time:** 4:15 PM – 6:30 PM  
+- **Activity:** Worked further on **AML assignment**  
+
+---
+
+## 🗓️ Day 19 - August 19, 2025 (Tuesday)
+
+### 🌅 Pre-College Activity
+- Solved **1 DSA problem** on LeetCode  
+- Worked on **AML assignment**  
+
+---
+
+### 📊 Big Data Systems
+- **Time:** 11:40 AM – 12:30 PM  
+- **Faculty:** JV Sir (Lecture was free)  
+
+---
+
+### 🖥️ Data Science System Design
+- **Time:** 12:30 PM – 1:30 PM  
+- **Faculty:** Proxy by Gaurang Raval Sir (Monika Shah Ma’am absent)  
+- **Topics Covered:**  
+  - **REST API** basics: CRUD operations (**GET, PUT, POST, DELETE**)  
+  - **GraphQL (in depth):**  
+    - Open-source data query language for APIs  
+    - Server-side runtime, alternative to REST  
+    - In single query, can fulfill all user requests  
+    - REST requires multiple endpoints for multiple requests  
+    - More efficient for mobile apps  
+    - Two types of data structures: **Scalar** and **Object**  
+    - Two types of schemas: **Queries** and **Mutations**  
+
+---
+
+### 🍴 Recess
+- **Time:** 1:30 PM – 2:25 PM  
+
+---
+
+### 📘 DSA
+- **Time:** 2:25 PM – 3:30 PM  
+- **Faculty:** Ankit Thakkar Sir  
+- **Topics Covered:**  
+  - Started new chapter: **Sorting Algorithms**  
+  - Concepts: **Internal vs. External sorting**, **In-place vs. Stable sorting**  
+  - Detailed explanation of **Insertion Sort** with time complexity analysis  
+
+---
+
+### 📊 Statistics
+- **Time:** 3:30 PM – 4:15 PM  
+- **Faculty:** Swati Jain Ma’am  
+- **New Chapter:** **Probability**  
+- **Topics Discussed:**  
+  - Random processes  
+  - Frequentist interpretation  
+  - Bayesian interpretation  
+  - Law of large numbers  
+  - Gambler’s fallacy  
+  - Disjoint vs. Non-disjoint outcomes  
+  - Probability distribution  
+  - Sample space & Complementary events  
+  - Independent vs. Dependent events  
+
+---
+
+### 🧪 Statistics Lab
+- **Time:** 4:30 PM – 6:20 PM  
+- **Activity:**  
+  - Extracted insights from **numerical data** (Happiness Index `.xlsx`)  
+  - Used histograms to study: **left skewed, right skewed**, mean, median, etc.  
+  - Completed **numerical data** task  
+  - **Categorical data task** is still pending  
+
+---
 
 
 
