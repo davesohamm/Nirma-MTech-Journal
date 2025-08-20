@@ -883,5 +883,68 @@
 
 ---
 
+## 🗓️ Day 20 - August 20, 2025 (Wednesday)
+
+### 🌅 Pre-College Activity
+- Solved **1 DSA problem** on LeetCode  
+- Completed **DSSD Practical 1**: Domain selection & case study key findings  
+  - 📄 [Fraud Detection Case Study](https://github.com/davesohamm/Nirma-Practical/blob/main/DSSD/DSSD_Case_Study_Fraud_Detection.pdf)  
+
+---
+
+### 🖥️ Data Science System Design Lab
+- **Time:** 11:40 AM – 1:30 PM  
+- **Activity:**  
+  - Read 📖 [Flask + MongoDB Guide](https://www.mongodb.com/developer/languages/python/flask-python-mongodb/)  
+  - Plan for next lab: Connect MongoDB to Flask app & build **CRUD APIs (GET, PUT, POST, DELETE)**  
+  - Submitted **5 Machine Learning practicals** (uploaded via Google Form)  
+
+---
+
+### 🍴 Recess
+- **Time:** 1:30 PM – 2:25 PM  
+
+---
+
+### 🤖 Applied Machine Learning
+- **Time:** 2:25 PM – 3:20 PM  
+- **Faculty:** NKP Sir  
+- **Topics Covered:**  
+  - **Feature Scaling**:  
+    - Min-Max Scaler formula  
+    - Standard Scaler formula  
+  - **Gradient Descent Variants:**  
+    - Batch Gradient Descent  
+    - Stochastic Gradient Descent  
+    - Mini-batch Gradient Descent  
+
+---
+
+### 📘 DSA
+- **Time:** 3:20 PM – 4:15 PM  
+- **Faculty:** Ankit Thakkar Sir  
+- **Topics Covered:**  
+  - **Bubble Sort:**  
+    - Pass-wise explanation  
+    - Time Complexity: ~O(n²)  
+    - Comparisons ≈ n²/2  
+    - Exchanges ≈ n²/2  
+  - **Selection Sort:**  
+    - Time Complexity: ~O(n²)  
+    - Comparisons ≈ n²/2  
+    - Exchanges ≈ n  
+
+---
+
+### 🧪 Applied Machine Learning Lab
+- **Time:** 4:30 PM – 6:20 PM  
+- **Activity:**  
+  - Implemented **Batch Gradient Descent** for Linear Regression  
+  - Split dataset into **training & testing** sets  
+  - Calculated **Mean Squared Error (MSE)** for both sets  
+  - Practiced practical coding steps for regression analysis  
+
+---
+
 
 
