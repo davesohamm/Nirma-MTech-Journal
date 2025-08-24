@@ -946,5 +946,149 @@
 
 ---
 
+## 🗓️ Day 21 - August 21, 2025 (Thursday)
+
+### 🌅 Pre-College Activity
+- Solved **1 DSA problem** on LeetCode  
+
+---
+
+### 📊 Statistics
+- **Time:** 11:40 AM – 12:35 PM  
+- **Faculty:** Swati Jain Ma’am  
+- **Topics Covered:**  
+  - **Conditional Probability**: derived formula and worked through an example (breast cancer screening)  
+  - **Bayes’ Theorem**: general formula derivation  
+  - **Random Variable**: defined as a numeric quantity whose value depends on random events  
+
+---
+
+### 🏗️ Capstone Course
+- **Time:** 12:35 PM – 1:30 PM  
+- **Topic:** Object-Oriented Programming (OOP) concepts  
+
+---
+
+### 🍴 Recess
+- **Time:** 1:30 PM – 2:25 PM  
+
+---
+
+### 📘 Applied Machine Learning
+- **Time:** 2:25 PM – 3:30 PM  
+- **Faculty:** NKP Sir  
+- **Topics Covered:**  
+  - **Normal Equation (Closed Form Equation):**  
+    - Derived formula:  
+      \[
+      \hat{\theta} = (X^T X)^{-1} X^T y
+      \]  
+  - **Bias-Variance Tradeoff**  
+  - **Regularized Linear Models:**  
+    - Ridge Regression  
+    - Lasso Regression  
+    - Elastic Net Regression  
+
+---
+
+### 📗 DSA
+- **Time:** 3:30 PM – 4:15 PM  
+- **Faculty:** Ankit Thakkar Sir  
+- **Topics Covered:**  
+  - **In-place Sorting**: sorting with constant space regardless of input size  
+  - Started **Divide & Conquer** chapter:  
+    - Introduction to **Merge Sort Algorithm**  
+    - **Time Complexity Analysis**  
+
+---
+
+### 💻 Big Data Systems
+- **Time:** 4:30 PM – 5:25 PM  
+- **Faculty:** JV Sir  
+- **Activity:**  
+  - Showcased his **post-doctoral projects** and ongoing research at Nirma University  
+  - Students must select **one project** as the **Innovative Assignment Project** for this subject  
+
+---
+
+## 🗓️ Day 22 - August 22, 2025 (Friday)
+
+### 🌅 Pre-College Activity
+- Solved **1 DSA problem** on LeetCode  
+- Revised the **DSA Sorting Algorithms Practical** thoroughly for submission  
+
+---
+
+### 📊 Statistics
+- **Time:** 11:40 AM – 12:35 PM  
+- **Faculty:** Swati Jain Ma’am  
+- **Topics Covered:**  
+  - **Random Variables:**  
+    - Discrete & Continuous Random Variables  
+    - **Average Outcome (μ):** derived formula for mean of a random variable  
+    - **Variability (Variance):** derived formula and explained significance  
+    - Solved examples on probability of various events  
+  - **Continuous Distribution** concepts  
+  - Difference between **PDF (Probability Distribution Function)** and **CDF (Cumulative Distribution Function)**  
+
+---
+
+### 🖥️ System Design
+- **Time:** 12:35 PM – 1:30 PM  
+- **Faculty:** Gaurang Raval Sir  
+- **Topics Covered:**  
+
+#### 🔗 API Protocols
+- **REST (Representational State Transfer):** Uses HTTP methods (GET, POST, etc.) for resource-oriented communication.  
+- **Webhooks:** Server-side callbacks that send real-time data to a client endpoint.  
+- **GraphQL (Graph Query Language):** Client specifies the exact data needed, avoiding over-fetching.  
+- **SOAP (Simple Object Access Protocol):** XML-based protocol for structured information exchange.  
+- **EDA (Event-Driven Architecture):** Communication via publishing and subscribing to events.  
+- **EDI (Electronic Data Interchange):** Standard for exchanging business documents electronically.  
+- **WebSockets:** Full-duplex, real-time communication over a single TCP connection.  
+- **AMQP (Advanced Message Queuing Protocol):** Messaging protocol for reliable asynchronous communication.  
+- **MQTT (Message Queuing Telemetry Transport):** Lightweight protocol for IoT device communication.  
+- **gRPC (Google Remote Procedure Call):** High-performance RPC using Protocol Buffers.  
+- **SSE (Server-Sent Events):** One-way server-to-client real-time data streaming.  
+
+#### 🛠️ Other Concepts
+- Conventional vs. Remote Procedure Calls  
+- **Big-Endian vs. Little-Endian** representation of data  
+- **CBOR (Concise Binary Object Representation):** Compact, schema-based data serialization ([cbor.me](https://cbor.me) for visual representation)  
+
+#### 🗄️ Serialization Approaches
+- JSON + REST  
+- SOAP + WSDL (Web Services Description Language)  
+- Apache Thrift  
+- Apache Avro  
+- UBJSON (Universal Binary JSON)  
+- MessagePack  
+- FlatBuffers  
+- CBOR with CDDL-IoT (Concise Data Definition Language)  
+- Protocol Buffers (Protobuf) + gRPC  
+
+---
+
+### 🍴 Recess
+- **Time:** 1:30 PM – 2:25 PM  
+
+---
+
+### 📗 DSA Lab
+- **Time:** 2:25 PM – 4:15 PM  
+- **Faculty:** Ankit Thakkar Sir  
+- **Activities:**  
+  - No evaluation conducted today  
+  - Assigned new practical: **Internal & External Merge Sort**  
+  - Instructed to **add Quick Sort** implementation in Practical 1 and changes in the graph
+
+---
+
+### 🏃‍♂️ Early Leave
+- Skipped **ProgCode Lab** and left college early  
+
+---
+
+
 
 
