@@ -1089,6 +1089,108 @@
 
 ---
 
+## 🗓️ Day 25 - August 25, 2025 (Monday)
+
+---
+
+### 📊 Big Data Systems
+- **Time:** 11:40 AM – 12:35 PM  
+- **Faculty:** JV Sir  
+- **Topics Covered:**  
+
+#### 📖 Data Intensive Scientific Discovery (DISD)  
+- Concept of large-scale data-driven scientific breakthroughs.  
+
+#### 🏗️ History of Hadoop  
+- Apache **Nutch** → **Google File System (GFS)** → **MapReduce** → Nutch Distributed File System → **HDFS**  
+- Adoption by **Yahoo (1000-machine clusters)** → Evolution to **Hadoop 2, 3, 3.1**  
+- Contributions of **Doug Cutting**:  
+  - Created **Lucene** (search library)  
+  - Developed **Nutch** (search engine)  
+  - Named **Hadoop** (after his son’s toy elephant)  
+
+#### 📂 Google File System (GFS)  
+- Explained **features & design principles** of GFS.  
+
+#### 🌐 Hadoop Ecosystem Components  
+- **Sqoop:** Data transfer between Hadoop and relational databases.  
+- **Flume:** Collecting, aggregating, and moving large amounts of log data.  
+- **ZooKeeper:** Coordination and configuration management.  
+- **Oozie:** Workflow scheduler system for Hadoop jobs.  
+- **Pig:** High-level platform for creating MapReduce programs using a scripting language.  
+- **Hive:** Data warehouse tool for querying using SQL-like language (HiveQL).  
+- **Mahout:** Machine learning library for scalable algorithms.  
+- **R Connectors:** Interfaces to integrate R with Hadoop.  
+- **HDFS (Hadoop Distributed File System):** Storage layer of Hadoop.  
+- **YARN (Yet Another Resource Negotiator):** Cluster resource management.  
+- **HBase:** Non-relational, distributed database on top of HDFS.  
+
+---
+
+### 🤖 Applied Machine Learning
+- **Time:** 12:35 PM – 1:30 PM  
+- **Faculty:** NKP Sir  
+- **Topics Covered:**  
+
+#### 📐 Ridge Regression (L2 Penalty)  
+- **Cost Function:**  
+  \[
+  J(\theta) = \frac{1}{m} \sum_{i=1}^m (\hat{y}_i - y_i)^2 + \alpha \sum_{j=1}^n \theta_j^2
+  \]  
+- Regularization excludes **θ₀**.  
+- **Gradient Vector:**  
+  \[
+  \nabla J(\theta) = X^T(X\theta - y) + 2\alpha\theta
+  \]  
+- Also called **Tikhonov Regularization**.  
+
+#### 📏 Lasso Regression (L1 Penalty)  
+- **Cost Function:**  
+  \[
+  J(\theta) = \frac{1}{m} \sum_{i=1}^m (\hat{y}_i - y_i)^2 + \alpha \sum_{j=1}^n |\theta_j|
+  \]  
+- **Gradient Vector:**  
+  \[
+  \nabla J(\theta) = X^T(X\theta - y) + \alpha
+  \]  
+- **LASSO = Least Absolute Shrinkage and Selection Operator**.  
+
+#### ⚖️ Elastic Net (Combination of L1 + L2)  
+- **Cost Function:**  
+  \[
+  J(\theta) = \frac{1}{m} \sum_{i=1}^m (\hat{y}_i - y_i)^2 + r\alpha \sum_{j=1}^n |\theta_j| + \frac{(1-r)\alpha}{2} \sum_{j=1}^n \theta_j^2
+  \]  
+- **Gradient Vector:**  
+  \[
+  \nabla J(\theta) = X^T(X\theta - y) + r\alpha + (1-r)\alpha\theta
+  \]  
+- **Special Cases:**  
+  - If **r = 0 → Ridge Regression**  
+  - If **r = 1 → Lasso Regression**  
+
+---
+
+### 🍴 Recess
+- **Time:** 1:30 PM – 2:25 PM  
+
+---
+
+### 📗 Big Data Systems Lab
+- **Time:** 2:25 PM – 4:15 PM  
+- **Faculty:** JV Sir  
+- **Activities:**  
+  - Configured **Hadoop setup** after installing **Ubuntu** in Virtual Environment.  
+
+---
+
+### 📚 Library & Self-Study
+- **Time:** 4:15 PM – 5:30 PM  
+- **Activities:**  
+  - Solved **1 LeetCode problem**  
+  - Completed some **academic work**  
+
+---
+
 
 
 
