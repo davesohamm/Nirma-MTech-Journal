@@ -1191,6 +1191,138 @@
 
 ---
 
+## 🗓️ Day 26 - August 26, 2025 (Tuesday)
+
+---
+
+### 🌅 Pre-College Activity
+- Solved **1 DSA problem** on LeetCode  
+
+---
+
+### 📊 Big Data Systems
+- **Time:** 11:30 AM – 12:35 PM  
+- **Faculty:** JV Sir  
+- **Topics Covered:**  
+
+#### 🧩 Apache Hadoop Framework Modules
+- **Hadoop Common:** Shared utilities, libraries, and APIs needed by other Hadoop modules.  
+- **Hadoop Distributed File System (HDFS):** Reliable, distributed storage system for large data sets.  
+- **Hadoop YARN (Yet Another Resource Negotiator):** Cluster resource management and job scheduling.  
+- **Hadoop MapReduce:** Programming model for large-scale data processing.  
+
+#### 🏗️ HDFS Architecture
+- **NameNode:** Central master node that manages file system namespace and metadata.  
+- **Image (FsImage):** Persistent snapshot of the file system metadata stored by NameNode.  
+- **Journal:** Records all edits to the file system for recovery.  
+- **Checkpoints:** Periodic merging of FsImage and edit logs to reduce recovery time.  
+- **DataNodes:** Worker nodes that store actual data blocks and serve read/write requests.  
+- **CheckpointNode:** Performs periodic checkpoints by merging FsImage and edit logs.  
+- **BackupNode:** Acts as a hot standby, maintaining up-to-date copies of FsImage and edit logs.  
+
+#### ✍️ HDFS Write Pipeline
+- Data is written by client → sent to a pipeline of DataNodes → replicated across nodes for fault tolerance.  
+
+#### ⚡ Hadoop Versions
+- **Hadoop 1.x:** Introduced MapReduce v1 with limited scalability.  
+- **Hadoop 2.x:** Brought YARN for better resource management.  
+- **Hadoop 3.x:** Added erasure coding, improved fault tolerance, and scaling.  
+
+#### 🛡️ Erasure Coding
+- Technique to reduce storage overhead while maintaining fault tolerance.  
+- Breaks data into fragments and encodes them with redundancy codes.  
+- Provides same reliability as replication but uses less storage.  
+
+#### 📌 Assignment
+- Research on **Student Cluster Competition (SCC)**, held at **SC (Supercomputing) Conference** and **ISC High Performance Conference**, along with details of **recent winners**.  
+
+---
+
+### 🖥️ System Design
+- **Time:** 12:35 PM – 1:30 PM  
+- **Faculty:** Gaurang Raval Sir  
+- **Topics Covered:**  
+
+#### 📦 Data Format Comparison
+- **Space Efficiency:** Avro < Protobuf < Protobuf3 < Protobuf1 < Thrift < JSON < XML  
+- **Time Efficiency:** XML < JSON < Avro  
+
+#### 🔗 gRPC (Google Remote Procedure Call)  
+- Open-source version of **Stubby**.  
+- At Google, handles **10¹⁰ RPCs per second**.  
+- Google uses **50k+ Protobuf definitions**.  
+- **Protobuf is ~6x faster than JSON**.  
+- Latest gRPC uses **In-place Definition Language (IDL)**, **HTTP/2**, and **Protobuf v3**.  
+
+#### 📜 Protocol Buffers (Protobuf v3)  
+- Defined request and response syntax for efficient, language-neutral data serialization.  
+
+---
+
+### 🍴 Recess
+- **Time:** 1:30 PM – 2:25 PM  
+
+---
+
+### 📗 DSA
+- **Time:** 2:25 PM – 3:20 PM  
+- **Faculty:** Ankit Thakkar Sir  
+- **Topics Covered:**  
+  - Solved **3 sorting challenges** in class discussion.  
+  - Detailed explanation of **Quick Sort Algorithm**:  
+    - Partition-based recursive sorting.  
+    - **Time Complexity:**  
+      - Best Case: O(n log n)  
+      - Average Case: O(n log n)  
+      - Worst Case: O(n²)  
+
+---
+
+### 📊 Statistics
+- **Time:** 3:20 PM – 4:15 PM  
+- **Faculty:** Swati Jain Ma’am  
+- **Topics Covered:**  
+
+#### 📈 Normal Distribution  
+- Unimodal, symmetric, bell-shaped curve.  
+- Represented as **N(μ, σ)** where μ = mean, σ = standard deviation.  
+
+#### 📉 Z-Score & Z-Table  
+- **Formula:** z = (x – μ) / σ  
+- Z-score measures how many standard deviations a data point is from the mean.  
+- **Z-Table:** Provides probability values (area under the curve) corresponding to z-scores.  
+
+#### 🏭 Six Sigma  
+- Statistical approach for process improvement and reducing defects.  
+- Focuses on keeping outcomes within **±3σ** from the mean (99.73% data coverage).  
+
+#### 🔄 Examples  
+- Forward: Find probability given x, by converting to z-score.  
+- Reverse: Find x given z-score and probability from the table.  
+
+#### 📐 68-95-99.7 Rule  
+- 68% of data lies within 1σ, 95% within 2σ, 99.7% within 3σ of mean.  
+
+---
+
+### 🧪 Statistics Lab
+- **Time:** 4:30 PM – 6:20 PM  
+- **Faculty:** Swati Jain Ma’am  
+- **Activities:**  
+
+1. **Relative Grading Exercise**  
+   - Wrote program to scan marks of 200 students in P & S.  
+   - Assigned grades on **5-scale (A, B, C, D, F)** and **7-scale (A, B, C+, C, C-, D, F)** using **Gaussian Distribution fitting**.  
+
+2. **Bayes’ Theorem Exercise**  
+   - Implemented program to:  
+     - Scan k mutually exclusive events (E₁, E₂, …, Eₖ).  
+     - Take probabilities P(Ei) and conditional probabilities P(B|Ei).  
+     - Estimate posterior probabilities P(Ei|B) using **Bayes’ Theorem**.  
+
+---
+
+
 
 
 
