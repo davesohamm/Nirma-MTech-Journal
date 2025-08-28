@@ -1322,6 +1322,146 @@
 
 ---
 
+## 🗓️ Day 28 - August 28, 2025 (Thursday)
+
+---
+
+### 🌅 Pre-College Activity
+- Solved **1 problem on LeetCode**.  
+- Completed some **TA work** assigned by **JV Sir**.  
+
+---
+
+### 📊 Statistics
+- **Time:** 11:40 AM – 12:35 PM  
+- **Faculty:** Swati Jain Ma’am  
+- **Topics Covered:**  
+
+#### 🧪 Milgram Experiment
+- Famous psychological experiment on **obedience to authority**.  
+
+#### 🎲 Bernoulli Random Variable
+- Takes value **1 (success)** with probability *p* and **0 (failure)** with probability *(1-p)*.  
+
+#### 📉 Geometric Distribution
+- Describes **waiting time until the first success** for i.i.d. Bernoulli trials.  
+- **Key Properties:**  
+  - Independence → Outcomes of trials don’t affect each other.  
+  - Identical → Each trial has same probability of success *p*.  
+- **Formula:**  
+  \[
+  P(\text{success on } n^\text{th} \text{ trial}) = (1-p)^{n-1} \cdot p
+  \]  
+- **Mean (μ):** \( \frac{1}{p} \)  
+- **Standard Deviation (σ):** \( \sqrt{\frac{1-p}{p^2}} \)  
+
+#### 🎯 Binomial Distribution
+- Probability of getting exactly **k successes in n trials**.  
+- **Formula:**  
+  \[
+  P(X = k) = {n \choose k} p^k (1-p)^{n-k}
+  \]  
+- **Mean (μ):** \( np \)  
+- **Standard Deviation (σ):** \( \sqrt{np(1-p)} \)  
+- **Rule of Large Sample Size:** Both **expected successes (np)** and **expected failures (n(1-p))** ≥ 10.  
+
+---
+
+### 💻 Capstone Course – OOP
+- **Time:** 12:35 PM – 1:30 PM  
+- **Topics Covered:**  
+
+- **Class:** Blueprint for creating objects.  
+- **Object:** Instance of a class with state and behavior.  
+- **Inheritance:** Mechanism to acquire properties of another class.  
+- **Superclass / Subclass:** Parent class vs. derived class.  
+- **Interfaces:** Define contracts (methods) without implementation.  
+- **Abstract Class:** Cannot be instantiated, contains abstract methods.  
+- **Final Keyword:** Used to prevent inheritance, method overriding, or reassignment.  
+- **Object Class:** Superclass of all classes in Java.  
+- **Packages:** Namespace for grouping related classes and interfaces.  
+- **Exception Handling:** Mechanism to handle runtime errors gracefully.  
+- **Multithreaded Programming:** Running multiple threads (tasks) concurrently for efficiency.  
+
+---
+
+### 🍴 Recess
+- **Time:** 1:30 PM – 2:25 PM  
+
+---
+
+### 🤖 Applied Machine Learning
+- **Time:** 2:25 PM – 3:20 PM  
+- **Faculty:** NKP Sir  
+- **Topics Covered:**  
+
+#### 📂 Classification
+- **Binary Classification:** Two possible classes.  
+- **Multiclass Classification:** More than two possible classes.  
+- **Methods Discussed:** kNN, Naive Bayes, Random Forest, SVM, Decision Tree.  
+
+#### 📏 Distance Measures
+- **Euclidean Distance:**  
+  \[
+  d(p,q) = \sqrt{\sum_{i=1}^n (p_i - q_i)^2}
+  \]  
+- **Manhattan Distance:**  
+  \[
+  d(p,q) = \sum_{i=1}^n |p_i - q_i|
+  \]  
+
+#### 🔍 KNN (K-Nearest Neighbors)
+- Chooses class of majority among **k nearest neighbors**.  
+- **k** is chosen as odd → avoids tie in voting.  
+
+#### 📐 Cosine Similarity
+- Measures similarity between two vectors.  
+  \[
+  \cos(\theta) = \frac{A \cdot B}{||A|| \, ||B||}
+  \]  
+
+#### 📊 Naive Bayes Classifier
+- Based on **Bayes’ Theorem** with independence assumption.  
+- Types: Gaussian, Multinomial, Bernoulli.  
+- **Law of Large Numbers:** As trials increase, sample mean approaches expected mean.  
+- Covered **Joint and Conditional Probability** concepts.  
+
+---
+
+### 📗 DSA
+- **Time:** 3:20 PM – 4:15 PM  
+- **Faculty:** Ankit Thakkar Sir  
+- **Topics Covered:**  
+- Quick Sort Analysis:  
+  - Constant proportional split → \( \Theta(n \log n) \).  
+  - Skewed split (1:n-1) → \( \Theta(n^2) \).  
+- **Randomized Quick Sort:**  
+  - Random pivot selection reduces likelihood of worst-case.  
+  - Worst case still possible, but less frequent.  
+
+---
+
+### 📊 Big Data Systems
+- **Time:** 4:30 PM – 5:25 PM  
+- **Faculty:** JV Sir  
+- **Topics Covered:**  
+- **Hadoop Configuration & Linux Commands**  
+- Environment variables stored in **.bashrc**.  
+- **Sample Hadoop Commands:**  
+  - `hadoop fs -ls /` → List files in HDFS root.  
+  - `hadoop fs -put localfile.txt /hdfsdir/` → Upload file.  
+  - `hadoop fs -get /hdfsdir/file.txt localfile.txt` → Download file.  
+  - `hadoop fs -rm /hdfsdir/file.txt` → Remove file.  
+  - `hdfs dfsadmin -report` → Cluster health report.  
+
+---
+
+### 📚 Library & Self-Study
+- **Time:** 5:25 PM – 6:20 PM  
+- **Activities:**  
+  - Fine-tuned **DSA Sorting Algorithms Practical** for submission tomorrow.  
+
+---
 
 
 
