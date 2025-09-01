@@ -1463,6 +1463,123 @@
 
 ---
 
+## 🗓️ Day 29 - August 29, 2025 (Friday)
+
+---
+
+### 🌅 Pre-College Activity
+- Solved **1 problem on LeetCode**.  
+- Revised **DSA Lab Manual Practical – 1** and its algorithms.  
+
+---
+
+### 📗 DSA Lab
+- **Time:** 11:30 AM – 1:30 PM  
+- **Faculty:** Ankit Thakkar Sir  
+- **Activities:**  
+  - No submissions were taken today.  
+  - New Practical Instructions:  
+    - Write programs for **Internal Merge Sort** and **External Merge Sort**.  
+    - Write another practical for **Quick Sort** using:  
+      - Random Pivot  
+      - Median Pivot  
+      - First Element Pivot  
+      - Last Element Pivot  
+
+---
+
+### 🍴 Recess
+- **Time:** 1:30 PM – 2:25 PM  
+
+---
+
+### 🏗️ System Design
+- **Time:** 2:25 PM – 3:20 PM  
+- **Faculty:** Monika Shah Ma’am  
+- **Topics Covered:**  
+  - **RACI Matrix** – Responsibility Assignment Chart.  
+  - **Principles for Problem Definition in System Design Projects**.  
+  - **Problem Framing:**  
+    - A problem statement should be **SMART**:  
+      - Specific  
+      - Measurable  
+      - Achievable  
+      - Relevant  
+      - Timebound  
+  - **CRISP-DM Framework**: Steps to form a Data Science system design problem.  
+  - Steps to **publish a distributable solution**.  
+
+---
+
+### 📊 Statistics
+- **Time:** 3:20 PM – 4:15 PM  
+- **Faculty:** Swati Jain Ma’am  
+- **Topics Covered:**  
+
+#### 🔢 Continuous Distribution
+- Difference between **countable** and **measurable**.  
+- **Probability Density Function (PDF):** \( f(x) \)  
+- **Cumulative Distribution Function (CDF):** \( F(x) \)  
+  - \( CDF = \int f(x) dx \)  
+  - \( PDF = \frac{d}{dx} CDF \)  
+
+#### 📏 Mean & Variance
+- **Mean (Expected Value):**  
+  \[
+  \mu = \int_{-\infty}^{\infty} x f(x) \, dx
+  \]  
+- **Variance:**  
+  \[
+  \sigma^2 = \int_{-\infty}^{\infty} x^2 f(x) \, dx - \mu^2
+  \]  
+- Solved examples on above concepts.  
+
+#### 🎲 Continuous Uniform Distribution
+- **Formula:**  
+  \[
+  f(x) = \frac{1}{b-a}, \quad a \leq x \leq b
+  \]  
+- **Mean (μ):** \( \frac{a+b}{2} \)  
+- **Variance (σ²):** \( \frac{(b-a)^2}{12} \)  
+- **CDF:**  
+  \[
+  F(x) = \frac{x-a}{b-a}
+  \]  
+
+#### 🔔 Normal (Gaussian) Distribution
+- **Formula:**  
+  \[
+  f(x) = \frac{1}{\sqrt{2\pi\sigma^2}} e^{-\frac{(x-\mu)^2}{2\sigma^2}}
+  \]  
+- **Standard Normal Variable:**  
+  - \( \mu = 0, \sigma^2 = 1 \).  
+  - CDF denoted by \( \Phi(x) \).  
+- Differentiating between **CDF** and **PDF** in real-life contexts.  
+
+---
+
+### 🛑 ProgCode Lab
+- **Time:** 4:30 PM onwards  
+- Scheduled but **skipped** today.  
+- Everyone went home early.  
+
+---
+
+### 🌙 Evening Reflection
+- Planned to study in the library, but felt low.  
+- Roamed around college, stood in the **3rd floor gallery** (silent, almost empty).  
+- Later sat in the **1st floor canteen area**, missing her deeply because there was no one to talk to.  
+- On the way home at 6 PM:  
+  - Ate **spicy boiled sweet corn** in the rain.  
+  - Sat at the nearest bus station, thinking about her. ❤️  
+- Excited to meet her this weekend for her **birthday celebration**! 🎉  
+
+---
+
+## 📌 End of August Journals
+✨ Thank you for staying consistent throughout the month! ✨  
+
+
 
 
 
