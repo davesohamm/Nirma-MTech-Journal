@@ -2,7 +2,7 @@
 **University:** Nirma University  
 **Program:** M.Tech in Data Science  
 **Month** September 
-Click here to read [August Journal](https://github.com/davesohamm/Nirma-MTech-Journal/blob/main/August/README.md)
+**Click here to read** [August Journal](https://github.com/davesohamm/Nirma-MTech-Journal/blob/main/August/README.md)
 
 ---
 
@@ -73,3 +73,4 @@ Click here to read [August Journal](https://github.com/davesohamm/Nirma-MTech-Jo
 ### 💭 Personal Note
 Today is **her birthday**! 🎂❤️❤️  
 *Happy Birthday!! Miss youuu* 🥰  
+
