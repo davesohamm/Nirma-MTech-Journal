@@ -75,4 +75,73 @@
 Today is **her birthday**! 🎂❤️❤️  
 *Happy Birthday!! Miss youuu* 🥰  
 
+---
+
+## 🗓️ Day 30 - September 2, 2025 (Tuesday)
+
+---
+
+### 🌅 Pre-College Activity
+- Solved **1 DSA problem** before leaving for college.  
+
+---
+
+### 📚 Lectures
+
+#### 🖥️ Big Data Systems (11:40 AM – 12:35 PM) – *JV Sir*
+- Discussed **Pig** and **Hive**: their advantages, disadvantages, similarities, and differences with **Impala**.  
+- Introduced **Apache Derby** and its usefulness in **edge computing**.  
+- Explained **Sqoop** – a CLI tool for transferring data between relational databases and Hadoop.  
+- Talked about **Flume** and its role in collecting and aggregating log/event data.  
+- Discussed **Hue** (Hadoop User Experience) and **Zookeeper**.  
+- Guided us on writing the **term paper** for Big Data Systems subject.  
+
+#### 🧮 Data Science System Design (12:35 PM – 1:30 PM) – *Monika Shah Ma’am*
+- Topic: **Machine Learning Project Life Cycle**.  
+- Explained the process of **framing a data science problem** in two perspectives, with step-by-step methods.  
+- Highlighted **similarities and differences** between the approaches.  
+
+---
+
+### ☕ Recess (1:30 PM – 2:25 PM)
+
+---
+
+### 🔢 DSA (2:25 PM – 3:20 PM) – *Ankit Sir*
+- Topic: **Quick Sort Algorithm**.  
+- Explained Quick Sort with **last element as pivot** and analyzed its **time complexity**.  
+- Introduced **Randomized Quick Sort** and **Lomuto’s Partition Method**.  
+- Derived formula for the **expected value of total comparisons** in all partition calls:  
+  - Used variable \( Z_i \), where \( Z_i \) is the *i-th smallest element*.  
+
+#### 📊 Statistics (3:20 PM – 4:15 PM) – *Swati Jain Ma’am*
+- Topics Covered:  
+  - **Negative Binomial Distribution** – derived formulas for mean (\(\mu\)) and variance (\(\sigma^2\)).  
+  - **Hypergeometric Distribution** –  
+    \[
+    f(x) = \frac{\binom{K}{x} \binom{N-K}{n-x}}{\binom{N}{n}}
+    \]  
+    where \(x = \max(0, n+K-N) \dots \min(K, n)\).  
+    Derived mean and variance formulas.  
+  - **Poisson Distribution** – derived formula.  
+  - **Normal Approximation** to the **Binomial** and **Poisson** distributions.  
+- Summarization on **when to use which distribution**:  
+  - **Binomial**: when trials are fixed and outcomes are success/failure.  
+  - **Negative Binomial**: when counting failures until a fixed number of successes.  
+  - **Geometric**: when counting trials until the first success.  
+  - **Hypergeometric**: when sampling *without replacement*.  
+  - **Poisson**: when counting rare events in a fixed time/space.  
+  - **Normal**: when data is continuous and approximately bell-shaped.  
+
+---
+
+### 🧪 Statistics Lab (4:30 PM – 6:20 PM) – *Swati Jain Ma’am*
+- Installed **Tableau** and created an account.  
+- Assignment: Build a **useful and beautiful dashboard** from the **Zomato dataset (Kaggle)**.  
+- Focus on identifying useful attributes and applying **clever visualization techniques**.  
+
+---
+
+
+
 
