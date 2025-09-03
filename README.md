@@ -142,6 +142,65 @@ Today is **her birthday**! 🎂❤️❤️
 
 ---
 
+## 🗓️ Day 31 - September 3, 2025 (Wednesday)
+
+---
+
+### 🌅 Pre-College Activity
+- Solved **1 DSA problem**.  
+- Studied **Simple & Multiple Linear Regression** with Batch GD, Stochastic GD, and Mini-batch GD.  
+  - Reference: [Notes on Regression & Gradient Descent](https://drive.google.com/file/d/1eqr3VNnlTMQwXQbunsTdKL19DWlK8Fgn/view?usp=drive_link)  
+- Completed pending **AML Lab work**.  
+
+---
+
+### 📚 Labs & Lectures
+
+#### 🧮 Data Science System Design Lab (11:40 AM – 1:30 PM)
+- Implemented **Flask** and **HTTP Request Client/Server** practicals.  
+- Files available here: [DSSD REST Practical](https://github.com/davesohamm/Nirma-Practical/tree/main/DSSD/REST%20Practical)  
+
+---
+
+### ☕ Recess (1:30 PM – 2:25 PM)
+
+---
+
+#### 🤖 Applied Machine Learning (2:25 PM – 3:20 PM) – *NKP Sir*
+- Solved an **example of Naive Bayes Classification** using the formula.  
+- Discussed **Zero Probability Problem** and its solution using **Laplace Smoothing**.  
+- Formula:  
+  \[
+  P_{lap,k} = \frac{c(x,y) + k}{c(y) + k|X|}
+  \]  
+  - If \(0 < k < 1\): *Sandpaper Smoothing*.  
+  - If \(k = 1\): *Laplacian Smoothing*.  
+
+---
+
+#### 🔢 DSA (3:30 PM – 4:15 PM) – *Ankit Sir*
+- Started with **Greedy Algorithm**.  
+  - **Definition**: A greedy algorithm builds up a solution piece by piece, always choosing the option that offers the most immediate benefit (locally optimal choice) with the hope of reaching a global optimum.  
+- Discussed classical greedy problems:  
+  - **Coin Change Problem**  
+  - **Job Scheduling**  
+  - **Huffman Encoding & Huffman Tree**  
+  - **Minimum Spanning Tree (MST)**  
+  - **Travelling Salesman Problem (TSP)**  
+
+---
+
+#### 🧪 Applied Machine Learning Lab (4:30 PM – 6:20 PM)
+- Instructions to perform **Regularization Methods** in gradient descent:  
+  - **Lasso Regression**  
+  - **Ridge Regression**  
+  - **Elastic Net**  
+- Introduction to **scikit-learn (sklearn)** library.  
+- Implemented regression techniques using **sklearn methods** and compared results with normal regression outputs.  
+
+---
+
+
 
 
 
