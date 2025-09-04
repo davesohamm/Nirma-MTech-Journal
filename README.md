@@ -200,6 +200,86 @@ Today is **her birthday**! 🎂❤️❤️
 
 ---
 
+## 🗓️ Day 32 - September 4, 2025 (Thursday)
+
+---
+
+### 🌅 Pre-College Activity
+- Solved **4 LeetCode problems** before college.  
+
+---
+
+### 📚 Lectures
+
+#### 📊 Statistics (11:40 AM – 12:35 PM) – *Swati Jain Ma’am*
+- Announced **sessional syllabus**: up to *Central Limit Theorem* and *Confidence Intervals*.  
+- Taught **approximation formula for z-score** and solved **2–3 examples** using z-table and normal distribution.  
+- **Point Estimation**: A reasonable value of a population parameter.  
+  - \( \bar{x} \) and \( s^2 \) are *statistics* with their own *sampling distributions*.  
+  - \( \hat{\theta} \) and \( \Theta^{\wedge} \) → point estimators.  
+- Relationships between parameters and statistics:  
+  - \(\mu \leftrightarrow \bar{x}\)  
+  - \(\sigma^2 \leftrightarrow s^2\)  
+  - \(\sigma \leftrightarrow s\)  
+  - \(p \leftrightarrow \hat{p}\)  
+  - \(\mu_1 - \mu_2 \leftrightarrow \bar{x}_1 - \bar{x}_2\)  
+  - \(p_1 - p_2 \leftrightarrow \hat{p}_1 - \hat{p}_2\)  
+
+#### 💡 Capstone Course (12:35 PM – 1:30 PM)
+- Discussed **problem-solving process steps**.  
+- Covered algorithms and paradigms:  
+  - **Kadane’s Algorithm**  
+  - **Dynamic Programming** (memoization & tabularization)  
+  - **Greedy**  
+  - **Divide & Conquer**  
+- Introduction to **C++ Templates**:  
+  - Function Templates  
+  - Class Templates  
+  - Custom Templates  
+
+---
+
+### ☕ Recess (1:30 PM – 2:25 PM)
+
+---
+
+#### 🤖 Applied Machine Learning (2:25 PM – 3:20 PM) – *NKP Sir*
+- Taught **Multinomial Naive Bayes Classifier**:  
+  \[
+  P_{\alpha}(t_i|C)
+  \]  
+  where \(C\) = class, \(t_i\) = term.  
+- Explained **\(P(d_j|C)\)** for documents under class.  
+- Covered **Multivariate Bernoulli Naive Bayes Classifier** and derived its formula.  
+- Solved a practical example on **spam vs ham email classification**.  
+
+#### 🔢 DSA (3:20 PM – 4:15 PM) – *Ankit Sir*
+- **Analysis of Greedy Algorithms**:  
+  - Make Change: \(O(n)\)  
+  - Huffman: \(O(n \log n) + O(n)\)  
+  - MST: \(O(n \log n)\), worst case \(O(n^2)\) (where \(n\) = nodes)  
+- Explained **Activity Selection Problem** – \(O(n)\).  
+- Covered **Disjoint Sets** & **Connected Components** – \(O(V+E)\).  
+
+#### 🖥️ Big Data Systems (4:30 PM – 5:20 PM) – *JV Sir*
+- Topic: **MapReduce Programming Model**.  
+- Concepts covered:  
+  - Mappers, Reducers, Intermediate Outputs, Shuffling, and Final Results.  
+  - Map Function, Reduce Function, Key–Value Pairs.  
+  - Tree-style Network Topology.  
+  - Hadoop as the open-source implementation of MapReduce.  
+- Explained full workflow:  
+  **Input → Splitting → Mapping → Shuffling → Reducing → Final Results**.  
+
+---
+
+### 📖 Self-Study (5:20 PM – 6:20 PM)
+- Free lecture → Spent time in the **library**.  
+- Solved **3 more LeetCode problems**.  
+
+---
+
+
 
 
 
