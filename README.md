@@ -279,6 +279,58 @@ Today is **her birthday**! 🎂❤️❤️
 
 ---
 
+## 🗓️ Day 33 - September 5, 2025 (Friday)
+
+---
+
+### 🌅 Pre-College Activity
+- Solved **1 LeetCode problem**.  
+- Completed **Internal & External Merge Sort Algorithm Practical**.  
+
+---
+
+### 📚 Labs & Lectures
+
+#### 🔢 DSA Lab (11:40 AM – 1:30 PM) – *Ankit Sir*
+- Instructions to write **term papers**.  
+- Introduction to **IEEE Conference Paper Format**.  
+- Explained next practical on **Quick Sort**.  
+- Performed practical:  
+  - Implemented Quick Sort in **4 ways**:  
+    1. First element as pivot  
+    2. Last element as pivot  
+    3. Random element as pivot  
+    4. Median indexed element as pivot  
+  - Compared results for input sizes: **10k, 50k, 100k arrays**.  
+
+---
+
+### ☕ Recess (1:30 PM – 2:25 PM)
+
+---
+
+#### 🧮 System Design (2:25 PM – 4:15 PM) – *Monika Shah Ma’am*  
+*(Combined class due to Swati Ma’am’s absence)*  
+- Topics Covered:  
+  - Using **proxy labels** in ML models.  
+  - **ETL Pipeline** and its components.  
+  - **System Design Overview**: scope, requirements, system parameters.  
+  - Key parameters: **Scalability, Performance, Availability, Reliability**.  
+  - Also discussed: **Durability, Vertical vs Horizontal Scaling, MTTF/MTTR, Cache Tier, Content Delivery Network (CDN)**.  
+
+---
+
+### 📖 Free Lecture (4:30 PM – 6:20 PM)
+- **ProgCode class was skipped**.  
+- Sat in the **library**.  
+- Read the book **“Tarkash” by Javed Akhtar** in one sitting.  
+  - The poem *“Woh Kamra Bohot Yaad Hai”* touched my heart deeply.  
+  - Enjoyed many small **shayaris**, such as:  
+    > *अपनी वजहे-बरबादी सुनिये तो मज़े की है  
+    ज़िंदगी से यूँ खेले जैसे दूसरे की है...*  
+
+---
+
 
 
 
