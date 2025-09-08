@@ -331,6 +331,74 @@ Today is **her birthday**! 🎂❤️❤️
 
 ---
 
+## 🗓️ Day 34 - September 8, 2025 (Monday)
+
+---
+
+### 🌅 Pre-College Activity
+- Solved **1 LeetCode problem**.  
+- Revised **term paper work** from yesterday.  
+- Downloaded **4 IEEE research papers** using institute Wi-Fi access (for term paper reference).  
+
+---
+
+### 📚 Lectures
+
+#### 🖥️ Big Data Systems (11:40 AM – 12:35 PM) – *JV Sir*
+- Continued **MapReduce concepts**:  
+  - **Combiner functions**.  
+  - Comparison of MapReduce with traditional models (communication, synchronization, hardware support, message passing, etc.).  
+- Explained **Hadoop High-Level Architecture**.  
+- **MRv1 vs MRv2** comparison.  
+- Problems with Hadoop 1.0:  
+  - Limited scalability  
+  - Availability issues  
+  - Resource utilization problems  
+  - Limitation in running non-MapReduce applications  
+- **Job Tracker vs Resource Manager** → differences & similarities.  
+- **Task Tracker vs Node Manager** → differences & similarities.  
+- Why **YARN** was needed → in-depth explanation.  
+- Started **YARN** topic:  
+  - Resource Manager  
+  - Node Manager  
+  - Containers  
+  - Application Master  
+  - Explicit explanation of **launch container function**.  
+
+#### 🤖 Applied Machine Learning (12:35 PM – 1:30 PM) – *NKP Sir*
+- Topic: **Gaussian Naive Bayes Classifier**.  
+- Formula derived:  
+  \[
+  P(x_k|C_i) = \frac{1}{\sqrt{2 \pi \sigma_{x/C_i}^2}} \, e^{-\frac{(x_k - \mu_{x/C_i})^2}{2\sigma_{x/C_i}^2}}
+  \]  
+- Solved an example on Gaussian Naive Bayes.  
+- Explained:  
+  - In **Regression** → error used as performance measure.  
+  - In **Classification** → accuracy used, but can fail with **skewed datasets** (dumb classifier problem).  
+  - Solution: use **Confusion Matrix** → True Positive, True Negative, False Positive, False Negative.  
+- Announced that **Precision & Recall** will be covered in the next lecture.  
+
+---
+
+### ☕ Recess (1:30 PM – 2:25 PM)
+
+---
+
+#### 🧪 Big Data Systems Lab (2:25 PM – 4:15 PM) – *JV Sir*
+- Practiced **Hadoop commands**.  
+- Prepared one **documentation file**.  
+- Helped peers debug **Hadoop installation issues** and command errors.  
+
+---
+
+### 📖 Self-Study (4:30 PM – 6:20 PM)
+- No lecture scheduled.  
+- Sat in the **library**.  
+- Studied **AML theories & formulas** for upcoming **sessional exams (starting 17th Sept)**.  
+
+---
+
+
 
 
 
