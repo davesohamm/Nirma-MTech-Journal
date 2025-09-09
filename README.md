@@ -469,11 +469,12 @@ Today is **her birthday**! 🎂❤️❤️
 ---
 
 ### 📖 Self-Study (4:30 PM – 6:20 PM)
-- **Statistics Lab** was rescheduled (in place of Saturday ProgCode Lab).  
+- **Statistics Lab** was rescheduled (in place of Friday ProgCode Lab).  
 - Utilized the time in **library**.  
 - Solved **2 LeetCode problems on Binary Search**.  
 
 ---
+
 
 
 
