@@ -398,6 +398,85 @@ Today is **her birthday**! 🎂❤️❤️
 
 ---
 
+## 🗓️ Day 35 - September 9, 2025 (Tuesday)
+
+---
+
+### 🌅 Pre-College Activity
+- Solved **3 LeetCode problems** before college.  
+
+---
+
+### 📚 Lectures
+
+#### 🖥️ Big Data Systems (11:40 AM – 12:35 PM) – *JV Sir*
+- Taught **complete MapReduce pipeline** for word count program.  
+- Started **Fault Tolerance**: explained consequences of failures in different components:  
+  - Container / Task  
+  - Application Master  
+  - NodeManager  
+  - Resource Manager  
+- Importance of **MapReduce**:  
+  - In traditional parallel programming → programmer handles multithreading, locks, semaphores, and hardware failures.  
+  - In MapReduce → these complexities are handled by the framework.  
+- Explained **MapReduce framework responsibilities**.  
+- Full **execution pipeline**:  
+  `Driver → Input Data → Mapper → Shuffle & Sort → Reducer → Combiners → Distributed Cache`.  
+
+---
+
+#### 📊 Data Science System Design (12:35 PM – 1:30 PM) – *Monika Shah Ma’am*
+- Covered **Machine Learning Project Lifecycle**.  
+- Explained **core concepts of system design**:  
+  - Abstraction  
+  - Modularity  
+  - Decomposition  
+  - Interface  
+- Discussed **key trade-offs**:  
+  - Latency vs Throughput  
+  - Consistency vs Availability  
+  - Cost vs Performance  
+  - Scalability vs Complexity  
+
+---
+
+### ☕ Recess (1:30 PM – 2:25 PM)
+
+---
+
+#### 📘 Data Structures & Algorithms (2:25 PM – 3:30 PM) – *Ankit Thakkar Sir*
+- Started **Minimum Spanning Tree (MST)**.  
+- Explained **Kruskal’s Algorithm** with full **time complexity derivation**.  
+- Solved an **example of MST using Kruskal’s Algorithm**.  
+- Covered **make-set, find-set, and union-set functions** in Kruskal’s implementation.  
+
+---
+
+#### 📐 Statistics (3:30 PM – 4:15 PM) – *Swati Jain Ma’am*
+- Topic: **Parameter Estimation**.  
+- Started **Central Limit Theorem (CLT)**:  
+  - Explained required conditions.  
+  - Derived formula:  
+    \[
+    Z = \frac{\bar{X} - \mu}{\sigma / \sqrt{n}}
+    \]  
+    where \(\bar{X}\) = sample mean, \(\mu\) = population mean, and \(\sigma / \sqrt{n}\) = sample standard deviation.  
+- Explained **Moments & k-th Moment**:  
+  - At \(k=1\), moment = \(\mu\).  
+- Introduced **Moment Estimators**.  
+- Gave a **brief idea about Confidence Intervals** using an example.  
+
+---
+
+### 📖 Self-Study (4:30 PM – 6:20 PM)
+- **Statistics Lab** was rescheduled (in place of Saturday ProgCode Lab).  
+- Utilized the time in **library**.  
+- Solved **2 LeetCode problems on Binary Search**.  
+
+---
+
+
+
 
 
 
