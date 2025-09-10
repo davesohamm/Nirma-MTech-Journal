@@ -475,6 +475,59 @@ Today is **her birthday**! 🎂❤️❤️
 
 ---
 
+## 🗓️ Day 36 - September 10, 2025 (Wednesday)
+
+---
+
+### 🌅 Pre-College Activity
+- Solved **4 LeetCode problems** before college.  
+
+---
+
+### 📚 Labs & Lectures
+
+#### 🖥️ Data Science System Design Lab (11:40 AM – 1:30 PM) – *Monika Shah Ma’am*
+- Modified the **previous Flask REST API practical** to work with **local data**.  
+- Performed **CRUD operations** on the modified API.  
+- Instructed to perform **GraphQL practical**.  
+
+**GraphQL Benefits over REST API:**  
+- **Single Endpoint:** Fetches all required data in one request instead of multiple REST endpoints.  
+- **Flexible Queries:** Clients can request exactly the data they need, reducing over-fetching and under-fetching.  
+- **Strongly Typed Schema:** Provides better validation and auto-documentation compared to REST APIs.  
+
+---
+
+### ☕ Recess (1:30 PM – 2:25 PM)
+
+---
+
+#### 📊 Applied Machine Learning (2:25 PM – 3:20 PM) – *NKP Sir*
+- Topics covered:  
+  - **Precision** = \( \frac{TP}{TP + FP} \)  
+  - **Recall / True Positive Rate / Sensitivity** = \( \frac{TP}{TP + FN} \)  
+  - **F1 Score** = \( \frac{2 \times Precision \times Recall}{Precision + Recall} \)  
+  - **Beta Score** – extended version of F1 score to emphasize recall or precision.  
+- Solved an **example problem** on all these formulas.  
+- Introduced **Multiclass Confusion Matrix**.  
+- Explained **ROC Curve** and its significance.  
+
+---
+
+#### 📘 Data Structures & Algorithms (3:20 PM – 4:15 PM) – *Ankit Sir*
+- Taught **Prim’s Algorithm**:  
+  - Root node is defined by the **user**.  
+  - Uses **Priority Queue**.  
+  - **Extract-Min** function extracts node with **minimum key value**.  
+  - MST result depends on the **chosen root node**.  
+- Solved **one example step-by-step** for Prim’s Algorithm.  
+- Explained **Time Complexity**:  
+  - \( O(V \log V) + O(E \log V) \) which simplifies to **\( O(E \log V) \)** for a connected graph.  
+
+---
+
+
+
 
 
 
