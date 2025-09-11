@@ -526,6 +526,69 @@ Today is **her birthday**! 🎂❤️❤️
 
 ---
 
+## 🗓️ Day 37 - September 11, 2025 (Thursday)
+
+---
+
+### 🌅 Pre-College Activity
+- Solved **1 LeetCode problem**.  
+- Was **sleep deprived and unwell** today, woke up late.  
+- **Skipped Statistics Lecture (11:40 – 12:35)** by Swati Jain Ma’am.  
+
+---
+
+### 📚 Labs & Lectures
+
+#### 💻 Capstone Lecture (12:35 PM – 1:30 PM) – *NKP Sir*
+- **Data Structures Revision Session**:  
+  - Explained **primitive & non-primitive**, **linear & non-linear**, **static & dynamic** data structures.  
+  - Covered **Array, Stack, Queue, Tree, Graph, BST, Linked List** and their variants.  
+  - Explained **Serialization** of data structures.  
+
+---
+
+### ☕ Recess (1:30 PM – 2:25 PM)
+
+---
+
+#### 📊 Applied Machine Learning (2:25 PM – 3:20 PM) – *NKP Sir*
+- **Evaluation Methodologies**:  
+  - **Holdout Method:** Splitting dataset into training & testing sets once.  
+  - **Random Subsampling:** Repeatedly splitting data randomly into train-test to average results.  
+  - **Cross-Validation:**  
+    - **k-Fold:** Split data into k parts, train on k-1, test on 1, repeat.  
+    - **Leave-One-Out:** Extreme k-fold where k = number of samples.  
+    - **Stratified:** Ensures class proportions are maintained across splits.  
+- Explained **.632 Bootstrap** and derived its **accuracy formula**.  
+- Started **Decision Tree Topic**: briefly explained **ID3**, **C4.5**, and **CART**.  
+
+---
+
+#### 📘 Data Structures & Algorithms (3:20 PM – 4:15 PM) – *Ankit Sir*
+- Taught **Approximations for Hard Problems**.  
+- Explained **MST Approximation** techniques.  
+- Started **Knapsack Problem**:  
+  - Two variants: **0-1 Knapsack** and **Fractional Knapsack**.  
+  - Solved **examples for both** variants.  
+  - Explained **time complexity** of Knapsack algorithms.  
+
+---
+
+#### 🗄️ Big Data Systems (4:30 PM – 5:25 PM) – *JV Sir*
+- Explained **HDFS Hello World pipeline**:  
+  - **hdfshelloworld.java → hdfshelloworld.jar → MapReduce Execution**.  
+- Demonstrated **complete MapReduce pipeline** step-by-step using **Word Count program**.  
+- Covered **all commands** for execution in detail.  
+
+---
+
+### 📝 Free Lecture (5:25 PM – 6:30 PM)
+- Met college friend **Karan** in the canteen after his **Bangalore business trip**.  
+- Discussed **startup culture, relationships, college life, friends**, and more.  
+- One thought-provoking takeaway from him today: **“Ready, Fire, Aim” rule** – act first, refine later.  
+
+---
+
 
 
 
