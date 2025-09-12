@@ -589,6 +589,58 @@ Today is **her birthday**! 🎂❤️❤️
 
 ---
 
+## 🗓️ Day 39 - September 12, 2025 (Friday)
+
+---
+
+### 🌅 Pre-College Activity
+- Solved **1 LeetCode problem**.  
+- Completed **DSA practicals** for **Merge Sort** and **Quick Sort** and made **reports** for both.  
+
+---
+
+### 📚 Labs & Lectures
+
+#### 💻 DSA Lab (11:40 AM – 1:30 PM) – *Ankit Sir*
+- Sir took **evaluation for all 3 DSA practicals**.  
+- I didn’t receive very good reviews, which highlighted that I need to **work harder on DSA practicals**, **analyze outputs precisely**, and **document them properly**.  
+
+---
+
+### ☕ Recess (1:30 PM – 2:25 PM)
+
+---
+
+#### 🖥️ Data Science System Design (2:25 PM – 3:30 PM) – *Monika Shah Ma’am*
+- **Scalability Approaches**:  
+  - **Load Balancing:** Nginx, HAProxy, AWS ELB, Google Cloud.  
+  - **Caching:** Cloudflare CDN, Redis, Memcached.  
+  - **Database Sharding**.  
+  - **Asynchronous Processing:** RabbitMQ, Kafka, Celery.  
+- **Reliability Strategies:** Redundancy, Replication, Monitoring & Alerting, Testing.  
+- **Availability:**  
+  - Formula = **MTVF / (MTBF + MTTR)**.  
+  - Factors affecting availability and strategies to improve it.  
+- **Message Queues:**  
+  - **Definition:** A system that enables asynchronous communication between services by holding and delivering messages between producers and consumers.  
+  - **Benefits:** Asynchronous processing, Load Balancing, Decoupling.  
+  - **Applications:** RabbitMQ, Apache Kafka, Amazon SQS, Redis Streams.  
+
+---
+
+#### 🗄️ Big Data Systems (3:30 PM – 4:15 PM) – *JV Sir (Proxy for Swati Ma’am)*
+- Guided us further on the **term paper innovation assignment**.  
+- Asked about our **progress so far** and gave **valuable insights** on our projects.  
+
+---
+
+#### 📊 Statistics Lab (4:30 PM – 6:20 PM) – *Swati Ma’am*
+- Created **Zomato Analysis Dashboard** in **Tableau**.  
+- Read **DSA PPTs** for upcoming exams.  
+
+---
+
+
 
 
 
