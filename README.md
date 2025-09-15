@@ -640,6 +640,65 @@ Today is **her birthday**! 🎂❤️❤️
 
 ---
 
+## 🗓️ Day 40 - September 15, 2025 (Monday)
+
+---
+
+### 🌅 Pre-College Activity
+- Solved **1 LeetCode problem**.  
+- Read **Data Science System Design course PPTs** for exam preparation.  
+
+---
+
+### 📚 Labs & Lectures
+
+#### 🗄️ Big Data Systems (11:40 AM – 12:35 PM) – *JV Sir*
+- Taught **applications of Big Data and Hadoop** in sectors like **retail, telecom, social networking sites**.  
+- **Python frameworks for Hadoop:** Hadoop Streaming (best for text processing), MRJob, Dumbo, Hadoopy, Pydoop.  
+- **Hadoop Streaming (in-depth):**  
+  - A utility included with Hadoop distribution.  
+  - Allows creating and running MapReduce jobs with any executable or script as the **mapper** and/or **reducer**.  
+  - Example: **mapper.py**, **reducer.py**.  
+- Demonstrated **Python Word Count** programs using **mapper.py** and **reducer.py**.  
+
+---
+
+#### 🧠 Applied Machine Learning (12:35 PM – 1:30 PM) – *Avantika Ma’am (Proxy for NKP Sir)*
+- Started **Decision Trees**:  
+  - A tree structure to represent sequences of **decisions** and **consequences**.  
+- **Attribute Selection:**  
+  - Uses **entropy-based methods** to choose the most informative attribute.  
+  - **Entropy Formula:**  
+    - If outcome variable X takes m distinct values:  
+      **H(X) = -Σ (Pi * log₂ Pi)** where **Pi = P(X = xi)**.  
+- **Information Gain Formula:**  
+  - **IG(S,A) = Entropy(S) - Σ (|Sv|/|S| * Entropy(Sv))**.  
+- **ID3 Algorithm:**  
+  - Selects the attribute with the **highest information gain** at each node.  
+  - Stops when:  
+    - All instances belong to the same class.  
+    - No remaining attributes.  
+    - Dataset is empty.  
+
+---
+
+### ☕ Recess (1:30 PM – 2:25 PM)
+
+---
+
+#### 💻 Big Data Systems Lab (2:25 PM – 4:15 PM) – *JV Sir*
+- Performed **Word Count** Python **mapper.py** and **reducer.py** programs in **Hadoop MapReduce**.  
+- [🔗 View my file here](https://drive.google.com/file/d/1hQvpczn86MV7j7RTguky9f49d7C1YpP7/view).  
+
+---
+
+#### 📖 Free Lecture (4:30 PM – 6:20 PM)
+- Sat in the library and **read Chapter 1 of Applied Machine Learning** for exam preparation.  
+
+---
+
+
+
 
 
 
