@@ -697,6 +697,59 @@ Today is **her birthday**! 🎂❤️❤️
 
 ---
 
+## 🗓️ Day 41 - September 16, 2025 (Tuesday)
+
+---
+
+### 🌅 Pre-College Activity
+- Solved **1 LeetCode problem**.  
+- Read **Machine Learning exam numerical methods**.  
+
+---
+
+### 📚 Labs & Lectures
+
+#### 🗄️ Big Data Systems (11:40 AM – 12:35 PM) – *JV Sir*
+- Due to **tomorrow’s exams** and low attendance, Sir **didn’t teach anything new**.  
+- We **revised ML and DSA exam theories** during the lecture time.  
+
+---
+
+#### 🖥️ Data Science System Design (12:35 PM – 1:30 PM) – *Monika Shah Ma’am*
+- Explained **exam pattern** and **types of questions** we can expect.  
+- Then allowed us to **read exam theories**.  
+
+---
+
+### ☕ Recess (1:30 PM – 2:25 PM)
+
+---
+
+#### 💻 DSA (2:25 PM – 3:30 PM) – *Ankit Sir*
+- Taught **Dijkstra’s Algorithm** and **Connecting Wire Algorithm**.  
+- Gave **exam preparation tips** and then allowed us to read.  
+
+---
+
+#### 📊 Statistics (3:30 PM – 4:20 PM) – *Swati Jain Ma’am*
+- Solved a couple of **numericals** from the syllabus.  
+- Then allowed us to **prepare by ourselves** for the exams.  
+
+---
+
+#### 🧮 Statistics Lab (4:30 PM – 6:20 PM) – *Swati Jain Ma’am*
+- Free lab session to **prepare for exams**.  
+- Completed **ML theories** and **almost completed DSA subject**.  
+
+---
+
+### 📝 End of the Day
+- Plan to **brush up knowledge at home** and perform well in **tomorrow’s exams**!  
+
+---
+
+
+
 
 
 
