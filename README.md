@@ -761,8 +761,8 @@ Today is **her birthday**! 🎂❤️❤️
 ### 📝 Sessional Examinations – Semester 1 (Day 1)
 
 #### 📚 DSA Paper (11:30 AM – 1:30 PM) – *50 Marks*
-- **Paper:** [DSA_SE_Q](https://github.com/davesohamm/Nirma-Papers/DSA_SE_Q.pdf)  
-- **Answers:** [DSA_SE_Ans](https://github.com/davesohamm/Nirma-Papers/DSA_SE_Ans.pdf)  
+- **Paper:** [DSA Sessional Exam Paper - 2025](https://github.com/davesohamm/Nirma-Papers/blob/main/DSA_SE_Q.pdf)  
+- **Answers:** [DSA Sessional Exam Answer Key 2025](https://github.com/davesohamm/Nirma-Papers/blob/main/DSA_SE_Ans.pdf)  
 - **My Experience:**  
   - Paper went **good overall**.  
   - Made **some silly mistakes** in **algorithm time complexity analysis**.  
@@ -775,8 +775,8 @@ Today is **her birthday**! 🎂❤️❤️
 ---
 
 #### 🤖 Applied Machine Learning Paper (3:30 PM – 5:30 PM) – *50 Marks*
-- **Paper:** [AML_SE_Q](https://github.com/davesohamm/Nirma-Papers/AML_SE_Q.pdf)  
-- **Answers:** [AML_SE_Ans](https://github.com/davesohamm/Nirma-Papers/AML_SE_Ans.pdf)  
+- **Paper:** [AML Sessional Exam Paper - 2025](https://github.com/davesohamm/Nirma-Papers/blob/main/AML_SE_Q.pdf)  
+- **Answers:** [AML Sessional Exam Answer Key 2025](https://github.com/davesohamm/Nirma-Papers/blob/main/AML_SE_Ans.pdf)  
 - **My Experience:**  
   - Exam was **very good overall**.  
   - Made a **logical mistake** in the last question’s **method** due to lack of practice.  
@@ -789,6 +789,7 @@ Today is **her birthday**! 🎂❤️❤️
 - Need to brush up weak areas like **algorithm time complexity analysis** and **practice AML methods** before next exams.  
 
 ---
+
 
 
 
