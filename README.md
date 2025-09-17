@@ -748,6 +748,50 @@ Today is **her birthday**! 🎂❤️❤️
 
 ---
 
+## 🗓️ Day 42 - September 17, 2025 (Wednesday)
+
+---
+
+### 🌅 Pre-College Activity
+- Solved **1 LeetCode problem**.  
+- Continued **exam preparation** for sessionals.  
+
+---
+
+### 📝 Sessional Examinations – Semester 1 (Day 1)
+
+#### 📚 DSA Paper (11:30 AM – 1:30 PM) – *50 Marks*
+- **Paper:** [DSA_SE_Q](https://github.com/davesohamm/Nirma-Papers/DSA_SE_Q)  
+- **Answers:** [DSA_SE_Ans](https://github.com/davesohamm/Nirma-Papers/DSA_SE_Ans)  
+- **My Experience:**  
+  - Paper went **good overall**.  
+  - Made **some silly mistakes** in **algorithm time complexity analysis**.  
+  - Still **confident about performance**.  
+
+---
+
+#### ☕ Break / Preparation Gap (1:30 PM – 3:30 PM)
+
+---
+
+#### 🤖 Applied Machine Learning Paper (3:30 PM – 5:30 PM) – *50 Marks*
+- **Paper:** [AML_SE_Q](https://github.com/davesohamm/Nirma-Papers/AML_SE_Q)  
+- **Answers:** [AML_SE_Ans](https://github.com/davesohamm/Nirma-Papers/AML_SE_Ans)  
+- **My Experience:**  
+  - Exam was **very good overall**.  
+  - Made a **logical mistake** in the last question’s **method** due to lack of practice.  
+  - Otherwise, the paper was **smooth and clear**.  
+
+---
+
+### 🎯 End of the Day
+- **First day of sessionals completed successfully!**  
+- Need to brush up weak areas like **algorithm time complexity analysis** and **practice AML methods** before next exams.  
+
+---
+
+
+
 
 
 
