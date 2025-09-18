@@ -776,7 +776,7 @@ Today is **her birthday**! 🎂❤️❤️
 
 #### 🤖 Applied Machine Learning Paper (3:30 PM – 5:30 PM) – *50 Marks*
 - **Paper:** [AML Sessional Exam Paper - 2025](https://github.com/davesohamm/Nirma-Papers/blob/main/AML_SE_Q.pdf)  
-- **Answers:** [AML Sessional Exam Answer Key 2025](https://github.com/davesohamm/Nirma-Papers/blob/main/AML_SE_Ans.pdf)  
+- **Answers:** [AML Sessional Exam Answer Key - 2025](https://github.com/davesohamm/Nirma-Papers/blob/main/AML_SE_Ans.pdf)  
 - **My Experience:**  
   - Exam was **very good overall**.  
   - Made a **logical mistake** in the last question’s **method** due to lack of practice.  
@@ -803,8 +803,8 @@ Today is **her birthday**! 🎂❤️❤️
 ### 📝 Sessional Examinations – Semester 1 (Day 2)
 
 #### 💻 Big Data Systems Paper (11:30 AM – 1:30 PM) – *50 Marks*
-- **Paper:** [BDS_SE_Q.pdf](https://github.com/davesohamm/Nirma-Papers/blob/main/BDS_SE_Q.pdf)  
-- **Answers:** [BDS_SE_Ans.pdf](https://github.com/davesohamm/Nirma-Papers/blob/main/BDS_SE_Ans.pdf)  
+- **Paper:** [BDS Sessional Exam Paper - 2025](https://github.com/davesohamm/Nirma-Papers/blob/main/BDS_SE_Q.pdf)  
+- **Answers:** [BDS Sessional Exam Answer Key - 2025](https://github.com/davesohamm/Nirma-Papers/blob/main/BDS_SE_Ans.pdf)  
 - **My Experience:**  
   - Paper was **a bit lengthy**.  
   - But overall **smooth and went well**.  
@@ -816,8 +816,8 @@ Today is **her birthday**! 🎂❤️❤️
 ---
 
 #### 📊 Data Science System Design Paper (3:30 PM – 5:30 PM)
-- **Paper:** [DSSD_SE_Q.pdf](https://github.com/davesohamm/Nirma-Papers/blob/main/DSSD_SE_Q.pdf)  
-- **Answers:** [DSSD_SE_Ans.pdf](https://github.com/davesohamm/Nirma-Papers/blob/main/DSSD_SE_Ans.pdf)  
+- **Paper:** [DSSD Sessional Exam Paper - 2025](https://github.com/davesohamm/Nirma-Papers/blob/main/DSSD_SE_Q.pdf)  
+- **Answers:** [DSSD Sessional Exam Answer Key - 2025](https://github.com/davesohamm/Nirma-Papers/blob/main/DSSD_SE_Ans.pdf)  
 - **My Experience:**  
   - Paper was **also a bit lengthy**, but **very good overall**.  
   - Went **smoothly** and I was able to attempt almost everything.  
@@ -829,6 +829,7 @@ Today is **her birthday**! 🎂❤️❤️
 - Feeling more confident as exams progress.  
 
 ---
+
 
 
 
