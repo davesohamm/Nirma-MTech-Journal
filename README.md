@@ -790,6 +790,48 @@ Today is **her birthday**! 🎂❤️❤️
 
 ---
 
+## 🗓️ Day 43 - September 18, 2025 (Thursday)
+
+---
+
+### 🌅 Pre-College Activity
+- Solved **1 LeetCode problem**.  
+- Continued **Big Data Systems revision** for the sessional exams.  
+
+---
+
+### 📝 Sessional Examinations – Semester 1 (Day 2)
+
+#### 💻 Big Data Systems Paper (11:30 AM – 1:30 PM) – *50 Marks*
+- **Paper:** [BDS_SE_Q.pdf](https://github.com/davesohamm/Nirma-Papers/blob/main/BDS_SE_Q.pdf)  
+- **Answers:** [BDS_SE_Ans.pdf](https://github.com/davesohamm/Nirma-Papers/blob/main/BDS_SE_Ans.pdf)  
+- **My Experience:**  
+  - Paper was **a bit lengthy**.  
+  - But overall **smooth and went well**.  
+
+---
+
+#### ☕ Break / Preparation Gap (1:30 PM – 3:30 PM)
+
+---
+
+#### 📊 Data Science System Design Paper (3:30 PM – 5:30 PM)
+- **Paper:** [DSSD_SE_Q.pdf](https://github.com/davesohamm/Nirma-Papers/blob/main/DSSD_SE_Q.pdf)  
+- **Answers:** [DSSD_SE_Ans.pdf](https://github.com/davesohamm/Nirma-Papers/blob/main/DSSD_SE_Ans.pdf)  
+- **My Experience:**  
+  - Paper was **also a bit lengthy**, but **very good overall**.  
+  - Went **smoothly** and I was able to attempt almost everything.  
+
+---
+
+### 🎯 End of the Day
+- **Second day of sessionals completed successfully!**  
+- Feeling more confident as exams progress.  
+
+---
+
+
+
 
 
 
