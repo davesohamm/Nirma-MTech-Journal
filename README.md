@@ -830,6 +830,36 @@ Today is **her birthday**! 🎂❤️❤️
 
 ---
 
+## 🗓️ Day 44 - September 19, 2025 (Friday)
+
+---
+
+### 🌅 Pre-College Activity
+- Solved **1 LeetCode problem**.  
+- Revised all **Statistics formulas** for the exam.  
+
+---
+
+### 📝 Sessional Examinations – Semester 1 (Day 3)
+
+#### 📊 Statistics for Data Science Exam (11:30 AM – 1:30 PM) – *50 Marks*
+- **Paper:** [SDS_SE_Q.pdf](https://github.com/davesohamm/Nirma-Papers/blob/main/SDS_SE_Q.pdf)  
+- **Answers:** [SDS_SE_Ans.pdf](https://github.com/davesohamm/Nirma-Papers/blob/main/SDS_SE_Ans.pdf)  
+
+**My Experience:**  
+- Paper was **a bit lengthy**.  
+- Might have made a mistake in **drawing box plots**, but overall the paper went **good**.  
+
+---
+
+### 🎉 End of the Day
+- **Sessional exams are finally over...**  
+- Looking forward to playing **Garba with her, tonight! 🥰❤️**.  
+
+---
+
+
+
 
 
 
