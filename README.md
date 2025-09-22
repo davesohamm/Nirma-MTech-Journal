@@ -858,6 +858,36 @@ Today is **her birthday**! 🎂❤️❤️
 
 ---
 
+## 🗓️ Day 45 - September 22, 2025 (Monday)
+
+---
+
+### 🌅 Pre-College Activity
+- Did **1 LeetCode problem** while staying at home.  
+
+---
+
+### 🤒 Health Update
+- **Did not go to college today** because of feeling very sick.  
+- Symptoms: **stomach ache, headache, and fever**.  
+- Focused on resting and trying to recover.  
+
+---
+
+### 📚 Academic Work from Home
+- **Big Data Systems (JV Sir):**  
+  - LMS portal updated for **BDS Lab Work Submission**.  
+  - Uploaded my files in the designated place for **Practical 1** and **Practical 2**.  
+
+---
+
+### 🛌 Rest & Recovery
+- Took time to **rest, recover, and regain energy** for upcoming classes.  
+
+---
+
+
+
 
 
 
