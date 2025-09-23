@@ -886,6 +886,91 @@ Today is **her birthday**! 🎂❤️❤️
 
 ---
 
+## 🗓️ Day 46 - September 23, 2025 (Tuesday)
+
+---
+
+### 🌅 Pre-College Activity
+- Completed **3 LeetCode problems**.  
+- Read about **Regex in Python** (planning to study deeply later):  
+  [Regex Simplified Using Python](https://freedium.cfd/https://medium.com/pythoneers/regex-simplified-using-python-c31ecb106629)
+
+---
+
+### 📚 College Schedule & Learnings
+
+#### 🕚 11:40 – 12:35 Big Data Systems (JV Sir)
+- **Topic:** Hive  
+  - **History, Architecture, Theory, Implementation & Use Cases**.  
+  - **Hive Query Language**: DDL, DML, DQL, TCL, DCL.  
+    - **DDL:** Data Definition Language (create, alter, drop). Example: `CREATE TABLE student (...)`.  
+    - **DML:** Data Manipulation Language (insert, update). Example: `INSERT INTO student VALUES (...)`.  
+    - **DQL:** Data Query Language (select). Example: `SELECT * FROM student;`.  
+    - **TCL:** Transaction Control Language (commit, rollback). Example: `COMMIT;`.  
+    - **DCL:** Data Control Language (grant, revoke). Example: `GRANT SELECT ON student TO user;`.  
+  - **Drop vs Delete vs Truncate (very short):**  
+    - Drop: removes entire table.  
+    - Delete: removes rows based on condition.  
+    - Truncate: removes all rows but keeps structure.  
+  - **Managed vs External Table:**  
+    - Managed: Hive controls data + metadata. Dropping deletes data.  
+      Example: `CREATE TABLE managed_table (id INT);`  
+    - External: Hive only manages metadata, data stays in HDFS. Dropping does not delete data.  
+      Example: `CREATE EXTERNAL TABLE external_table (id INT) LOCATION '/path/';`  
+  - **Static vs Dynamic Partition:**  
+    - Static: Partition values specified manually.  
+      Example: `INSERT INTO table PARTITION (year=2025) VALUES (...);`  
+    - Dynamic: Hive decides partition at runtime based on data.  
+      Example: `SET hive.exec.dynamic.partition.mode=nonstrict;`  
+  - **Buckets & Aggregations:** MIN, MAX, AVG, SUM, COUNT.  
+  - **GROUP BY** and **HAVING** explained.  
+  - **Serializer/Deserializer**.  
+  - **Hive Architecture:** Metastore, Hive Driver, Query Compiler, Execution Engines, Hive Server, Client Components, Extensibility Interface.  
+  - **Hive Language Capabilities** & **Hive Installation**.  
+
+---
+
+#### 🕛 12:35 – 1:30 Data Science System Design (Monika Shah Ma’am)
+- Solved the **sessional examination paper**.  
+- Cleared doubts.  
+
+---
+
+#### 🕐 1:30 – 2:25 Recess  
+
+---
+
+#### 🕑 2:25 – 3:20 DSA (Ankit Thakkar Sir)
+- **Dynamic Programming Intro:**  
+  - Combination example.  
+  - Assembly Line Scheduling explained with one example.  
+
+---
+
+#### 🕒 3:20 – 4:15 Statistics (Swati Jain Ma’am)
+- **Hypothesis Testing:**  
+  - Degree of freedom, t-distribution, chi-squared distribution, p-value, null hypothesis, statistical hypothesis.  
+  - **Type I Error (α):** Rejecting a true null hypothesis (false positive).  
+  - **Type II Error (β):** Failing to reject a false null hypothesis (false negative).  
+- Solved one example.  
+
+---
+
+#### 🕓 4:30 – 6:20 Statistics Lab (Swati Jain Ma’am)
+- **Practical 1:**  
+  - Fighter & Undertaker tournament simulation.  
+  - Scan past results (10 fights) → compute probability of winning x fights and more than y fights in new tournament (20 fights).  
+  - Plotted graphs properly.  
+- **Practical 2:**  
+  - Normal Distribution demo with 1000 random integers (1–100).  
+  - Found mean & standard deviation.  
+  - Took sequential batches of 100 (200 times), found mean & std for each batch.  
+  - Plotted histograms showing averages close to original mean & std, demonstrating normal distribution.  
+
+---
+
+
+
 
 
 
