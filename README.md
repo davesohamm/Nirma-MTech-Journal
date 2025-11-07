@@ -969,6 +969,229 @@ Today is **her birthday**! 🎂❤️❤️
 
 ---
 
+## 🗓️ Day 47 - September 24, 2025 (Wednesday)
+
+---
+
+### 🌅 Pre-College Activity
+- Completed **1 LeetCode problem** before going to college.
+
+---
+
+### 📚 College Schedule & Learnings
+
+#### 🕚 11:40 – 1:30 Data Science System Design Lab (Monika Shah Ma’am)
+- Continued with **lab work and implementation tasks**.
+- Worked on refining understanding of design decisions and applied architecture from course concepts.
+
+---
+
+#### 🕐 1:30 – 2:25 Recess  
+
+---
+
+#### 🕑 2:25 – 3:20 Applied Machine Learning (NKP Sir)
+- **Topic:** Decision Tree (ID3 Algorithm)  
+- Sir explained the **ID3 algorithm** step-by-step with a practical example.
+- Discussed **limitations of ID3**:
+  - Biased towards attributes with many values.
+  - Can overfit on training data.
+- Introduced **Gain Ratio** as an improvement:
+  - It adjusts Information Gain by considering attribute split size to reduce bias.
+
+---
+
+#### 🕒 3:20 – 4:15 Data Structures & Algorithms (Ankit Thakkar Sir)
+- **Topic:** Matrix Chain Multiplication (Dynamic Programming Approach)
+- Understood how DP reduces repeated computation compared to the recursive approach.
+- Learned how to construct the DP cost table to compute minimum multiplication cost.
+
+---
+
+#### 🕓 4:15 – 6:20 Statistics Lab (Swati Jain Ma’am)
+- Continued practical lab work and numerical exercises related to previous lectures.
+- Revised hypothesis testing concepts while performing lab tasks.
+
+---
+
+## 🗓️ Day 48 - September 25, 2025 (Thursday)
+
+---
+
+### 🌅 Pre-College Activity
+- Completed **1 LeetCode problem** before going to college.
+
+---
+
+### 📚 College Schedule & Learnings
+
+#### 🕚 11:40 – 12:35 Statistics (Swati Jain Ma’am)
+- Continued **Hypothesis Testing** topic.
+- Explained **confidence interval based decision making**.
+- Discussed **Type I and Type II errors** (decision errors).
+- Introduced **Chi-Square Test** and its application in categorical data comparison.
+
+---
+
+#### 🕛 12:35 – 1:30 Capstone Course
+- **Dedicated session on Tree Data Structures**.
+- Covered:
+  - **BST**, **AVL**, **Red-Black Tree**, **Balanced Trees**
+  - **B-Tree** and **Heap Tree**
+  - **Tree Traversals** (inorder, preorder, postorder, level order)
+  - Concepts of **subtree** and **forest**
+- A full structured refresher on trees and their variations.
+
+---
+
+#### 🕐 1:30 – 2:25 Recess
+
+---
+
+#### 🕑 2:25 – 3:20 Applied Machine Learning (NKP Sir)
+- **Topic:** CART (Classification and Regression Tree) Algorithm  
+- Sir explained:
+  - How CART uses **Gini Index** (for classification) and **Variance Reduction** (for regression).
+  - The **split decision rule** and how the model grows recursively.
+
+---
+
+#### 🕒 3:20 – 4:15 Data Structures & Algorithms (Ankit Thakkar Sir)
+- Completed **Matrix Chain Multiplication** DP implementation.
+- Started **Longest Common Subsequence (LCS)** using Dynamic Programming.
+
+---
+
+#### 🕓 4:30 – 5:25 Big Data Systems (JV Sir)
+- Explained **Hive installation process**:
+  - On **Ubuntu (Hadoop + Hive setup)**
+  - On **Windows (configuration + environment setup + compatibility notes)**
+
+---
+
+### ✅ Summary
+- A very **theory-heavy day**, especially with deep dives into Trees, CART, and statistical testing.
+- Good continuity in ongoing DP topics.
+
+---
+
+## 🗓️ Day 49 - September 29, 2025 (Monday)
+
+---
+
+### ✨ Weekend Summary (26, 27, 28 September)
+- Enjoyed **Navratri** celebrations with friends.
+- Completed **8 LeetCode problems** over the weekend.
+
+---
+
+### 🌅 Pre-College Activity
+- Solved **3 LeetCode problems** before coming to college.
+
+---
+
+### 📚 College Schedule & Learnings
+
+#### 🕚 11:40 – 12:35 Big Data Systems (JV Sir)
+- Introduced **Pig** and **Pig Latin**.
+- Discussed how Pig provides a high-level data flow language.
+- **Pig vs Hive** (very short):
+  - **Pig** → Procedural, used mainly by developers for data pipelines.
+  - **Hive** → Declarative, used mainly by analysts for SQL-like querying.
+
+---
+
+#### 🕛 12:35 – 1:30 Applied Machine Learning (NKP Sir)
+- Topic: **Perceptron Learning**
+- Explained:
+  - Structure of a **single-layer perceptron**.
+  - **Weight update rule**.
+  - Role of **activation functions** in transforming input signals.
+
+- **Major Activation Functions:**
+  1. **Step Function**
+  2. **Sigmoid**
+  3. **Tanh**
+  4. **ReLU**
+  5. **Leaky ReLU**
+
+- Discussed **Loss Function** and how perceptron adjusts weights to minimize classification error.
+
+---
+
+#### 🕐 1:30 – 2:25 Recess
+
+---
+
+#### 🕑 2:25 – 4:30 Big Data Systems Lab (JV Sir)
+- Performed **Pig Installation** steps.
+- Ran **Pig Latin scripts** on sample datasets.
+- Understood the Pig execution environment and workflow.
+
+---
+
+## 🗓️ Day 50 - September 30, 2025 (Tuesday)
+
+---
+
+### 🌅 Pre-College Activity
+- Completed **1 LeetCode problem** before leaving for college.
+
+---
+
+### 📚 College Schedule & Learnings
+
+#### 🕚 11:40 – 12:35 Big Data Systems (JV Sir)
+- Sir covered the **remaining part of Pig installation**.
+- After that, the lecture was **free for self-study / project work**.
+
+---
+
+#### 🕛 12:35 – 1:30 Data Science System Design (Monika Shah Ma’am)
+- Topics discussed:
+  - **gRPC** → High-performance, language-agnostic remote procedure call framework.
+  - **SSE (Server-Sent Events)** → One-way server-to-client streaming over HTTP.
+  - **HTTP/1.1 vs HTTP/2**
+    - HTTP/2 improves:
+      - Multiplexing (parallelism on a single connection)
+      - Header compression
+      - Server push
+    - Result: **Reduced latency and faster web communication**
+
+---
+
+#### 🕐 1:30 – 2:25 Recess
+
+---
+
+#### 🕑 2:25 – 3:20 DSA (Ankit Sir)
+- **Sir was absent**, proxy faculty came.
+- The lecture was **free**.
+
+---
+
+#### 🕒 3:20 – 4:15 Statistics (Swati Jain Ma’am)
+- Continued **Hypothesis Testing** concepts:
+  - **Type I Error (α):** Rejecting a true null hypothesis (**false positive**).
+  - **Type II Error (β):** Failing to reject a false null hypothesis (**false negative**).
+  - **Significance Level** → Threshold probability of making Type I error.
+  - **Chi-Square Test**
+    - Used to test relationships between categorical variables.
+    - Discussed **Chi-square density curve**, **degree of freedom**, and **formulas**.
+  - Solved **examples** to reinforce understanding.
+
+---
+
+#### 🕓 4:30 – 6:20 Statistics Lab (Swati Jain Ma’am)
+- Lab session conducted. Continued working with **hypothesis testing and probability-based practicals**.
+
+---
+
+## 📌 End of September Journals
+✨ Thank you for staying consistent throughout the month! ✨  
+
+
+
 
 
 
