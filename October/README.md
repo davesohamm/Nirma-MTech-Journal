@@ -770,6 +770,242 @@ Ma’am also solved a **detailed example** in class for clarity.
 
 ---
 
+## DAY 65 — 27 October 2025 (Monday) ✨
+
+**Before College**  
+- Solved **1 LeetCode problem** 🧠💻
+
+---
+
+### 11:40 AM to 12:35 PM — Big Data Systems (JV Sir) 📊
+- Learned **MongoDB Atlas**:
+  - Automation & Auto-scaling ⚙️
+  - Continuous Monitoring & Automated Backups 🔄
+  - Security & Authentication 🔐
+  - High Availability & Distributed Clusters 🌍
+  - Built-in Tools:
+    - Charts 📊
+    - Triggers ⚡
+    - Data Explorer 🔍
+- Discussed **MongoDB Atlas Architecture** and **Key Features**.
+- I independently designed a **CRUD Application System Design Pipeline** using **MongoDB + AWS** 🚀
+
+---
+
+### 12:35 PM to 1:30 PM — Applied Machine Learning (NKP Sir) 🤖
+- Proxy lecture — used this time to complete **Pig** and **Hive** lab PDFs ✅
+
+---
+
+### 1:30 PM to 2:25 PM — Recess 🍽️
+
+---
+
+### 2:25 PM to 4:15 PM — Big Data Systems Lab (JV Sir) 🧪
+- Showed **completed lab PDFs**.
+- Performed **debugging** and corrections done successfully 🛠️
+
+---
+
+### 4:15 PM to 7:00 PM — Library Study Session 📚
+- Worked on **DSA Term Paper**:
+  - Topic: **Graph Convolutional Networks (GCN)**
+  - Found **44 relevant research papers** for literature study 📄🔍
+- Completed **ProgCode Week 4** — solved **10 DSA problems** 💪💻
+
+---
+
+## DAY 66 — 28 October 2025 (Tuesday) 📚
+
+**Before College**  
+- Solved **1 LeetCode problem** 🧠💻
+
+---
+
+### 11:40 AM to 12:35 PM — Big Data Systems (JV Sir) 🏢
+- Topic: **Approaching the Data Center Project**
+- Discussed:
+  - Importance & **Value of Data Centers**
+  - **Physical Design** and Infrastructure layout
+  - **Management & Organization** of data centers
+  - **Outsourcing vs Ownership**
+  - **Upfront Cost** considerations
+  - **Security**, **Cooling**, and **Carbon Emission** concerns
+- Sir assigned a document preparation task:
+  - **Data Center Management: Challenges & Approaches** 📝
+
+---
+
+### 12:35 PM to 1:30 PM — Data Science System Design (Monika Shah Ma'am) 🏗️
+- Learned about **Query Languages**:
+  - **Imperative**
+  - **Declarative**
+- Introduction to **Graph Databases**, especially **Neo4j**:
+  - Components and basic concepts
+- I sat at the last bench and parallelly continued **DSA Term Paper** work 💻🙂
+
+---
+
+### 1:30 PM to 2:25 PM — Recess 🍽️
+
+---
+
+### 2:25 PM to 3:20 PM — DSA (Ankit Thakkar Sir) 🧮
+- Term paper instructions & doubt clarification
+- Revision of **Linear Data Structures**:
+  - **Stack (LIFO)**, **Infix to Postfix**
+  - **Queue (FIFO)**: Front = delete, Rear = insert
+  - **Circular Queue**
+- Useful refresher for exams ✅
+
+---
+
+### 3:20 PM to 4:15 PM — Statistics (Swati Jain Ma'am) 🎓
+- Guidance session on **Semester 2 Elective Selection**
+- Both **Swati Ma'am** and **Vijay Ukani Sir** advised on choosing electives smartly based on specialization & interest 🎯
+
+---
+
+### 4:30 PM to 6:20 PM — Statistics Lab (Swati Jain Ma'am) 🧪
+- Installed **KNIME** Data Analytics Platform 🟨🔧
+- Self-learned and noted concepts on **Agentic AI**:
+  - **Reactive Agents**, **Deliberate Agents**, **Learning Agents**, **Multi-Agent Systems**
+  - Tech stack:
+    - **LLMs**
+    - **Memory Systems** → Vector DBs: *Pinecone*, *Chroma*
+    - **Planning Frameworks** → *LangChain*, *CrewAI*, *AutoGen*, *MetaGPT*
+    - **Feedback Loops** → Reflection & Reinforcement Learning
+  - Learned about:
+    - **GROBID ML Library**
+    - Concepts like **Grounding** and **Explicit Provenance**
+
+---
+
+### After 6:20 PM — Library Session 📚
+- Continued deep research for **DSA Term Paper** on **GCN** 🔍
+
+---
+
+## DAY 67 — 29 October 2025 (Wednesday) 🧠⚙️
+
+**Before College**  
+- Solved **1 LeetCode problem** 💻✅
+
+---
+
+### 11:40 AM to 1:30 PM — Data Science System Design Lab (Monika Shah Ma'am) 🛠️
+- Ma'am assigned **two important lab practicals**:
+  - **Lab 7:** Implement **Round Robin Load Balancer** ⚖️ (distribute requests evenly)
+  - **Lab 8:** Implement **LRU Cache using Redis** + MongoDB  
+    - Requires **Docker installation** 🐳
+- Understood overall system flow and integration pipeline.
+
+---
+
+### 1:30 PM to 2:25 PM — Recess 🍽️
+
+---
+
+### 2:25 PM to 3:20 PM — Applied Machine Learning (Proxy Lecture) 🤖
+- NKP Sir was unavailable.
+- Another faculty member gave an overview of **Neural Networks**:
+  - Basic structure
+  - Forward pass conceptual flow
+  - Role of weights & activation units 🧩
+
+---
+
+### 3:20 PM to 4:15 PM — DSA (Ankit Thakkar Sir) 🧮
+- Continued with **Linked Lists**:
+  - A **Linked List** is a linear data structure where elements (nodes) are stored at **non-contiguous** memory locations.
+  - Each node contains **data** and a **pointer** to the next node.
+- Covered:
+  - **Singly Linked List Traversal**
+  - **Insertion & Deletion** operations
+  - Issues like **dangling pointers** and safe memory handling 🪢
+
+---
+
+### 4:30 PM to 6:20 PM — Applied Machine Learning Lab (Proxy) 🧪
+- NKP Sir was not present; **Vivek Prasad Sir** supervised.
+- We were free to work on ongoing tasks.
+- Me and **Dev** completed:
+  - **Hotspot Prediction Module** for our **Innovative Assignment** (Big Data Systems Term Work) 🔥📊
+- Productive session! ✅
+
+---
+## 30 October 2025 (Thursday)
+
+- Before coming to college, completed 1 LeetCode problem.
+
+### 11:40 AM - 12:35 PM — Statistics (Swati Jain Ma'am)
+- Studied **Principal Component Analysis (PCA)**.
+- Understood the formulas and concepts of **PC1** and **PC2**.
+- Revised **Eigenvalues** and **Eigenvectors**.
+- Solved one example based on PCA.
+
+### 12:35 PM - 1:30 PM — Capstone Course
+- Revised **Deadlock** in Operating Systems:
+  - Mutual exclusion, Hold & Wait, Circular wait, No pre-emption.
+  - Deadlock Prevention and Avoidance.
+  - Dining Philosopher Problem and Producer-Consumer Problem.
+  - Semaphores and Mutex.
+- Studied **Memory Management**:
+  - Degree of multiprogramming.
+  - Cache, Main Memory, Registers.
+  - Fixed & Dynamic Partitioning (Internal and External Fragmentation).
+  - Paging and Segmentation.
+
+### 1:30 PM - 2:25 PM — Recess
+
+### 2:25 PM - 3:20 PM — Applied Machine Learning (Proxy)
+- Worked on DSA Term Paper.
+- Grouped 44 research papers by their applications.
+- Noted down **algorithm time complexities** for each.
+
+### 3:20 PM - 4:15 PM — DSA (Ankit Thakkar Sir)
+- Started **Tree Data Structures**.
+- Learned:
+  - Binary Search Tree (BST).
+  - Tree traversals: Preorder, Inorder, Postorder.
+  - AVL Tree and Rotations (LL, RR, LR, RL).
+
+### 4:30 PM - 5:20 PM — Big Data Systems (JV Sir)
+- Term paper evaluation.
+- Presented **Hotspot Prediction Module**.
+- Sir instructed to complete the **final paper draft by 10 November**.
+
+---
+
+## 31 October 2025 (Friday)
+
+- Before coming to college, completed 1 LeetCode problem.
+
+### 11:40 AM - 1:30 PM — DSA Lab (Ankit Thakkar Sir)
+- Practical evaluation conducted.
+- Fractional Knapsack: **8/10**
+- Assembly Line Scheduling: **6/10**
+- Was not fully satisfied with the marks. Realization that I could have prepared better — had forgotten the practical and coded it just before the lecture, so the result was understandable.
+
+### 1:30 PM - 2:25 PM — Recess
+
+### 2:25 PM - 3:20 PM — Data Science System Design (Monika Shah Ma'am)
+- Learned about a full Data Science pipeline:
+  - Data Ingestion → ETL → Model Training → Business Intelligence.
+- Discussion on **Riak's Bitcask** storage model.
+
+### 3:20 PM - 4:15 PM — Statistics (Swati Jain Ma'am)
+- Swati Ma'am was absent, so Monika Ma'am conducted the session.
+- DSSD Lab practical evaluations were taken.
+- Performed well in the evaluation.
+
+### 4:30 PM - 6:20 PM — ProgCode Lab
+- Lab was skipped.
+- Spent the time sitting in the library.
+
+---
+## 📌 End of October Journals
+✨ Thank you for staying consistent throughout the month! ✨  
 
 
 
