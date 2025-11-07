@@ -222,9 +222,7 @@ Key Takeaways:
 - **Core learning:**  
   The combination to become a strong **Software Engineer**:
 
-\[
-\textbf{Real World Understanding} + \textbf{SDE Skills} + \textbf{AI Tools} + \textbf{Problem Solving Mindset}
-\]
+**Real World Understanding** + **SDE Skills** + **AI Tools** + **Problem Solving Mindset**
 
 ---
 
@@ -253,6 +251,424 @@ Found and read **Amrita Pritam’s** book *“Kaagaz Aur Canvas.”*
 - A refreshing experience for the mind.
 
 ---
+
+## DAY - 56 : **7 October 2025 (Tuesday)**
+
+### 🏠 Before College
+- Solved **1 LeetCode problem** in the morning.
+
+---
+
+### 📊 9:50 AM – 11:40 AM  
+**Statistics Lab** — *by Swati Jain Ma’am*
+
+Performed **One-Way Latency Analysis** on two different datasets.
+
+Ma’am explained two hypothesis testing approaches:
+
+| Method | Null Hypothesis (H₀) | Alternative Hypothesis (H₁) |
+|-------|----------------------|------------------------------|
+| Method 1 | Mean latency of **5G = 4G** | H₀ is wrong (means differ) |
+| Method 2 | Both datasets have **same characteristics** | Both are **not same** |
+
+- Computed test values
+- Compared with critical region
+- Concluded whether to **accept or reject H₀**
+
+---
+
+### 🗄️ 11:40 AM – 12:35 PM  
+**Big Data Systems** — *by JV Sir*
+
+- Explained the **Term Paper Template** structure:
+  - Abstract  
+  - Introduction  
+  - Literature Review  
+  - Methodology  
+  - Results & Findings  
+  - Conclusion  
+  - References  
+
+---
+
+### 🧑‍💻 12:35 PM – 1:30 PM  
+**Data Science System Design** — *by Monika Shah Ma’am*
+
+Topics covered:
+- **Rate Limiter Concepts**
+- **Token Bucket Mechanism**
+- **Requests Per Second (RPS)** Handling
+- Logging & Monitoring in distributed loads
+- **Singleton Design Pattern** in service instances
+
+---
+
+### 🍽️ 1:30 PM – 2:25 PM  
+**Recess**
+
+---
+
+### 🔢 2:25 PM – 3:20 PM  
+**Data Structures & Algorithms** — *by Ankit Thakkar Sir*
+
+- Continued **Floyd’s All-Pairs Shortest Path Algorithm**
+- Discussed key **Graph Theory** fundamentals:
+  - Directed / Undirected Graphs
+  - Degrees of vertices
+  - Connectivity & path relations
+
+---
+
+### 📚 3:20 PM – 4:15 PM  
+**Statistics Lecture** — *by Swati Jain Ma’am*
+
+- Ma'am explained her **INS Valsura** project (Indian Navy).
+- Discussed:
+  - Operational data validation
+  - Statistical inference in defense systems
+  - Real-world application of hypothesis testing on naval equipment performance
+
+---
+
+## DAY - 57 : **8 October 2025 (Wednesday)**
+
+### 🏠 Before College
+- Solved **3 LeetCode problems** in the morning.
+
+---
+
+### 🧑‍💻 11:40 AM – 1:30 PM  
+**Data Science System Design Lab** — *by Monika Shah Ma’am*
+
+Topics Covered:
+- **Database Sharding**
+  - Concept of splitting large datasets across multiple servers for scalability.
+  - Horizontal vs Vertical Sharding.
+  - Real-world use cases in large distributed systems.
+- Performed practical implementation and understood shard key selection importance.
+
+---
+
+### 🍽️ 1:30 PM – 2:25 PM  
+**Recess**
+
+---
+
+### 🤖 2:25 PM – 3:20 PM  
+**Applied Machine Learning** — *by NKP Sir*
+
+Topics Discussed:
+- **Neural Networks Architecture**
+  - Input layer → Hidden layer(s) → Output layer.
+  - Weights, biases, and forward propagation.
+- **Need for Activation Functions**
+  - To introduce non-linearity for learning complex patterns.
+- Activation Functions Reviewed:
+  - Step Function
+  - Sigmoid
+  - Tanh
+  - ReLU
+  - Softmax (for multi-class output)
+
+---
+
+### 🔍 3:20 PM – 4:15 PM  
+**Data Structures & Algorithms** — *by Ankit Thakkar Sir*
+
+Topics Covered:
+- **Graph Searching Algorithms**
+  - **BFS (Breadth-First Search)**
+  - **DFS (Depth-First Search)**
+- Understood their queue/stack based implementations.
+- Discussed where **backtracking** appears in DFS-based solutions.
+
+---
+
+### 🧪 4:20 PM – 6:20 PM  
+**Applied Machine Learning Lab** — *by NKP Sir*
+
+Lab Tasks:
+- Implemented all **three Decision Tree algorithms** from scratch on the **Iris dataset**:
+  - ID3
+  - C4.5
+  - CART
+- Sir asked us to research:
+  - **Cost Complexity Pruning (CCP)**  
+  - Why adjusting CCP parameter leads to **C4.5-like pruning behavior**.
+
+Key Insight:
+**CCP balances model complexity vs accuracy by penalizing deeper trees.**
+
+---
+
+## DAY - 58 : **9 October 2025 (Thursday)**
+
+### 🏠 Before College
+- Solved **3 LeetCode problems** in the morning.
+
+---
+
+### 📊 11:40 AM – 12:35 PM  
+**Statistics** — *by Swati Jain Ma’am*
+
+- It was a proxy lecture session.
+- Utilized the time to **complete Applied Machine Learning Lab work**.
+
+---
+
+### 🎤 12:35 PM – 1:30 PM  
+**Alumni Talk** — by **Vimal Sheoran** (M.Tech DS, 2022 | Currently at *Infocusp*)
+
+Key Takeaways:
+- **Be honest** to yourself and your work.
+- **Go beyond** the classroom — extend learning on your own.
+- **Write code yourself** — don’t rely on shortcuts.
+- In M.Tech, **there is no CGPA recovery semester** → perform consistently.
+- **Technical writing** is a valuable hard skill → helps in research, communication, and industry.
+
+---
+
+### 🍽️ 1:30 PM – 2:25 PM  
+**Recess**
+
+---
+
+### 🤖 2:25 PM – 3:20 PM  
+**Applied Machine Learning** — *by NKP Sir*
+
+Topics Covered:
+- **Learning Step in Perceptron**
+- Solved a **detailed perceptron learning example** step-by-step.
+- Understood weight updates over iterations.
+
+---
+
+### 🎤 3:20 PM – 4:15 PM  
+**Alumni Talk** — by **Jenil Sadrani** (Cyber Security Domain)
+
+Encouragement & Guidance:
+- Start career exploration in **Cyber Security & CTFs**.
+- Recommended Certifications:
+  - **SC-200**
+  - **CEH**
+  - **eJPT**
+  - **PNPT**
+  - **AZ-500**
+- Start practicing on:
+  - **TryHackMe**
+  - **HackTheBox**
+
+---
+
+### 🗄️ 4:30 PM – 6:20 PM  
+**Big Data Systems** — *by JV Sir*
+
+Topic:
+- Continued explanation of **NoSQL Databases**:
+  - Flexible schema
+  - Horizontal scaling
+  - Real-time analytics usage scenarios
+
+---
+
+## DAY - 59 : **10 October 2025 (Friday)**
+
+### 🏠 Before College
+- Solved **1 LeetCode problem** in the morning.
+
+---
+
+### 💻 11:40 AM – 1:30 PM  
+**DSA Lab** — *by Ankit Thakkar Sir*
+
+Lab Evaluation:
+- **Make Change (Greedy Approach)** → Scored **10/10**
+- **Kruskal's Minimum Spanning Tree Algorithm** → Scored **9/10**
+
+Feeling very happy and confident with consistency in DSA lab work.
+
+---
+
+### 🍽️ 1:30 PM – 2:25 PM  
+**Recess**
+
+---
+
+### 🧑‍💻 2:25 PM – 3:20 PM  
+**Data Science System Design** — *by Monika Shah Ma’am*
+
+Topics Covered:
+- **Message Queues** (Asynchronous communication between services)
+- **Monitoring and Logging** in distributed systems
+- **Clock Synchronization** in multi-node environments
+
+---
+
+### 📊 3:20 PM – 4:15 PM  
+**Statistics** — *by Swati Jain Ma’am*
+
+Topic: **ANOVA (Analysis of Variance)**
+
+Concepts Learned:
+- **Dependent (Response) Variable**
+- **Independent (Predictor) Variables**
+- **Factors and Levels**
+- **Fixed Factor Model** vs **Random Factor Model**
+- **F-score tables**
+- **One-Way ANOVA**
+- Applications in real-world statistical inference
+
+Ma’am also solved a **detailed example** in class for clarity.
+
+---
+
+### 💾 4:30 PM – 6:20 PM  
+**ProgCode Lab**
+
+- Continued programming practice and lab exercises.
+
+---
+
+
+## DAY - 60 : 13 October 2025 (Monday)
+
+**Before College**  
+- Solved one LeetCode problem.
+
+---
+
+### 11:30 AM to 12:35 PM — Big Data Systems (JV Sir)
+- Sir asked for our **term papers**.
+- Conducted **evaluation** of the submissions.
+
+---
+
+### 12:35 PM to 1:30 PM — Alumni Talk (L Engineer + InFocusP)
+- She explained:
+  - **Bell curves of life**
+  - **Agentic AI**
+  - Importance of **Kaggle competitions**
+  - **Cloud basics are must**:
+    - AWS SageMaker
+    - Azure ML
+    - GCP Vertex AI
+- Discussed **I-shaped**, **Dash-shaped**, **Zig-Zag-shaped** people vs **T-shaped** people (combination of depth + breadth).
+
+---
+
+### 1:30 PM to 2:25 PM — Recess
+
+---
+
+### 2:25 PM to 4:30 PM — Big Data Systems Lab (JV Sir)
+- Practical lab work continued under guidance of sir.
+
+---
+
+## DAY - 61 : 14 October 2025 (Tuesday) ✨
+
+**Before College**  
+- Solved **7 LeetCode problems** 🧠💻
+
+---
+
+### 11:40 AM to 12:35 PM — Big Data Systems (JV Sir) 📊
+- Sir announced **sessional exam marks**.
+- I scored **45/50** 🎉🔥 (2nd highest in the class!)
+- Felt **very happy and motivated** 😄
+
+---
+
+### 12:35 PM to 1:30 PM — Data Science System Design (Monika Shah Ma'am) 🏗️
+- Learned about **ATA Model**.
+- Ma'am explained how to **implement Message Queue** in the lab 📨⚙️
+
+---
+
+### 1:30 PM to 2:25 PM — Recess 🍽️
+
+---
+
+### 2:25 PM to 3:20 PM — DSA (Ankit Thakkar Sir) 🧮
+- Topics covered:
+  - **Branch and Bound**
+  - **Assignment Problem**
+- Understood both logic and approach 👨‍🏫
+
+---
+
+### 3:20 PM to 4:15 PM — Statistics (Swati Jain Ma'am) 📐
+- Continued with **ANOVA Testing**.
+- Solved more **practice examples** to strengthen understanding ✍️📘
+
+---
+
+### 4:30 PM to 6:20 PM — Statistics Lab (Swati Jain Ma'am) 🧪
+- Lab work **checked and evaluated**.
+- Performed **ANOVA Testing** using:
+  - **Python** 🐍
+  - **Excel** 📊
+
+---
+
+## DAY - 62: 15 October 2025 (Wednesday) 🌿
+
+**Before College**  
+- Solved **1 LeetCode problem** 🧠
+
+---
+
+### 11:40 AM to 1:30 PM — Data Science System Design Lab (Monika Shah Ma'am) 🏗️
+- Performed lab work on **MongoDB**:
+  - **Write Concern**
+  - **Read Concern**
+  - **Auto Failover**  
+- Understood how data consistency levels and cluster failover mechanisms work in distributed systems ⚙️🗄️
+
+---
+
+### 1:30 PM to 2:25 PM — Recess 🍛
+
+---
+
+### 2:25 PM to 3:20 PM — Applied Machine Learning (NKP Sir) 🤖
+- Sir explained:
+  - **Forward Propagation & Backward Propagation** for 2-layer Neural Network (with derivations) 🧮
+  - Concept of **Autodifferentiation (AutoDiff)** used in **TensorFlow** and **Keras** 🔄
+- It was a deep mathematical lecture — very insightful 🔍
+
+---
+
+### 3:20 PM to 4:15 PM — DSA (Ankit Thakkar Sir) 🧵
+- Learned **Binomial Heap**:
+  - Structure and properties
+  - Operations:
+    - Create Binomial Heap
+    - Find Minimum
+    - **Union of 2 Binomial Heaps** (4 cases explained clearly)  
+- Good conceptual clarity 📚
+
+---
+
+### 4:30 PM to 6:20 PM — Applied Machine Learning Lab (NKP Sir) 🧪
+- **Viva / Lab Evaluation**  
+- Questions asked (and I answered well ✅):
+
+  1. `np.eye()` function 🧱  
+  2. `pandas.read_csv(separator=',')` usage  
+  3. **SLR vs MLR** — differences in formulas 📈  
+  4. **Ridge vs Lasso** — when to use which  
+  5. **Elastic Net** and how to convert it to **Lasso**  
+  6. **Gaussian, Bernoulli, Multinomial** distributions — usage scenario 📊  
+  7. **Entropy vs Gini**, and their ranges  
+  8. Differences among **ID3, CART, C4.5** 🌳
+
+- Overall, **my viva went very well**. I answered almost everything confidently 😄💯
+
+---
+
+
+
 
 
 
