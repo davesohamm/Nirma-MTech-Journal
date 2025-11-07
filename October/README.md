@@ -667,6 +667,110 @@ Ma’am also solved a **detailed example** in class for clarity.
 
 ---
 
+## DAY 63 — 16 October 2025 (Thursday) 📘
+
+**Before College**  
+- Solved **1 LeetCode problem** 🧠
+
+---
+
+### 11:40 AM to 12:35 PM — Statistics (Swati Jain Ma'am) 📊
+- I **skipped the lecture** because I had **Teaching Assistant** duty.
+- Used this time productively and solved **5 more LeetCode problems** ✅🔥
+
+---
+
+### 12:35 PM to 1:30 PM — Capstone Course 🧩
+- Topic: **Operating System — Uniprocessor Scheduling**
+- Learned:
+  - **PCB (Process Control Block)**
+  - **Scheduling Queue**
+  - **CPU Burst** & **I/O Burst**
+  - **Schedulers** (Long-term, Short-term, Medium-term)
+- Understood how OS manages processes and allocates CPU time ⚙️🖥️
+
+---
+
+### 1:30 PM to 2:25 PM — Recess 🍲
+
+---
+
+### 2:25 PM to 3:20 PM — Applied Machine Learning (NKP Sir) 🤖
+- Continued **Backpropagation**
+- Sir solved a **large numerical example** step-by-step.
+- Very important lecture — sir mentioned this exact type can come in exams ✍️
+
+---
+
+### 3:20 PM to 4:15 PM — DSA (Proxy by NKP Sir) 🔄
+- Instead of DSA, NKP sir taught:
+  - **Semi-Supervised Learning**  
+    - *Self Training*
+    - *Co-Training*
+  - **Reinforcement Learning**
+  - Discussed **UNSW-NB15 Intrusion Detection Dataset** (cybersecurity context) 🔐
+
+---
+
+### 4:30 PM to 5:25 PM — Big Data Systems (JV Sir) 🗄️
+- Continued **NoSQL Databases** — explained types in depth:
+
+#### Types of NoSQL Databases:
+| Type | Explanation |
+|------|-------------|
+| **Key-Value Store** | Stores data as pairs (key → value). Very fast lookups. Used where simple retrieval is needed. Examples: Redis, DynamoDB. |
+| **Document Store** | Data stored in JSON-like documents with flexible schemas. Good when structure varies. Examples: MongoDB, CouchDB. |
+| **Column-Family Store** | Data stored in columns rather than rows. Excellent for analytical queries over huge datasets. Examples: Cassandra, HBase. |
+| **Graph Databases** | Stores data as nodes and relationships. Ideal for recommendation engines, social networks. Example: Neo4j. |
+
+- After this, sir **started MongoDB chapter** 🟢
+
+---
+
+✅ **A productive day overall** — balanced teaching work, assignments, and solid ML + OS + NoSQL concepts.
+---
+
+## DAY 64 — 17 October 2025 (Friday) 🎉
+
+**Before College**  
+- Solved **ProgCode Week 3** problems — **10 DSA questions** completed 🧠💻
+
+---
+
+### 11:40 AM to 12:35 PM — Statistics (Swati Jain Ma'am) 📊
+- Sir (Ankit Thakkar) was unavailable, so this slot was taken by Swati ma'am.
+- Topics Covered:
+  - **Correlation Analysis**
+  - **Correlation Coefficient** and **Degree of Correlation**
+  - **Karl Pearson’s Coefficient of Correlation**
+  - Learned both **Direct Method** and **Shortcut Method** formulas ✍️
+
+---
+
+### 12:35 PM to 1:30 PM — Data Science System Design (Monika Shah Ma'am) 🧱
+- Ma'am explained **Data Models**.
+- Meanwhile... we were **playing Hill Climb Racing** at the back of the class 😆🎮  
+  (*Peak Friday vibes*)
+
+---
+
+### After 1:30 PM — Free from College 🎒
+- Had lunch 🍱
+- Returned home in **2 PM heat** 😓🌞
+- Found a **small teddy bear** in college and gave it to a **poor roadside girl** ❤️  
+  → She smiled. It felt nice :)
+
+---
+
+### ☀️ Going Home for Diwali Vacation ☀️
+- Going to my hometown **Dahegam** 🏡
+- Holidays start now!!
+- **See you on 27th October** 🎇✨
+- *DIWALIIIII HOLIDAYSSSS LET’S GOOOOOO* 🎉🔥🎆
+
+---
+
+
 
 
 
