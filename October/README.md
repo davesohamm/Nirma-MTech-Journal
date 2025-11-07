@@ -1001,11 +1001,12 @@ Ma’am also solved a **detailed example** in class for clarity.
 
 ### 4:30 PM - 6:20 PM — ProgCode Lab
 - Lab was skipped.
-- Spent the time sitting in the library.
+- Spent the time sitting in the library.📖
 
 ---
 ## 📌 End of October Journals
 ✨ Thank you for staying consistent throughout the month! ✨  
+
 
 
 
