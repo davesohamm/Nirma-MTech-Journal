@@ -220,6 +220,48 @@ Topics covered from **Computer Networks**:
 
 ---
 
+## **Day 77 — 10 November 2025**
+
+- Reached college at **10:00 AM**.
+- Completed **TA work** for **Dr. Jaiprakash Verma (JV Sir)**:
+  - Entered **LPW marks** into the portal.
+  - Calculated marks **out of 60** and **40**, then combined them to get the **final total out of 100**.
+
+---
+
+### **11:40 AM – 12:35 PM | Big Data Systems (JV Sir)**  
+- Sir taught us about **Apache Spark**.
+- Spark is a **big data processing framework** designed for fast in-memory computation.
+- It supports iterative and real-time analytics better than traditional Hadoop MapReduce.
+- It uses **RDDs (Resilient Distributed Datasets)** to store data in memory across nodes.
+- Sir also introduced **SparkContext**, which is the main entry point to Spark execution.
+- We briefly discussed **GraphX**, a Spark API used for graph processing and analytics.
+- Although this topic isn't part of the exam, it is **highly relevant in industry** and useful to know.
+
+---
+
+### **12:35 PM – 1:30 PM | Applied Machine Learning (NKP Sir)**  
+- Learned **Clustering Algorithms**:
+  - **K-Means Algorithm:**  
+    Clusters data by repeatedly assigning points to the nearest cluster centroid and then recalculating centroids until convergence.
+  - **K-Medoids Algorithm:**  
+    Similar to K-Means, but instead of mean values, it selects **actual data points (medoids)** as cluster centers, making it **more robust to outliers**.
+
+---
+
+### **1:30 PM – 2:25 PM | Recess**
+
+---
+
+### **2:25 PM – 4:15 PM | Big Data Systems Lab (JV Sir)**  
+- I developed an **Apache Pig Online Simulator**. [TRY NOW!](https://piggip.netlify.app/)
+- It allows users to **execute Pig Latin queries** directly in the browser.
+- Used the **movies dataset** for demonstration and testing.
+- This simulator makes Pig queries **easy to learn and practice**, especially for students who don't have Hadoop setup.
+
+---
+
+
 
 
 
