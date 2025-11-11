@@ -261,6 +261,62 @@ Topics covered from **Computer Networks**:
 
 ---
 
+## **Day 78 — 11 November 2025**
+
+- Reached college at **10:00 AM** because JV sir emailed me for **TA work**.
+- **Kaushal Bhaiya (JRF)** is officially signing off, so I am now designated as the **new responsible guardian** for the **ISRO Water Debris Project**.
+- He taught me how to **operate the Spectrometer** — powering it on, calibrating it, and understanding its functionality.
+- Next session, he will guide me on **flying the drone with the spectrometer attached** — I am **very excited** for that.
+
+---
+
+### **11:40 AM – 12:35 PM | Big Data Systems (JV Sir)**
+- Continued learning **Apache Spark**.
+- Sir explained the following concepts:
+  - **Spark Master** and cluster structure
+  - **RDD (Resilient Distributed Dataset)** fundamentals
+  - **Transformations** vs **Actions**
+  - **Persistence & Caching**
+  - **Limitations of Spark** (especially memory dependency)
+  - **Spark Architecture**
+  - **Spark SQL**, **Spark Streaming**, and **MLlib** for machine learning.
+- The lecture covered Spark at a **system and application level** — very useful for real-world work.
+
+---
+
+### **12:35 PM – 1:30 PM | Data Science System Design (Monika Shah Ma’am)**
+- Topics covered:
+  - **Column-Oriented** vs **Column-Family Databases**
+  - **Data Cube** and **Materialized View**
+  - **Data Warehouse Architecture**
+  - **Blob Storage Concepts**
+- I solved **one LeetCode problem** during the lecture because it got a bit boring.
+
+---
+
+### **1:30 PM – 2:25 PM | Recess**
+
+---
+
+### **2:25 PM – 3:30 PM | DSA (Proxy by Vivek Prasad Sir)**
+- It was a **proxy lecture**, so we were free.
+- I checked my research paper using **Turnitin** for plagiarism.
+- It showed **12% similarity** — I will reduce it to **below 10%**.
+
+---
+
+### **3:30 PM – 4:15 PM | Statistics (Swati Jain Ma’am)**
+- Ma’am explained **why Optimization is essential in Data Science**:
+  - Models need optimization to minimize loss and maximize performance.
+  - Optimization is the core of ML training.
+- Solved **two optimization examples** in class.
+
+---
+
+### **4:30 PM – 6:20 PM | Statistics Lab**
+- **Skipped** the lab today because I needed to reach home early for a **marriage reception** at night.
+
+---
 
 
 
