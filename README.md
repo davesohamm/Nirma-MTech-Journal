@@ -318,6 +318,69 @@ Topics covered from **Computer Networks**:
 
 ---
 
+## **Day 79 — 12 November 2025**
+
+- Reached college early around **10:00 AM**.  
+- Ordered **Duracell Ultra AAA batteries** from Blinkit and received them in under **10 minutes** — super quick delivery!  
+- Went to **JV Sir’s cabin** for **TA work**. His **JRF, Kaushal Bhai**, also came, and as planned, today was my **drone training day!**  
+- We went to the **Great Stairs near the lake** and **flew the drone up to 120 meters** — it felt like a **dream come true** moment for me!  
+- We inserted the **Duracell batteries into the spectrometer** and captured **spectral data via drone**.  
+- During landing, **Kaushal Bhai’s finger got cut** due to the drone propellers — it was a bit scary, but we later found a safer landing method.  
+- **Jaiprakash Sir** also flew the drone for a while.  
+- Overall, it was a **memorable and thrilling experience** — my **first ever drone flight**!
+
+---
+
+### **11:40 AM – 1:30 PM | Data Science System Design Lab (Monika Shah Ma’am)**
+- Had to **submit Practical 7 and 8** today.
+- During submission, Ma’am suggested **some corrections** in our code.
+- We will **resubmit** the updated practicals in the **next lab session**.
+
+---
+
+### **1:30 PM – 2:25 PM | Recess**
+
+---
+
+### **2:25 PM – 3:20 PM | Applied Machine Learning (NKP Sir)**
+- Topic: **Hierarchical and Advanced Learning Methods**
+- Covered:
+  - **Hierarchical Agglomerative Clustering** (bottom-up approach)
+  - **Semi-Supervised Learning**
+  - **Reinforcement Learning**
+  - **Deep Learning fundamentals**
+  - **Co-Training** methods for hybrid learning
+- The session gave a broad view of different **machine learning paradigms** beyond supervised and unsupervised types.
+
+---
+
+### **3:20 PM – 4:15 PM | DSA (Ankit Thakkar Sir)**
+- Topic: **Fibonacci Heap**
+- Discussed:
+  - Basic structure and **heap properties**
+  - **Insert**, **Find-Min**, **Extract-Min**, **Decrease-Key**, and **Merge** operations
+  - Corresponding **time complexities**
+- The session was a bit **complex but insightful**.
+
+---
+
+### **4:30 PM – 6:20 PM | Applied Machine Learning Lab (NKP Sir)**
+- Implemented **Single-Layer** and **Double-Layer Neural Networks**:
+  - Built **from scratch**
+  - And also using **scikit-learn**
+- Solved:
+  - **AND operation** using single-layer network
+  - **XOR operation** using double-layer network
+- Sir also discussed the **AI Winter** and the **XOR problem of the 1990s**, which halted neural network research for a time.
+
+---
+
+### **After 6:20 PM**
+- Sat in the **library** to prepare the **Big Data Systems Innovative Assignment Base Paper** for the next day’s submission.
+- Also solved **one LeetCode problem** before heading home.
+
+---
+
 
 
 
