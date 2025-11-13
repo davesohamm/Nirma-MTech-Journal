@@ -381,6 +381,91 @@ Topics covered from **Computer Networks**:
 
 ---
 
+## **Day 80 — 13 November 2025**
+
+- Reached college early today and solved **one LeetCode problem** after arriving.  
+- **JV Sir** assigned me to assist with a **Soil Moisture Detection Project**, so I helped the team set up and analyze their system.  
+- Before lectures began, we went for **Data Science System Design** lab to submit the **two remaining practicals**, which were pending.  
+- I got **10/10 marks on both practicals** — felt great!
+
+---
+
+### **11:40 AM – 12:35 PM | Statistics (Swati Jain Ma’am)**
+- Ma’am announced that we have to **submit the innovative assignment** by **Tuesday**.
+- Continued the topic of **Constrained Optimization**:
+  - **General form** of constrained optimization.
+  - **Lagrangian form** and **KKT (Karush-Kuhn-Tucker) conditions**.
+  - Applications in **Linear SVM** (Support Vector Machines).
+  - Explained **Lagrangian formulas** and their optimization implications.
+- The lecture had strong connections between optimization and machine learning models.
+
+---
+
+### **12:35 PM – 1:30 PM | Capstone Course (Zunnun Sir)**
+- Topic: **Transport Layer in Computer Networks**
+- Covered:
+  - **Transport Layer Primitives** and **Functions** (Reliability, Flow Control, Congestion Control, Addressing, Multiplexing/Demultiplexing)
+  - **System Calls:** LISTEN, CONNECT, SEND, RECEIVE, DISCONNECT
+  - **Connection-less Protocol:** UDP
+  - **Sliding Window**, **Go-Back-N**, and **Stop-and-Wait Protocols**
+  - **Checksum** mechanism for error detection
+  - **TCP Timers:** Retransmission Timer, Persistence Timer, Keepalive Timer, Time-Wait Timer
+  - Concepts of **Measured RTT** and **Smoothed RTT**
+- The lecture was very detailed and clarified the practical working of transport layer protocols.
+
+---
+
+### **1:30 PM – 2:25 PM | Recess**
+
+---
+
+### **2:25 PM – 3:20 PM | Applied Machine Learning (NKP Sir)**
+- Topics:
+  - **Semi-Supervised Learning**  
+    - **Two-Step Approach:** Train on labeled data, then use model predictions for unlabeled data.  
+    - **Direct Approach:** Use both labeled and unlabeled data simultaneously in training.
+  - **Reinforcement Learning (RL)**  
+    - **Model-Based RL** (agent learns the environment model)  
+    - **Model-Free RL:** including **Q-Learning** and **Policy Optimization**
+  - **Q-Learning Example:** Demonstrated using a **house with rooms and exit ways** diagram — explained formula and state-action value updates.
+  - Introduction to **Deep Networks**:
+    - **CNNs**, **RNNs**, **Recursive NNs**, and **UPNs**
+  - Discussed **famous CNN architectures**: **LeNet-5**, **AlexNet**, **VGGNet**, **YOLO**, etc.
+- The lecture was quite comprehensive and linked classical ML to modern deep learning.
+
+---
+
+### **3:20 PM – 4:15 PM | DSA (Ankit Thakkar Sir)**
+- We had our **Capstone Course Quiz** during this slot.
+- It was a **50 MCQ pen-paper exam**.
+- My paper went **smooth and easy**, overall a good performance.
+
+---
+
+### **4:30 PM – 5:20 PM | Big Data Systems (JV Sir)**
+- Topic: **Spark MLlib and GraphX**
+- **Spark MLlib:**  
+  - Spark’s machine learning library for large-scale data.  
+  - Includes algorithms for classification, regression, clustering, and collaborative filtering.  
+  - Works efficiently in distributed mode across Spark clusters.  
+  - Integrated seamlessly with Spark SQL and DataFrames.
+- **Spark GraphX:**  
+  - A graph computation framework built on top of Spark RDDs.  
+  - Allows representation of data as vertices and edges for graph analytics.  
+  - Supports operations like PageRank, connected components, and shortest paths.  
+  - Enables unified processing of graphs and non-graph data.
+
+---
+
+### **5:20 PM – 6:30 PM | Soil Moisture Detection Project (TA Work)**
+- Continued work on the **Soil Moisture Detection Project** in **JV Sir’s cabin**.  
+- I taught fellow students how to **use the Spectrometer** and helped **configure the mobile app** to detect **18 spectral values**.
+- The team had already built a **Raspberry Pi–based soil moisture detection tool**, so we **collected multiple data points** for analysis.
+- The team members included **JV Sir**, **Sumedha Arora Ma’am**, **Kaushal Bhaiya (JRF)**, **Khushi**, **Aayushi**, and **me**.  
+- It was a **very collaborative and enriching experience**, blending **hardware, data collection, and analytics**.
+
+---
+
 
 
 
