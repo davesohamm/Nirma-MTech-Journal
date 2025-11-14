@@ -466,7 +466,77 @@ Topics covered from **Computer Networks**:
 
 ---
 
+## **Day 81 — 14 November 2025**
 
+- Before coming to college, I solved **one LeetCode problem**.
+- Reached college around **9:20 AM**.
+- From **9:20 AM to 11:40 AM**, we collected **soil moisture data** using the **Raspberry Pi + moisture detector** setup along with the **spectrometer**.
+- **Kaushal Bhaiya** explained **Linear Regression** and gave us a **complete research roadmap** for the next phases after data collection.
 
+---
+
+### **11:40 AM – 1:30 PM | DSA Lab (Proxy by Sumedha Ma’am)**
+- It was officially **DSA lab**, but **Sumedha Ma’am** came as proxy.
+- She was also with us in the morning for data collection at the botanical garden.
+- So she allowed us to **continue the research work** instead of doing lab exercises.
+- She evaluated other students but **gave marks to us without evaluation**, and I got **very good marks**!
+
+---
+
+### **1:30 PM – 2:25 PM | Recess**
+- During recess, we went for **afternoon soil data collection** in **direct sunlight and heat**.
+- I **didn’t have lunch** today.
+
+---
+
+### **2:25 PM – 3:30 PM | Data Science System Design (Monika Shah Ma’am)**
+- Ma’am taught some concepts today, but honestly I don’t know what exactly, because I was sitting in the last bench finishing my **Clock Synchronization lab practical**.
+
+---
+
+### **3:30 PM – 4:15 PM | Statistics (Swati Jain Ma’am)**
+- Ma’am solved multiple examples on **Kuhn-Tucker conditions** and the **Simplex Method**.
+- I couldn’t understand much — the lecture felt boring today.
+
+#### *Simplex Method (4–5 line explanation)*  
+- The **Simplex Method** is an optimization technique used for solving **Linear Programming Problems**.  
+- It works by moving from one **feasible solution** to another along the edges of a polytope.  
+- At each step, it improves the objective function (maximization or minimization).  
+- The algorithm terminates when it reaches a **vertex** where no further improvement is possible.  
+- It is widely used in **operations research**, **statistics**, and **machine learning optimization**.
+
+---
+
+### **4:30 PM – 5:00 PM | Practical Work**
+- Completed my **Clock Synchronization** practical.
+- After that, we again went for **evening soil data collection** in the botanical garden.
+- We finished by **6 PM**.
+
+- After that, I went to meet **Kaushal Bhaiya** — today was his **last day as JRF**.
+- He is joining **TOPS Technologies** from Monday.
+- Even though I’ve known him only for a few days, it felt like losing a **great mentor** and a **good friend**.
+- It was an **instant connection**, and the farewell felt **emotional**.  
+- He told me to **keep in touch**, and I surely will.
+
+---
+
+### **6:20 PM – 10:00 PM | A Very Special Evening ❤️**
+- After finishing, I went to the **Law canteen** and bought **2 KitKats** and **2 Doritos**.
+- Because guess what…  
+  **SHE WAS COMING TO COLLEGE TO MEET ME!! ❤️🥳**
+
+- She arrived around **7:30 PM**.
+- We sat in the **airport area near the great stairs**, ate KitKat and Doritos, talked, laughed…  
+  It felt really special 🥹✨
+- Then we tried to go see the botanical garden, but the security guard was sitting there.
+- So I showed her around the campus.
+- We sat near the **K canteen lobby**, watched people roaming around, talked, smiled, and had a great time.
+- She ordered a **Faasos wrap**, and we shared it — it was **veryyyy tasty**.
+- Around **10 PM**, we left for home.
+
+**The evening felt so, so, so special because of her.  
+Thank youuuu ❤️ Love youuuu ❤️**
+
+---
 
 
