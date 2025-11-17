@@ -539,4 +539,50 @@ Thank youuuu ❤️ Love youuuu ❤️**
 
 ---
 
+## **Day 82 — 17 November 2025 (Monday)**
+
+- Before going to college, I solved **one LeetCode problem**.
+- I also completed the **Robotic Arm PPT for patent work**, which is part of my **Teaching Assistant responsibilities**.
+
+---
+
+### **11:40 AM – 12:35 PM | Big Data Systems (JV Sir)**
+- Sir conducted the **evaluation for the Innovative Assignment**.
+- He pointed out that the paper should **not contain so many bullet points**.
+- Instead, we must write the content in a **proper paragraph format**, maintaining research flow.
+- We have to **submit the improved version before Friday**.
+
+---
+
+### **12:35 PM – 1:30 PM | Applied Machine Learning (NKP Sir)**
+- Sir explained the **final exam syllabus**.
+- Also introduced the **basic concept of Support Vector Machines (SVMs)**:
+  - SVMs are supervised learning models used for **classification and regression**.
+  - They try to find an **optimal hyperplane** that separates classes with **maximum margin**.
+
+---
+
+### **1:30 PM – 2:25 PM | Recess**
+- Went to **K-Block canteen**.
+- Ate **fried rice** and a **Milky Nougat bar**.
+
+---
+
+### **2:25 PM – 4:15 PM | Big Data Systems Lab (JV Sir)**
+- Sir instructed us to **submit all remaining lab practicals** in the **LMS portal**.
+- Assigned a **report on "Big Data on Cloud"**.
+- I completed and submitted the report **during lab time** itself.
+- After lab, we went to **Monika Shah Ma’am’s cabin** for **DSSD assignment submission**, but she was busy with supervision duty, so we returned.
+
+---
+
+### **4:30 PM – 6:20 PM | Library Work**
+- Sat in the **library** and worked on my **Statistics Innovative Assignment**.
+- My topic is:  
+  **"COVID Vaccine and Recovery Relationship in India"**
+- Completed major portions of the assignment with data insights and literature reference points.
+
+---
+
+
 
