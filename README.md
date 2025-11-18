@@ -584,5 +584,57 @@ Thank youuuu ❤️ Love youuuu ❤️**
 
 ---
 
+## **Day 83 — 18 November 2025**
+
+- Reached college and gave a **presentation to JV Sir** on the **patentable applications of Robotic Arm technology**.
+- Sir appreciated my effort and invited me to join him someday to visit the **Mechanical Workshop** to see the **robotic arms available in Nirma University** — exciting opportunity!
+- At **11:00 AM**, we went for **DSSD assignment submission**, but **Dr. Monika Shah Ma’am** was busy, so submission was postponed.
+
+---
+
+### **11:40 AM – 1:30 PM | Data Science System Design (Dr. Monika Shah Ma’am)**  
+Two combined lectures. Topics covered:
+
+| Concept | Explanation |
+|--------|-------------|
+| **Evolution** | Data formats evolve over time to support compatibility, performance, and improved data exchange capabilities. |
+| **Encoding / Decoding** | Converting data to a transferable format (encoding) and back to usable form (decoding) ensures reliable communication between systems. |
+| **Forward / Backward Compatibility** | Forward compatibility allows old systems to read new data; backward compatibility allows new systems to read old data. |
+| **MessagePack / BJSON** | A **binary encoding format for JSON**, offering faster serialization and smaller size than standard JSON. |
+| **Protocol Buffers** | A Google-developed binary serialization method, efficient for structured data and widely used in distributed systems. |
+| **Avro** | A serialization system used in Hadoop; supports dynamic schema resolution and compact binary format. |
+| **Thrift** | A cross-language serialization and RPC framework developed by Facebook, enabling scalable service communication. |
+| **REST** | A stateless communication style using HTTP, suitable for service-based data flow across the web. |
+| **RPC** | Remote Procedure Call—invokes functions on remote systems as if they are local, enabling fast internal service communication. |
+
+- I was sitting in the **last bench**, so I opened my laptop, solved **one LeetCode problem**, and completed **ProgCode Lab 9 & 10**.
+
+---
+
+### **1:30 PM – 2:25 PM | Recess**
+- Received a phone call from **Rajan**, inviting me to her sister’s **wedding** this **Saturday and Sunday**.
+
+---
+
+### **2:25 PM – 3:30 PM | DSA (Proxy Lecture)**
+- Proxy lecture; we were free.
+- I played **Assassin’s Creed** to pass the time.
+
+---
+
+### **3:30 PM – 4:15 PM | Statistics for Data Science (Swati Jain Ma’am)**
+- Ma’am solved **1–2 minimization problem examples** using the **Simplex Method**.
+- I still don’t clearly understand this topic — need to study it deeply later.
+
+---
+
+### **4:30 PM – 6:20 PM | ProgCode Lab Exam**
+- Had to solve **5 DSA problems** within the time limit.
+- During the exam, there was a **global Cloudflare outage**, causing major services like **Twitter** and other platforms to go down.
+- Due to this disruption, we received an additional **20 minutes**.
+- I managed to **solve all 5 problems** successfully!
+- Among all **three M.Tech branches (CSE, Cybersecurity, and Data Science)**, I was the **only student** who solved all problems — feeling proud and motivated!
+
+---
 
 
