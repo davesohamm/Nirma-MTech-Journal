@@ -637,4 +637,51 @@ Two combined lectures. Topics covered:
 
 ---
 
+## **Day 84 — 19 November 2025**
+
+- Reached college around **10:00 AM**.
+- Sat in the **library** and solved **one LeetCode problem**.
+- Worked on the **remote access task** that JV Sir assigned me.
+- Today, I finally received access to the **Nirma-WiFi-N** network — the **high-speed internal network** of our university, and very few students get access to it!  
+  All thanks to **JV Sir**!
+
+---
+
+### **11:40 AM – 1:00 PM | DSSD Innovative Assignment Submission**
+- Went to **Monika Shah Ma’am’s cabin** to submit the **Data Science System Design Innovative Assignment**.
+- The submission process took time, but we **completed it by around 1 PM**.
+
+---
+
+### **No Lectures Today — 34th Convocation of Nirma University**
+- There were **no academic lectures** because today was the **34th Convocation Ceremony** of Nirma University.
+
+---
+
+### **1:00 PM – 2:00 PM | Lunch**
+- Finished lunch and headed back to the **library**.
+
+---
+
+### **2:00 PM – 6:00 PM | Library Time**
+- Watched some **YouTube videos** for a while.
+- Explored different books available in the library.
+- Surprisingly found **Manga comics**!
+- Came across the novel **"The Hidden Hindu" by Akshat Gupta**.
+- Started reading it and continued till around **5:00 PM**.
+- The book felt quite **boring**, and I almost fell asleep.
+- By **6:00 PM**, I had actually dozed off while reading 😭.
+- I initially wanted to read all **three parts**, but I got bored in the first part itself.
+
+---
+
+### **6:20 PM – Going Home**
+- Woke up, packed my things, and left for home.
+- While returning, I watched the **Convocation Ceremony**.
+- It was such an **overwhelming and inspiring experience** seeing students receive their medals and degrees.
+- I promised myself:
+  > **One day, I will stand on that stage with a gold medal after my M.Tech — with pride in my parents’ eyes and beautiful memories with friends.**
+
+---
+
 
