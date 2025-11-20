@@ -684,4 +684,95 @@ Two combined lectures. Topics covered:
 
 ---
 
+## **Day 85 — 20 November 2025**
+
+- Reached college at **10:00 AM**.
+- Solved **one LeetCode problem** in the morning.
+- Took **remote access** of the Hadoop PC as part of my **TA work**.
+
+---
+
+### **11:40 AM – 12:35 PM | Statistics (Proxy by Monika Shah Ma’am — DSSD Lecture)**
+Since Swati Jain Ma’am was absent, **Monika Shah Ma’am** took over and taught **Data Science System Design**:
+
+- **Distributed Data Concepts:** Principles of managing data across multiple machines.
+- **Shared Memory / Shared Disk:** Two architectural models for coordinating data access across systems.
+- **Horizontal / Vertical Scaling:** Increasing capacity by adding machines (horizontal) or upgrading hardware (vertical).
+- **Replication:** Keeping multiple copies of data for availability and fault tolerance.
+- **Leader-based Replication:**  
+  - Single leader / multiple leader / leaderless architecture.  
+  - **Leader Failure → Leader Election** takes place.  
+  - **Follower Failure → Catch-up using logs** to sync missed writes.
+
+---
+
+### **12:35 PM – 1:30 PM | Capstone Course (DBMS Revision Session)**
+Revised major DBMS concepts:
+
+- What is **data** and what is a **database**
+- **DDL, DML, DCL, TCL**
+- **Relational Algebra** and **Relational Calculus**
+- **Types of Keys**  
+- **Functional Dependency**
+- **Normalization** (1NF → BCNF)
+- **Insert/Update/Delete anomalies**
+- **Projection-Join Normal Form (PJNF)**
+
+A full revision of all DBMS fundamentals.
+
+---
+
+### **1:30 PM – 2:25 PM | Recess**
+
+---
+
+### **2:25 PM – 3:20 PM | Applied Machine Learning (NKP Sir)**
+- Continued with **Support Vector Machines (SVMs)**.
+- Covered:
+  - Concept of **norm** and **unit vector**
+  - Geometry behind the **maximum-margin hyperplane**
+  - Derived the formula for **maximizing street width** in SVM classification.
+
+---
+
+### **3:20 PM – 4:15 PM | Capstone Test (Computer Networks + Operating Systems)**
+- Had the capstone MCQ test for **CN + OS**.
+- The paper was **average**; tried my best.
+
+- After the test, visited **Ankit Thakkar Sir’s cabin** to get **DSA sessional marks**.  
+  I got **34/50** — not very happy because others scored better.  
+  **I promise to work hard for the final exams.**
+
+---
+
+### **4:30 PM – 5:15 PM | Big Data Systems (JV Sir)**
+Sir introduced **Cassandra**:
+
+- A **column-based NoSQL database** inspired by Amazon Dynamo & Google Bigtable.
+- Uses **peer-to-peer symmetric nodes**, not master–slave architecture.
+- Covered:
+  - Read/Write operations
+  - **Tunable consistency levels**
+  - **Hinted Handoff** through hints table
+  - **CQL** (syntax, data types, CRUD commands)
+  - **CQLSH** usage: keyspace, tables, sets, lists, maps
+  - **TTL (Time-to-Live)** for data expiry
+  - Import/export **CSV data** using Cassandra tools
+
+---
+
+### **5:30 PM – 6:50 PM | Library Work**
+- Sat in the **library** and modified my **BDS Term Paper**.
+- Submitted it to **JV Sir** via email.
+
+---
+
+### **6:50 PM – Night | A Strange & Scary Moment**
+- She called me, so I left the library while talking to her.
+- While walking home through a **dark internal road** inside campus, I saw a **girl walking very strangely** — extremely slow, odd posture, looked **horror-like**. 🥶
+- My **bones literally chilled**.  💀💀
+- I told her (on call) what I saw, and she asked me to **record the walk**, so I did.
+- Later we continued talking normally, and I reached home safely.
+
+---
 
