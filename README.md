@@ -776,3 +776,51 @@ Sir introduced **Cassandra**:
 
 ---
 
+## **Day 86 — 21 November 2025 (Friday)**
+
+- Reached college at **10:00 AM**.
+- Sat on the **ISRO Precision System PC** and tried installing **Hadoop** on it.
+- Solved **one LeetCode problem** during this time.
+
+---
+
+### **11:40 AM – 12:35 PM | Data Science System Design (Monika Shah Ma’am)**
+- Sat on the **last bench**.
+- Solved some **SQL queries on LeetCode**.
+- Discussed **dropshipping and freelancing** with Ayush.
+- Honestly, I have no idea what Ma’am taught today 😅.
+
+---
+
+### **12:35 PM – 1:30 PM | Statistics (Swati Jain Ma’am)**
+- Ma’am continued solving more examples on the **Simplex Method**.
+- Still felt repetitive and difficult to follow.
+
+---
+
+### **1:30 PM – 2:25 PM | Recess**
+
+---
+
+### **2:25 PM – 6:20 PM | Library (7th Floor)**
+- Since there was **no academic load** today, I stayed in the library.
+- Watched **The Family Man – Season 3, Episodes 1 & 2**.
+- JV Sir called and asked me to **present the robotic arm PPT to Swati Ma’am**.
+- I lied to him saying I had already left for home since there was no academic work today.  
+  He said, “No problem, we’ll see on Monday.”
+
+- I also did something I personally consider a **wrong act / moral mistake** on campus.  
+  It made me feel guilty because the college is a **place of knowledge and respect**, and I should never do such things here.  
+  I promise myself to **never repeat it again**.
+
+---
+
+### **After 6:20 PM – Leaving College**
+- Left college feeling a bit **low and guilty** because of my actions.
+- On a positive note, this weekend I'm attending **Rajan’s sister’s wedding**.
+- I will meet her again! Hoping to be **good**, calm, and happy for these two days.  
+- Let’s try to **enjoy the weekend**!
+
+---
+
+
