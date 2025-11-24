@@ -822,5 +822,63 @@ Sir introduced **Cassandra**:
 - Let’s try to **enjoy the weekend**!
 
 ---
+Had so much fun this weekend !! ❤️🥳 and now i miss you ❤️
+---
+
+## **Day 87 — 24 November 2025 (Monday)**
+
+- Reached college at **10:20 AM**.
+- Installed **Hadoop 3.4.6** on the PC with IP address **10.1.3.190** — a TA task assigned by **Jaiprakash Verma Sir**.
+
+---
+
+### **11:40 AM – 12:35 PM | Big Data Systems (JV Sir)**
+- Sir taught **Neo4j**, a popular **graph database** system.
+- **Neo4j** stores information as **nodes**, **relationships**, and **properties**, making it ideal for highly connected data.
+- It uses the **Cypher query language**, which is expressive, intuitive, and easy to learn.
+- Supports **ACID transactions**, making it reliable for enterprise-level applications.
+- Excellent for use-cases like **recommendation systems**, **social networks**, **fraud detection**, and **knowledge graphs**.
+- Sir instructed us to perform **CRUD operations** in Neo4j and **present them tomorrow**.
+
+---
+
+### **12:35 PM – 1:30 PM | Applied Machine Learning (NKP Sir)**
+- Sir continued with **Support Vector Machines (SVM)**.
+- Covered:
+  - **Lagrangian primal and dual formulations**
+  - Mathematical **derivations** for SVM optimization
+  - **Kuhn–Tucker (KKT) Conditions** for SVM:
+    1. **Primal feasibility:** All constraints must be satisfied.  
+    2. **Dual feasibility:** Lagrange multipliers must be ≥ 0.  
+    3. **Complementary slackness:** Multiplier × constraint = 0.  
+    4. **Stationarity condition:** Gradient of Lagrangian w.r.t. parameters = 0.  
+
+---
+
+### **1:30 PM – 2:25 PM | Recess**
+
+---
+
+### **2:25 PM – 4:15 PM | Big Data Systems Lab (JV Sir)**
+- Performed **Neo4j CRUD operations** practically.
+- Gave my **Robotic Arm Patentable Applications** presentation in front of **JV Sir** and **Swati Jain Ma’am**.
+- Swati Ma’am also shared her suggestions.
+- JV Sir proposed visiting the **Mechanical Workshop** to explore existing robotic arms.
+- Meanwhile, **Ankit Thakkar Sir** announced **Term Paper marks** —  
+  I got **35/40**.  
+  Slightly less than the effort I put in, but still happy with the result!
+
+---
+
+### **4:20 PM – 6:00 PM | Library Work**
+- Sat in the library and:
+  - Finished all **DSA submissions**.
+  - Uploaded **term paper submissions** on the LMS portal.
+  - Improved the **Statistics Term Paper** in the Google Colab notebook.
+- Left the library at **6:00 PM** because I had to attend a **reception with Didi at night**.
+
+---
+
+
 
 
