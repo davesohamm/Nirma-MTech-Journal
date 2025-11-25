@@ -879,6 +879,64 @@ Had so much fun this weekend !! ❤️🥳 and now i miss you ❤️
 
 ---
 
+## **Day 88 — 25 November 2025**
+
+- Reached college at **10:00 AM**.
+- Went with **Jaiprakash Sir** to visit the **Robotics Lab** in the Mechanical Department to explore the robotic arms available there.
+- I was **stunned** — the lab had amazing robotic equipment and multiple advanced robotic systems.
+- Since **Jatin Dave Sir** wasn’t present at that time, we returned and scheduled an **appointment for 1:30 PM**.
+- Later, while trying to toggle remote access of the **10.1.3.190 PC**, I accidentally did something that **broke its GNOME environment** — a big mistake.
+
+---
+
+### **11:40 AM – 12:35 PM | Big Data Systems (JV Sir)**
+- Sir didn’t teach anything because the **syllabus is completed**.
+- I used the time to revise my **Statistics PPT** for the presentation scheduled today.
+
+---
+
+### **12:35 PM – 1:30 PM | DSSD (Skipped)**
+- I **skipped Monika Shah Ma’am’s lecture** and had lunch early because I had to meet JV Sir at **1:30 PM** for our robotics appointment.
+- Reached Sir’s cabin at 1:30 PM, but he was still having lunch.
+- Around **2:00 PM**, we went to the **Robotics Lab** again.
+
+---
+
+### **2:00 PM – 3:00 PM | Robotics Lab Visit (Mechanical Department)**
+- Met **Jatin Dave Sir**, who is extremely enthusiastic, knowledgeable, and supportive.
+- Discussed various robotics projects and possibilities.
+- He showed us many robots, including:
+  - **Industrial Robotic Arm**
+  - **Stage-Following Robot**
+  - **IR Remote-Controlled Robot Car**
+  - **Octopus-like Six-Legged Robot**
+  - **Quadruped (4-Legged) Robot**
+  - **Humanoid-like Robot**
+  - **Ladder-Climbing Robot**
+- Out of all these, we selected the **Ladder-Climbing Robot**, because:
+  - It recently received **patent approval**
+  - Jatin Sir personally oversees all work related to it
+- We are planning to implement **Computer Vision + Reinforcement Learning** on this robot.
+- I need to **form a project team tonight** and submit the **project scope by tomorrow**.
+- I felt incredibly **excited, motivated, and inspired** for this project.
+
+---
+
+### **3:20 PM – 4:15 PM | Statistics (Swati Jain Ma’am)**
+- Ma’am conducted **presentation evaluations** one by one.
+
+---
+
+### **4:30 PM – 6:20 PM | Statistics Lab (Swati Jain Ma’am)**
+- Presentations continued in the lab session.
+- I delivered my **Statistics project presentation**.
+- Ma’am gave constructive and encouraging feedback.
+- She was **happy with my project**, and I scored **19/20** — very satisfied!
+
+---
+
+
+
 
 
 
