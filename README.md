@@ -935,7 +935,48 @@ Had so much fun this weekend !! ❤️🥳 and now i miss you ❤️
 
 ---
 
+## **Day 89 — 26 November 2025**
 
+- Reached college around **10:10 AM**.
+- Solved **one LeetCode problem** in the morning.
+- **Khushi** came to discuss the robotics project; I explained everything to her, but she **refused to join the team**.
+- Now I still need **one more team member**.
+- While sitting in the lab, I continued understanding the **Ladder-Climbing Robot** concept.
+- **Jaiprakash Sir** came by and asked what I was doing; we discussed the robot project for a while.  
+  He is **very positive and confident** about this project.
+
+---
+
+### **11:40 AM – 1:30 PM | Data Science System Design Lab (Monika Shah Ma’am)**
+- Started working on a **Web Scraping REST API-based News Portal**, following Ma’am’s instructions.
+- Also helped in **setting up the environment** on all lab PCs for next week’s **LPW exam**.
+
+---
+
+### **1:30 PM – 2:25 PM | Recess**
+
+---
+
+### **2:25 PM – 3:20 PM | Applied Machine Learning (NKP Sir)**
+- Sir taught:
+  - **Soft-Margin SVM**
+  - **Kuhn–Tucker (KKT) conditions** for soft-margin optimization
+- He also completed the explanation of **hard-margin SVMs**.
+
+---
+
+### **3:20 PM – 4:15 PM | DSA (Ankit Sir)**
+- The lecture was **free time**.
+- I completed my **News Portal project** and shared the **ZIP file** with friends.
+
+---
+
+### **4:30 PM – 6:20 PM | Applied Machine Learning Lab (NKP Sir)**
+- Implemented **Support Vector Machines (SVM)** using **scikit-learn**.
+- Understood the concept of **GridSearch** for hyperparameter tuning.
+- After finishing the lab work, I explored all **ProgCode exam problems**, because tomorrow morning we have the **ProgCode exam** in **W507 Lab, 9:50 AM – 11:40 AM**.
+
+---
 
 
 
