@@ -978,6 +978,68 @@ Had so much fun this weekend !! ❤️🥳 and now i miss you ❤️
 
 ---
 
+## **Day 90 — 27 November 2025**
+
+- Reached college at **9:30 AM** for the **ProgCode exams (9:50–11:40 AM)**.
+- I scored **5/5** — very happy and satisfied!
+
+---
+
+### **11:40 AM – 12:35 PM | Statistics (Swati Jain Ma’am)**
+- Ma’am taught the **Gradient Descent** method for finding minima.
+- Covered:
+  - **Stopping criteria** for gradient descent
+  - A critical question: *Why can't we select J(θ) itself as a stopping criteria?*
+  - **Momentum**  
+  - **Nesterov Momentum**
+  - **Adaptive Learning Rate methods**:
+    - **AdaGrad**
+    - **RMSProp**
+    - **Adam** = RMSProp + Momentum
+- It was a very important lecture for optimization.
+
+---
+
+### **12:35 PM – 1:30 PM | Capstone Course (Skipped)**
+- We skipped the Capstone lecture and had lunch instead.
+
+---
+
+### **1:30 PM – 2:25 PM | Recess / Leisure Time**
+
+---
+
+### **2:25 PM – 3:20 PM | Applied Machine Learning (NKP Sir)**
+- Continued **SVM soft-margin** derivations.
+- Covered:
+  - **KKT conditions** for *primal Lagrangian* of soft-margin SVM.
+  - Derived the **dual Lagrangian maximize function** and the **subject-to constraint**.
+- **Key Difference (Soft-margin vs Hard-margin SVM in the dual form):**
+  - Hard-margin SVM:  
+    → αᵢ ≥ 0  
+  - Soft-margin SVM (with slack variables):  
+    → **0 ≤ αᵢ ≤ C**
+- Also taught:
+  - **Hinge Loss** and its formula.
+  - **Hinge Loss Minimization**.
+  - **Non-linear SVMs** using kernels:
+    - Polynomial kernel
+    - Gaussian (RBF) kernel
+
+---
+
+### **3:20 PM – 4:15 PM | DSA (Ankit Sir)**
+- Free lecture.
+- I built an **online C++ compiler** that automatically gives solutions to ProgCode exam problems.  
+  Check it out here: **onliinecompiler.github.io/cpp**
+
+---
+
+### **4:30 PM – 5:15 PM | Big Data Systems (JV Sir)**
+- Sir evaluated our **Neo4j presentations** for CRUD operations.
+- We demonstrated all the operations successfully.
+
+---
 
 
 
