@@ -1041,5 +1041,67 @@ Had so much fun this weekend !! ❤️🥳 and now i miss you ❤️
 
 ---
 
+## **Day 91 — 28 November 2025**
+
+### **11:40 AM – 1:30 PM | DSA Lab (Ankit Thakkar Sir)**
+- The lab session was **free**.
+- I used the time to **prepare for my Applied Machine Learning (AML) research paper presentation**.
+
+---
+
+### **1:30 PM – 2:25 PM | Recess**
+
+---
+
+### **2:25 PM – 3:20 PM | System Design (Gaurang Sir)**
+- Sir taught **Microservices** in detail.
+- Reference links shared by Sir:
+  - https://github.com/GoogleCloudPlatform/microservices-demo  
+  - https://github.com/TheWhitePiece/train-ticket  
+  - https://github.com/FudanSELab/train-ticket  
+  - https://github.com/mudigal-technologies/microservices-sample  
+
+#### **Topics Covered:**
+- **Monolith Architecture**  
+  - Tight coupling vs loose coupling  
+  - Benefits & characteristics of both  
+- **Cloud-Native Applications**  
+- **Definition of Microservices:**  
+  *"Loosely coupled service-oriented architecture with bounded contexts."*
+- **Philosophy of Microservices:**  
+  *"Do one thing, and do it well."*
+
+The lecture gave great clarity on scaling, system separation, and modern backend architecture.
+
+---
+
+### **3:20 PM – 4:15 PM | Statistics (Swati Jain Ma’am)**
+- Ma’am taught:
+  - **Adam Optimizer**
+  - **Learning rate decay**
+  - Introduction to **Markov Decision Process (MDP)**
+- She also announced **Sessional exam marks** →  
+  I scored **42/50** 🎉  
+  Feeling very happy!!
+
+---
+
+### **End of the Day**
+- Today is the **last day of the month**, and the best part…
+- **We are meeting!!** 😍  
+- I am staying with her for the **whole weekend**.
+- We’re attending **Tirth’s sister’s wedding** for two days.
+- It’s going to be full of **fun, time together, and happiness** ❤️
+
+---
+
+**Weekend:** We had so much precious time together, watched Laila Majnu. and enjoyed great food, with the best memories of this year !! 🤌🏻🤌🏻 Missing you a lot now. ❤️
+
+---
+
+## 📌 End of November Journals
+✨ Thank you for staying consistent throughout the month! ✨  
+
+
 
 
