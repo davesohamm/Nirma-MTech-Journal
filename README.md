@@ -35,4 +35,55 @@
 
 ---
 
+## **Day 95 — 2 December 2025** (Tuesday)
+
+### **9:30 AM – 11:30 AM | Statistics LPW Exams**
+- Reached college **early today**.
+- The exam involved performing **EDA** and **ANOVA** on the dataset:  
+  🔗 https://raw.githubusercontent.com/GTPB/PSLS20/master/data/NHANES.csv  
+- I completed the entire analysis in Google Colab.  
+  My work:  
+  🔗 https://colab.research.google.com/drive/11mKsJHo8qd3gtsZkF4GtOKOa7RHslHOt  
+- **Exams went well** — felt confident about the analysis and results.
+
+---
+
+### **11:40 AM – 12:35 PM | Break (E1106C Classroom)**
+- Sat in **E1106C** with classmates.
+- Passed some time casually after the exam.
+
+---
+
+### **12:35 PM – 1:30 PM | Data Science System Design (Monika Shah Ma’am)**
+- Topics covered:
+  - **Service Discovery**
+  - **Orchestration**
+  - **Airflow**
+  - **Data Pipeline Structure**
+- Ma’am also informed us that tomorrow’s LPW exam will include:  
+  **Redis, REST, GraphQL**.
+
+---
+
+### **1:30 PM – 2:25 PM | Recess**
+- Had lunch **alone on the great stairs**.
+- Spent some quiet time recharging.
+
+---
+
+### **2:25 PM – 6:00 PM | Library Study Session**
+- Studied **Support Vector Machines (SVM)**:
+  - **Hard Margin**
+  - **Soft Margin**
+- A long and focused study session.
+
+---
+
+### **End of the Day**
+- Made up my mind with a new mindset:  
+  **“Ready, shoot, aim.”**  
+  Start first. Perfect later.  
+  The grind begins *now*.
+
+---
 
