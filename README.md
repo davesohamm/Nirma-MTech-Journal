@@ -87,3 +87,69 @@
 
 ---
 
+## **Day 96 — 3 December 2025** (Wednesday)
+
+### **10:00 AM – 11:40 AM | Morning Session**
+- Reached college at **10 AM**.
+- Solved **one LeetCode problem** to warm up.
+- Practiced for the **DSSD LPW exams**.
+
+---
+
+### **11:40 AM – 1:30 PM | Data Science System Design LPW Exams (Monika Shah Ma’am)**
+- Implemented **E-commerce REST API endpoints**.
+- Added **caching** and **API versioning** features.
+- The exam felt practical and hands-on.
+
+---
+
+### **1:30 PM – 2:25 PM | Recess**
+
+---
+
+### **2:25 PM – 3:20 PM | Applied Machine Learning (NKP Sir)**
+- Sir shared the **final exam syllabus**.
+- Highlighted **important topics** for preparation.
+- Useful guidance for upcoming evaluations.
+
+---
+
+### **3:20 PM – 4:15 PM | DSA Lecture (Skipped)**
+- Skipped the lecture.
+- Went to the lab to **practice for AML LPW exams**.
+
+---
+
+### **4:30 PM – 5:40 PM | Applied Machine Learning LPW Exams (NKP Sir)**
+- Implemented **SVC on the Breast Cancer dataset**.
+- Tuned hyperparameters:
+  - `gamma`
+  - `C`
+  - `kernel = 'rbf'`
+- **Viva was okay-ish**; forgot a few concepts.
+- While checking someone else’s screen, **Vishal Parikh sir** noticed and took my evaluation.
+  - I fumbled a bit.
+  - Thought I might get **18/20**, but…  
+  - Realized I need to dive deeper into fundamentals like:
+    - `stratify=y`  
+    - `random_state=42`  
+    - `roc_auc_score`  
+    - train-test splitting logic  
+    - and more.
+
+---
+
+### **Evening Reflection**
+- Felt **disheartened** after the AML viva.
+- While returning home at sunset, I placed my bag in the empty **football ground** and took a walk in the garden **alone**.
+- Found the **conch shell** I had hidden earlier near a tree — took it as a **sign from God**.
+- Spent some time thinking and rediscovering my resolve.
+
+---
+
+### **End of the Day**
+- Decided firmly: **I will perform my best.**
+- If I set my mind to something, *nothing can stop me*.  
+- I just need a little inertia — **then boom**.  🔥
+- Returned home determined to study hard for the **DSA LPW exams** and prepare all programs well.
+
