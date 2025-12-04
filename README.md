@@ -153,3 +153,42 @@
 - I just need a little inertia — **then boom**.  🔥
 - Returned home determined to study hard for the **DSA LPW exams** and prepare all programs well.
 
+---
+
+## **Day 97 — 4 December 2025** (Thursday)
+
+### **10:30 AM – 1:30 PM | Morning at College**
+- Reached college around **10:30 AM**.
+- Saw an email from **Dr. Monika Shah Ma’am** instructing us to upload **DSSD Practicals 6 to 10** on LMS.
+- Dev and Harsh called me from the **4th-floor library** (I was on the 8th floor).
+- Went downstairs, met them, and discussed the **DSSD submission**.
+- We completed and uploaded everything on **LMS**.
+- Returned to the 8th floor and watched **2 episodes of *The Family Man* Season 3**.
+
+---
+
+### **1:30 PM – 2:25 PM | Recess**
+
+---
+
+### **2:25 PM – 4:15 PM | Afternoon**
+- Watched **2 more episodes** of *The Family Man* Season 3.
+- **Completed the entire season** — a really good series.
+
+---
+
+### **4:15 PM – 6:15 PM | Personal Low Point**
+- Remember last month when I wrote that I did something in college that I deeply regret?  
+  **I did it again today.**
+- Felt terrible, guilty, and disappointed in myself.
+- Went home around **6:20 PM** with a heavy mind.
+
+---
+
+### **7:00 PM | Satyanarayan Katha at Home**
+- We had **Satyanarayan Katha** at home in the evening.
+- Hoping it brings **some clarity, peace, and good direction** into my life.
+
+---
+
+
