@@ -191,4 +191,73 @@
 
 ---
 
+## **Day 98 — 5 December 2025** (Friday)
+
+### **Before College**
+- Solved **one DSA problem** in the morning — a good start to the day.
+
+---
+
+### **10:30 AM – 11:40 AM | Preparation**
+- Reached college around **10:30 AM**.
+- Revised and prepared for the **DSA LPW exams**.
+
+---
+
+### **11:40 AM – 12:20 PM | DSA LPW Exams**
+- The problem given in the exam was:  
+  🔗 https://leetcode.com/problems/longest-nice-substring/description/
+- I solved it **before 12:20 PM**.
+- Sir evaluated my solution and… **boom! It was over quickly**.
+- Also, I made something cool — check it out 😜  
+  🔗 https://onliinecompiler.github.io/pypy/  
+  *(It's magic!)*
+
+---
+
+### **1:00 PM – 2:25 PM | Recess**
+
+---
+
+### **2:25 PM – 3:00 PM | System Design (Cancelled)**
+- Went to **W408** for Gaurang sir’s special lecture.
+- No one was there.
+- Called Jenil — he said the lecture was **cancelled** because no students showed up.
+- Sir will upload the material to **LMS**, and we have to prepare on our own.
+
+---
+
+### **3:00 PM – 6:00 PM | Library**
+- Sat in the library.
+- Watched some old videos on my phone.
+- Passed time on YouTube — a relaxed, unproductive but peaceful afternoon.
+
+---
+
+### **7:00 PM – 10:00 PM | The Best Part of the Day ❤️**
+- **She came!!!** ❤️😍  
+- We went to the **Law Canteen**:
+  - Had **pink sauce pasta**
+  - Talked for a while  
+- Then to **Gwalia Canteen**:
+  - Had **Margherita pizza** and **Maggi**
+  - Spent a beautiful time talking, laughing, and enjoying the moment  
+- I showed her the cool things I made:  
+  🔗 https://onliinecompiler.github.io/pypy/  
+  🔗 https://onliinecompiler.github.io/cpp/  
+  She was **awestruck** lol 😆
+
+- Around **10 PM**, we left the college.  
+  It was **emotional, mesmerizing, and truly special** 🥹  
+  I’m going to miss her for the rest of the week.
+
+---
+
+### **End of the Day**
+- I won’t be coming to college until **11th December**.
+- Final written exams are from **11th to 17th December**.
+- Time to prepare seriously.
+
+**See you soon — I’m going to study hard and give my best!! 💪📚**
+
 
