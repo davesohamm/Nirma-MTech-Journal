@@ -260,4 +260,43 @@
 
 **See you soon — I’m going to study hard and give my best!! 💪📚**
 
+---
+
+## **Day 104 — 11 December 2025** (Thursday)
+
+### **10:10 AM | Reached College**
+- First day of **Semester End Examination – Sem 1**.
+- Reached college around **10:10 AM**.
+
+---
+
+### **10:15 AM – 10:45 AM | Account Section Visit**
+- Went to the **13th floor Account Section** to submit a cheque of **₹3450** for the *Placement Training Camp*.
+- They **refused to accept** it, saying they were unaware of such a camp.
+- Probably an **internal communication gap**.
+- I’ll try again tomorrow — hopefully it gets resolved before the submission deadline.
+
+---
+
+### **11:00 AM – 1:10 PM | Library Revision**
+- Sat in the library and revised **Applied Machine Learning** concepts.
+- A solid, focused revision session right before the exam.
+
+---
+
+### **2:00 PM – 5:00 PM | Applied Machine Learning SEE Exam**
+- Gave the **Applied Machine Learning Semester End Exam**.
+- Question paper link:  
+  🔗 https://github.com/davesohamm/Nirma-Papers/blob/main/AML_SEE_Q.pdf
+- The paper went **good**!!
+- Happy with my preparation — confident about the results.
+
+---
+
+### **End of the Day**
+- Returned home early because it's **Mom-Dad’s anniversary** today!  
+-  🎉❤️
+
+
+
 
