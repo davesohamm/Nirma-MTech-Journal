@@ -297,6 +297,87 @@
 - Returned home early because it's **Mom-Dad’s anniversary** today!  
 -  🎉❤️
 
+---
 
+## **Day 105 — 12 December 2025** (Friday)
+
+### **10:10 AM | Reached College**
+- Reached college around **10:10 AM** and went straight to the library.
+
+---
+
+### **10:10 AM – 1:00 PM | Library Revision**
+- Revised the entire **Big Data Systems** syllabus.
+- A solid and focused session before the exam.
+
+---
+
+### **1:00 PM – 1:30 PM | Lunch Break**
+
+---
+
+### **1:30 PM – 2:00 PM | Before Exam**
+- Reached the exam hall.
+- Talked with friends and calmed my mind before the paper.
+
+---
+
+### **2:00 PM – 5:00 PM | Big Data Systems SEE Exam**
+- Attempted the **Big Data Systems Semester End Exam**.
+- Paper link:  
+  🔗 https://github.com/davesohamm/Nirma-Papers/blob/main/BDS_SEE_Q.pdf
+- Paper went **good**! Feeling satisfied and happy.
+
+---
+
+### **5:10 PM | The Best Surprise ❤️**
+- SHE CALLED…  
+  AND GUESS WHAT??  
+  **SHE CAME TO COLLEGE TO SURPRISE ME!!!** 😭❤️
+- She brought:
+  - 🍫 Chocolates  
+  - 🥤 Storia Shake  
+  - ☕ Latte Iced Coffee  
+- I also brought **Lotte Pepero chocolates** for her 🥰  
+- Today was extra special — exactly **4 years ago**, on this same day, she texted me for the first time.  
+  Looking back at that moment feels emotional and beautiful.
+
+---
+
+### **Evening with Her ❤️**
+- We sat in **Gwalia Canteen**, talked, laughed, and enjoyed the moment.
+- I had to submit my resume for the **Analog Devices Inc.** placement drive.
+- We refined the resume **together** and submitted it on time.  
+  Felt so good to have her support.
+
+---
+
+### **8:30 PM | Reached Home**
+- Went home with papa around **8:30 PM**.
+- Still feeling so special — she is truly a loving and supportive person.
+
+---
+
+### **Placement Cheque Update**
+- Remember the cheque rejection issue?  
+  The account section **refused again today**.
+- So I paid using the **Paytm bank transfer** option.
+
+---
+
+### **9:00 PM | Aptitude Test for Analog Devices Inc.**
+- The company conducted an aptitude round.
+- **10 MCQs — 25 minutes**.
+- I attempted **9/10**.
+- You can find **8 out of 10 questions with answers** here:  
+  🔗 https://drive.google.com/file/d/1mGxfiaYarsXlQAiGQHj5kQAj3SEcAc7L/view?usp=drive_link
+
+---
+
+### **End of the Day**
+- A **great** day in every way — exams, surprise, placement work, and memories.
+- Now waiting for the results!
+
+---
 
 
