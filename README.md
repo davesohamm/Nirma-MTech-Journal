@@ -380,4 +380,35 @@
 
 ---
 
+## **Day 108 — 15 December 2025** (Monday)
+
+### **10:10 AM | Reached College**
+- Reached college around **10:10 AM**.
+
+---
+
+### **10:10 AM – 1:35 PM | Library Revision**
+- Sat in the library and revised the **entire Data Structures and Algorithms (DSA) syllabus**.
+- Tried to cover everything one last time before the exam.
+
+---
+
+### **2:00 PM – 5:00 PM | Data Structures and Algorithms SEE Exam**
+- Appeared for the **DSA Semester End Examination**.
+- Question paper link:  
+  🔗 https://github.com/davesohamm/Nirma-Papers/blob/main/DSA_SEE_Q.pdf
+- The paper **did not go well**.
+- I forgot many methods and approaches.
+- Feeling **very disappointed and low**.
+
+---
+
+### **End of the Day**
+- I had time to prepare, but I **wasted it**, and this realization hurts the most.
+- Right now, I’m **scared and anxious** about my CGPA.
+- I really hope I get a **good CGPA** so that I can **sit for placements**.
+- This phase hurts — but it’s also a reminder to **never repeat the same mistakes**.
+
+---
+
 
