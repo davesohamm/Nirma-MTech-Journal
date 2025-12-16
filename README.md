@@ -411,4 +411,38 @@
 
 ---
 
+## **Day 109 — 16 December 2025** (Tuesday)
+
+### **10:30 AM | Reached College**
+- Reached college around **10:30 AM**.
+
+---
+
+### **10:30 AM – 1:40 PM | Library Revision**
+- Sat in the **8th-floor library cubicle**.
+- Revised **all topics of Statistics for Data Science (SDS)** thoroughly.
+- Stayed focused and calm before the exam.
+
+---
+
+### **2:00 PM – 5:00 PM | Statistics for Data Science SEE Exam**
+- Appeared for the **SDS final examination**.
+- Question paper link:  
+  🔗 https://github.com/davesohamm/Nirma-Papers/blob/main/SDS_SEE_Q.pdf
+- The paper went **okay-ish**.
+- Many students felt it was **very tough**, so overall I feel **relieved and satisfied**.
+
+---
+
+### **Good News from Yesterday 🎉**
+- Yesterday, I won a college quiz called **“Know Your Library”**.
+- The quiz was organized because **Nirma Knowledge Center (our library) completed 1 year** 🎂.
+- It was the **first birthday of the library**, and the quiz was all about library, it's timings, rules, reading room availability, etc.
+- I answered **all questions correctly** and won the quiz!
+- Certificate:  
+  🔗 https://drive.google.com/file/d/15j7VXwKbTJ93CcSXqZRZSCi0EHZPZhvM/view?usp=drive_link
+
+---
+
+
 
