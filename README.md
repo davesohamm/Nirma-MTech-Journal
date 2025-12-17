@@ -444,5 +444,63 @@
 
 ---
 
+## **Day 110 — 17 December 2025** (Wednesday)
+
+### **10:20 AM | Reached College**
+- Reached college around **10:20 AM**.
+
+---
+
+### **10:30 AM – 1:30 PM | Library Revision**
+- Sat in the library and revised the **entire Data Science System Design (DSSD)** syllabus.
+- Stayed focused and calm, knowing this was the **last exam of the semester**.
+- While studying, followed the news about **bomb threats in Ahmedabad schools**.
+  - Many schools declared holidays.
+  - Bomb squads checked schools thoroughly.
+  - A tense atmosphere, even while sitting quietly in the library.
+
+---
+
+### **2:00 PM – 5:00 PM | Data Science System Design SEE Exam**
+- Appeared for the **DSSD Semester End Examination**.
+- Question paper link:  
+  🔗 https://github.com/davesohamm/Nirma-Papers/blob/main/DSSD_SEE_Q.pdf
+- The paper went **good**.
+- Feeling **satisfied and relieved**.
+
+---
+
+### **5:00 PM – 6:00 PM | Post-Exam Moments**
+- Helped repair **Rushil’s laptop** using my screwdriver.
+- Even during stressful times, we managed to **laugh and have fun** — lol!
+
+---
+
+### **End of the Day — A Big Milestone 🎓**
+- **Exams are finally over!**
+- That’s a wrap for **Semester 1 — Nirma M.Tech Data Science**.
+- Today was the **last day, last exam**.
+
+---
+
+### **Looking Ahead 🚀**
+- Semester 2 starts next month.
+- **DSA Camp** begins from **22nd December**.
+- **Robotics project**, **placement drives**, and much more ahead.
+
+---
+
+### **Big News!! 🔥**
+- Remember the **Analog Devices Inc. aptitude round**?
+- **I CLEARED IT!** 🎉
+- Interview scheduled for **tomorrow at 10:00 AM**  
+  📍 **16th Floor, GIFT City Tower One**
+- Let’s see what happens!
+
+---
+
+### **Final Thoughts**
+- Here’s to **new beginnings** and a wonderful **Semester 1 ending**.
+- Bigger horizons await — **let’s gooo!!** 💪✨
 
 
