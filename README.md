@@ -503,4 +503,65 @@
 - Here’s to **new beginnings** and a wonderful **Semester 1 ending**.
 - Bigger horizons await — **let’s gooo!!** 💪✨
 
+---
 
+## **Day 115 — 22 December 2025** (Monday)
+
+### **9:00 AM | Reached College**
+- **Placement Training Camp — Day 1**.
+- Reached college at **9:00 AM**, mentally ready for a heavy DSA grind.
+
+---
+
+### **9:00 AM – 1:15 PM | DSA Classwork**
+- Solved **10 DSA problems** during classwork.
+- Strong focus on fundamentals, patterns, and problem-solving flow.
+
+**Classwork Problems Solved:**
+- 🔗 https://leetcode.com/problems/get-maximum-in-generated-array/description/
+- 🔗 https://leetcode.com/problems/rotate-array/description/
+- 🔗 https://leetcode.com/problems/n-th-tribonacci-number/description/
+- 🔗 https://leetcode.com/problems/climbing-stairs/description/
+- 🔗 https://leetcode.com/problems/valid-palindrome/description/
+- 🔗 https://leetcode.com/problems/palindrome-number/description/
+- 🔗 https://leetcode.com/problems/min-cost-climbing-stairs/description/
+- 🔗 https://leetcode.com/problems/sum-of-all-odd-length-subarrays/description/
+- 🔗 https://leetcode.com/problems/house-robber/description/
+- 🔗 https://leetcode.com/problems/house-robber-ii/description/
+
+---
+
+### **1:15 PM – 2:15 PM | Recess**
+
+---
+
+### **2:15 PM – 3:15 PM | DSA Session**
+- Continued solving and discussing **DSA problems**.
+- Focus on approach clarity and optimization.
+
+---
+
+### **3:15 PM – 7:30 PM | Library — Homework Grind**
+- Sat in the library and completed **all 9 homework problems**.
+- Long, tiring, but extremely satisfying grind session.
+
+**Homework Problems Solved:**
+- 🔗 https://leetcode.com/problems/two-sum/description/
+- 🔗 https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/
+- 🔗 https://leetcode.com/problems/maximum-subarray/description/
+- 🔗 https://leetcode.com/problems/product-of-array-except-self/description/
+- 🔗 https://leetcode.com/problems/merge-intervals/description/
+- 🔗 https://leetcode.com/problems/move-zeroes/description/
+- 🔗 https://leetcode.com/problems/container-with-most-water/description/
+- 🔗 https://leetcode.com/problems/third-maximum-number/description/
+- 🔗 https://leetcode.com/problems/spiral-matrix/description/
+
+---
+
+### **End of the Day**
+- **19 LeetCode problems solved in a single day** — intense but rewarding.
+- Placement camp has officially begun, and the grind is real.
+- One thing is clear: **consistency + volume = confidence**.
+- Day 1 done. Many more to go. 💪📚🔥
+
+---
