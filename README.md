@@ -504,6 +504,8 @@
 - Bigger horizons await — **let’s gooo!!** 💪✨
 
 ---
+RESULT OF ANALOG DEVICES INC. -> I COULD NOT CLEAR THE INTERVIEW. 
+---
 
 ## **Day 115 — 22 December 2025** (Monday)
 
