@@ -567,3 +567,58 @@ RESULT OF ANALOG DEVICES INC. -> I COULD NOT CLEAR THE INTERVIEW.
 - Day 1 done. Many more to go. 💪📚🔥
 
 ---
+
+## **Day 116 — 23 December 2025** (Tuesday)
+
+### **9:00 AM | Reached College**
+- **Placement Training Camp — Day 2**.
+- Reached college at **9:00 AM**.
+
+---
+
+### **Morning Session | Line Sweep Algorithm**
+- Focused on **Line Sweep Algorithm** based problems.
+- Solved and practiced multiple variations to strengthen the concept.
+
+**Problems Solved:**
+- 🔗 https://leetcode.com/problems/two-best-non-overlapping-events/description/
+- 🔗 https://leetcode.com/problems/maximum-population-year/description/
+- 🔗 https://leetcode.com/problems/points-that-intersect-with-cars/description/
+- 🔗 https://leetcode.com/problems/car-pooling/description/
+- 🔗 https://leetcode.com/problems/my-calendar-ii/description/
+- 🔗 https://leetcode.com/problems/shifting-letters-ii/description/
+- 🔗 https://leetcode.com/problems/third-maximum-number/description/
+
+---
+
+### **1:15 PM – 2:15 PM | Recess**
+
+---
+
+### **2:15 PM – 4:00 PM | LeetCode Practice**
+- Continued **problem solving on LeetCode**.
+- Focused on refining logic, edge cases, and implementation clarity.
+
+---
+
+### **4:00 PM – 6:00 PM | Test on Hitbullseye Platform**
+- Appeared for a **coding test** on the Hitbullseye platform.
+- Total **4 problems** were given.
+- Three of them were:
+
+  - 🔗 https://www.hackerearth.com/problem/algorithm/magical-world-e31b442e/
+  - 🔗 https://leetcode.com/problems/frog-jump/
+  - 🔗 https://www.geeksforgeeks.org/problems/count-pairs-in-array-divisible-by-k/1
+
+- The test was challenging but aligned well with the ongoing DSA practice.
+
+---
+
+### **6:00 PM | Left College**
+- Left around **6 PM**.
+- Went with **Didi** to **Croma** to finalize her new laptop.
+
+---
+
+
+
