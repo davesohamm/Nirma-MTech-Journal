@@ -620,5 +620,67 @@ RESULT OF ANALOG DEVICES INC. -> I COULD NOT CLEAR THE INTERVIEW.
 
 ---
 
+## **Day 117 — 24 December 2025** (Wednesday)
+
+### **9:00 AM | Reached College**
+- **Placement Training Camp — Day 3**.
+- Reached college at **9:00 AM**, ready for another long DSA-focused day.
+
+---
+
+### **Morning Session | Classwork (DSA)**
+- Solved the following **classwork problems**:
+
+**Classwork Problems Solved:**
+- 🔗 https://leetcode.com/problems/jump-game/description/
+- 🔗 https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/
+- 🔗 https://leetcode.com/problems/find-peak-element/description/
+- 🔗 https://leetcode.com/problems/find-occurrences-of-an-element-in-an-array/
+- 🔗 https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/
+
+---
+
+### **1:15 PM – 2:15 PM | Recess**
+
+---
+
+### **Self Practice | Two Pointers + Sliding Window**
+- Solved several problems using a **Two Pointer + Sliding Window** combined approach.
+- These questions were from the **Striver A2Z Sheet**.
+
+**Problems Solved:**
+- 🔗 https://leetcode.com/problems/apple-redistribution-into-boxes/description/
+- 🔗 https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/description/
+- 🔗 https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/description/
+- 🔗 https://leetcode.com/problems/longest-substring-without-repeating-characters/description/
+- 🔗 https://leetcode.com/problems/max-consecutive-ones-iii/description/
+- 🔗 https://leetcode.com/problems/longest-repeating-character-replacement/description/
+- 🔗 https://leetcode.com/problems/binary-subarrays-with-sum/description/
+- 🔗 https://leetcode.com/problems/count-number-of-nice-subarrays/description/
+
+---
+
+### **3:15 PM – 6:45 PM | Library — Homework Grind**
+- Sat in the library and completed the **homework problems**.
+
+**Homework Problems Solved:**
+- 🔗 https://leetcode.com/problems/3sum/description/
+- 🔗 https://leetcode.com/problems/degree-of-an-array/description/
+- 🔗 https://leetcode.com/problems/apply-operations-to-an-array/description/
+- 🔗 https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/
+- 🔗 https://leetcode.com/problems/spiral-matrix-ii/description/
+- 🔗 https://leetcode.com/problems/peak-index-in-a-mountain-array/description/
+- 🔗 https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/
+- 🔗 https://leetcode.com/problems/merge-intervals/description/
+
+---
+
+### **End of the Day 🎯**
+- **Crossed 500 problems on LeetCode today!!** 🚀🔥  
+- One problem at a time. One day at a time.
+- Daily consistency brought me here — **many more to go**.
+- The grind continues… **let’s goo!!** 💪📚✨
+
+
 
 
