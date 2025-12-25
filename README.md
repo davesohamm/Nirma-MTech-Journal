@@ -681,6 +681,68 @@ RESULT OF ANALOG DEVICES INC. -> I COULD NOT CLEAR THE INTERVIEW.
 - Daily consistency brought me here — **many more to go**.
 - The grind continues… **let’s goo!!** 💪📚✨
 
+---
+
+## **Day 118 — 25 December 2025** (Thursday)
+
+### **9:00 AM | Reached College**
+- Reached college at **9:00 AM**.
+- Continued the placement training grind even on **Christmas Day** 🎄.
+
+---
+
+### **Morning Session | Bit Manipulation (Striver A2Z Sheet)**
+- Solved **bit manipulation** and related problems on LeetCode.
+
+**Problems Solved:**
+- 🔗 https://leetcode.com/problems/maximize-happiness-of-selected-children/description/
+- 🔗 https://leetcode.com/problems/power-of-two/description/
+- 🔗 https://leetcode.com/problems/divide-two-integers/description/
+- 🔗 https://leetcode.com/problems/minimum-bit-flips-to-convert-number/description/
+- 🔗 https://leetcode.com/problems/single-number/description/
+- 🔗 https://leetcode.com/problems/subsets/description/
+- 🔗 https://leetcode.com/problems/count-primes/description/
+- 🔗 https://leetcode.com/problems/powx-n/description/
+
+---
+
+### **1:15 PM – 2:15 PM | Recess**
+
+---
+
+### **2:15 PM – 3:15 PM | Low Energy Hour**
+- Slept in the class.
+- Was feeling **bored and tired** — body needed a break.
+
+---
+
+### **4:00 PM – 6:00 PM | Project Work (W Block Common Area)**
+- The **library was closed** today due to Christmas.
+- Sat in the **W Block common area** and started working on a **new project**:
+
+🔗 https://github.com/davesohamm/PIE
+
+**PIE — Performance Intelligence Engine**  
+A complete performance engineering framework that bridges the gap between **high-level code** and **hardware execution**. It combines:
+- Hardware-aware profiling using **CPU performance counters**
+- Intelligent bottleneck detection  
+  *(memory-bound, compute-bound, control-flow-bound)*
+- Custom **LLVM compiler passes** for automatic optimization
+- **GPU comparison** via OpenCL
+- Closed-loop validation of optimizations
+- Clean and meaningful **visualization of performance metrics**
+
+Felt exciting to start building something **deep, hardcore, and systems-level** again.
+
+---
+
+### **6:00 PM | Left College**
+- Left college around **6 PM**.
+- Went to buy a **new laptop** — yay!! 🎉  
+- We’re getting a **new Dell Inspiron** for Didi 💻✨
+
+---
+
 
 
 
