@@ -743,6 +743,57 @@ Felt exciting to start building something **deep, hardcore, and systems-level** 
 
 ---
 
+## **Day 119 — 26 December 2025** (Friday)
+
+### **9:00 AM | Reached College**
+- Reached college at **9:00 AM**.
+- **Placement Training Camp — Day 4**.
+
+---
+
+### **Morning Session | Trees & Traversals**
+- Focused on **Binary Tree** problems and traversal techniques.
+
+**Problems Solved:**
+- 🔗 https://leetcode.com/problems/diameter-of-binary-tree/description/
+- 🔗 https://leetcode.com/problems/balanced-binary-tree/description/
+- 🔗 https://leetcode.com/problems/maximum-depth-of-binary-tree/description/
+- 🔗 https://leetcode.com/problems/binary-tree-level-order-traversal/description/
+- 🔗 https://leetcode.com/problems/minimum-penalty-for-a-shop/description/
+- 🔗 https://leetcode.com/problems/binary-tree-preorder-traversal/description/
+- 🔗 https://leetcode.com/problems/binary-tree-inorder-traversal/description/
+- 🔗 https://leetcode.com/problems/binary-tree-postorder-traversal/description/
+
+---
+
+### **3:15 PM | Left College Early**
+- Left college around **3:15 PM**.
+- No test scheduled today, so the day ended early.
+
+---
+
+### **4:30 PM | The Best Surprise ❤️**
+- **She came to my college at 4:30 PM!!** 😍
+- We sat in the **football ground** till evening.
+- Talked a lot, laughed endlessly, clicked photos, and spent real **quality time**.
+- It felt peaceful, beautiful, and long overdue.
+
+---
+
+### **Evening Celebration 🎉**
+- Around **6:30 PM**, we left for:
+  - **Baked for Nini’s** — had **Nutella cheesecake** (she gifted me 🥹❤️)
+  - **La Pino’z** — pizza time 🍕
+- Since my birthday is on **28th December**, we celebrated it **early**.
+- It turned out to be the **best birthday celebration** — full of joy, love, and memories.
+
+---
+
+- Lots of love to you… thank you so much.  
+- I’m truly **grateful** for you. ❤️✨
+
+---
+
 
 
 
