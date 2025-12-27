@@ -747,7 +747,7 @@ Felt exciting to start building something **deep, hardcore, and systems-level** 
 
 ### **9:00 AM | Reached College**
 - Reached college at **9:00 AM**.
-- **Placement Training Camp — Day 4**.
+- **Placement Training Camp — Day 5**.
 
 ---
 
@@ -791,6 +791,42 @@ Felt exciting to start building something **deep, hardcore, and systems-level** 
 
 - Lots of love to you… thank you so much.  
 - I’m truly **grateful** for you. ❤️✨
+
+---
+
+## **Day 120 — 27 December 2025** (Saturday)
+
+### **9:00 AM | Reached College**
+- Reached college at **9:00 AM**.
+- Another focused day of problem-solving and building.
+
+---
+
+### **Morning Session | LeetCode Practice**
+- Solved the following **DSA problems** on LeetCode:
+
+**Problems Solved:**
+- 🔗 https://leetcode.com/problems/meeting-rooms-iii/description/
+- 🔗 https://leetcode.com/problems/top-k-frequent-elements/description/
+- 🔗 https://leetcode.com/problems/kth-largest-element-in-an-array/description/
+- 🔗 https://leetcode.com/problems/merge-k-sorted-lists/description/
+
+- Heavy focus on **heaps, priority queues, and frequency-based problems**.
+
+---
+
+### **Project Highlight 🚀 | Snack OS**
+- Built a new project: **Snack OS** — a **voice-controlled, web-based operating system**.
+- It feels like a real OS experience inside the browser, with **voice commands enabled**.
+
+**Project Links:**
+- 🌐 Live Demo:  
+  🔗 https://snackos-beta.vercel.app/
+- 💻 GitHub Repository:  
+  🔗 https://github.com/davesohamm/SnackOS
+
+- This project was incredibly fun to build and feels **super cool and futuristic**.
+- Blending **DSA grind + creative engineering** felt deeply satisfying.
 
 ---
 
