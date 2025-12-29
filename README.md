@@ -830,6 +830,58 @@ Felt exciting to start building something **deep, hardcore, and systems-level** 
 
 ---
 
+## **Day 122 — 29 December 2025** (Monday)
+
+### **Birthday Reflection 🎂 (Yesterday)**
+- Yesterday was my **birthday**, and it went really well.
+- Visited **Ashapuri Temple**.
+- Met **Hemang Bhaiya** (my cousin from Canada, here in India for a few days).
+- In the evening, at the **Brahm Samaaj function**, I received **two prizes** for being a *bright student in graduation*.
+- Truly **worth a day** — grateful and happy.
+
+---
+
+### **9:00 AM | Reached College**
+- Reached college at **9:00 AM**.
+
+---
+
+### **Morning Session | LeetCode**
+- Solved one problem:
+  - 🔗 https://leetcode.com/problems/pyramid-transition-matrix/description/
+- After that, I slept till recess — body and mind both felt low-energy.
+
+---
+
+### **1:15 PM – 2:15 PM | Recess**
+
+---
+
+### **2:15 PM – 3:15 PM | Fun & Chaos 😅**
+- Pranked the new **JRF Nayan Charani**.
+- Took remote access of his PC.
+- Masked myself as **ChatGPT** and teased him for a while.
+- Pure harmless fun — one of those college moments.
+
+---
+
+### **3:30 PM – 6:20 PM | Library Time**
+- Sat in the library.
+- Watched **Ekaki – Chapter 1**.
+- Slept for about an hour (lost track of time honestly).
+- Also… I did something again which I’ve mentioned earlier in my journal.
+  - It brings **deep shame and guilt**.
+  - This is something I need to seriously reflect upon and fix.
+
+---
+
+### **Evening**
+- Returned home around **6:30 PM**.
+- Borrowed a book from the **book bank** on **Swami Vivekananda and RSS**.
+- I was having a **cold** today, which explains the tiredness and low mood.
+
+---
+
 
 
 
