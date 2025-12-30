@@ -882,6 +882,62 @@ Felt exciting to start building something **deep, hardcore, and systems-level** 
 
 ---
 
+## **Day 123 — 30 December 2025** (Tuesday)
+
+### **9:00 AM | Reached College**
+- Reached college at **9:00 AM**.
+
+---
+
+### **Morning Session | LeetCode**
+- Solved the following problem:
+  - 🔗 https://leetcode.com/problems/magic-squares-in-grid/description/
+- After that, I started watching the series **“Bhay: Gaurav Tiwari Mystery”**.
+
+---
+
+### **1:15 PM – 2:15 PM | Recess**
+- Continued watching the **Bhay** series during recess.
+
+---
+
+### **Till 3:15 PM | Series Time**
+- Watched the series continuously till **3:15 PM**.
+- Fully immersed in the mystery and atmosphere.
+
+---
+
+### **3:15 PM – 4:30 PM | DSA Test**
+- Appeared for a **DSA test**.
+- Questions were relatively easy.
+- Solved **4 out of 4** — smooth and confident performance.
+
+---
+
+### **Prank Episode 👻😅**
+- Pranked one of my seniors, **Nayan Bhai** (JRF of JV Sir).
+- Took remote access of his PC and **scared him pretending to be a ghost** 👻.
+- After **4:30 PM**, I met him in real life.
+- He was genuinely scared and kept explaining everything that happened to him till **5:20 PM** 😭.
+- I acted equally shocked and scared:  
+  *“Ohhh this happened?! Oh God!!”*  
+- We returned home together at **5:20 PM**.
+- Note to self: **Won’t prank him again** — he’s *too* scared 😅.
+
+---
+
+### **Evening**
+- Completed the **Bhay** series today — all **8 episodes** done.
+
+---
+
+### **End of the Day**
+- A fun-filled, chaotic day with problem-solving, tests, series, and pranks.
+- From **tomorrow onwards**, I’ll study **seriously**.  
+  Time to switch back to grind mode. 💪📚
+
+---
+
 
 
 
