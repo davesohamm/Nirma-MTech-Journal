@@ -49,3 +49,34 @@ The year began with three clear realizations:
 
 ---
 
+## **Day 126 — 2 January 2025 (Friday)**
+
+**Reached college:** 9:00 AM
+
+### 🧠 Academic Work
+- Solved **6 LeetCode problems**:
+  - [N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/description/)
+  - [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/description/)
+  - [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/)
+  - [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)
+  - [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)
+  - [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/)
+
+**1:15 PM – 2:15 PM**
+- Recess
+
+**2:15 PM – 3:15 PM**
+- Continued LeetCode problem solving.
+
+### 📚 Focus & Energy Levels
+- After **3:15 PM**, went to the **5th floor library** to study.
+- Ended up sleeping until **5:30 PM**.
+- After waking up:
+  - Scrolled through YouTube for some time.
+- Left college for home around **6:00 PM**.
+
+**Closing Note:**  
+*A productive start academically, but energy and focus dipped in the later half of the day.*
+
+---
+
