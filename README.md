@@ -126,4 +126,39 @@ In total, solved **9 LeetCode problems**:
 
 ---
 
+## **Day 129 — 5 January 2026 (Monday)**
+
+**Reached college:** 9:00 AM
+
+### 🧠 Academic Work
+- LeetCode problem solving during the first half of the day.
+
+**1:15 PM – 2:15 PM**
+- Recess
+
+**2:15 PM – 3:15 PM**
+- Continued problem solving.
+
+### 📊 Problems Solved Today
+In total, solved **5 LeetCode problems**:
+- [Maximum Matrix Sum](https://leetcode.com/problems/maximum-matrix-sum/description/)
+- [Insert Interval](https://leetcode.com/problems/insert-interval/description/)
+- [Permutation in String](https://leetcode.com/problems/permutation-in-string/description/)
+- [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/description/)
+- [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)
+
+**3:30 PM – 4:30 PM**
+- DSA test.
+- **Solved 4/4 questions successfully.**
+
+### 📚 Energy & Personal
+**4:30 PM – 6:00 PM**
+- Sat in the library.
+- Ended up sleeping due to extreme tiredness.
+
+**After 6:00 PM**
+- Video call until **7:30 PM**.
+- Felt genuinely good talking — much needed emotional recharge.
+
+---
 
