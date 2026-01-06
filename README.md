@@ -162,3 +162,44 @@ In total, solved **5 LeetCode problems**:
 
 ---
 
+## **Day 130 — 6 January 2025 (Tuesday)**
+
+**Reached college:** 9:00 AM  
+**Health:** Had a headache since the morning.
+
+### 🧠 Academic Work
+- LeetCode problem solving during the morning.
+
+**1:15 PM – 2:15 PM**
+- Recess.
+- Video call.
+- Headache went away on its own — felt like magic.
+
+**2:15 PM – 3:15 PM**
+- Continued LeetCode problem solving.
+
+### 📊 Problems Solved Today
+In total, solved **3 LeetCode problems**:
+- [Edit Distance](https://leetcode.com/problems/edit-distance/description/)
+- [Unique Paths](https://leetcode.com/problems/unique-paths/description/)
+- [Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/description/)
+
+### 📚 Learning & Exploration
+**3:30 PM – 6:00 PM**
+- Sat in the library and read about **graphics APIs**:
+  - OpenGL, DirectX, OpenCL, and related concepts.
+- Reference discussion:
+  - https://chatgpt.com/share/695d1c86-5810-800e-8d5b-e198a8c6fcc4
+
+**Around 5:00 PM – 5:40 PM**
+- Fell asleep in the library while reading.
+
+### 💬 Personal
+**6:00 PM – 6:45 PM**
+- Video call.
+- Felt calm and good after talking.
+- Returned home afterward.
+
+---
+
+
