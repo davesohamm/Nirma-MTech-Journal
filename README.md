@@ -202,4 +202,36 @@ In total, solved **3 LeetCode problems**:
 
 ---
 
+## **Day 131 — 7 January 2025 (Wednesday)**
+
+**Reached college:** 9:00 AM
+
+### 🧠 Academic Work
+- Solved LeetCode problems throughout the day.
+
+**1:15 PM – 2:15 PM**
+- Recess
+
+**2:15 PM – 3:15 PM**
+- Continued problem solving.
+
+**3:30 PM – 4:15 PM**
+- DSA test.
+- **Solved 1/4 problems.**
+
+### 📊 Problems Solved Today
+In total, solved **6 LeetCode problems**:
+- [Subsets II](https://leetcode.com/problems/subsets-ii/description/)
+- [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/description/)
+- [Word Search](https://leetcode.com/problems/word-search/description/)
+- [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/)
+- [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/)
+- [Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/description/)
+
+### 📚 Focus & Consistency
+**4:30 PM – 6:45 PM**
+- Sat in the library and solved more LeetCode problems.
+
+---
+
 
