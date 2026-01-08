@@ -234,4 +234,30 @@ In total, solved **6 LeetCode problems**:
 
 ---
 
+## **Day 132 — 8 January 2025 (Thursday)**
+
+**Reached college:** 9:00 AM
+
+### 🧠 Academic Work
+- Could not solve many LeetCode problems today.
+
+### 📊 Problems Solved Today
+In total, solved **2 LeetCode problems**:
+- [Max Dot Product of Two Subsequences](https://leetcode.com/problems/max-dot-product-of-two-subsequences/description/)
+- [First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/)
+
+### 📚 Learning & Exploration
+- Spent time reading about **GPU pipelining and graphics/compute APIs** such as OpenCL, DirectX, OpenGL, DirectCompute, etc.
+- Reference material:
+  - https://drive.google.com/file/d/14Du3qUqXnRfwfozn2-w8krXaDDTbv2MS/view?usp=drive_link
+
+### 🧭 Reflection & Planning
+- Returned home around **7:30 PM**.
+- From tomorrow onward, planning to:
+  - Prepare my **resume more precisely**
+  - Start **AMD-specific preparation**
+
+---
+
+
 
