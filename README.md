@@ -259,5 +259,31 @@ In total, solved **2 LeetCode problems**:
 
 ---
 
+## **Day 133 — 9 January 2025 (Friday)**
+
+**Reached college:** 9:00 AM
+
+### 🧠 Academic Work
+- Solved only **one LeetCode problem** today:
+  - [Smallest Subtree with All the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/description/)
+
+### 🛠️ Project Work
+- Spent most of the day working on my project:
+  - https://github.com/davesohamm/GPU-Benchmark
+- The project is a **professional-grade GPU compute benchmarking application** designed to measure and compare performance across multiple GPU compute APIs on Windows systems.
+- Focus areas include:
+  - GPU architectural differences
+  - Memory behavior analysis
+  - Compute efficiency measurement across APIs
+
+### 🚶‍♂️ End of Day
+- Left college around **6:20 PM**.
+- While on the way home, realized I had forgotten my water bottle in the library.
+- Went back to retrieve it.
+- Finally headed home around **7:00 PM**.
+
+---
+
+
 
 
