@@ -322,6 +322,98 @@ In total, solved **2 LeetCode problems**:
 
 ---
 
+## **Day 136 — 12 January 2025 (Monday)**
+
+**First Day of Semester 2**  
+**Reached college:** 7:45 AM
+
+### 🎓 Lectures & Academics
+
+**7:45 AM – 8:40 AM | Explainable AI**  
+- Lecture by **NKP Sir**.
+- As it was the first day of the semester, he primarily explained:
+  - Course syllabus
+  - Evaluation structure
+  - Importance of interpretability and transparency in AI systems
+
+**8:40 AM – 9:40 AM | Free Period**
+- Solved **1 LeetCode problem**:
+  - [Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/description/)
+
+**9:40 AM – 10:35 AM | MLOps**  
+- Lecture by **Priyank Thakkar Sir**.
+- Introduced the overall syllabus and real-world relevance of MLOps.
+- Key topics discussed:
+
+  - **What is MLOps:**  
+    MLOps is a set of practices that combines machine learning, DevOps, and data engineering to deploy, monitor, and maintain ML models reliably in production.
+
+  - **MLOps vs DevOps:**  
+    DevOps focuses on software delivery, while MLOps extends this to handle data dependency, model versioning, retraining, and monitoring model performance.
+
+  - **Feature Engineering:**  
+    The process of transforming raw data into meaningful features that improve model performance and stability.
+
+  - **Jenkins:**  
+    A CI/CD automation tool used to automate model training, testing, and deployment pipelines.
+
+  - **MLflow:**  
+    A platform for tracking experiments, logging metrics, managing models, and handling reproducibility in ML workflows.
+
+  - **Model Graveyard Problem:**  
+    Many models are trained but never deployed or maintained, leading to unused, outdated models — referred to as the model graveyard.
+
+  - **Data & Concept Drift:**  
+    Changes in data distribution or real-world behavior that degrade model performance over time, requiring monitoring and retraining.
+
+  - **Prometheus & Grafana:**  
+    Used for monitoring system and model metrics, visualizing performance trends, and detecting anomalies.
+
+  - **Kubernetes:**  
+    An orchestration platform used to deploy, scale, and manage containerized ML services efficiently.
+
+**10:35 AM – 11:40 AM | Deep Learning**  
+- Lecture by **Swati Jain Ma’am**.
+- Explained the syllabus and foundational concepts.
+- Key explanations:
+
+  - **AI vs ML vs DL:**  
+    AI is the broad goal of intelligent behavior, ML is learning from data, and DL is a subset of ML using deep neural networks.
+
+  - **ML vs DL (Core Difference):**  
+    ML relies heavily on manual feature engineering, while DL automatically learns hierarchical features from raw data using neural networks.
+
+  - **GenAI & Agentic AI:**  
+    GenAI focuses on generating content (text, images, code), while Agentic AI involves systems that can plan, decide, and act autonomously toward goals.
+
+### ☕ Break
+**11:40 AM – 12:35 PM**
+- Recess
+
+### 🛠️ Lab & Project Work
+
+**12:35 PM – 2:25 PM | Minor Project Lab**
+- Continued work on my **GPU Benchmarking Project**.
+- Installed:
+  - CUDA Toolkit
+  - Visual Studio
+- Set up the development environment successfully.
+
+### 🏆 Major Achievement
+- Near the end of the lab, **Semester 1 final results were announced**.
+- **Scored 9.0 CGPA**.
+- **Second Topper of the Class**.
+
+> *I am extremely happy and proud. Thank you, God — this victory and all glory belong to you. I am nothing without your help.*
+
+### 📚 Evening Productivity
+- Treated myself with **Doritos**.
+- Sat in the library till evening.
+- Made **significant progress** on the GPU benchmarking project.
+
+---
+
+
 
 
 
