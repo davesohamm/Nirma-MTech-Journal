@@ -413,6 +413,84 @@ In total, solved **2 LeetCode problems**:
 
 ---
 
+## **Day 137 — 13 January 2025 (Tuesday)**
+
+**Reached college:** 7:30 AM
+
+### 🎓 Lectures & Academics
+
+**7:45 AM – 8:40 AM | MLOps**  
+- Lecture by **Priyank Thakkar Sir**.
+- Focused on **LLMOps** and how it extends traditional MLOps for large language models.
+
+**Key Topics Discussed (LLMOps):**
+- **LLMOps vs MLOps:**  
+  MLOps handles classical ML models, while LLMOps deals with additional challenges like prompt management, high inference costs, latency, and safety for large-scale language models.
+
+- **Grounding:**  
+  Ensures LLM responses are based on verified, factual data rather than hallucinations, improving reliability and trustworthiness.
+
+- **RAG (Retrieval-Augmented Generation):**  
+  Combines LLMs with external knowledge sources to fetch relevant information before generating responses, improving accuracy and freshness.
+
+- **Latency:**  
+  Inference time is critical in LLM applications; optimizing response speed is essential for real-time user experiences.
+
+- **Inference Optimization:**  
+  Techniques like batching, quantization, and caching are used to reduce compute cost and improve throughput.
+
+- **PFT (Parameter-Efficient Fine-Tuning):**  
+  Fine-tuning only a small subset of parameters to adapt large models efficiently without retraining the entire model.
+
+- **Common Deployment Challenges:**  
+  Includes scalability, cost management, monitoring hallucinations, prompt versioning, and model updates.
+
+- **Data Drift:**  
+  Changes in input data or user behavior over time can degrade model performance, requiring continuous monitoring.
+
+- **GDPR & HIPAA Compliance:**  
+  Ensures user data privacy, consent, and secure handling of sensitive information, especially in healthcare and regulated domains.
+
+**8:40 AM – 9:35 AM | Soft Computing**  
+- Lecture by **Rajesh Gupta Sir**.
+- Introductory session covering:
+  - What is **Soft Computing**
+  - Difference between **Soft Computing and Hard Computing**
+  - Basics of **Fuzzy Logic** and its real-world relevance
+
+**9:50 AM – 11:40 AM | MLOps Lab**  
+- Conducted by **Priyank Thakkar Sir**.
+- Watched and followed a **1 hour 16 minutes** Git & GitHub tutorial by Kunal Kushawaha:
+  - https://www.youtube.com/watch?v=apGV9Kg7ics
+- Learned and practiced Git commands:
+  - `git init`, `status`, `add`, `commit`, `pull`, `push`
+  - `log`, `restore`, `reset`, `fetch`, `merge`, `rebase`
+  - `branch`, `checkout`, `remote`, `upstream`
+  - `stash`, `stash pop`, `pick`
+
+### ☕ Break
+**11:40 AM – 12:35 PM**
+- Recess.
+- Had lunch while watching *Taarak Mehta Ka Ooltah Chashmah*.
+
+### 🧪 Lab & Practice
+
+**12:35 PM – 2:25 PM | Deep Learning Lab**  
+- Lab by **Parita Oza Ma’am**.
+- Prepared an introductory **EDA notebook on the Titanic dataset**:
+  - https://www.kaggle.com/code/davesohamm/titanic-eda-demo-for-students-practical-1-1
+- Focused on understanding dataset structure, features, and basic visual analysis.
+
+### 🧠 Problem Solving
+- Solved **1 LeetCode problem**:
+  - [Separate Squares I](https://leetcode.com/problems/separate-squares-i/description/)
+
+### 🏡 End of Day
+- Left for home early.
+- Heading to my hometown to celebrate **Uttarayan** tomorrow. 🪁
+
+---
+
 
 
 
