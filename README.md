@@ -491,6 +491,86 @@ In total, solved **2 LeetCode problems**:
 
 ---
 
+## **Day 138 — 16 January 2026 (Friday)**
+
+**Back from Uttarayan mini vacation (2 days)** — enjoyed a lot.  
+**Reached college:** 7:45 AM
+
+### 🛠️ Minor Project & Labs
+
+**7:45 AM – 9:45 AM | Minor Project Lab**  
+- Lab by **Swati Jain Ma’am**.
+- Informed that my **Semester 2 Minor Project** will be under the guidance of **Dr. Preeti Kathiria Ma’am**.
+- Did not start the new project yet — decided to first discuss ideas and direction with Preeti Ma’am.
+- Continued working on my **GPU Benchmarking Project** meanwhile.
+
+**9:45 AM – 11:35 AM | Soft Computing Lab**  
+- Lab by **Rajesh Gupta Sir**.
+- Learned about **Genetic Algorithms**, **Swarm Intelligence**, and related concepts.
+- solved 1 DSA problem on LeetCode.
+
+**Key Topics Learned:**
+- **Genetic Algorithms (GA):**  
+  Optimization techniques inspired by natural evolution, using selection, crossover, and mutation to evolve better solutions over generations.
+
+- **Swarm Intelligence:**  
+  Collective behavior of decentralized systems (like ants or birds) where simple agents interact locally to produce intelligent global behavior.
+
+- **Python Libraries for Genetic Algorithms:**  
+  Libraries like DEAP, PyGAD, and inspyred provide ready-to-use tools for defining populations, fitness functions, and evolutionary operators.
+
+- **Core GA Terminologies:**  
+  Concepts like population, chromosome, gene, fitness function, selection pressure, crossover rate, and mutation rate define how solutions evolve.
+
+- Prepared a **Google Colab notebook** demonstrating a basic GA example:
+  - https://colab.research.google.com/drive/1PS03Zk96xYu6wxgw37X3w2XPr4qKajxg
+
+### ☕ Break
+**11:35 AM – 12:45 PM**
+- Recess.
+- Had lunch while watching old *Taarak Mehta Ka Ooltah Chashmah* episodes.
+
+### 🚀 Major Project Milestone
+
+**12:45 PM – 2:25 PM | Minor Project Lab**
+- Resumed work on the **GPU Benchmarking Project**.
+- **Completed the project**.
+- 🎉 **Launched Version 1.0**.
+- Finished:
+  - Detailed documentation
+  - Cleaned codebase
+  - Committed all files to GitHub
+
+- **Download the tool:**  
+  https://tinyurl.com/gpubenchmark123
+
+- **GitHub Repository:**  
+  https://github.com/davesohamm/GPU-Benchmark
+
+### 😴 Energy & Admin
+
+**2:35 PM – 4:40 PM**
+- Went to the library.
+- Slept due to tiredness.
+
+**4:40 PM – 5:25 PM**
+- Went to the student section.
+- Paid fees for **Semester 2**.
+
+### 🌆 Reflection & Emotional
+
+**5:25 PM – 7:00 PM**
+- Sat on the bench at the main driveway.
+- Overthought a lot about career and future.
+- Sent voice notes sharing my thoughts.
+- Got a call — felt calmer and more grounded after talking.
+
+**7:00 PM**
+- Returned home.
+
+---
+
+
 
 
 
