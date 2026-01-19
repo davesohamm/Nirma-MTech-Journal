@@ -571,6 +571,120 @@ In total, solved **2 LeetCode problems**:
 ---
 
 
+## **Day 139 — 19 January 2026 (Monday)**
+
+**Reached college:** 7:45 AM  
+- Came to college on **Patil’s Activa** — he gave me a lift today.
+
+### 🎓 Lectures & Academics
+
+**7:45 AM – 8:40 AM | Explainable AI**  
+- Lecture by **NKP Sir**.
+- Explained key concepts:
+  - **Interpretability:** Ability to understand how a model makes decisions.
+  - **Transparency:** How open and understandable the internal workings of a model are.
+  - **Fairness:** Ensuring model predictions are unbiased and equitable across groups.
+  - **Explainability:** Techniques used to justify and explain individual predictions.
+
+- Discussed an important trade-off:
+  - **Interpretability is inversely proportional to model complexity** — as models become more complex (e.g., ensembles, deep learning), they become harder to interpret.
+
+- Gave an example problem:
+  - Train a **Random Forest classifier** on the **Iris dataset**.
+  - Apply **SHAP** to explain feature contributions.
+  - Improve interpretability and transparency of predictions in a **multiclass ML model**.
+
+**8:40 AM – 9:40 AM | Soft Computing**
+- Lecture was postponed.
+- Slept in the classroom due to lack of sleep the previous night.
+
+**9:50 AM – 10:40 AM | MLOps**  
+- Lecture by **Priyank Thakkar Sir**.
+
+**MLOps Lifecycle (7 Steps):**
+1. **Data Collection & Validation** – Gathering reliable, clean, and representative data.
+2. **Data Preparation & Feature Engineering** – Transforming raw data into meaningful features.
+3. **Model Training** – Training models with reproducibility and version control.
+4. **Model Evaluation** – Validating performance using metrics and test datasets.
+5. **Model Deployment** – Serving models in production environments.
+6. **Monitoring** – Tracking model performance, drift, latency, and failures.
+7. **Retraining & Maintenance** – Updating models based on new data and feedback.
+
+**Virtualization vs Containerization:**
+- **Virtualization (VMs):**
+  - Uses a **hypervisor** to run multiple virtual machines on a single physical host.
+  - Each VM has its **own OS kernel + user space**, making it heavyweight and slower.
+
+  **Hypervisors:**
+  - **Type 1 (Bare-metal):**  
+    Runs directly on hardware, more efficient and secure.  
+    *Examples:* VMware ESXi, Microsoft Hyper-V, Xen.
+  - **Type 2 (Hosted):**  
+    Runs on top of a host OS, easier to use but slower.  
+    *Examples:* VirtualBox, VMware Workstation.
+
+- **Containerization:**
+  - OS-level virtualization.
+  - Containers share the **host OS kernel** and only include **user space**.
+  - No container has its own kernel.
+  - Containers always require a **Linux kernel**; on Windows, **WSL** is needed.
+  - Requires a **container runtime / engine**:
+    - Docker, containerd, Podman, etc.
+  - Containers are **lightweight and fast**, whereas VMs are **heavyweight and slower**.
+
+**10:40 AM – 11:40 AM | Deep Learning**  
+- Lecture by **Swati Jain Ma’am**.
+- Solved examples involving:
+  - Given feature space size, number of hidden neurons, and output classes.
+  - Calculating the **number of learnable parameters** in a fully connected neural network.
+
+### ☕ Break
+**11:40 AM – 12:35 PM**
+- Recess.
+- Had lunch while talking on a **video call**.
+
+### 🛠️ Minor Project Lab
+
+**12:35 PM – 2:25 PM**
+- Solved **1 LeetCode problem**.
+- Prepared for upcoming placement season:
+  - Revised pointers and related core concepts.
+- Did not visit my research faculty today.
+  - Decided to first do a **self-driven literature review** before discussion.
+
+### 📘 Other Lectures
+
+**2:25 PM – 3:35 PM | Ethics for Data Science**
+- Played *Angry Birds* on my phone.
+- Found the lecture unnecessary and boring.
+
+**3:35 PM – 4:20 PM | Soft Computing**  
+- Lecture by **Rajesh Gupta Sir**.
+- Topics covered:
+  - Examples of **Soft Computing** and **Fuzzy Logic**
+  - **Hybrid Computing** = Hard + Soft Computing
+  - Examples of hybrid systems
+  - Branches of soft computing
+  - State space
+  - Genetic Algorithms: selection, crossover, mutation
+- Solved one or two numerical/examples in class.
+
+### 🌆 Evening & Reflection
+
+**4:20 PM – 5:30 PM**
+- Sat at **Gwalia Canteen**.
+- Had **vada pav**.
+- Talked on a video call and helped freshen her mood.
+
+**5:30 PM – 6:40 PM**
+- Sat in the garden behind the **13th storey building**.
+- Long video call.
+- She felt special because of my call — but honestly, **I am the lucky one**.
+
+- Left for home afterward.
+
+---
+
 
 
 
