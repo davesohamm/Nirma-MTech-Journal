@@ -685,6 +685,102 @@ In total, solved **2 LeetCode problems**:
 
 ---
 
+## **Day 140 — 20 January 2026 (Tuesday)**
+
+**Reached college:** 7:45 AM
+
+### 🎓 Lectures & Academics
+
+**7:45 AM – 8:40 AM | MLOps**  
+- Lecture by **Dr. Priyank Thakkar Sir**.
+- Continued **Source Code Management (SCM)** with an industry-oriented perspective.
+
+**Key Concepts Covered:**
+- **VCS (Version Control System):**  
+  Systems that track changes to files over time, enabling rollback, collaboration, and history tracking.
+
+- **CVCS (Centralized Version Control System):**  
+  Uses a single central repository; all users commit to and pull from this central server.  
+  *Examples:* SVN, CVS.
+
+- **DVCS (Distributed Version Control System):**  
+  Every developer has a complete local copy of the repository, enabling offline work and faster operations.  
+  *Examples:* Git, Mercurial.
+
+**CVCS vs DVCS (Difference):**
+- CVCS depends on a central server and has a single point of failure, whereas DVCS is decentralized and more resilient.
+- DVCS offers better performance, offline commits, and flexible workflows compared to CVCS.
+
+**Git Configuration:**
+- Explained how to configure Git on a local machine.
+- Configuration levels:
+  - **System-level:** Applies to all users on the system.
+  - **Global-level:** Applies to a specific user across all repositories.
+  - **Local-level:** Applies only to a specific repository.
+
+- **AutoCRLF:**  
+  Controls automatic conversion of line endings between CRLF (Windows) and LF (Unix).  
+  Important to avoid cross-platform issues when collaborating in teams.
+
+**8:40 AM – 9:35 AM | Soft Computing**  
+- Lecture by **Dr. Rajesh Gupta Sir**.
+- Topic: **Particle Swarm Optimization (PSO)**.
+
+**Velocity Update Formula (PSO):**
+- v = w * v + c1 * r1 * (pbest − x) + c2 * r2 * (gbest − x)
+- Explained each component:
+  - Inertia term
+  - Cognitive component (personal best)
+  - Social component (global best)
+
+- Solved an example step-by-step:
+  - Objective function: `f(x) = x²`
+  - Search space: `-10 ≤ x ≤ 10`
+- Explained the complete PSO workflow clearly.
+
+**9:35 AM – 11:40 AM | MLOps Lab**  
+- Lab by **Dr. Priyank Thakkar Sir**.
+- Hands-on practice for:
+  - Git configuration
+  - Repository setup and workflow
+- Solved **1 LeetCode problem** during the lab.
+
+### ☕ Break
+**11:40 AM – 12:35 PM**
+- Recess.
+- Watched *Taarak Mehta Ka Ooltah Chashmah*.
+- Had lunch with **lassi**.
+
+### 🧪 Labs & Practice
+
+**12:35 PM – 2:25 PM | Deep Learning Lab**  
+- Lab by **Dr. Parita Oza Ma’am**.
+- Instructions:
+  - Complete **Lab 1 Python Notebook**.
+  - Explained **Lab 2 task**:
+    - Implement Perceptron for **AND** and **OR** gates
+    - Plot **Confusion Matrix**
+    - Generate **Classification Report**
+
+**2:25 PM – 4:15 PM | Soft Computing Lab**  
+- Proxy lab.
+- **Nilesh Sir** was present.
+- Free lab session.
+- Used the time to **refine my resume**.
+- Added several important and necessary details.
+
+### 📚 Reflection & Mindset
+
+**4:15 PM – 6:30 PM**
+- Sat in the library.
+- Looked at some of my college juniors’ profiles.
+- Felt a sense of lag and lack of knowledge seeing their progress.
+- But reminded myself:
+  - *No worries — we’ll show the world one day.*
+  - *Until then: head down, keep working.*
+
+---
+
 
 
 
