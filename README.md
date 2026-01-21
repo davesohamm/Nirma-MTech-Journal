@@ -781,6 +781,83 @@ In total, solved **2 LeetCode problems**:
 
 ---
 
+## **Day 141 — 21 January 2026 (Wednesday)**
+
+**Reached college:** 7:45 AM
+
+### 🎓 Labs & Lectures
+
+**7:45 AM – 9:35 AM | Explainable AI Lab**  
+- Lab by **NKP Sir**.
+- Explained the complete methodology for **Lab 1**:
+  - Implemented **Linear Regression** and added explainability using a **bar plot of feature importance**.
+  - Implemented a **Decision Tree** and visualized **feature importance** using a bar plot.
+  - Discussed how Linear Regression and Decision Trees are **intrinsically explainable models**.
+  - Implemented **Random Forest Classification**.
+  - Applied **SHAP** to the Random Forest model to explain predictions and plotted SHAP charts for interpretation.
+
+**9:35 AM – 10:40 AM | MLOps**  
+- Lecture by **Dr. Priyank Thakkar Sir**.
+- Hands-on session on **Git internal workings**.
+- Explained in detail what happens internally when running:
+  - `git init`
+  - `git add`
+  - `git commit`
+  - `git status`
+- Covered concepts like the **working directory**, **staging area**, and **repository**.
+- Gained a deeper appreciation of how complex Git internals actually are.
+
+**10:40 AM – 11:40 AM | Soft Computing**  
+- Lecture by **Dr. Rajesh Gupta Sir**.
+- Explained **heuristic search approaches** with step-by-step examples:
+  - **Best First Search**
+  - **A\* (A-star) Algorithm**
+  - **Hill Climbing**
+- Each method was explained with clear examples and decision-making steps.
+
+### ☕ Break
+**11:40 AM – 12:35 PM**
+- Recess
+
+### 🛠️ Minor Project & Research
+
+**12:35 PM – 2:25 PM | Minor Project Lab**
+- Performed **literature review** for my Semester 2 Minor Project.
+- Selected **50 quality research papers** from sources such as:
+  - ScienceDirect
+  - Elsevier
+  - IEEE
+  - Scopus
+- Research topic:
+  - **Federated Learning for Crop Detection and Disease Classification using UAVs**
+
+**2:25 PM – 4:15 PM | Explainable AI Lab**
+- Completed **Lab 1** successfully.
+- Submitted work via the following Colab notebook:
+  - https://colab.research.google.com/drive/101kOnZt-UeB3pQP5b-DZUPWcxorKoOt3?usp=drive_link
+
+### 🤝 Social & Campus Moments
+- After the lab, spent time with **Harsh** and **Jash**.
+- Laughed a lot reading Reddit comments on our university page.
+- Felt genuinely lighter and grateful for friends like them.
+
+- After **4:15 PM**:
+  - Went to meet **Dr. Jai Prakash Verma Sir** regarding Teaching Assistant duties, but he was not available.
+  - Stopped by **JRF Nayan Bhaiya’s** table and talked for a while.
+  - He congratulated me on my **9 CGPA** results.
+
+### 📚 Evening Productivity
+
+**Till 6:40 PM**
+- Sat in the library.
+- Completed some **pending Deep Learning lab work**.
+- Made additional improvements to my **resume**.
+
+- Headed home afterward.
+
+---
+
+
 
 
 
