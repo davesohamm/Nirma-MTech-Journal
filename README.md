@@ -858,6 +858,115 @@ In total, solved **2 LeetCode problems**:
 ---
 
 
+## **Day 142 — 22 January 2026 (Thursday)**
+
+**Reached college:** 7:45 AM
+
+### 🎓 Lectures & Academics
+
+**7:45 AM – 8:40 AM | Ethics for Data Science**  
+- Lecture felt unengaging.
+- Utilized the time to solve **1 LeetCode problem** instead.
+
+**8:40 AM – 9:45 AM | Deep Learning**  
+- Lecture by **Swati Jain Ma’am**.
+- Discussed examples of **sequential data**, such as:
+  - Music
+  - Speech
+  - Sentiment data
+  - DNA sequences
+  - Video data
+- Began introduction to **Recurrent Neural Networks (RNNs)** and their internal working.
+- Topic remained incomplete due to an announcement session.
+
+- **Internship Season Briefing**:
+  - Given by **Priyank Thakkar Sir** and **Vijay Ukani Sir**.
+  - Explained internship rules, guidelines, and expectations.
+  - Several companies are lined up for the next **2–3 months**.
+  - A moment of reflection — uncertain future, but committed to giving my absolute best.
+
+**9:45 AM – 10:35 AM | Explainable AI**  
+- Lecture by **NKP Sir**.
+
+**Challenges in Explainable AI:**
+- **Complexity of Modern AI Models:** Deep and ensemble models are powerful but hard to interpret.
+- **Ambiguity vs Interpretability:** Simple explanations may miss nuances, while detailed ones may confuse users.
+- **Overfitting Risk:** Over-explaining noisy patterns can mislead interpretation.
+
+**Interpretability Types:**
+- **Intrinsic Interpretability:**  
+  Models that are naturally interpretable, such as Decision Trees and Linear/Logistic Regression.
+- **Post-hoc Interpretability:**  
+  Techniques applied after model training to explain black-box models.
+
+**Key Concepts Explained:**
+- **Decision Trees:**
+  - Root node selected using the feature with highest information gain.
+  - Splitting based on impurity measures.
+  - Tend to overfit by capturing noise.
+  - **Pre-pruning** and **Post-pruning** methods help control overfitting.
+
+- **Linear / Logistic Regression:**
+  - Explained **multicollinearity**, where correlated features destabilize coefficient interpretation.
+
+**10:35 AM – 11:40 AM | Soft Computing**  
+- Lecture by **Rajesh Gupta Sir**.
+- Two batchmates taught topics today:
+  - **Beam Search** — by *Jenil Saliya*
+  - **Greedy Best First Search** — by *Mihir Kothari*
+- In both algorithms:
+  - Evaluation function used: `f(n) = h(n)`
+  - Path cost `g(n)` is not considered.
+- Both explanations were clear and well-delivered.
+
+### ☕ Break
+**11:40 AM – 12:35 PM**
+- Recess
+
+### 🛠️ Minor Project & Research
+
+**12:35 PM – 2:25 PM | Minor Project Lab**
+- Met my guide **Dr. Preeti Kathiria Ma’am** for the first time.
+- She is extremely kind, knowledgeable, and supportive.
+- Discussed:
+  - Fundamentals of **Federated Learning**
+  - My literature review progress
+- She advised me to:
+  - Complete literature review thoroughly
+  - Identify suitable datasets
+  - Report back next week
+
+**Types of Federated Learning Explained:**
+- **Horizontal Federated Learning:**  
+  Same feature space, different data samples across clients.
+- **Vertical Federated Learning:**  
+  Same samples, different feature spaces across clients.
+- Explained with intuitive examples.
+
+**2:25 PM – 4:15 PM | Research Methodology**  
+- Lecture by **Dr. Sudeep Tanwar Sir**.
+- Topics covered:
+  - What is research and why it matters
+  - How to narrow down a research area
+  - Conditions for problem formulation
+  - Importance of research in academia and industry
+  - Literature inclusion and exclusion criteria
+  - **Quality evaluation of research**
+  - **PICOT criteria**
+- Extremely knowledgeable and insightful faculty.
+
+### 🏆 Academic Milestone
+- Received my **Semester 1 Report Card**:
+  - https://drive.google.com/file/d/1PJ4gXU3cu9UETMMcQNyPUZ0dcl1hUjvB/view?usp=sharing
+
+### 📚 Evening Productivity
+
+**4:15 PM – 6:45 PM**
+- Sat in the library.
+- Finalized and properly formatted my **resume**.
+- Prepared it for upcoming **internship submissions**.
+
+---
 
 
 
