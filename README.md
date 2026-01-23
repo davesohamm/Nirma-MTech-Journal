@@ -968,6 +968,65 @@ In total, solved **2 LeetCode problems**:
 
 ---
 
+# 📘 Academic Journal — January 2026
+
+---
+
+## **Day 143 — 23 January 2026 (Friday)**
+
+Woke up at 4 AM and uploaded Resume on the Google Drive. (Because Placement Cell asked us to do that)
+
+**Reached college:** 7:45 AM
+
+### 🛠️ Minor Project & Labs
+
+**7:45 AM – 9:35 AM | Minor Project Lab**
+- Started creating the **Literature Review Excel Sheet** for my minor project.
+- Began structuring papers based on relevance, methodology, datasets, and key findings.
+- Solved 1 leetcode problem.
+
+**9:50 AM – 11:40 AM | Soft Computing Lab**  
+- Lab by **Rajesh Gupta Sir**.
+- Completed lab experiments on:
+  - **Genetic Algorithm (Numerical Example)**
+  - **Particle Swarm Optimization**
+- Implemented and analyzed both optimization techniques.
+
+- Colab notebook:
+  - https://colab.research.google.com/drive/1PS03Zk96xYu6wxgw37X3w2XPr4qKajxg#scrollTo=zn2T-B6gRMno
+
+### ☕ Break
+**11:40 AM – 12:35 PM**
+- Recess.
+- Had lunch while watching *Taarak Mehta Ka Ooltah Chashmah*.
+
+### 📚 Research & Theory
+
+**12:35 PM – 2:25 PM | Minor Project Lab**
+- Continued work on the **literature review**.
+- Read and categorized more papers related to my project domain.
+
+**2:25 PM – 4:15 PM | Explainable AI**  
+- Lecture by **NKP Sir**.
+- Topics covered:
+  - **Logistic Regression** and how to add explainability to it.
+  - **Churn Prediction** as a real-world example.
+  - **Support Vector Machines (SVMs)** and approaches to make them explainable.
+  - **Rule-Based Expert Systems** — discussed as older, classical AI approaches.
+  - Introduction to **SHAP** and its documentation for model explainability.
+
+### 📚 Evening & Reflection
+
+**4:15 PM – 6:40 PM**
+- Sat in the library.
+- Thought a lot about placements and internships.
+- To freshen up my mind, watched random clips from:
+  - *Padman*
+  - *Toilet: Ek Prem Katha*
+- A lot of work lined up for the weekend.
+
+---
+
 
 
 
