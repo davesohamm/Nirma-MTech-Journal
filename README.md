@@ -968,9 +968,6 @@ In total, solved **2 LeetCode problems**:
 
 ---
 
-# 📘 Academic Journal — January 2026
-
----
 
 ## **Day 143 — 23 January 2026 (Friday)**
 
@@ -1024,6 +1021,120 @@ Woke up at 4 AM and uploaded Resume on the Google Drive. (Because Placement Cell
   - *Padman*
   - *Toilet: Ek Prem Katha*
 - A lot of work lined up for the weekend.
+
+---
+
+## **Day 144 — 27 January 2025 (Tuesday)**
+
+After a mini weekend fun vacation, we are back with the hustle.  
+During the weekend, I **completed my literature review** for the research work, which I will be showing to my guide this week.  
+Before coming to college, I also watched around **30 minutes (out of 2 hours)** of a **Three.js tutorial**.
+
+**Reached college:** 7:45 AM
+
+### 🎓 Lectures & Academics
+
+**7:45 AM – 8:45 AM | MLOps**  
+- Lecture by **Dr. Priyank Thakkar Sir**.
+- Continued Git concepts from the previous lecture with additional insights.
+- Explained the difference between:
+  - `git add .`
+  - `git add -A` / `git add --all`
+- Discussed how these commands differ in staging tracked, modified, and deleted files.
+
+**8:45 AM – 9:45 AM | Soft Computing**  
+- Lecture by **Dr. Rajesh Gupta Sir**.
+- Topic: **Fuzzy Logic**.
+
+**Key Concepts Covered:**
+- **Crisp Logic vs Fuzzy Logic:**  
+  Crisp logic deals with binary true/false values, while fuzzy logic allows partial truth values between 0 and 1.
+
+- **Degrees of Truth:**  
+  Represents how much a statement is true rather than absolute true or false.
+
+- **Linguistic Variables:**  
+  Variables whose values are words (e.g., low, medium, high) instead of numerical values.
+
+- **Crisp Set:**  
+  Elements either belong to the set or not — no partial membership.
+
+- **Degree of Membership:**  
+  Indicates how strongly an element belongs to a fuzzy set.
+
+- **Membership Function:**  
+  Defines how input values are mapped to membership degrees.
+
+- **Support:**  
+  Range of input values where the membership function is greater than zero.
+
+- **Core:**  
+  Set of elements with full membership value (degree = 1).
+
+- **Normality:**  
+  A fuzzy set is normal if at least one element has membership value 1.
+
+- **Crossover Point:**  
+  Point where membership value equals 0.5.
+
+- **α-cut:**  
+  Crisp set of elements whose membership values are greater than or equal to α.
+
+- **Strong α-cut:**  
+  Crisp set of elements whose membership values are strictly greater than α.
+
+- During this lecture:
+  - Outlined my **placement preparation roadmap**.
+  - Wrote down a few **good questions to ask recruiters** to leave a strong impression at the end of interviews.
+
+**9:45 AM – 11:40 AM | MLOps Lab**  
+- Lab by **Dr. Priyank Thakkar Sir**.
+- Explained Git’s internal file states:
+  - **Changes to be committed**
+  - **Changes not staged for commit**
+  - **Untracked files**
+- Explained:
+  - Difference between **latest commit and index**
+  - Difference between **index and working directory**
+- Additional work during free time:
+  - Solved **1 LeetCode problem**
+  - Started reading **ROCm HIP documentation (PPT)**
+  - Studied **cache levels (L1, L2, L3)**
+  - Revised important abbreviations from my placement roadmap
+
+### ☕ Break
+**11:40 AM – 12:35 PM**
+- Recess
+
+### 🧪 Labs & Practice
+
+**12:35 PM – 2:25 PM | Deep Learning Lab**  
+- Lab by **Dr. Parita Oza Ma’am**.
+- Task:
+  - Implement **FNN on MNIST dataset**
+  - Plot **Confusion Matrix**
+  - Generate **Classification Report**
+  - Toggle parameters and write a **comparative analysis** in the notebook
+- My work:
+  - https://colab.research.google.com/drive/1nz76F5e6JCNonZqa_Hx4l6o5cf9aTrpL#scrollTo=9juRKPP2kpt7
+- Also completed:
+  - **ROCm HIP PPT**
+  - Reading about **MKL**
+
+**2:25 PM – 4:15 PM | Deep Learning**  
+- Lecture by **Dr. Swati Jain Ma’am**.
+- Explained **Recurrent Neural Network (RNN)** working with examples.
+- Covered the **Named Entity Recognition (NER)** problem in detail.
+- Practiced important **Linux commands** in my notebook during the lecture.
+
+### 📚 Evening Productivity
+
+**4:15 PM – 7:20 PM**
+- Sat in the library.
+- Filled a **recent company form** (confidential for now) received via college email — took more than an hour.
+- Collected my **2025 Internship Certificate** and uploaded it to Drive for future use.
+- Revised everything studied during the day.
+- Returned home afterward.
 
 ---
 
