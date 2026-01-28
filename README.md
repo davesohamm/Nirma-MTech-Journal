@@ -1139,5 +1139,115 @@ Before coming to college, I also watched around **30 minutes (out of 2 hours)** 
 ---
 
 
+## **Day 145 — 28 January 2026 (Wednesday)**
+
+**Reached college:** 7:45 AM
+
+### 🎓 Labs & Lectures
+
+**7:45 AM – 9:45 AM | Explainable AI Lab**  
+- Lab by **NKP Sir**.
+- Instructed to implement **explainability for Logistic Regression and SVM**.
+- Applied appropriate explainability techniques to interpret model behavior and feature influence.
+- Completed the lab work in the following Colab notebook:
+  - https://colab.research.google.com/drive/1bkDRgTdExk2SniC4QNiFhpix-L5sOuKy#scrollTo=84b81974
+
+- During free time in the lab:
+  - Solved **1 LeetCode problem**
+  - Created an **Excel sheet of useful datasets** relevant to my minor project on **Federated Learning**
+
+**9:45 AM – 10:45 AM | MLOps**  
+- Lecture by **Priyank Thakkar Sir**.
+- Deep dive into the **`git restore`** command — explained inside out.
+
+**Key Concepts Covered (git restore):**
+- `git restore` can restore:
+  - **Index from a commit**
+  - **Working directory from index or commit**
+  - **Both index and working directory simultaneously**
+- Restoration can be done from:
+  - Latest commit
+  - Any specific previous commit
+
+**Important Flags Explained:**
+- `--worktree` → restores working directory (default if nothing specified)
+- `--staged` → restores index
+- `--worktree --staged` → restores both
+
+**Source Specification:**
+- `--source=<HASH>` specifies the commit to restore from.
+- If `--source` is not mentioned:
+  - Source defaults to **one level above the destination**
+  - (Commit → Index → Working Directory)
+
+**Full Syntax Example:**
+- git restore --worktree --staged --source=<COMMIT_HASH> -- .
+
+- Explained usage of:
+  - `.` (all files)
+  - `:/`
+  - `./`
+  - Specific file paths
+
+- Additional Notes:
+  - `git restore` is optimized for **lazy writing**
+  - It **does not touch untracked files**
+
+**10:45 AM – 11:40 AM | Soft Computing**  
+- Lecture by **Rajesh Gupta Sir**.
+
+**Topics Covered:**
+- **Bandwidth:**  
+  Difference between two unique crossover points in a fuzzy set.
+
+- **Symmetry:**  
+  Open-left, open-right, and closed membership function shapes.
+
+- **Fuzzy vs Probability:**  
+  Fuzzy logic represents degree of truth, while probability represents likelihood of occurrence.
+
+- **Prediction vs Forecasting:**  
+  Prediction estimates outcomes, forecasting focuses on future trends based on historical data.
+
+- **Membership Functions:**  
+  - Triangular  
+  - Trapezoidal  
+  - Gaussian  
+  - Curved  
+- Discussed their **formulas and graphical representations**.
+
+- **Fuzzification Example:**  
+  - Cold, Warm, Hot temperature sets
+- Also discussed **Cauchy Membership Function**.
+
+### ☕ Break
+**11:45 AM – 12:35 PM**
+- Recess
+
+### 🛠️ Project & Practice
+
+**12:35 PM – 2:25 PM | Minor Project Lab**
+- Went to meet my guide **Dr. Preeti Kathiria Ma’am**, but she was not available.
+- Planning to meet her tomorrow.
+- Other work done:
+  - Practiced **Bash scripting**
+  - Created a **video for my project using AI tools**
+
+**2:25 PM – 4:15 PM | Deep Learning Lab**  
+- Lab by **Parita Oza Ma’am**.
+- Free lab session.
+- Continued **Bash script practice**.
+
+### 📚 Evening Wind-down
+
+**4:15 PM – 6:00 PM**
+- Sat in the library.
+- Took time to freshen up my mind and reflect.
+- Returned home afterward.
+
+---
+
+
+
 
 
