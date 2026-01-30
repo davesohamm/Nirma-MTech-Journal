@@ -1248,6 +1248,121 @@ Before coming to college, I also watched around **30 minutes (out of 2 hours)** 
 ---
 
 
+## **Day 146 — 29 January 2026 (Thursday)**
+
+**Reached college:** 7:45 AM
+
+### 🎓 Lectures & Academics
+
+**7:45 AM – 8:40 AM | Ethics for Data Science**  
+- Attended the lecture.
+- Felt disengaged, so I utilized the time to write down **important interview questions** in my notebook:
+  - Tell me about yourself
+  - Your 5 strengths and 5 weaknesses
+  - Explain the projects you have worked on
+  - What interests you in our company?
+
+**8:40 AM – 9:45 AM | Deep Learning**  
+- Lecture by **Dr. Swati Jain Ma’am**.
+- Provided insights into **Recurrent Neural Networks (RNNs)** and their motivation.
+- Attention dipped again, so I continued refining interview preparation questions alongside listening.
+
+**9:45 AM – 10:45 AM | Explainable AI**  
+- Lecture by **NKP Sir**.
+- Introduced:
+  - **GLM (Generalized Linear Models)**
+  - **GAM (Generalized Additive Models)**
+
+**Key Concepts Covered:**
+- **Need for GAM:**  
+  Extends linear models by allowing non-linear relationships while maintaining interpretability.
+
+- **Piecewise Linear Functions:**  
+  Breaks complex relationships into simpler linear segments.
+
+- **Knots / Degrees of Freedom:**  
+  Hyperparameter controlling flexibility — more knots lead to more wiggly functions.
+
+- **HadCRUT4 Dataset Example:**  
+  Demonstrated GAM behavior on real climate data.
+
+- **Runge Phenomenon:**  
+  High-degree polynomials can oscillate wildly at boundaries.
+
+- **Combinatorial Explosion:**  
+  Explained using formula to show exponential growth in model complexity.
+
+- **PDP (Partial Dependence Plots):**  
+  Visualize the marginal effect of a feature on predictions.
+
+- **Splines:**  
+  Basis functions used in GAMs to model smooth non-linear effects.
+
+**10:45 AM – 11:45 AM | Soft Computing**  
+- Lecture by **Rajesh Gupta Sir**.
+- Explained formulas and examples for **Fuzzy Logic Operations**:
+
+**Operations Covered:**
+- Union  
+- Intersection  
+- Complement  
+- Algebraic / Vector Dot Product  
+- Scalar Product  
+- Sum and Difference  
+- Disjunctive Sum  
+- Bounded Sum  
+- Bounded Difference  
+- Equality  
+- Power  
+- Cartesian Product  
+
+**Properties Discussed:**
+- Commutative  
+- Distributive  
+- Associative  
+- Idempotent  
+- Transitive  
+
+### ☕ Break
+**11:45 AM – 12:35 PM**
+- Recess
+
+### 🛠️ Minor Project & Research
+
+**12:35 PM – 2:25 PM | Minor Project Lab**
+- Met my guide **Dr. Preeti Kathiria Ma’am**.
+- She guided me on:
+  - Approaching the **dataset**
+  - Refining the **problem statement**
+  - Identifying **data segregation methods** from literature
+- She recommended a course on **Federated Learning**, which I completed by midnight:
+  - https://learn.deeplearning.ai/courses/intro-to-federated-learning/lesson/gxxmb/federated-training-process
+
+**Key Learning:**
+- Introduced to the **Flower library** for Federated Learning.
+- She asked me to set it up locally — which I successfully did.
+- Created a **step-by-step setup guide** for my junior students.
+
+**2:25 PM – 4:15 PM | Research Methodology**  
+- Lecture by **Dr. Sudeep Tanwar Sir** and **Dr. Priyank Thakkar Sir**.
+- Discussed:
+  - How to narrow down a **research title**
+  - Investigating and comparing **solution approaches** for a research problem
+
+### 📚 Evening Productivity
+
+**4:25 PM – 6:35 PM**
+- Sat in the library.
+- Continued working on the **Federated Learning (Flower) course**.
+- Applied to a company recommended by my best friend.
+- Also received a **referral** for the role.
+- Feeling hopeful — let’s see where this leads.
+
+
+---
+
+
+
 
 
 
