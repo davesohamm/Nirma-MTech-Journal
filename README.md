@@ -100,3 +100,96 @@
 
 
 ---
+
+## **Day 149 — 3 February 2026 (Tuesday)**
+
+**Reached college:** 7:45 AM
+
+### 🎓 Lectures & Academics
+
+**7:45 AM – 8:40 AM | MLOps**  
+- Lecture by **Dr. Priyank Thakkar Sir**.
+- Introduced **Flask basics**.
+- Explained:
+  - **Flask** as a lightweight **Python web framework**.
+  - Difference between **Application Servers** and **Web Servers** in depth.
+- **Application Servers** discussed:
+  - Gunicorn  
+  - Waitress  
+  - uWSGI  
+- **Web Servers** discussed:
+  - Nginx  
+  - Apache  
+- Key understanding:
+  - Application servers **cannot serve HTTPS directly**.
+  - Web servers are required for:
+    - Handling HTTPS
+    - Reverse proxying
+    - Load balancing
+  - Very detailed explanation of real-world deployment architecture.
+
+**8:40 AM – 9:30 AM | Soft Computing**  
+- Lecture by **Rajesh Gupta Sir**.
+- Topics covered:
+  - **Relations in Crisp Logic vs Fuzzy Logic**
+  - Operations:
+    - Union  
+    - Intersection  
+    - Complement  
+  - **Composition of Relations**
+  - **Fuzzy Cartesian Product**
+- Concepts were explained with clarity and mathematical intuition.
+
+**9:50 AM – 11:40 AM | MLOps Lab**  
+- Lab by **Dr. Priyank Thakkar Sir**.
+- Performed **all 9 Git Scenarios** practically on our own systems.
+- Helped in strengthening hands-on understanding of Git workflows.
+
+### ☕ Break
+**11:40 AM – 12:35 PM**  
+- Recess
+
+### 🧠 Deep Learning & Research
+
+**12:35 PM – 2:25 PM | Deep Learning Lab**  
+- Lab by **Parita Oza Ma’am**.
+- Evaluation:
+  - Assessed based on **Lab 1 performance**.
+  - Scored **8/10**.
+- Practical work:
+  - Implemented **LSTM** using:
+    - **Keras**
+    - **PyTorch**
+- My Google Colab notebook:  
+  - https://colab.research.google.com/drive/1AU4B27aC85CyGyLR73uDMTsuPtCRvtWC#scrollTo=m7Lbb0yrEpFR
+
+**2:25 PM – 4:15 PM | Research Methodology**  
+- Lecture was **postponed**, so we were free.
+- Met **Dr. Preeti Kathiria Ma’am**:
+  - She gave me a **research paper on maize crop**.
+  - Asked me to:
+    - Study the maize paper thoroughly.
+    - Find and collect **research papers on soybean crop** as well.
+- Important task ahead: deep reading and understanding of the paper.
+
+### 📚 Evening & Reflections
+
+**4:15 PM – 5:25 PM**
+- Sat in the library.
+- Made a structured **list of topics to prepare before interviews**.
+
+**5:25 PM – 7:00 PM**
+- Talked to **her** on call.
+- Mood wasn’t great today:
+  - Didn’t receive a call from an internship interview.
+  - One of my classmates got selected.
+- Felt low, but talking helped.
+
+**7:00 PM**
+- Went home.
+
+*A mentally heavy day, but still stayed productive and focused. 🌱*
+
+---
+
+
