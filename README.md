@@ -192,7 +192,7 @@
 
 ---
 
-\## \*\*Day 150 — 4 February 2026 (Wednesday)\*\*
+## **Day 150 — 4 February 2026 (Wednesday)**
 
 \*\*Reached college:\*\* 7:45 AM
 
