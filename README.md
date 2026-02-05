@@ -383,6 +383,115 @@ app.run(host="0.0.0.0", port=5000)
 *   Quiet time scrolling YouTube.
     
 *   Father called, and I went home with him.
+
+---
+
+## **Day 151 — 5 February 2026 (Thursday)**
+
+**Reached college:** 7:45 AM  
+
+---
+
+### 🎓 Lectures & Academics
+
+**7:45 AM – 8:40 AM | Ethics for Data Science**  
+- Lecture attended, but found it disengaging.  
+- Utilized the time productively for **Minor Project work**.  
+- Prepared a small structured diary containing:
+  - Details of **4 Maize datasets**
+  - Details of **2 Soybean datasets**
+- Organized dataset characteristics, size, and problem focus clearly.
+
+---
+
+**8:40 AM – 9:35 AM | Deep Learning**  
+- Lecture by **Dr. Swati Jain Ma’am**.  
+- Topics covered:
+  - **Backpropagation Through Time (BPTT)**  
+  - **Vanishing Gradient Problem**  
+  - **Exploding Gradient Problem**  
+  - Activation functions:
+    - **Tanh**
+    - **Sigmoid**
+    - Their significance in sequence modeling  
+  - **LSTM Architecture**:
+    - Input Gate  
+    - Cell State  
+    - Forget Gate  
+    - Update Gate  
+    - Output Gate  
+- Detailed explanation of how LSTM mitigates vanishing gradients.
+
+---
+
+**9:50 AM – 10:40 AM | Explainable AI**  
+- Lecture by **NKP Sir**.  
+- Topics covered:
+  - **Runge Phenomenon** and oscillation issues in polynomial regression  
+  - Various **Basis Functions**  
+  - **Spline functions** with formula  
+  - **Log Likelihood**:
+    - Formula derivation  
+    - Concept of second derivative  
+
+---
+
+**10:50 AM – 11:40 AM | Soft Computing**  
+- Lecture conducted by classmates **Parmeet** and **Ayushi**.  
+- Topic: **Defuzzification Methods**  
+  - Maxima-based methods:
+    - FOM (First of Maxima)  
+    - LOM (Last of Maxima)  
+    - MOM (Mean of Maxima)  
+    - Weighted Average  
+  - **Center of Sums Method**  
+  - **Center of Gravity (COG)**  
+  - **Center of Area (COA)**  
+- Nicely explained with conceptual clarity.
+
+---
+
+### ☕ Break  
+**11:40 AM – 12:35 PM**  
+- Recess  
+
+---
+
+### 🛠️ Minor Project & Research
+
+**12:35 PM – 2:25 PM | Minor Project Lab**  
+- Evaluated my **Literature Review and Dataset Study** with **Dr. Preeti Kathiria Ma’am**.  
+- Feedback received:
+  - Search for **more Soybean datasets**.  
+  - Explore additional **journal papers from ScienceDirect**.  
+- Need to deepen dataset comparison and strengthen research foundation.
+
+---
+
+**2:25 PM – 4:15 PM | Research Methodology**  
+- Lecture by **Dr. Jitendra Bhatia** and **Dr. Jaiprakash Verma**.  
+- Continued discussion on research structuring and academic writing approach.
+
+---
+
+### 📚 Evening
+
+**4:15 PM – 5:40 PM**  
+- Went to the library.  
+- Solved **1 LeetCode problem**.  
+- Unexpectedly dozed off while sitting there.
+
+**5:40 PM – 6:40 PM**  
+- Left library and talked to her on call for about an hour.
+
+**6:40 PM – 8:00 PM**  
+- Sat alone on a bench near **SG Highway** waiting for Papa.  
+- Quiet time for reflection.
+
+- Returned home with Papa around **8:00 PM**.
+
+---
+
     
 
 
