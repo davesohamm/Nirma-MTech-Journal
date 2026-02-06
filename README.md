@@ -492,6 +492,105 @@ app.run(host="0.0.0.0", port=5000)
 
 ---
 
-    
+## **Day 152 — 6 February 2026 (Friday)**
+
+**Reached college:** 7:45 AM  
+
+---
+
+### 🛠️ Minor Project & Labs
+
+**7:45 AM – 9:40 AM | Minor Project Lab**  
+- Continued research on **Soybean datasets**.  
+- Explored theoretical foundations:
+  - **IID vs Non-IID data distribution**
+  - **Horizontal Federated Learning**
+  - **Vertical Federated Learning**
+  - Conceptual differences and practical implications.
+- Strengthened understanding of data partitioning strategies for federated setups.
+
+---
+
+**9:40 AM – 11:40 AM | Soft Computing Lab**  
+- Lab by **Rajesh Gupta Sir**.  
+- Performed **Lab 1 and Lab 2** from the practical list.  
+- Completed implementation in Google Colab:  
+  - https://colab.research.google.com/drive/1fTjU4nxOOH6DMATKWvt7z4pzl4IvzHR-  
+
+---
+
+### ☕ Break  
+**11:40 AM – 12:35 PM**  
+- Recess  
+
+---
+
+**12:35 PM – 2:25 PM | Minor Project Lab**  
+- Initially planned to meet **Dr. Preeti Kathiria Ma’am**.  
+- She informed that **Dr. Pimal Ma’am** would evaluate my literature review instead.  
+- Could not find her during that time, so evaluation did not happen.  
+- Utilized the time to create a **well-structured Excel sheet** compiling all available datasets.
+
+---
+
+### 🎓 Deep Learning
+
+**2:25 PM – 3:30 PM | Deep Learning**  
+- Lecture by **Dr. Swati Jain Ma’am** (shortened session as she was unwell).  
+- Topics covered:
+  - Detailed discussion on **LSTM components**:
+    - Update Gate  
+    - Forget Gate  
+    - Output Gate  
+    - Cell State  
+  - Introduction to **GRU (Gated Recurrent Unit)**:
+    - Mathematical formulation  
+    - Example on number of learnable parameters  
+  - **Bidirectional RNN** concept  
+  - **Deep RNNs**  
+  - Began **CNN introduction** (basic overview; detailed discussion in upcoming lectures).
+
+---
+
+### 📊 Research Follow-up
+
+**3:30 PM – 4:20 PM**  
+- Met **Dr. Pimal Ma’am** for dataset review evaluation.  
+- She asked me to:
+  - Identify and list **unique classes across all Soybean datasets**.
+
+**4:20 PM – 4:45 PM**  
+- Sat with **Nayan Bhaiya (JRF)**.  
+- Discussed placements and general career-related topics.
+
+---
+
+### 🌆 Evening
+
+**4:45 PM – 5:45 PM**  
+- Sat in the library.  
+- Tried to sleep but couldn’t fully rest.
+
+**5:45 PM – 6:45 PM**  
+- Sat on the Great Stairs.  
+- Again tried to sleep.  
+- Waiting for her to come to meet me.
+
+**6:45 PM**  
+- She finally called.
+
+**7:30 PM**  
+- She arrived at college.  
+- We talked, laughed, had chips and chocolate pie.  
+- Spent wholesome, happy time together.
+
+**Around 8:20 PM**  
+- Left for home.
+
+---
+
+Felt deeply loved and blessed today.
+
+---
 
 
