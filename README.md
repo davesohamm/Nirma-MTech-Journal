@@ -593,4 +593,125 @@ Felt deeply loved and blessed today.
 
 ---
 
+## **Day 153 — 9 February 2026 (Monday)**
+
+**Reached college:** 7:45 AM  
+
+---
+
+### 🎓 Lectures & Academics
+
+**7:45 AM – 8:40 AM | Explainable AI**  
+- Lecture by **NKP Sir**.  
+- Topics covered:
+  - **Pros and Cons of GLM (Generalized Linear Models)**  
+  - **Pros and Cons of GAM (Generalized Additive Models)**  
+  - Demonstrated **Spline functions using Desmos** for visual understanding.  
+  - Explained the **Log-Likelihood formula**.  
+  - Discussed the importance of the **second derivative** and why **Cubic Splines** are preferred (smoothness due to continuity up to second derivative).
+
+---
+
+**9:40 AM – 10:35 AM | Free Lecture**  
+- Utilized the time productively.  
+- Made a structured **summary of my dataset literature review**.  
+- Identified **separate classes** from datasets that can be used to define **clients in Federated Learning setup**.
+
+---
+
+**10:50 AM – 11:40 AM | MLOps**  
+- Lecture by **Dr. Priyank Thakkar Sir**.  
+- Previously discussed deployment on development server; today focused on **Waitress deployment**.  
+- Created a new template: **`prediction.html`**.  
+- Introduced to **Nginx** setup and configuration.
+
+#### 🔹 Nginx Commands
+
+- `start nginx` → Starts the Nginx server.  
+- `nginx -s stop` → Immediately stops the server.  
+- `nginx -s quit` → Gracefully shuts down the server.  
+- `nginx -s reload` → Reloads configuration without stopping service.
+
+#### 🔹 Nginx Configuration Concepts
+
+- **conf folder & configuration files** → Contains server configuration settings.  
+- **worker_processes** → Number of worker processes handling requests (usually based on CPU cores).  
+- **events block** → Handles connection processing settings.  
+- **http block** → Main context for HTTP server configuration.  
+- **include mime.types** → Defines content types for different file extensions.  
+- **default_type application/octet-stream** → Default binary data type.  
+- **sendfile on** → Enables efficient file transfer.  
+- **keepalive_timeout** → Time duration for keeping connections alive.  
+- **server block** → Defines a virtual server configuration.  
+- **listen 80** → Listens on port 80 (HTTP default).  
+- **server_name** → Specifies domain name.  
+- **location** → Defines URL path handling rules.  
+- **proxy_pass** → Forwards client requests to backend application server.  
+- **proxy_set_header Host** → Passes original host header to backend server.
+
+---
+
+**10:50 AM – 11:40 AM | Deep Learning**  
+- Lecture by **Dr. Swati Jain Ma’am**.  
+- Topic: **Convolutional Neural Networks (CNNs)**.  
+
+- Discussed:
+  - Image processing fundamentals:
+    - Grayscale image → 1 byte per pixel.  
+    - RGB image → 3 bytes per pixel.  
+  - CNN applications:
+    - Image Classification  
+    - Object Detection  
+    - Image Segmentation  
+  - Detailed explanation of **1D Convolution**:
+    - Kernel / Filter  
+    - Stride  
+    - Kernel Size  
+    - Padding  
+    - Convolution Layer working methodology  
+
+---
+
+### ☕ Break  
+**11:40 AM – 12:35 PM**  
+- Recess  
+- Took printout of **placement fees receipt**.
+
+---
+
+### 🛠️ Minor Project & Research
+
+**12:35 PM – 2:25 PM | Minor Project Lab**  
+- Met **Dr. Preeti Kathiria Ma’am**.  
+- She reviewed my dataset summary and gave 3 tasks:
+  1. Identify various **Deep Learning models** suitable for the paper.  
+  2. Calculate **number of images for each client**.  
+  3. Explore different **Federated Learning algorithms** and prepare a comparison.  
+
+---
+
+**2:25 PM – 3:15 PM | Ethics for Data Science**  
+- Free lecture.  
+- Completed all **3 minor project tasks** assigned by Ma’am.  
+- Noted down relevant **FL algorithms** for comparison.  
+- Solved **1 LeetCode problem**.
+
+---
+
+**3:15 PM – 4:15 PM | Soft Computing**  
+- Lecture was cancelled.  
+
+- Went to the **library** and sat there till **6:00 PM**.  
+- Came across the **Google Student Researcher 2026 Program**.  
+- Reached out to some of my **LinkedIn connections** requesting referral for this opportunity.
+
+---
+
+### 🌆 Evening
+
+**6:00 PM**  
+- Left for home while talking to her on call.
+
+---
+
 
