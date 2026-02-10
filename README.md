@@ -714,4 +714,124 @@ Felt deeply loved and blessed today.
 
 ---
 
+## **Day 154 — 10 February 2026 (Tuesday)**
+
+**Reached college:** 7:47 AM (2 minutes late 😅)  
+
+- Thought **Dr. Priyank Sir** wouldn’t give attendance because of late entry…  
+- But he forgot his attendance diary today and allowed it.  
+- Thank you God. 🙏  
+
+---
+
+### 🎓 Lectures & Academics
+
+**7:45 AM – 8:40 AM | MLOps**  
+- Lecture by **Dr. Priyank Thakkar Sir**.  
+- Topics covered in depth:
+
+#### 🔹 Nginx & Deployment Concepts
+
+- **MIME Types**  
+  Define the nature/format of a file (e.g., text/html, application/json) so browsers know how to process it.
+
+- **Server Block (Virtual Server)**  
+  Defines configuration for a specific domain/port.  
+  Contains directives like `listen`, `server_name`, `location`, etc.
+
+- **proxy_set_header**  
+  Forwards client request headers (like Host) to backend application server.
+
+- **Virtual Hosting**  
+  Running multiple websites/applications on a single physical machine using different server blocks.
+
+- **nginx.conf File**  
+  Explained line by line:
+  - worker processes  
+  - events block  
+  - http block  
+  - include mime types  
+  - server configuration  
+  - location & proxy configuration  
+
+#### 🔹 Application Server Limitation
+
+- An application server running on a single physical machine can serve **only one application per process**.  
+- If multiple applications need to run, three architectural options can be used (explained conceptually in class — scaling and multi-process strategies).
+
+---
+
+**8:40 AM – 9:35 AM | Soft Computing**  
+- Lecture by **Rajesh Gupta Sir**.  
+- Solved various numericals.  
+- Covered formulas for:
+  - Membership functions  
+  - Fuzzy tolerance relation  
+  - Equivalence relation sum  
+  - PSO sum  
+
+---
+
+**9:35 AM – 11:40 AM | MLOps Lab**  
+- Lab by **Dr. Priyank Thakkar Sir**.  
+- Deployed our **Iris Classification model** using:
+  - **Waitress (Application Server)**  
+  - **Nginx (Web Server)**  
+- Full deployment pipeline working successfully.
+
+---
+
+### ☕ Break  
+**11:40 AM – 12:35 PM**  
+- Recess  
+
+---
+
+### 🧠 Deep Learning Lab
+
+**12:35 PM – 2:25 PM | Deep Learning Lab**  
+- Ma’am explained **RNN in depth**.  
+- Assigned a **Language Model task** for next-word prediction.  
+- Implemented RNN-based solution in Colab:  
+  - https://colab.research.google.com/drive/1xmGwMdQm8Ukl-oE7UpgeXWpHXwnIimZf#scrollTo=SwIvpH9a6T6j  
+
+---
+
+### 📊 Explainable AI
+
+**2:25 PM – 3:45 PM | Explainable AI**  
+- Lecture by **NKP Sir**.  
+- Topics covered:
+  - **Partial Dependence Plot (PDP)**:
+    - Detailed theory  
+    - Mathematical formula  
+    - Example explanation  
+  - **SHAP (SHapley Additive exPlanations)**:
+    - Formula derivation  
+    - Theoretical intuition  
+
+Deep theoretical session today.
+
+---
+
+### 🚀 Hackathon & Evening
+
+**4:00 PM – 5:00 PM | Hackathon Kickoff Webinar**  
+- Attended kickoff session.  
+- Given **3 tracks** to choose from.  
+- Submission deadline: **12 February**.  
+- Hackathon date: **17 February**.  
+- Hands-on bootcamp: **16 February**.  
+- Let’s see where this opportunity takes me.
+
+**5:00 PM – 5:15 PM**  
+- Called **JV Sir** regarding a research paper plagiarism query.
+
+**5:15 PM – 6:00 PM**  
+- Sat in the library.  
+- Watched YouTube to refresh the mind.
+
+---
+
+
 
