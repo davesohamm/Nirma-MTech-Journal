@@ -833,5 +833,94 @@ Deep theoretical session today.
 
 ---
 
+## **Day 155 — 11 February 2026 (Wednesday)**
+
+**Reached college:** 7:45 AM  
+
+---
+
+### 🎓 Lectures & Academics
+
+**7:45 AM – 9:35 AM | Explainable AI Lab**  
+- Lab by **NKP Sir**.  
+- Sir instructed us to perform practicals on:
+  - **GLM (Generalized Linear Models)**  
+  - **GAM (Generalized Additive Models)**  
+  - **PDP (Partial Dependence Plots)**  
+- Required datasets:
+  - **Diabetes Dataset**  
+  - One additional dataset — I chose **Breast Cancer Dataset (sklearn)**.  
+- Completed the full implementation successfully.  
+
+- My Google Colab notebook:  
+  - https://colab.research.google.com/drive/1voee84AKHB8t5bG6vxIvk4PpKglZarco#scrollTo=XO8WhZ2uq_re  
+
+---
+
+**9:35 AM – 10:40 AM | MLOps**  
+- Lecture by **Dr. Priyank Thakkar Sir**.  
+- Deep dive into:
+  - **Nginx & Waitress architecture**  
+  - **sendfile() system call** → Sends files directly from disk to network socket without copying into user space, improving performance.  
+  - Built-in **caching & compression in Nginx**.  
+  - How web servers efficiently serve **static pages**.  
+  - **Load balancing algorithms** discussed.  
+  - **Sticky directive** explained (ensures a client consistently connects to the same backend server).
+
+---
+
+**10:40 AM – 11:45 AM | Soft Computing**  
+- Lecture by **Rajesh Gupta Sir**.  
+- Solved **Genetic Algorithm numericals** step-by-step.  
+- Important exam insight:
+  - In 50-mark sessional exam, **40 marks will be numericals**.  
+  - **Defuzzification** and **Genetic Algorithm numericals** are most important for preparation.
+
+---
+
+### ☕ Break  
+**11:45 AM – 12:35 PM**  
+- Recess  
+
+---
+
+### 🛠️ Minor Project & Evaluation
+
+**12:35 PM – 2:25 PM | Minor Project Lab**  
+- Met **Dr. Preeti Kathiria Ma’am**.  
+- Instructions given:
+  - Set up the **Feature Extraction pipeline** and start implementation.  
+  - Find more datasets and integrate them into the **Literature Review**.  
+  - Finalize and work on the **data distribution strategy** for the paper.
+
+---
+
+**2:25 PM – 3:15 PM | Soft Computing Lab Evaluation**  
+- Evaluation of practicals **4, 5, and 9**.  
+- Scored good marks.
+
+---
+
+### 📚 Research Work
+
+**3:30 PM – 6:40 PM**  
+- Sat in the library.  
+- Worked on the **ICHP-MS Research Paper** along with Dev.  
+- Task assigned:
+  - Review content carefully.  
+  - Mitigate AI-generated content detection flags.  
+  - Reduce plagiarism issues.  
+- Completed revisions.  
+- Final draft sent to:
+  - **Dr. Jaiprakash Verma Sir**  
+  - **NKP Sir**
+
+---
+
+**7:00 PM**  
+- Returned home.
+
+---
+
 
 
