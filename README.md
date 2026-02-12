@@ -923,4 +923,102 @@ Deep theoretical session today.
 ---
 
 
+## **Day 156 — 12 February 2026 (Thursday)**
 
+**Reached college:** 7:45 AM  
+
+---
+
+### 🎓 Lectures & Academics
+
+**7:45 AM – 8:40 AM | Ethics for Data Science**  
+- Filled the **Hackathon registration form** during the lecture.  
+- Formed a team for subject evaluation presentation.  
+- Finalized topic:
+  - **Data Visualization and its Adverse Effects**
+  - Importance of showing **accurate and ethically acceptable data**.  
+- Selected **3 case studies** to work on (execution will begin next month).
+
+---
+
+**8:40 AM – 9:35 AM | Deep Learning**  
+- Lecture by **Dr. Swati Jain Ma’am**.  
+- Continued **CNN** topic.  
+- Covered:
+  - Kernels / Filters  
+  - Activation Maps  
+  - Output volume size calculations  
+  - Number of operations in convolution  
+- Solved numerical examples for better clarity.
+
+---
+
+**9:50 AM – 10:40 AM | Explainable AI**  
+- Lecture by **NKP Sir**.  
+- Detailed explanation of **SHAP (SHapley Additive Explanations)**.  
+- Covered:
+  - Mathematical formula  
+  - Intuition behind Shapley values  
+  - Solved 2 numerical examples for clarity.
+
+---
+
+**10:40 AM – 11:35 AM | Soft Computing**  
+- Session taken by classmates **Mihir Kothari** and **Jenil Saliya**.  
+- Topic: **Defuzzification**  
+- Covered:
+  - Conceptual explanation  
+  - Numerical examples  
+  - Demonstration of different defuzzification techniques.
+
+---
+
+### ☕ Break  
+**11:40 AM – 12:35 PM**  
+- Recess  
+
+---
+
+### 🛠️ Minor Project & Collaboration
+
+**12:35 PM – 2:25 PM | Minor Project Lab**  
+- Went to **Dr. Preeti Kathiria Ma’am’s lab** to begin data processing work.  
+- Also discussed project aspects with **Dr. Pimal Patel Ma’am**.  
+- Interacted with 2 B.Tech students who will assist in the **preprocessing part**.  
+- Ma’am instructed me to start implementation on the **ASDID dataset** as soon as possible.  
+- Created a **combined WhatsApp group** including students and faculties for sharing updates and coordination.
+
+---
+
+### 📚 Research & Academic Work
+
+**2:25 PM – 3:15 PM | Research Methodology**  
+- Lecture by **Dr. Ankit Thakkar**.  
+- Session focused on **Plagiarism** and academic integrity.
+
+**3:15 PM – 3:30 PM**  
+- Free time.  
+- Completed **ProgCode Week 5 problems**.
+
+**3:30 PM – 5:00 PM**  
+- Sat in the library.  
+- Prepared a detailed document on **Image Data Preprocessing**.  
+- Shared it in the project WhatsApp group.  
+- Also mailed project details and guidance to the B.Tech students.
+
+---
+
+### 🌆 Evening
+
+**5:00 PM – 5:30 PM**  
+- Contacted various book sellers in Ahmedabad to find a specific book for my special friend.  
+- Unfortunately, did not receive any positive response.
+
+**5:30 PM – 6:30 PM**  
+- Sat in the library.  
+- Studied **Agentic AI** from Krish Naik’s playlist.
+
+**6:30 PM**  
+- Left for home.
+
+---
