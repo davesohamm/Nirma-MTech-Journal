@@ -1022,3 +1022,103 @@ Deep theoretical session today.
 - Left for home.
 
 ---
+
+## **Day 157 — 13 February 2026 (Friday)**
+
+**Reached college:** 7:45 AM  
+
+---
+
+### 🛠️ Minor Project Lab
+
+**7:45 AM – 9:35 AM | Minor Project Lab**  
+- Utilized lab time efficiently.  
+- Solved **1 LeetCode problem**.  
+
+---
+
+### 🚌 Industrial Visit — eInfochips (An Arrow Company), Ahmedabad
+
+**9:35 AM**  
+- Reached college bus station.  
+- Departed for **Industrial Visit to eInfochips (An Arrow Company)**.  
+- Had fun in the bus with friends.
+
+**10:30 AM**  
+- Reached the company.
+
+**10:30 AM – 11:00 AM**  
+- Refreshments session.
+
+**11:00 AM – 1:00 PM | Technical & Experience Sessions**  
+
+- Informative session on:
+  - **DevOps**
+  - **MLOps**
+  - Future of careers in technology  
+- Delivered by **Abhinav Jha (Engineer at eInfochips)**.
+
+- Experience Zone Visit:
+  - Saw cutting-edge devices and real-world solutions developed by the company:
+    - World’s smallest **ultrasound device**
+    - Privacy-centric premium **flight seat demo**
+    - Blackbox system for heavy vehicles
+    - Smart **face recognition system**
+    - Automatic home sensors and smart door locks
+    - Medicine color detection using real-time **computer vision**
+    - World’s smallest attachable **camera (glasses-based)**
+    - Products developed for **BOSE**
+    - Rotating thousands of LEDs displaying images
+    - ASIC chips and multiple embedded solutions  
+  - Very wide and impressive product ecosystem.
+
+---
+
+**1:00 PM – 2:00 PM | Lunch**  
+- Had lunch on the **9th floor cafeteria**.  
+- Wore a new formal pair for the first time.  
+- Unfortunately, dal stains got on my shirt during lunch, which spoiled my mood initially.  
+- Eventually stopped caring and enjoyed the rest of the visit.
+
+---
+
+**2:00 PM – 3:30 PM | Company Overview Session**  
+- Session conducted by a senior architect.  
+- Detailed insights into:
+  - Company structure  
+  - Engineering processes  
+  - Product development lifecycle  
+- Very informative and inspiring.
+
+---
+
+**4:30 PM**  
+- Reached college.
+
+- Received **Hackathon Team Formation PDF** for next week.  
+- Coordinated with allocated teammates.  
+- Created a **WhatsApp group** for communication.
+
+---
+
+### 📚 Evening
+
+**4:30 PM – 6:30 PM**  
+- Sat in the library.  
+- Slept for some time.
+
+**6:30 PM – 7:00 PM**  
+- Took a walk.  
+- Called her.  
+- Discussed:
+  - Prime number logic  
+  - Different approaches  
+  - Time complexity analysis  
+- She is truly intelligent and thinks deeply about logic.  
+- That engineering mindset is something I admire the most about her.
+
+**7:30 PM**  
+- Reached home.
+
+---
+
