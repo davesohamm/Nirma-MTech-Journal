@@ -1122,3 +1122,181 @@ Deep theoretical session today.
 
 ---
 
+## **Day 158 — 16 February 2026 (Monday)**
+
+**Reached college:** Morning  
+
+---
+
+### 🚀 Infineon Hackathon — Bootcamp Day
+
+**About the Company — Infineon Technologies**  
+- Infineon is a global semiconductor company headquartered in Germany.  
+- They design power systems, automotive chips, security ICs and embedded hardware used in real-world industrial and automotive applications.  
+- Their work strongly connects software with electronics, embedded systems and AI-driven hardware solutions.
+
+---
+
+**Bootcamp Sessions**
+
+- Introduction to **Machine Learning and Deep Learning fundamentals**.  
+- After recess — introduction to **Agentic AI** concepts.
+
+#### Hands-on Demonstration
+- Built a dummy project:
+  - Joke Generator Agent  
+  - Critic/Evaluator Agent  
+  - Using **Qwen 2.5 7B model**
+- Learned the working of:
+  - Agents
+  - Tool usage
+  - Reasoning loops
+  - Basic AI agent architecture
+
+- Actively participated in discussion.  
+- Answered multiple questions asked by instructors.
+
+**Quiz Session**
+- Slido quiz conducted after bootcamp.
+
+---
+
+### 📚 Evening
+
+- Went to the library after sessions.  
+- Returned home around **7:00 PM**.
+
+---
+
+An engaging learning day — first real exposure to practical agentic AI workflows.
+
+---
+
+## **Day 159 — 17 February 2026 (Tuesday)**
+
+### 🧠 Infineon Hackathon — Competition Day
+
+- Chosen Track: **Agentic Bug Hunter**  
+- Other tracks:
+  - **Defend the Kingdom** → DSA Problems
+  - **Sequence Quest** → Embedded C & PSOS chips
+
+---
+
+### 🛠️ Problem Statement
+
+- Each team received a **pendrive** containing:
+  - MCP servers
+  - `sample.csv` file
+- The CSV contained:
+  - 20 incorrect code lines
+  - Correct lines
+- Task:
+  → Build an **AI agent that explains errors clearly and intelligently**.
+
+---
+
+### 🏁 Competition
+
+- Continuous development till **3:30 PM**.  
+- Submitted:
+  - Code
+  - Outputs
+  - Pendrive
+
+---
+
+### 🏆 Results
+
+- Winners announced around **5:00 PM**.  
+- Our team did not win or secure runner-up position.
+
+- However project was fully working and deployed.  
+- Published on GitHub:  
+  https://github.com/davesohamm/agentic-ai-infineon
+
+Went home with a heavy heart.
+
+---
+
+### 🌙 Night
+
+- Around **9:00 PM** — interview shortlist released.  
+- My name appeared — selected for **Interview Round (18 Feb)**.
+
+Prepared entire night.
+
+---
+
+## **Day 160 — 18 February 2026 (Wednesday)**
+
+### 💼 Infineon Internship Interview Day
+
+- Felt nervous — very good company and I felt underprepared.
+
+---
+
+### Waiting Phase
+
+- Till **1:00 PM** many CSE and 2 DS students completed multiple rounds.  
+- My name did not appear initially.  
+- Around **3:00 PM** — finally called.
+
+---
+
+### 🧠 Interview Round (≈45 minutes)
+
+#### C/C++ Conceptual Question
+- **Why pointers when variables already exist?**
+- Tried multiple explanations but couldn't fully convince them.
+
+#### Python Coding
+- Count number of `1s` in array  
+- Solved using **3 approaches** — interviewer liked this.
+
+#### Resume Discussion
+- Asked multiple project questions — answered satisfactorily.
+
+#### SQL
+- 2 queries:
+  - Foreign key + join
+  - Group by
+- Managed to explain logic convincingly.
+
+#### AI Discussion
+- Agentic AI  
+- RAG  
+- MCP Servers  
+- Use cases and working
+
+---
+
+### Result
+
+- Asked to wait outside.  
+- Not shortlisted for second round.  
+- Final selections: **7 CSE + 2 Data Science students**
+
+---
+
+### Evening
+
+- Left around **6:00 PM** feeling heavy.  
+- Called her — conversation turned into a small argument.  
+- Left college around **7:40 PM**.
+
+Slept immediately after dinner.  
+No energy to talk or do anything.
+
+---
+
+### Emotional Learnings
+
+- Preparation matters more than last-day confidence.  
+- Communication clarity is as important as technical knowledge.  
+- Rejection hurts, but it exposes exactly where improvement is required.
+
+From tomorrow: back to academics, preparation, and consistency again.
+
+---
+
