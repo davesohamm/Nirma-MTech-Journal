@@ -1300,3 +1300,88 @@ From tomorrow: back to academics, preparation, and consistency again.
 
 ---
 
+## **Day 171 — 29 February 2026 (Saturday)**
+
+**Reached college:** 7:45 AM  
+
+---
+
+### 🎓 Lectures & Academics
+
+**7:45 AM – 8:40 AM | Ethics for Data Science**  
+- Attended the lecture.
+
+---
+
+**8:40 AM – 9:35 AM | Deep Learning**  
+- Lecture by **Dr. Swati Jain Ma’am**.  
+- Topics covered:
+  - **Receptive Fields**
+  - **Invariance vs Equivariance**
+  - Various **Activation Functions**
+- Focused on understanding how CNN learns spatial patterns and preserves important features.
+
+---
+
+**9:35 AM – 10:40 AM | Explainable AI**  
+- Lecture by **NKP Sir**.  
+- Topics covered:
+  - **Partial Dependence Plots (PDP)** and their disadvantages  
+  - **ICE Plots (Individual Conditional Expectation)**  
+  - Detailed explanation of **Normalized Centered ICE Plots** with diagrams  
+  - Started **LIME (Local Interpretable Model Agnostic Explanations)**
+
+---
+
+**10:40 AM – 11:40 AM | Soft Computing**  
+- Previously taught by **Dr. Rajesh Gupta Sir** — we got to know he has left the college.  
+- Lecture taken by **Dr. Priyank Thakkar Sir**.  
+- Topic: **Swarm Intelligence**  
+  - Explained using a treasure hunt analogy  
+  - Defined formally:
+    - Swarm Intelligence  
+    - Emergence  
+- Very insightful session.
+
+---
+
+### ☕ Break  
+**11:40 AM – 12:35 PM**  
+- Recess  
+
+---
+
+### 🛠️ Minor Project & Practice
+
+**12:35 PM – 2:25 PM | Minor Project Lab**  
+- Solved **1 LeetCode problem (Binary Pairs Count)**  
+- Completed this week’s **ProgCode problems**
+
+---
+
+**2:25 PM – 4:15 PM | Research Methodology**  
+- Session on:
+  - **Technical Writing**
+  - **Intellectual Property**
+
+---
+
+### 🌆 Evening
+
+**4:15 PM – 6:15 PM**  
+- Sat in the library.  
+- Scrolled LinkedIn.
+
+**6:15 PM**  
+- She came to meet me.  
+- We sat together in the college and spent time talking.
+
+**7:50 PM**  
+- Left college.
+
+**Around 8:30 PM**  
+- Reached home.
+
+---
+
+
