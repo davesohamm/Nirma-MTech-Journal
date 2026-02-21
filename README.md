@@ -1384,4 +1384,88 @@ From tomorrow: back to academics, preparation, and consistency again.
 
 ---
 
+## **Day 162 — 20 February 2026 (Friday)**
+
+**Reached college:** 7:45 AM  
+
+---
+
+### 🛠️ Minor Project & Placement Preparation
+
+**7:45 AM – 9:35 AM | Minor Project Lab**  
+- Solved **1 LeetCode problem**.  
+- Prepared my **resume** for the upcoming company visiting after exams.  
+- Discussed the company details and expectations with batchmates.
+
+---
+
+**9:35 AM – 11:40 AM | Minor Project Lab 2**  
+- Continued discussion with classmates about the company.  
+- Finalized and filled **resume and required details** for application.
+
+---
+
+### ☕ Break  
+**11:40 AM – 12:35 PM**  
+- Recess  
+
+---
+
+**12:35 PM – 1:30 PM | Minor Project Lab 3**  
+- Researched about the company:
+  - Background
+  - Hiring pattern
+  - Technical expectations
+
+---
+
+### 🎤 Expert Talk
+
+**1:30 PM – 2:25 PM | Expert Session — Dr. Siddharth Rajhans**
+
+- Indian international career diplomat, technology entrepreneur, and public policy expert.  
+- Currently serves as **Principal Policy Advisor at the United Nations Headquarters (New York)**.  
+
+#### Key Highlights
+- Represented India’s foreign policy at the **UN General Assembly**.  
+- Contributed to drafting the **Artemis Accords (India–US cooperation)**.  
+- Worked with **Apple and Google** in Silicon Valley and Singapore.  
+- Present at the **Apple Saket launch** alongside Tim Cook (April 2023).  
+- Founder & CEO of **Spacify** — satellite-powered internet initiative in rural regions.  
+- Investor in **40+ startups**.  
+- Chair of Board of Governors at Prometheus School and Global Envoy at Prestige Group.
+
+Very inspiring session connecting technology, policy and global impact.
+
+---
+
+### 🧭 Placement Guidance
+
+**2:25 PM – 3:40 PM | Placement Guidance Talk (III Cell Office)**  
+- Guidance about preparation strategy, interview expectations and upcoming recruitment processes.
+
+---
+
+### 🌆 Evening
+
+**4:00 PM**  
+- Went to K Canteen.  
+- Bought **2 KitKats** for her.
+
+**5:20 PM**  
+- Reached her office parking.  
+- Found her Activa and placed the chocolates there as a surprise.  
+- Waited in parking till **7:30 PM**.
+
+**7:30 PM**  
+- She arrived.  
+- I surprised her, but she didn’t like it.  
+- Felt a bit disheartened.  
+- We left for home without much conversation.
+
+**9:30 PM**  
+- Reached home.
+
+---
+
 
