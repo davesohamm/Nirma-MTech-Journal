@@ -1468,4 +1468,48 @@ Very inspiring session connecting technology, policy and global impact.
 
 ---
 
+## **Day 165 — 23 February 2026 (Monday)**
+
+**Reached college:** 10:40 AM  
+*(Skipped first two lectures — Explainable AI and MLOps)*
+
+---
+
+### 🎓 Lectures & Academics
+
+**10:40 AM – 11:40 AM | Deep Learning**  
+- Lecture by **Dr. Swati Jain Ma’am**.  
+- Cleared doubts regarding upcoming **sessional exams**.  
+- Started a new topic: **LeNet-5 Architecture**.
+
+---
+
+### 🍽️ Break  
+**11:40 AM – 12:35 PM**  
+- Lunch break  
+
+---
+
+### 🧠 Evaluation
+
+**12:35 PM – 2:25 PM | ProgCode Test**  
+- Attempted all problems.  
+- Successfully solved **5/5 problems**.
+
+🏅 **Achievement:**  
+- Received **Scholar Certificate** for securing **9 CGPA in Semester 1**.  
+- Feeling proud!
+
+---
+
+### 🌆 Afternoon
+
+**Around 3:30 PM**  
+- Reached home.
+
+From tomorrow — **Sessional Exams begin**.  
+Time to prepare at my best!
+
+---
+
 
