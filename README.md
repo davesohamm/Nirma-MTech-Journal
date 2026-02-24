@@ -1512,4 +1512,25 @@ Time to prepare at my best!
 
 ---
 
+## **Day 166 — 24 February 2026 (Tuesday)**
+
+### 📝 Sessional Exams — Day 1
+
+**11:30 AM – 1:30 PM | Soft Computing Exam**  
+- Appeared for the **Soft Computing** paper.  
+- The exam went very well.  
+
+- Question paper uploaded here:  
+  https://github.com/davesohamm/Nirma-Papers/blob/main/SC_SE_Q.pdf
+
+---
+
+### 🏠 Afternoon
+
+**2:00 PM**  
+- Reached home.  
+
+Preparing for tomorrow’s exams!
+
+---
 
