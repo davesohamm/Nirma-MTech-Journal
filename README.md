@@ -1534,3 +1534,25 @@ Preparing for tomorrow’s exams!
 
 ---
 
+## **Day 167 — 25 February 2026 (Wednesday)**
+
+### 📝 Sessional Exams — Day 2
+
+**11:30 AM – 1:30 PM | MLOps Exam**  
+- Appeared for the **MLOps** paper.  
+- The exam went very well.  
+
+- Question paper uploaded here:  
+  https://github.com/davesohamm/Nirma-Papers/blob/main/MLOps_SE_Q.pdf  
+
+---
+
+### 🏠 Afternoon
+
+**2:00 PM**  
+- Reached home.  
+
+Preparing for tomorrow’s exams now!
+
+---
+
