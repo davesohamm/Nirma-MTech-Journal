@@ -1556,3 +1556,50 @@ Preparing for tomorrow’s exams now!
 
 ---
 
+## **Day 168 — 26 February 2026 (Thursday)**
+
+### 📝 Sessional Exams — Day 3
+
+**11:30 AM – 1:30 PM | Explainable AI Exam**  
+- Appeared for the **Explainable AI** paper.  
+- The paper went very well.  
+
+- Question paper uploaded here:  
+  https://github.com/davesohamm/Nirma-Papers/blob/main/XAI_SE_Q.pdf  
+
+---
+
+**1:30 PM – 2:30 PM**  
+- Prepared for the second paper.
+
+---
+
+**3:00 PM – 5:00 PM | Deep Learning Applications Exam**  
+- Appeared for **Deep Learning Applications** paper.  
+- Paper was tough for everyone.  
+- My exam didn’t go that good — let’s see the result.
+
+- Question paper uploaded here:  
+  https://github.com/davesohamm/Nirma-Papers/blob/main/DLA_SE_Q.pdf  
+
+---
+
+### 🏠 Evening
+
+**Around 6:30 PM**  
+- Reached home.
+
+Tomorrow may uncover something new — no hopes to win, no fear of losing.
+
+---
+
+### 🏅 Result Update
+
+- **Soft Computing Result Declared**  
+- Scored **48/50**  
+- Secured **2nd rank in the batch**
+
+Feeling happy.
+
+---
+
