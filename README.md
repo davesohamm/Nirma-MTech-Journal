@@ -76,3 +76,112 @@
 🎨 **Today was Holi — Happy Holi!**
 
 ---
+
+## **Day 170 — 3 March 2026 (Tuesday)**
+
+**Reached college:** 7:45 AM  
+
+---
+
+### 🎓 Lectures & Academics
+
+**7:45 AM – 8:40 AM | MLOps**  
+- Lecture by **Dr. Priyank Thakkar Sir**.  
+- In-depth discussion on **Containerization using Docker**.  
+- Topics covered:
+  - **OCI compliance**
+  - Tools to build Docker images:
+    - Docker CLI  
+    - Podman  
+    - Buildah  
+    - Kaniko  
+    - Jib  
+    - Buildpacks  
+  - Definition of **Daemon**  
+  - Definition of **Supported Base Images**  
+  - Definition of **Distro vs Distroless**
+    - Detailed comparison and differences  
+  - Tools to run container images:
+    - Docker Engine  
+    - Podman  
+    - containerd + nerdctl  
+    - CRI-O  
+    - Kubernetes  
+  - Steps to Dockerize an application  
+  - Installation and setup of **Docker Desktop on Windows**  
+  - Important note:
+    - Dockerfile instructions are case-sensitive  
+    - `.dockerignore` and `Dockerfile` names are case-sensitive.
+
+---
+
+**8:40 AM – 9:35 AM | Soft Computing**  
+- Lecture by **Dr. Priyank Thakkar Sir**.  
+- Topics covered:
+  - **Stigmergy**
+  - **Emergent Behaviour**
+  - Biological examples of emergent behaviour  
+  - Overview and introduction to various **Ant Algorithms**.
+
+---
+
+**9:50 AM – 11:40 AM | MLOps Lab**  
+- Conducted by **Dr. Priyank Thakkar Sir**.  
+- Covered deployment scenarios:
+  - **Scenario 3:** Using Waitress and Nginx together  
+  - **Scenario 4:** Virtual hosting using one server  
+  - **Scenario 5:** Virtual hosting on two domains – two servers – one `app.py`  
+  - **Scenario 6:** Virtual hosting on two domains – two servers – two `app.py`  
+- Sir asked us to implement all scenarios.  
+- My practical work is still pending.
+
+---
+
+### ☕ Break  
+**11:40 AM – 12:35 PM**  
+- Recess  
+
+---
+
+### 📞 Unexpected Call
+
+**12:35 PM**  
+- Received a call from one of the companies I interviewed with.  
+- Invited for another interview round.  
+- This round could increase my selection chances to **90%+**.  
+- Let’s see what happens tomorrow.
+
+---
+
+### 💻 Labs & Project Work
+
+**12:35 PM – 2:25 PM | Deep Learning Lab**  
+- Conducted by **Parita Oza Ma’am**.  
+- Explained **MNIST dataset using CNN**.  
+- Emphasized rigorous experimentation.  
+- Lab work is still pending.
+
+---
+
+**2:25 PM – 3:00 PM | Minor Project Review 1**  
+- Met **Dr. Preeti Kathiria Ma’am**.  
+- She asked me to run the codes properly and generate output results for demonstration.
+
+---
+
+**3:00 PM – 4:40 PM | Library**  
+- Slept for some time as I didn’t feel productive.
+
+---
+
+**4:40 PM – 5:45 PM | Minor Project Work**  
+- Worked on pending project tasks.  
+- Made some progress before leaving.
+
+---
+
+### 🌆 Evening
+
+**Left for home:** 5:45 PM  
+
+---
