@@ -268,3 +268,58 @@ Today was not just **Holi's colors**, but the **colors of a new beginning**.
 
 ---
 
+## **Day 172 — 5 March 2026 (Thursday)**
+
+**Reached college:** 7:45 AM  
+
+---
+
+### 🚀 Hackathon — HackaMined (Day 1)
+
+Today was the **first day of the HackaMined Hackathon at Nirma University**.  
+Our team is participating in this **3-day hackathon**, and the **final results will be announced on Sunday at 8:00 PM**.
+
+**7:45 AM – 5:00 PM | Hackathon Development**
+
+- Spent the entire day working on our hackathon project.  
+- Our project is titled:
+
+**📄 PaperPal**
+
+- An **Agentic AI framework web portal** designed to **convert and switch research papers between 10 different journal formats automatically**.
+
+**Progress Today:**
+- Completed the **entire frontend of the project**.
+- Worked on interface structure, layout, and usability.
+- Coordinated with teammates on integration planning for the next stages.
+
+**Project Repository:**  
+- Master Repository:  
+  https://github.com/Harsh005385/PaperPal_Hack
+
+Overall, a **very productive first day**, with major frontend milestones achieved.
+
+---
+
+### 💭 Evening Reflections
+
+**5:00 PM – 6:30 PM**
+
+- Took some time after the hackathon work.  
+- Felt a bit **emotional and reflective** thinking about the upcoming internship and the possibility of leaving the city.  
+- Especially missed **her** a lot today.  
+- Sent her a **long voice note (around an hour)** sharing everything on my mind.
+
+---
+
+### 🌆 Evening
+
+**6:40 PM**  
+- Left for home.
+
+---
+
+A productive hackathon day mixed with deep emotions about the next chapter of life.
+
+---
+
