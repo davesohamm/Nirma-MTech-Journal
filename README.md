@@ -323,3 +323,49 @@ A productive hackathon day mixed with deep emotions about the next chapter of li
 
 ---
 
+## **Day 173 — 6 March 2026 (Friday)**
+
+**Reached college:** 8:00 AM  
+
+---
+
+### 🚀 Hackathon — HackaMined (Day 2)
+
+The **second day of the HackaMined Hackathon** continued with intense development work on our project.
+
+**8:00 AM – 5:30 PM | Hackathon Development**
+
+- Focused on **backend integration and AI functionality** for our project **PaperPal**.
+- Major tasks completed today:
+  - Integrated the **backend with the frontend**.
+  - Implemented the **LLM logic** for research paper format conversion.
+  - Connected different system components to make the workflow functional.
+- By the end of the day, we successfully created a **working MVP version of the website**.
+
+Seeing the system **actually work end-to-end** was very satisfying.
+
+---
+
+### 💭 Evening Reflections
+
+**5:30 PM – 6:45 PM**
+
+- After finishing the hackathon work for the day, I went to the **Great Stairs at Nirma University**.
+- Sat there for some time and **listened to music**.
+- Lately I’ve been feeling a **slightly emotional and reflective mood**, especially with many life changes approaching.
+- Missed **her** a lot today.
+- Sent her a **voice note** sharing what I was feeling.
+
+---
+
+### 🌆 Evening
+
+**7:00 PM**  
+- Reached home.
+
+---
+
+A productive hackathon day with technical progress, combined with quiet moments of reflection.
+
+---
+
