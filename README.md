@@ -369,3 +369,63 @@ A productive hackathon day with technical progress, combined with quiet moments 
 
 ---
 
+## **Day 174 — 7 March 2026 (Saturday)**
+
+**Reached college:** 7:45 AM  
+
+---
+
+### 🚀 Hackathon — HackaMined (Day 3)
+
+The **final working day of the HackaMined Hackathon**.  
+Today was focused on **finalizing, polishing, and presenting our project**.
+
+**7:45 AM – 4:30 PM | Hackathon Development & Finalization**
+
+- Continued working on our project **PaperPal**.  
+- Completed final integrations and fixes.  
+- Successfully **deployed the working version of the project**.
+
+**Live Deployment:**  
+https://paperpal-ruddy.vercel.app/
+
+- Ensured the **frontend, backend, and LLM pipeline** worked smoothly.
+- Prepared the **final demonstration flow** and explanation for judges.
+
+---
+
+### 🎤 Project Presentation
+
+**4:30 PM | Hackathon Presentation**
+
+- Presented **PaperPal** to the judges.  
+- Explained:
+  - The **idea and motivation** behind the project  
+  - The **Agentic AI workflow**  
+  - How the system converts research papers between **multiple journal formats**  
+  - Demonstrated the **working MVP website**
+
+Now waiting to see **whether we get selected for the final results announcement tomorrow**.
+
+---
+
+### 💭 Evening
+
+**4:45 PM – 7:20 PM**
+
+- Had a **long call with her**.  
+- Talked about many things and spent some quiet time together.
+
+---
+
+### 🌆 Evening
+
+**7:40 PM**  
+- Reached home.
+
+---
+
+Another meaningful day — the hackathon concluded, and now waiting for the results. Missed her today.
+
+---
+
