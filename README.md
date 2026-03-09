@@ -429,3 +429,92 @@ Another meaningful day — the hackathon concluded, and now waiting for the resu
 
 ---
 
+## **Day 175 — 9 March 2026 (Monday)**
+
+**Reached college:** 7:45 AM  
+
+---
+
+### 🏁 Hackathon Result
+
+The results of the **HackaMined Hackathon** were announced.  
+Unfortunately, **we did not win this time**.
+
+Still, it was a **great learning experience**:
+- Built a complete project in **3 days**
+- Worked under intense time pressure
+- Successfully deployed a working MVP
+
+Better luck **next time**.
+
+---
+
+### 🎓 Lectures & Academics
+
+**7:45 AM – 8:40 AM | Explainable AI**  
+- Lecture by **NKP Sir**.  
+- Continued the **LIME (Local Interpretable Model-agnostic Explanations)** topic.  
+- Covered:
+  - **Weighted error formula for LIME**
+  - Step-by-step **LIME algorithm**
+  - Explanation of the **loss function used in LIME**.
+
+---
+
+**8:40 AM – 9:50 AM | Free Lecture**  
+- No scheduled lecture.
+
+---
+
+**9:50 AM – 10:40 AM | MLOps**  
+- Lecture by **Dr. Priyank Thakkar Sir**.  
+- Continued the **Dockerization** topic.  
+- Topics covered:
+  - **Dockerfile setup steps**
+  - Creating a **virtual environment inside the project repository**
+  - Demonstration of the setup process.
+
+---
+
+**10:40 AM – 11:40 AM | Deep Learning**  
+- Lecture by **Dr. Swati Jain Ma’am**.  
+- Covered the **AlexNet Architecture**.  
+- Topics discussed:
+  - **Top-1 Error vs Top-5 Error**
+  - **Data Augmentation**
+  - **Dropout Rate**
+- Ma’am showed the **original AlexNet research paper** and explained the architecture directly from the paper.
+
+---
+
+### ☕ Break  
+**11:40 AM – 12:35 PM**  
+- Recess  
+
+---
+
+### 🛠️ Minor Project
+
+**12:35 PM – 2:25 PM | Minor Project Lab**
+
+- Met **Dr. Preeti Kathiria Ma’am** (Project Guide).  
+- She assigned tasks related to **data preprocessing**.  
+- Asked me to **generate results from the project within this week**.
+
+---
+
+### 📚 Library Work
+
+**2:25 PM – 6:30 PM | Library**
+
+- Completed **Deep Learning Lab — Experiment 6 (CNN)**.  
+- After finishing the work, watched the movie **Dhurandhar** for a short mental refresh.
+
+---
+
+### 🌆 Evening
+
+**7:00 PM**  
+- Reached home.
+
+---
