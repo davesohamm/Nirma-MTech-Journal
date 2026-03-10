@@ -518,3 +518,131 @@ Better luck **next time**.
 - Reached home.
 
 ---
+
+## **Day 176 — 10 March 2026 (Tuesday)**
+
+**Reached college:** 7:45 AM  
+
+---
+
+### 🎓 Lectures & Academics
+
+**7:45 AM – 8:40 AM | MLOps**  
+- Lecture by **Dr. Priyank Thakkar Sir**.  
+- Continued the topic of **Dockerizing applications**.  
+- Covered:
+  - Creating a **Dockerfile** and its core instructions:
+    - `FROM`
+    - `WORKDIR`
+    - `COPY`
+    - `RUN`
+    - `EXPOSE`
+    - `CMD`
+  - Demonstrated the purpose and usage of the **`.dockerignore` file**.
+  - Discussed:
+    - **Docker image layers**
+    - **Docker history**
+  - Demonstrated building Docker images:
+    - `docker build -t flask-ml-app .`
+    - `docker build -f dfile -t myapp:dev .`
+  - Also demonstrated:
+    - Running containers locally
+    - **Stopping and removing containers**.
+
+---
+
+**8:45 AM – 9:40 AM | Soft Computing**  
+- Lecture by **Dr. Priyank Thakkar Sir**.  
+- Topic: **Ant Algorithms — Bridge Experiments**.
+
+**Experiment 1 — Deneubourg et al. (Two Equal Paths)**  
+- Derived probability formula:
+
+\[
+P_a(t+1) = \frac{(c+n_a(t))^\alpha}{(c+n_a(t))^\alpha + (c+n_b(t))^\alpha}
+\]
+
+- Also expressed as:
+
+\[
+P_b(t+1) = 1 - P_a(t+1)
+\]
+
+- Decision rule:
+  - Generate a **random number from uniform distribution (0,1)**.
+  - If `r ≤ P_a(t+1)` → choose **Path A**.
+  - Otherwise → choose **Path B**.
+
+**Experiment 2 — Goss et al. (One Short Path, One Long Path)**  
+- Explained how ants gradually prefer the **shorter path** due to pheromone accumulation.
+- Sir derived the **mathematical algorithm step-by-step**.
+
+---
+
+### 💻 MLOps Lab
+
+**9:50 AM – 11:40 AM | MLOps Lab**  
+- Conducted by **Dr. Priyank Thakkar Sir**.
+
+**Completed Pending Work:**
+- Finished implementation of **3 virtualization scenarios** from previous lab.
+
+**New Topics Introduced:**
+- **SSL setup**
+- **mkcert for local HTTPS development**
+
+These tasks will be **implemented in the next lab session**.
+
+---
+
+### ☕ Break  
+**11:40 AM – 12:35 PM**  
+- Recess  
+
+---
+
+### 🧠 Deep Learning Lab
+
+**12:35 PM – 2:25 PM | Deep Learning Lab**  
+- Conducted by **Dr. Parita Oza Ma’am**.
+
+**Lab Evaluation:**
+- Practical 2 → **8 marks**
+- Practical 3 → **9 marks**
+- Practical 4 → **8 marks**
+
+**Topic Explained Today:**
+- **Transfer Learning using the CIFAR-10 dataset**.
+- Ma’am explained:
+  - Why transfer learning is used
+  - How pretrained models help reduce training time
+  - Practical workflow for adapting models to new datasets.
+
+---
+
+### 📄 Research Paper Work
+
+**2:25 PM – 6:30 PM | W509 Lab**
+
+- Worked with **Dev** on converting our **IEEE research paper into Springer format**.
+- This task was assigned by:
+  - **Jaiprakash Sir**
+  - **Nilesh Sir**
+
+- Spent the entire time:
+  - Adjusting formatting
+  - Modifying sections according to Springer template
+  - Preparing the paper for submission requirements.
+
+We are now **seriously focusing on completing this formatting work**.
+
+---
+
+### 🌆 Evening
+
+**7:00 PM**  
+- Reached home.
+
+- Continued working on the **research paper formatting**.
+
+---
