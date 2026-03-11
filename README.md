@@ -646,3 +646,125 @@ We are now **seriously focusing on completing this formatting work**.
 - Continued working on the **research paper formatting**.
 
 ---
+
+## **Day 177 — 11 March 2026 (Wednesday)**
+
+**Reached college:** 7:45 AM  
+
+---
+
+### 🧪 Explainable AI Lab
+
+**7:45 AM – 9:35 AM | Explainable AI Lab**  
+- Conducted by **NKP Sir**.
+
+**Lab Tasks Assigned:**
+- Perform **ICE (Individual Conditional Expectation) Plots**.
+- Perform **Centered ICE Plots**.
+- Apply **LIME on the Iris Dataset using Random Forest**.
+- Generate **Saliency Plots**.
+
+All three tasks are **still pending** and need to be completed.
+
+**Additional Work:**
+- **NKP Sir checked our research paper (Springer format)**.
+- Results:
+  - **No plagiarism detected**
+  - **No AI-generated content detected**
+
+This confirmation was a **good sign for the paper submission**.
+
+---
+
+### 🐳 MLOps
+
+**9:50 AM – 10:40 AM | MLOps Lecture**  
+- Lecture by **Dr. Priyank Thakkar Sir**.
+
+Topics covered:
+- **Saving and loading Docker images inside WSL2 virtual machine**.
+- Command:
+  - Saving images using `docker save`
+  - Loading images using `docker load`
+- Discussed **Docker image cleanup** using:
+  - `docker image prune`
+
+**Docker Networking (Detailed Discussion):**
+- Explained **Docker networks** in depth.
+- Concepts covered:
+  - **Host Port vs Container Port**
+  - Port mapping and communication
+  - Why Docker networking is important in microservice architecture.
+
+---
+
+### 🧠 Soft Computing
+
+**10:45 AM – 11:40 AM | Soft Computing Lecture**  
+- Lecture by **Dr. NKP Sir**.
+
+Topic: **Travelling Salesman Problem (TSP) using Ant Colony Optimization (ACO)**.
+
+- Sir explained the **Simple ACO Algorithm**.
+- Covered:
+  - Step-by-step working of ACO
+  - Pheromone update mechanism
+  - Mathematical formulas governing probability of path selection
+- The explanation was very **clear and methodical**, with proper derivations.
+
+---
+
+### ☕ Break  
+**11:40 AM – 12:35 PM**  
+- Recess  
+
+---
+
+### 💻 Soft Computing Lab
+
+**12:35 PM – 2:25 PM | Soft Computing Lab**  
+- Conducted by **Dr. Priyank Thakkar Sir**.
+
+Activities:
+- Continued **deep explanation of the ACO algorithm**.
+- Sir elaborated the algorithm again with implementation logic.
+- Asked us to **implement the ACO algorithm programmatically**.
+
+I **started the coding**, but the **implementation is still pending**.
+
+---
+
+### 🧑‍🏫 Teaching Assistant Work
+
+**2:25 PM – 3:30 PM**
+
+- Went to **Dr. Jaiprakash Verma Sir** for **Teaching Assistant work**.
+
+---
+
+### 💬 Discussions & Reflections
+
+**3:30 PM – 5:15 PM | W509 Lab**
+
+- Sat in the **W509 lab** with **JRF Nayan Bhaiya**.
+- Had a long discussion about:
+  - **Future of Artificial Intelligence**
+  - **Impact of AI on jobs**
+  - Emerging technological shifts.
+
+It was a **very insightful and thoughtful conversation**.
+
+---
+
+### 🌆 Evening
+
+**5:15 PM – 6:15 PM**
+
+- Sat near the **Great Stairs**.
+- Recorded and sent **a long voice note to her**, sharing how the day went.
+
+**After that:**
+- Left for home.
+
+---
+
