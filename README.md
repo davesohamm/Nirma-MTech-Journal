@@ -768,3 +768,91 @@ It was a **very insightful and thoughtful conversation**.
 
 ---
 
+## **Day 178 — 12 March 2026 (Thursday)**
+
+**Reached college:** 7:45 AM  
+
+---
+
+### 📝 Test & Lectures
+
+**7:45 AM – 8:40 AM | Ethics for Data Science — Class Test**  
+- **20 Marks Test** consisting of **20 MCQs**.  
+- The test went **well overall**.
+
+---
+
+**8:40 AM – 9:35 AM | Deep Learning**  
+- Lecture by **Dr. Swati Jain Ma’am**.  
+- Continued discussion on **AlexNet Architecture**.  
+- Covered:
+  - Detailed explanation from the **original AlexNet research paper**  
+  - Architectural components of AlexNet  
+  - **Batch Normalization** and its importance in deep learning models.
+
+---
+
+### 💻 Hackathon Introduction
+
+**9:35 AM – 11:00 AM | Hack With Infy — Introductory Session**
+
+- Attended the **Hack With Infy introductory session**.  
+- This is a **national-level hackathon organized by Infosys**.  
+- Session covered:
+  - Overview of the competition  
+  - Participation details  
+  - Expectations and format of the hackathon.
+
+---
+
+**11:00 AM – 11:40 AM | Soft Computing**  
+- Lecture by **Dr. Priyank Thakkar Sir**.  
+- Topic: **Cemetery Organization Behavior of Ants**.
+
+Concepts discussed:
+- **Intercluster distance**
+- **Intracluster distance**
+- **Load density**
+- **Pickup probability**
+- **Drop probability**
+
+Sir mainly explained the **theoretical foundation of the algorithm** and its biological inspiration.
+
+---
+
+### ☕ Break  
+**11:40 AM – 12:35 PM**  
+- Recess  
+
+---
+
+### 🛠️ Minor Project Work
+
+**12:35 PM – 2:25 PM | Minor Project Lab**
+
+- Completed **VJudge Week 9** problems.  
+- Built a **complete pipeline for my Minor Project**, organizing the workflow for further experimentation and results generation.
+
+---
+
+### 📚 Research Methodology
+
+**2:25 PM – 3:35 PM | Research Methodology**  
+- Lecture by **Dr. Sharda Valiveti Ma’am**.  
+- Topic: **Presentation Skills**.  
+- It was a **useful and engaging session**, focusing on how to structure and present research effectively.
+
+---
+
+### 🌆 Evening
+
+**3:35 PM – 6:00 PM | Library**
+
+- Sat in the library.  
+- Ended up **sleeping for some time**.
+
+After that, **left for home**.
+
+---
+
+
