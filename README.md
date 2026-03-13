@@ -855,4 +855,64 @@ After that, **left for home**.
 
 ---
 
+## **Day 179 — 13 March 2026 (Friday)**
+
+**Reached college:** 7:45 AM  
+
+---
+
+### 🎓 Lectures & Academics
+
+**7:45 AM – 8:40 AM | Deep Learning**  
+- Lecture by **Dr. Swati Jain Ma’am**.  
+- Topics covered:
+  - **Transfer Learning** explained in depth  
+  - Resolved doubts regarding **AlexNet architecture** discussed in previous lectures.
+
+---
+
+### 🛠️ Minor Project Work
+
+**8:40 AM – 11:40 AM | Minor Project Lab**
+
+- Worked on my **Minor Project implementation**.  
+- Solved **1 LeetCode problem** during this time.  
+- Completed programming and prepared the **entire project pipeline**, making the project ready to be shown to my **internal guide**.
+
+---
+
+### ☕ Break  
+**11:40 AM – 12:35 PM**  
+- Recess  
+
+---
+
+### 🧪 Minor Project Review
+
+**12:35 PM – 2:25 PM | Minor Project Lab**
+
+- Went to meet **Dr. Preeti Kathiria Ma’am (Internal Guide)**.  
+- Demonstrated the **model results and working pipeline**.  
+- Ma’am reviewed the progress and **assigned several new tasks** for further improvement.  
+- Noted down all the tasks in my **laptop notepad** for upcoming implementation.
+
+---
+
+### 📚 Library Time
+
+**2:30 PM – 6:00 PM | Library**
+
+- Spent time watching several videos about the **Deutsche Telekom Digital Labs (DTDL) Gurgaon office**.  
+- Curious and excited to learn more about the **work environment and office culture**.
+
+---
+
+### 🌆 Evening
+
+**6:00 PM**
+
+- Received a **call from her**.  
+- Started heading home while talking to her.
+
+---
 
