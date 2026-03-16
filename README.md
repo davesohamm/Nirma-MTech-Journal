@@ -916,3 +916,115 @@ After that, **left for home**.
 
 ---
 
+## **Day 180 — 16 March 2026 (Monday)**
+
+**Reached college:** 7:45 AM  
+
+---
+
+### 🎓 Lectures & Academics
+
+**7:45 AM – 8:40 AM | Explainable AI**  
+- Lecture by **NKP Sir**.  
+- Sir solved **one numerical example for LIME**.  
+- Also revised and explained:
+  - **Algorithmic steps of LIME**
+  - Supporting **theory behind the method**.
+
+---
+
+**8:40 AM – 9:35 AM | Free Lecture**  
+- Utilized the free time productively.  
+- Solved **one LeetCode problem**.
+
+---
+
+**9:50 AM – 10:40 AM | MLOps**  
+- Lecture by **Dr. Priyank Thakkar Sir**.
+
+**Docker Networking (continued):**
+- Explained different **types of Docker networks** in depth:
+  - **Bridge**
+  - **Host**
+  - **None**
+  - **Overlay**
+  - **Macvlan**
+
+**Docker Network Commands Discussed:**
+- `docker network ls`
+- `docker network inspect`
+- `docker network create`
+- `docker network run`
+- `docker network connect`
+- `docker network disconnect`
+- `docker network rm`
+
+**New Topic Introduced:**
+- **Docker Compose**
+  - Purpose
+  - Benefits for managing multi-container applications.
+
+---
+
+**10:45 AM – 11:40 AM | Deep Learning**  
+- Lecture by **Dr. Swati Jain Ma’am**.
+
+Topics covered:
+- Reminder about the **Deep Learning Term Work Project**  
+  - Need to finalize the project topic soon.
+- Continued **Transfer Learning**:
+  - **When and how to fine-tune models**
+  - Concept of **Negative Transfer**.
+
+**New Topic Started:**
+- **VGGNet Architecture**
+  - Historical background
+  - Architecture design principles.
+
+---
+
+### ☕ Break  
+**11:40 AM – 12:35 PM**  
+- Recess  
+
+---
+
+### 🛠️ Minor Project Work
+
+**12:35 PM – 2:25 PM | Minor Project Lab**
+
+- Tried to continue running the **minor project pipeline**.  
+- Unfortunately, my **Cursor account got dismissed**, which interrupted the workflow.  
+- Due to this issue, I had to **pause the work temporarily**.
+
+---
+
+### 🧑‍🏫 Teaching Assistant Work
+
+**2:25 PM – 4:00 PM**
+
+- Went for **Teaching Assistant (TA) duty work**.
+
+---
+
+### 💻 Research & Lab Time
+
+**4:00 PM – 5:30 PM | W509 Lab**
+
+- Sat in **W509 Lab**.  
+- Discussed **Supercomputer access** with **Vidhi Ma’am**.  
+- Received the **PDF containing the setup and access steps**.
+
+---
+
+### 🌆 Evening
+
+**6:30 PM**  
+- Left for home.  
+
+- Before leaving, spoke with some classmates about **upcoming internship opportunities expected this week**.  
+- Guided them regarding the process and preparation.
+
+---
+
+
