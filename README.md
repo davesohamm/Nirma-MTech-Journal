@@ -1027,4 +1027,74 @@ Topics covered:
 
 ---
 
+## **Day 181 — 17 March 2026 (Tuesday)**
+
+**Reached college:** 7:45 AM  
+
+---
+
+### 🏢 Placement Day Atmosphere
+
+Today there was a **placement drive for Pravi Technologies**.  
+- Most students were engaged in the **placement process**.  
+- Those who were already placed (including me) had a relatively relaxed schedule.
+
+---
+
+### 🧑‍🏫 NLC Session
+
+**7:45 AM – 9:35 AM | NLC Lecture Hall**
+
+- Sat in the **NLC lecture** along with other placed students.  
+- Mostly spent time casually — no structured academic activity.
+
+---
+
+### 💬 Lab Time & Conversations
+
+**9:50 AM – 11:40 AM | 1108 Lab**
+
+- Gathered in the lab with friends.  
+- Had long discussions about:
+  - **Life**
+  - **Relationships**
+  - **Jobs and career paths**
+  - **PPO offers and future plans**
+
+A very **reflective and open conversation session**.
+
+---
+
+### ☕ Break  
+**11:40 AM – 12:35 PM**  
+- Recess  
+
+---
+
+### 🧠 Deep Learning Lab
+
+**12:35 PM – 2:25 PM | Deep Learning Lab**
+
+- Worked on **Transfer Learning (Fine-Tuning part)**.  
+- Completed the required implementation for the lab.
+
+---
+
+### 🌆 Afternoon & Evening
+
+**2:25 PM – 6:30 PM | Library**
+
+- Spent time in the library.  
+- Took rest and **slept for some time**.  
+- Also watched a few **short films**.
+
+---
+
+### 🌙 Evening
+
+- Left for home after a calm and relaxed day.
+
+---
+
+
 
