@@ -1096,5 +1096,120 @@ A very **reflective and open conversation session**.
 
 ---
 
+## **Day 182 — 18 March 2026 (Wednesday)**
+
+**Reached college:** 7:45 AM  
+
+---
+
+### 🎓 Lectures & Academics
+
+**7:45 AM – 9:35 AM | Explainable AI**  
+- Lecture by **NKP Sir**.  
+- Performed a practical experiment:
+  - Trained a **Random Forest Classifier on the Iris Dataset**  
+  - Generated explanations using **LIME**.  
+- Also received **Sessional Exam Marks**:
+  - **49/50** 🎉  
+- Felt very happy and satisfied with the performance.
+
+---
+
+**9:50 AM – 10:40 AM | MLOps**  
+- Lecture by **Dr. Priyank Thakkar Sir**.  
+- Continued **Docker Compose**.
+
+**Main Sections Discussed in `docker-compose.yml`:**
+- `version`
+- `services`
+- `volumes`
+- `networks`
+- `configs`
+- `secrets`
+- `build`
+- `depends_on`
+
+**Inside Services:**
+- `image`
+- `build`
+- `ports`
+- `environment`
+- `volumes`
+- `networks`
+
+---
+
+**10:40 AM – 11:40 AM | Soft Computing**  
+- Lecture by **Dr. Priyank Thakkar Sir**.  
+- Topic: **Lumer & Faieta Ant Colony Clustering Algorithm**.  
+- Covered:
+  - Complete **theoretical understanding**
+  - Mathematical **formulations**
+  - Step-by-step **algorithm explanation**.
+
+---
+
+### ☕ Break + Meetings  
+**11:40 AM – 12:35 PM**
+
+- Met:
+  - **Dr. Jaiprakash Verma Sir**  
+  - **Dr. Sumedha Arora Ma’am**  
+- Discussion regarding **Soil Moisture Project**.  
+- Had a quick lunch.
+
+---
+
+### 💻 Soft Computing Lab
+
+**12:35 PM – 2:25 PM | Soft Computing Lab**  
+- Conducted by **Dr. Priyank Thakkar Sir**.  
+- Explained **Ant Cemetery Clustering Code** in great depth.  
+
+**My Work:**  
+- https://colab.research.google.com/drive/1z9zwPjOqN5QD1a7nelQKVupq6fFESHiy#scrollTo=O6uOKBRD2-w2
+
+---
+
+### 🤝 Helping a Friend
+
+**2:25 PM – 3:00 PM**
+
+- Met **Jay Dave**.  
+- Helped him with:
+  - **Exam preparation**
+  - Guidance for his **Intel interview**.
+
+---
+
+### 🧑‍🏫 Teaching Assistant Work
+
+**3:00 PM – 4:00 PM**
+
+- Went to **Dr. Jaiprakash Verma Sir’s cabin**.  
+- Completed **TA duty work**:
+  - Entered **DBMS exam marks** on the **MIS portal**.
+
+---
+
+### 📚 Library Time
+
+**4:00 PM – 6:00 PM | Library**
+
+- Watched YouTube for some time.  
+- Went through **old videos from my phone** — a nostalgic memory lane moment.
+
+---
+
+### 🌆 Evening
+
+- After reaching home, planning to:
+  - Test the **API key** provided by **Karan**  
+  - Use it for **AI-assisted coding software**  
+  - Check whether it works properly.
+
+---
+
+
 
 
