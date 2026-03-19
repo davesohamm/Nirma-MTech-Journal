@@ -1210,6 +1210,98 @@ A very **reflective and open conversation session**.
 
 ---
 
+## **Day 183 — 19 March 2026 (Thursday)**
+
+**Reached college:** 7:45 AM  
+
+---
+
+### 🎓 Lectures & Academics
+
+**7:45 AM – 8:40 AM | Ethics for Data Science**  
+- Free lecture.  
+- Utilized the time productively:
+  - Trained **ResNet** and **MobileNetV2** models for my **Minor Project**.
+
+---
+
+**8:40 AM – 9:35 AM | Deep Learning**  
+- Lecture by **Dr. Swati Jain Ma’am**.  
+- Topics covered:
+  - Detailed explanation of **VGGNet Architecture**  
+  - Started **GoogLeNet / Inception (2014)**:
+    - Architecture overview  
+    - Motivation behind the model  
+    - Advantages over previous architectures  
+  - Concept of **Global Average Pooling**  
+  - Brief introduction to **ResNet**.
+
+---
+
+**9:35 AM – 10:40 AM | Explainable AI**  
+- Free lecture (due to **Deloitte Pre-Placement Talk for M.Tech students**).  
+- Used the time to:
+  - Train additional models:
+    - **EfficientNet**
+    - **ViT (Vision Transformer Small)**.
+
+---
+
+**10:45 AM – 11:40 AM | Soft Computing**  
+- Lecture by **Dr. Priyank Thakkar Sir**.  
+- Topic: **Particle Swarm Optimization (PSO)**.  
+- Covered:
+  - Complete **theoretical understanding of PSO**  
+  - Working mechanism and intuition behind swarm intelligence.
+
+---
+
+### ☕ Break  
+**11:40 AM – 12:35 PM**  
+- Recess  
+
+---
+
+### 🛠️ Minor Project Work
+
+**12:35 PM – 2:25 PM | Minor Project Lab**
+
+- Met **Dr. Preeti Kathiria Ma’am (Project Guide)**.  
+- She was **happy with the progress and results so far**.  
+- Discussed project details with **B.Tech students** working on the same project:
+  - Addressed issues related to **ASDID dataset segmentation**.  
+- Ma’am assigned **further tasks** for the project.
+
+---
+
+### 📚 Research Methodology
+
+**2:25 PM – 4:20 PM | Research Methodology**
+
+- Lecture by **Dr. Swati Jain Ma’am**:
+  - Topic: **Data Sampling**
+
+- Lecture by **Dr. Saurin Parikh Sir**:
+  - Topic: **Intellectual Property Rights (IPR)**
+
+---
+
+### 💻 Library Work
+
+**4:30 PM – 6:00 PM | Library**
+
+- Solved **one LeetCode problem**.  
+- Also attempted to **upload a question on LeetCode**.
+
+---
+
+### 🌆 Evening
+
+- Left for home due to **windy weather and light rainfall**.
+
+---
+
+
 
 
 
