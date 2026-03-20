@@ -1301,6 +1301,59 @@ A very **reflective and open conversation session**.
 
 ---
 
+## **Day 184 — 20 March 2026 (Friday)**
+
+**Reached college:** 7:45 AM  
+
+---
+
+### 🛠️ Minor Project Lab Sessions
+
+**7:45 AM – 9:35 AM | Minor Project Lab 1**
+
+- Solved **1 LeetCode problem**.  
+- Worked with **Dev** on preparing the **PPT for our research paper**.  
+- Successfully **mailed the PPT to NKP Sir**.
+
+---
+
+**9:50 AM – 11:40 AM | Minor Project Lab 2**
+
+- Focused on model training.  
+- Trained **ResNet18 model on the complete ASDID dataset**.  
+- Significant progress towards generating final results for the project.
+
+---
+
+### ☕ Break  
+**11:40 AM – 12:35 PM**  
+- Recess  
+
+---
+
+**12:35 PM – 2:25 PM | Minor Project Lab 3**
+
+- Discussed **GSOC 2026 project ideas** with **Harsh**.  
+- Did some **sketching after a long time** — felt refreshing to draw again.  
+- Helped **Mayank** by:
+  - Opening his laptop using a screwdriver  
+  - Cleaning it **internally**
+
+A mix of **technical, creative, and hands-on work**.
+
+---
+
+### 🎬 Afternoon Plan
+
+**Around 2:30 PM**
+
+- Left college early.  
+- Planned to go watch **Dhurandhar 2** movie.  
+
+**Yayyiee! Let’s gooo 🎉**
+
+---
+
 
 
 
