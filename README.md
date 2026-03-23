@@ -1354,6 +1354,127 @@ A mix of **technical, creative, and hands-on work**.
 
 ---
 
+## **Day 185 — 23 March 2026 (Monday)**
+
+**Reached college:** 7:45 AM  
+
+---
+
+### 🎓 Lectures & Academics
+
+**7:45 AM – 8:40 AM | Explainable AI**  
+- Lecture by **NKP Sir**.  
+- Topics covered:
+  - **Saliency Maps** — theory and mathematical understanding  
+  - **Integrated Gradients**:
+    - Continuous integration formula  
+    - Discrete approximation  
+    - Conceptual intuition behind feature attribution  
+- Assignment announced:
+  - **XAI Assignment due next Wednesday**.
+
+---
+
+**8:45 AM – 9:35 AM | Free Lecture**  
+- Solved **1 LeetCode problem**.  
+- Started training my **Vision Transformer (ViT)** model.
+
+---
+
+**9:50 AM – 10:40 AM | MLOps**  
+- Lecture by **Dr. Priyank Thakkar Sir**.  
+- Continued **Docker Compose**.
+
+**Commands Covered:**
+- `up`, `down`, `build`, `ps`, `logs`, `stop`, `restart`  
+- Flags:
+  - `--rmi all`
+  - `--rmi local`
+  - `--volumes`
+
+**Additional Concepts:**
+- **Export, Import, Save, Load** (in-depth explanation)
+
+**New Topic Started: Docker Volumes**
+- Types of volumes:
+  - **Named Volumes**
+  - **Bind Mounts**
+  - **tmpfs Mounts**
+
+---
+
+**10:45 AM – 11:40 AM | Deep Learning**  
+- Lecture by **Dr. Swati Jain Ma’am**.  
+- Topic: **Image Segmentation**.
+
+Covered:
+- **Semantic Segmentation**
+- **Instance Segmentation**
+- **Convolution vs Transpose Convolution**
+- **Upsampling & Deconvolution**
+- **Fully Convolutional Networks (FCN)**
+- **Switch Variables and related concepts**
+
+---
+
+### ☕ Break  
+**11:40 AM – 12:35 PM**  
+- Recess  
+
+---
+
+### 🛠️ Minor Project Work
+
+**12:35 PM – 2:25 PM | Minor Project Lab**
+
+- Created a **summary table for all trained models**.
+
+**📊 Training Progress:**
+- Dataset: **ASDID (Normal)**
+- No **augmentation** and no **segmentation**
+- Input size: **224 × 224**
+- Method used: **FedAvg**
+
+**🏆 Achieved Accuracy:**
+- Vision Transformer (Small) → **90.18%**
+- MobileNetV2 → **65.35%**
+- ResNet18 → **56.92%**
+- EfficientNet-B0 → **43.77%**
+
+**⚙️ Hyperparameters:**
+- Learning Rate: **0.00003**
+- Epochs: **50**
+
+**⏱️ Training Time:**
+- **16 Hours**
+
+- Also helped **Mihir** by opening and cleaning his laptop internally.
+
+---
+
+### 📚 Library Time
+
+**3:30 PM – 5:45 PM | Library**
+
+- Rested for a while and **slept**.
+
+---
+
+### ⛽ Evening
+
+**6:00 PM**
+
+- Received a call from **Papa** regarding a possible **petrol shortage** (due to Israel–Iran situation).  
+- Immediately left college and went to **refuel my Activa**.
+
+**7:45 PM**  
+- Reached home.
+
+- While driving, talked to **her** on call.  
+- She had an **OA test from Cisco** today — wished her good luck.
+
+---
+
 
 
 
