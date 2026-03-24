@@ -1475,6 +1475,127 @@ Covered:
 
 ---
 
+## **Day 186 — 24 March 2026 (Tuesday)**
+
+**Reached college:** 7:45 AM  
+
+---
+
+### 🎓 Lectures & Academics
+
+**7:45 AM – 8:40 AM | MLOps**  
+- Lecture by **Dr. Priyank Thakkar Sir**.  
+
+**Docker Volumes & Advanced Concepts:**
+- Commands covered:
+  - `docker volume create mydata`
+  - `docker volume ls`
+  - `docker volume inspect`
+- Running containers with:
+  - **Named volumes**
+  - **Anonymous volumes**
+- Container lifecycle:
+  - Stop / Remove containers  
+  - Bulk cleanup  
+
+**Multi-stage Builds:**
+- Explained in depth:
+  - Why **multi-stage builds** are useful  
+  - Difference between **single-stage vs multi-stage Docker images**  
+  - Optimization of image size and security benefits.
+
+---
+
+**8:40 AM – 9:35 AM | Soft Computing**  
+- Lecture by **Dr. Priyank Thakkar Sir**.  
+- Continued **Particle Swarm Optimization (PSO)**.
+
+Topics covered:
+- Position update formula:
+
+\[
+x_i^{t+1} = x_i^t + v_i^{t+1}
+\]
+
+- **Velocity update concepts**:
+  - Cognitive component  
+  - Social component  
+- Concepts explained:
+  - **Global Best (gBest)**  
+  - **Local Best (lBest)**  
+- Formula for updating **personal best position**  
+- Complete step-by-step explanation of **gBest PSO algorithm**.
+
+---
+
+### 💻 MLOps Lab
+
+**9:50 AM – 11:40 AM | MLOps Lab**  
+- Conducted by **Dr. Priyank Thakkar Sir**.  
+
+**Docker Tasks Assigned (8 Tasks):**
+1. Dockerize a **basic web app** and deploy it  
+2. Dockerize a **web app with database** and deploy  
+3. Split into **microservices (web + DB)** → dockerize & deploy  
+4. Repeat (3) with **volumes (without Docker Compose)**  
+5. Repeat (3) using **Docker Compose**  
+6. Repeat (4) using **Docker Compose**  
+7. Perform **export, import, save, load**  
+8. Implement **multi-stage build**
+
+- Additionally, **11 deployment scenarios** were given separately.  
+- All tasks are to be implemented.
+
+---
+
+### ☕ Break  
+**11:40 AM – 12:35 PM**  
+- Recess  
+
+---
+
+### 🧠 Deep Learning Lab
+
+**12:35 PM – 2:25 PM | Deep Learning Lab**  
+- Conducted by **Dr. Parita Oza Ma’am**.  
+
+- Topic: **U-Net based Image Segmentation**  
+- Explained:
+  - Encoder-decoder architecture  
+  - Skip connections  
+  - Pixel-wise classification approach  
+
+**Lab Work Completed:**  
+- https://colab.research.google.com/drive/1LU-vcdhKRYt1mtMTnmJgcek2EtvcUYZb#scrollTo=e2W2m32Cg9ax
+
+---
+
+### 🛠️ Assignment Work
+
+**2:35 PM – 5:30 PM**
+
+- Worked with **Dev** on the **Explainable AI Innovative Assignment**.  
+- Completed:
+  - Full **implementation**  
+  - Prepared the **final report**
+
+---
+
+### 💭 Evening
+
+**5:30 PM – 6:30 PM**
+
+- Sent a **voice note to her**, sharing the day and thoughts.
+
+---
+
+### 🌆 Evening
+
+**7:00 PM**  
+- Reached home.
+
+---
+
 
 
 
