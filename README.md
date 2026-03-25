@@ -1596,6 +1596,119 @@ x_i^{t+1} = x_i^t + v_i^{t+1}
 
 ---
 
+## **Day 187 — 25 March 2026 (Wednesday)**
+
+**Reached college:** 7:45 AM  
+
+---
+
+### 🧪 Explainable AI Lab
+
+**7:45 AM – 9:35 AM | Explainable AI Lab**  
+- Conducted by **NKP Sir**.  
+
+- Learned about the **What-If Tool (WIT) by Google**:
+  - Used for model interpretability and debugging  
+  - Allows interactive exploration of model predictions  
+
+**Practical Work:**  
+- Notebook:  
+  https://github.com/davesohamm/misc_docs_idk/blob/main/WIT_Smile_Detector.ipynb  
+
+- Sir also evaluated **Practicals 3, 4, and 5**.
+
+---
+
+### 🐳 MLOps
+
+**9:50 AM – 10:40 AM | MLOps Lecture**  
+- Lecture by **Dr. Priyank Thakkar Sir**.  
+
+**Dockerization (End-to-End Scenario):**
+- Explained complete pipeline:
+  - **Flask + Waitress + Nginx setup**
+  - Step-by-step commands  
+  - Proper **project directory structure**  
+- Covered:
+  - **Multi-stage Dockerfile** (again with practical context)  
+  - Summary of all important **Docker commands**  
+  - **Resource management in Docker Compose** (in depth)
+
+**New Topic Started: Machine Learning Pipeline**
+- Definition:
+  - A **structured sequence of data processing and modeling steps** forming an end-to-end workflow  
+- Steps of pipeline explained clearly  
+- Demonstrated:
+  - **scikit-learn pipeline creation**
+  - Saving & loading pipeline using **pickle**
+
+---
+
+### 🧠 Soft Computing
+
+**10:45 AM – 11:40 AM | Soft Computing Lecture**  
+- Lecture by **Dr. Priyank Thakkar Sir**.  
+
+- Completed **Swarm Intelligence** topic:
+  - Detailed explanation of **Local Best (lBest) algorithm**  
+- Started new chapter:
+  - **Fuzzy Set vs Crisp Set**
+  - Differences explained in depth.
+
+---
+
+### ☕ Break  
+**11:40 AM – 12:35 PM**  
+- Recess  
+
+---
+
+### 💻 Soft Computing Lab
+
+**12:35 PM – 2:25 PM | Soft Computing Lab**  
+- Conducted by **Dr. Priyank Thakkar Sir**.  
+
+- Implemented **Clustering using PSO (Particle Swarm Optimization)**.  
+- Sir explained the **complete code logic step-by-step**.
+
+**My Work:**  
+- https://colab.research.google.com/drive/1bzeAv_o5sFWygXW0ZdbUMtDsBNSnnogr
+
+---
+
+### 🤝 Farewell & Lab Time
+
+**2:35 PM – 3:00 PM**
+
+- Went to **W509 Lab** to meet **Nayan Bhaiya (JRF)**.  
+- His project is ending on **31st March**, and he received his **relieving letter**.  
+- Met him to say **goodbye and wish him all the best for his future**.
+
+---
+
+### 📚 Lab & Communication
+
+**3:00 PM – 5:30 PM | W509 Lab**
+
+- Sat in the lab.  
+- Mailed my **internship company HR** regarding updates (still awaiting response).  
+- Spent some time watching **YouTube**.
+
+---
+
+### 💭 Evening
+
+**5:30 PM – 6:30 PM**
+
+- Sent a **long voice note to her**, sharing thoughts and updates.
+
+---
+
+### 🌆 Evening
+
+- Left for home.
+
+---
 
 
 
