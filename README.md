@@ -1710,6 +1710,70 @@ x_i^{t+1} = x_i^t + v_i^{t+1}
 
 ---
 
+## **Day 188 — 27 March 2026 (Friday)**
+
+**Reached college:** 7:45 AM  
+
+---
+
+### 🛠️ Minor Project Lab Sessions
+
+**7:45 AM – 9:35 AM | Minor Project Lab**
+
+- Continued working on my **ML models**.  
+- Focused on improving the overall **training pipeline and performance**.
+
+---
+
+**9:50 AM – 11:40 AM | Minor Project Lab**
+
+- Implemented several important improvements:
+  - Introduced **FedProto method**  
+  - Added **Focal Loss** for better handling of class imbalance  
+  - Applied **Cosine Decay** for improved learning rate scheduling  
+- Aim:
+  - Improve **worst-class recall**  
+  - Enhance overall model generalization.
+
+---
+
+### ☕ Break  
+**11:40 AM – 12:35 PM**  
+- Recess  
+
+---
+
+**12:35 PM – 2:25 PM | Minor Project Lab**
+
+- Completed the **development pipeline setup**.  
+- Did not start training yet — will run experiments over the weekend.  
+
+- Also helped **Tirth** and **Jash**:
+  - Opened their laptops  
+  - Cleaned them internally  
+
+---
+
+### 📚 Library Time
+
+**2:25 PM – 6:00 PM | Library**
+
+- Spent time watching **YouTube**.  
+- Took a relaxed break after intense development work.
+
+---
+
+### 🌆 Evening
+
+- Planning to **run training experiments over the weekend** and evaluate performance improvements.
+
+- Traveling to my hometown **Dahegam** today. 🎉  
+
+---
+
+
+
+
 
 
 
