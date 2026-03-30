@@ -1771,6 +1771,112 @@ x_i^{t+1} = x_i^t + v_i^{t+1}
 
 ---
 
+## **Day 189 — 30 March 2026 (Monday)**
+
+**Reached college:** 7:45 AM  
+
+---
+
+### 🎓 Lectures & Academics
+
+**7:45 AM – 8:40 AM | Explainable AI**  
+- Lecture by **NKP Sir** (low attendance → informal/free session).  
+- Utilized time to solve **1 LeetCode problem**.
+
+---
+
+**8:40 AM – 9:35 AM | Free Slot**  
+- Trained my **Vision Transformer (ViT)** model using **FedProto** method.  
+- Faced issues:
+  - Results were not coming as expected  
+- Decision:
+  - Will **restructure the project pipeline thoroughly**.
+
+---
+
+**9:50 AM – 10:40 AM | MLOps**  
+- Lecture by **Dr. Priyank Thakkar Sir**.  
+- Continued **Machine Learning Pipeline** topic.
+
+**Topics Covered:**
+- Saving & loading pipelines using:
+  - **Pickle**
+  - **Joblib**
+
+**Pickle vs Joblib (short):**
+- **Pickle** → general-purpose serialization  
+- **Joblib** → optimized for large NumPy arrays, faster in ML contexts  
+
+**Pipeline Flexibility using `set_params`:**
+- Replace any step  
+- Skip a step using **`passthrough`**  
+- Modify internal parameters  
+
+**Hyperparameter Tuning:**
+- Introduced **GridSearchCV**  
+- Explained pipeline + tuning workflow  
+
+- Also demonstrated **PyTorch-based pipeline code with hyperparameter tuning**.
+
+---
+
+**10:45 AM – 11:40 AM | Deep Learning (Free Lecture)**  
+- No formal lecture.  
+- Discussed:
+  - **EDS Presentation**
+  - **RMS Project**
+
+---
+
+### ☕ Break  
+
+**11:40 AM – 12:35 PM | Recess**
+
+- After lunch, noticed an **injured pigeon**.  
+- Tried to help:
+  - Gave water  
+  - Removed thread tangled in its legs  
+- Unfortunately, it was **too injured and passed away**.  
+- Felt really bad — difficult moment.
+
+---
+
+### 🛠️ Minor Project Lab
+
+**12:35 PM – 2:25 PM | Minor Project Lab**
+
+- Low attendance in lab.  
+- Spent time watching **YouTube**.
+
+---
+
+### 🧑‍🏫 Teaching Assistant Work
+
+**2:25 PM – 4:00 PM**
+
+- Went to **Dr. Jaiprakash Verma Sir** for **TA duty work**.
+
+---
+
+### 🤝 Farewell Moment
+
+- Met **Nayan Bhaiya (JRF)** — today was his **last official day**.  
+- Said goodbye and wished him **all the best for his future**.
+
+---
+
+### 💭 Evening
+
+- Had a **video call with her till 7:15 PM**.  
+
+---
+
+### 🌆 Night
+
+- Left for home.
+
+---
+
 
 
 
