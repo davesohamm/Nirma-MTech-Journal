@@ -261,3 +261,127 @@ Total classes: 7
   - On a call with **her**  
 
 ---
+
+## **Day 192 — 3 April 2026 (Friday)**  
+
+**Reached college:** 7:45 AM  
+
+---
+
+### 🎓 Lectures & Academics  
+
+**7:45 AM – 8:45 AM | Minor Project Lab**  
+- Started training **Vision Transformer (ViT)** for the project.  
+- Also:
+  - Planned upcoming tasks  
+  - Listed all **assignments & submissions** for the coming days  
+- Gained much-needed **clarity on workload and priorities**.  
+
+---
+
+**8:45 AM – 9:35 AM | Deep Learning**  
+- Lecture by **Dr. Swati Jain Ma’am**.  
+
+**Topics Covered:**
+- **YOLOv8 Algorithm**:
+  - Detailed explanation  
+
+- **Non-Max Suppression (NMS)**:
+  - Handling overlapping predictions  
+
+- Output prediction format:
+  - `[pc, bx, by, bh, bw]`  
+
+- **Anchor Boxes**:
+  - Concept of overlapping object detection  
+  - In-depth explanation  
+
+- **“You Only Look Once” (YOLO)**:
+  - Meaning:
+    - Uses **non-overlapping grids**  
+    - Eliminates sliding window approach  
+
+- **Anchor Box Algorithm**  
+
+- **Mean Average Precision (mAP)**:
+  - Detailed explanation  
+  - Covered formulas:
+    - True Positive (TP)  
+    - False Positive (FP)  
+    - Precision  
+    - Recall  
+
+---
+
+**9:50 AM – 11:40 AM | Minor Project Lab**  
+
+- Trained **EfficientNetB0** for the project.  
+- Had a discussion with **Jash** on random topics (psychedelics, etc.).  
+
+---
+
+### ☕ Break  
+
+**11:40 AM – 12:35 PM | Recess**
+
+---
+
+### 🛠️ Academic Work  
+
+**12:35 PM – 2:25 PM | Minor Project Lab**  
+- Prepared a **complete report on SCAFFOLD approach**  
+- Also revised for:
+  - **RMS Written Exam**  
+
+---
+
+### 📝 Examination  
+
+**2:25 PM – 3:35 PM | RMS Written Exam**  
+
+- Paper link:  
+  https://github.com/davesohamm/Nirma-Papers/blob/main/RMS_CT_Q.pdf  
+
+- Overall:
+  - Paper went **okay-ish**  
+
+---
+
+### 🧑‍🏫 Project Guidance  
+
+**3:45 PM – 4:20 PM**  
+- Met **Dr. Priti Kathiria (Project Guide)**  
+- Showed:
+  - **SCAFFOLD results**  
+
+- Feedback:
+  - Prepare for **next week evaluation**  
+  - Create a **proper PPT presentation**  
+
+---
+
+### 🤝 Collaboration & Chill  
+
+**4:25 PM – 6:00 PM | W506 Lab**  
+- Worked with **Dev** and **Kinjal**:
+  - Continued **MLOps Innovative Assignment**  
+
+- Also:
+  - Had fun conversations  
+  - Shared laughs  
+
+---
+
+### 🌆 Evening  
+
+**6:00 PM – 6:30 PM**  
+- Had a call with **her**  
+
+- Around **7:00 PM**:
+  - Reached home  
+  - Bought:
+    - **Kinder Joy**  
+    - A small gift for **Atharva’s birthday party** 🎁  
+
+---
+
