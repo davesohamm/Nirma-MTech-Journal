@@ -385,3 +385,157 @@ Total classes: 7
 
 ---
 
+## **Day 193 — 6 April 2026 (Monday)**  
+
+**Reached college:** 7:45 AM  
+
+---
+
+### 🎓 Lectures & Academics  
+
+**7:45 AM – 8:40 AM | Explainable AI**  
+- Lecture by **NKP Sir**.  
+
+**Topics Covered:**
+- **Bias & Fairness**  
+
+- Types of Bias:
+  - Data Collection Bias  
+  - Data Preprocessing Bias  
+  - Model Bias  
+
+- Fairness Metrics:
+  - **TPR (True Positive Rate)**  
+  - **TNR (True Negative Rate)**  
+  - **FPR (False Positive Rate)**  
+  - **FNR (False Negative Rate)**  
+
+- Introduced **Google What-If Tool**:
+  - Used for analyzing bias and fairness  
+
+- Reference shared:  
+  https://github.com/conorosully/medium-articles/blob/master/src/algorithm%20fairness/Measuring%20Bias.ipynb  
+
+---
+
+**8:40 AM – 9:35 AM | Free Lecture**  
+- Utilized time effectively:
+  - Solved **1 LeetCode problem**  
+  - Prepared for **RMS submission**  
+  - Created a couple of **images for minor project submission**  
+
+---
+
+**9:50 AM – 10:45 AM | MLOps**  
+- Lecture by **Dr. Priyank Thakkar Sir**.  
+
+**Topics Covered:**
+- **CI/CD (Continuous Integration & Deployment)**  
+
+- Advantages of CI/CD  
+- Overview of **CI/CD Pipeline**:
+  - Components explained in depth  
+
+- Tools Discussed:
+  - **CI/CD Platforms**:
+    - Jenkins  
+    - GitHub Actions  
+  - **Build Tools**:
+    - Maven  
+    - Gradle  
+    - npm  
+  - **Testing & Quality Tools**:
+    - JUnit  
+    - TestNG  
+    - PyTest  
+  - **Containerization & Deployment**:
+    - Docker  
+    - Kubernetes  
+  - **Monitoring & Observability**:
+    - Prometheus  
+    - Grafana  
+
+- **Jenkins (In-depth)**:
+  - Distributed Build System  
+  - Architecture:
+    - Master (Controller)  
+    - Worker Nodes (Agents)  
+
+- Implementation Steps:
+  - Java Installation  
+  - Jenkins Installation  
+  - Jenkins Unlock  
+  - Project Structure  
+
+- Practical Concepts:
+  - Step-by-step Jenkins setup commands  
+  - **docker-compose.yml**  
+  - **Jenkinsfile** (detailed explanation)  
+
+---
+
+**10:45 AM – 11:40 AM | Deep Learning**  
+- Lecture by **Dr. Swati Jain Ma’am**.  
+
+**Topics Covered:**
+- Started **Autoencoders**  
+
+- Types of Encoders:
+  - Vanilla  
+  - Multilayer  
+  - Convolutional  
+  - Regularized  
+  - Denoising  
+  - Stacked  
+
+---
+
+### ☕ Break  
+
+**11:40 AM – 12:35 PM | Recess**
+
+---
+
+### 📝 Examination  
+
+**12:35 PM – 2:25 PM | ProgCode Exam**  
+
+- Solved **5/5 problems**  
+- Overall performance:
+  - Went **very well**  
+
+---
+
+### 🧑‍🏫 Project Guidance  
+
+**2:25 PM – 3:35 PM**  
+- Met **Dr. Priti Kathiria Ma’am**  
+- Showed:
+  - **Minor Project PPT**  
+
+- Feedback:
+  - Suggested some improvements  
+  - Asked to implement changes  
+
+---
+
+### 💻 Deep Work + Unexpected Nap  
+
+**3:35 PM – 5:00 PM | 11th Floor Classroom**  
+- Implemented suggested changes in PPT  
+
+**5:00 PM – 6:00 PM**  
+- Accidentally **fell asleep while working** 😴  
+- Was extremely tired  
+
+---
+
+### 🌆 Evening  
+
+- Around **6:30 PM**:
+  - Left for home  
+  - Sent a **voice note to her** about the day  
+
+---
+
+
