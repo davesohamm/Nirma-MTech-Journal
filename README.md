@@ -538,4 +538,124 @@ Total classes: 7
 
 ---
 
+## **Day 194 — 7 April 2026 (Tuesday)**  
+
+**Reached college:** 7:45 AM  
+
+---
+
+### 🎓 Lectures & Academics  
+
+**7:45 AM – 8:40 AM | MLOps**  
+- Lecture by **Dr. Priyank Thakkar Sir**.  
+
+**Topics Covered:**
+- Continued **Jenkins (Declarative Pipelines)**  
+
+- **Agent Directive**:
+  - Defines where pipeline/stages run  
+
+- Types:
+  - `agent any` → runs on any available agent  
+  - `agent { label 'my-label' }` → runs on specific labeled agent  
+
+- **Labels in Jenkins**:
+  - Configurable in Jenkins UI  
+  - Can represent:
+    - Single machine setup  
+    - Distributed setup  
+  - One agent can have **multiple labels** (space-separated)  
+  - Avoid special characters in labels  
+
+- **Global vs Local Agent**:
+  - Defined at pipeline level vs stage level  
+
+- **Source Code Options**:
+  - Local folder  
+  - Local Git repository  
+  - Remote Git repository  
+
+---
+
+**8:40 AM – 9:35 AM | Soft Computing**  
+- Lecture by **Dr. Priyank Thakkar Sir**.  
+
+**Topics Covered:**
+- Started **Differential Evolution (DE)**  
+
+- Key Concepts:
+  - **Stochastic** and **population-based** algorithm  
+  - Evolutionary optimization technique  
+
+- Internal Working:
+  - Similarities with **Genetic Algorithm**  
+
+- Important Components:
+  - **Trial Vector**  
+  - **Mutation Operator**  
+
+- Formula:
+  - `u_it = x_i1^t + β (x_i2^t - x_i3^t)`  
+
+---
+
+**9:50 AM – 11:40 AM | MLOps Lab**  
+- Lab by **Dr. Priyank Thakkar Sir**.  
+
+- Conducted **15-mark quiz** (LPW exam component)  
+- Score:
+  - **11/15**  
+- Reflection:
+  - Could have done better  
+  - Still a decent performance  
+
+---
+
+### ☕ Break  
+
+**11:40 AM – 12:35 PM | Recess**
+
+---
+
+### 🧪 Practical Lab  
+
+**12:35 PM – 2:25 PM | Deep Learning Lab**  
+- Lab by **Dr. Parita Oza Ma’am**.  
+
+**Practicals Covered:**
+- **Autoencoders**  
+- **YOLO**  
+- **GAN (Generative Adversarial Networks)**  
+
+- Instruction:
+  - Submit all practicals before **15 April**  
+
+---
+
+### 💻 Work Session  
+
+**2:25 PM – 4:30 PM | Lab**  
+- Worked on:
+  - **Minor Project PPT (Review Preparation)**  
+- Also:
+  - Solved **1 LeetCode problem**  
+
+---
+
+### 📚 Library Time  
+
+**4:30 PM – 6:00 PM | Library**  
+- Sat and passed time  
+
+---
+
+### 🌆 Evening  
+
+- Around **6:30 PM**:
+  - Left for home  
+  - Sent a **voice note to her**  
+
+---
+
+
 
