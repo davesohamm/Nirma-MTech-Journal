@@ -657,5 +657,155 @@ Total classes: 7
 
 ---
 
+## **Day 195 — 8 April 2026 (Wednesday)**  
+
+**Reached college:** 7:45 AM  
+
+---
+
+### 🎓 Lectures & Academics  
+
+**7:45 AM – 9:35 AM | Explainable AI Lab**  
+- Lab by **NKP Sir**.  
+
+- Conducted evaluation of **remaining practicals**  
+
+- Implemented:
+  - **Google What-If Tool** for:
+    - Regression  
+    - Classification  
+
+- Saved both notebooks for future use  
+
+- Also:
+  - Prepared for **Soft Computing test**  
+
+---
+
+**9:50 AM – 10:40 AM | MLOps**  
+- Lecture by **Dr. Priyank Thakkar Sir**.  
+
+**Topics Covered:**
+- **Jenkinsfile (Detailed Walkthrough)**:
+  - Pipeline  
+  - Agents  
+  - Node  
+  - Stage steps  
+
+- Two Scenarios:
+  1. Folder as:
+     - Local Git repo / GitHub repo  
+  2. Folder as:
+     - Normal local directory (non-repo)  
+
+- **Jenkins UI — General Options**:
+  - Discard old builds  
+  - Do not allow concurrent builds  
+  - Prevent pipeline resume after controller restart  
+  - GitHub project linking  
+
+- **Trigger Options**:
+  - Build periodically  
+  - Poll SCM  
+  - GitHub hook trigger for GITSCM polling  
+  - Build after other projects  
+
+- **Cron Syntax for Scheduling**:
+  - Format:
+    - `MINUTE HOUR DOM MONTH DOW`  
+
+- Symbols Explained:
+  - `*`  
+  - `/n`  
+  - `H/5`  
+  - `,` (comma)  
+  - `-`  
+
+- Solved multiple interpretation examples  
+
+- ✅ **CI/CD Chapter Completed**  
+
+---
+
+**10:40 AM – 11:40 AM | Soft Computing**  
+- Lecture by **Dr. Priyank Thakkar Sir**.  
+
+**Topics Covered:**
+- **General Differential Evolution Algorithm**:
+  - Step-by-step detailed explanation  
+
+- **Control Parameters**:
+  - Population Size (**Ns**)  
+  - Scale Factor (**β**)  
+  - Crossover Probability (**Pr**)  
+
+- **Crossover Methods**:
+  - Binomial Crossover  
+  - Exponential Crossover  
+  - Algorithms explained in depth  
+
+---
+
+### ☕ Break  
+
+**11:40 AM – 12:35 PM | Recess**
+
+---
+
+### 🧪 Lab Work  
+
+**12:35 PM – 2:25 PM | Soft Computing Lab**  
+- Lab by **Dr. Priyank Thakkar Sir**.  
+
+- Practical discussed:
+  - **Fuzzy C-Means Algorithm**  
+  - (Not fully implemented yet)  
+
+- LMS Test:
+  - Score: **11/12**  
+  - Good performance  
+
+---
+
+### 🧑‍🏫 Project Follow-up  
+
+**2:25 PM – 3:15 PM**  
+- Went to **Dr. Priti Kathiria Ma’am** for minor project review  
+- Update:
+  - Review scheduled on **Monday**  
+
+---
+
+### 🤝 Social + Help  
+
+**3:15 PM – 4:20 PM | Gwalia Canteen**  
+- Sat with:
+  - **Harsh**  
+  - His sister **Khushi**  
+  - Her friends  
+
+- Helped her with:
+  - **Minor Project guidance**  
+
+---
+
+### 💻 Deep Work  
+
+**4:20 PM – 6:40 PM | W Block Common Area**  
+
+- Completed **Deep Learning Innovative Assignment**  
+
+- Project built:
+  - **AI Debate Opponent**  
+
+---
+
+### 🌆 Evening  
+
+- Around **7:30 PM**:
+  - Reached home  
+  - Talking to **her** on call  
+
+---
 
 
