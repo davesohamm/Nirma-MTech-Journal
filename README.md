@@ -808,4 +808,120 @@ Total classes: 7
 
 ---
 
+## **Day 196 — 9 April 2026 (Thursday)**  
+
+**Reached college:** 7:45 AM  
+
+---
+
+### 🎓 Lectures & Academics  
+
+**7:45 AM – 8:40 AM | RMS Presentation**  
+- Completed **RMS Subject Assignment Presentation**  
+- Outcome:
+  - Ma’am liked our presentation  
+  - Scored **65/70 (Highest in class)** 🏆  
+
+---
+
+**8:45 AM – 9:35 AM | Deep Learning (Proxy Lecture)**  
+- No formal lecture  
+- Utilized time to:
+  - Solve **1 LeetCode problem**  
+
+---
+
+**9:50 AM – 10:40 AM | Explainable AI**  
+- Lecture by **NKP Sir**.  
+
+**Topics Covered:**
+- **Impact of AI in Society**:
+  - Economic  
+  - Healthcare  
+  - Decision Making  
+  - Social & Ethical Issues  
+
+- **Responsible AI Practices**:
+  - Ethical, fair, and safe AI systems  
+  - Fairness & bias  
+  - Transparency  
+  - Accountability  
+  - Privacy & security  
+  - Human oversight  
+
+- **OECD AI Principles**:
+  - Inclusive growth  
+  - Human-centered values  
+  - Transparency & explainability  
+  - Robustness & safety  
+
+---
+
+**10:45 AM – 11:40 AM | Soft Computing**  
+- Lecture by **Dr. Priyank Thakkar Sir**.  
+
+**Topics Covered:**
+- **Differential Evolution Variants (DE/x/y/z)**:
+  - x → Target vector selection method  
+  - y → Number of difference vectors  
+  - z → Crossover method  
+
+- Variants discussed:
+  - DE/best/1/z  
+  - DE/x/nv/z  
+  - DE/rand-to-best/nv/z  
+  - DE/current-to-best/1+nv/z  
+  - DE/rand/1/bin  
+  - DE/current-to-best/2/bin  
+
+- Started **Genetic Algorithm (GA)**  
+
+- Concepts Covered:
+  - Chromosome  
+  - Genes  
+  - Locus  
+  - Alleles  
+  - Genotype  
+  - Phenotype  
+
+- Also:
+  - Explained **GA flowchart**  
+  - Chromosome encoding  
+
+---
+
+### ☕ Break  
+
+**11:40 AM – 12:35 PM | Recess**
+
+---
+
+### 🛠️ Minor Project Lab  
+
+**12:35 PM – 2:25 PM | Minor Project Lab**  
+
+- Created a **pending tasks list**:
+  - Helped in gaining clarity  
+
+- Took a short **nap**  
+
+---
+
+### 📚 Library Time  
+
+**3:15 PM – 6:00 PM | Library**  
+
+- Watched **YouTube**  
+- Purpose:
+  - Mental refresh  
+
+---
+
+### 🌆 Evening  
+
+- Returned home  
+
+---
+
+
 
