@@ -923,5 +923,83 @@ Total classes: 7
 
 ---
 
+## **Day 197 — 10 April 2026 (Friday)**  
+
+**Reached college:** 7:45 AM  
+
+---
+
+### 🛠️ Minor Project Lab  
+
+**7:45 AM – 9:35 AM | Minor Project Lab**  
+- Completed all **Soft Computing submissions**  
+- Met the **Saturday deadline** ✅  
+
+---
+
+**9:50 AM – 11:40 AM | Minor Project Lab**  
+
+- Solved **1 LeetCode problem**  
+
+- Completed:
+  - **Jenkins Practical** for MLOps  
+
+- Also:
+  - Fine-tuned **Minor Project PPT**  
+
+---
+
+### ☕ Break  
+
+**11:40 AM – 12:35 PM | Recess**
+
+---
+
+**12:35 PM – 2:25 PM | Minor Project Lab**  
+
+- Continued working on:
+  - **PPT improvements**  
+
+- Also:
+  - Noted down **pending tasks**  
+  - Had conversations with friends about:
+    - **Placements and future**  
+
+---
+
+### 🧑‍🏫 Project Review  
+
+**2:25 PM – 3:00 PM**  
+- Reviewed PPT with **Dr. Priti Kathiria Ma’am** (Internal Guide)  
+- Feedback:
+  - Suggested a few improvements  
+
+---
+
+### 💻 Work + Social Time  
+
+**3:15 PM – 6:00 PM | 11th Floor Lab**  
+
+- Completed **MLOps Project**  
+
+- Also:
+  - Shared some of my **old poems and writings** with friends  
+  - Felt:
+    - **Light, friendly, and connected** after a long time  
+
+---
+
+### 🌆 Evening  
+
+**6:00 PM – 7:00 PM | Great Stairs**  
+- Sat waiting for **her**  
+- She didn’t come  
+
+- Around **7:15 PM**:
+  - Left for home  
+
+---
+
+
 
 
