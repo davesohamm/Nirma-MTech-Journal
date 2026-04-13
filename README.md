@@ -1000,6 +1000,114 @@ Total classes: 7
 
 ---
 
+## **Day 198 — 13 April 2026 (Monday)**  
+
+**Reached college:** 7:45 AM  
+
+---
+
+### 📚 Morning Preparation  
+
+**7:45 AM – 8:40 AM | Library (Skipped Lecture)**  
+- Skipped **Explainable AI lecture**  
+- Sat in the **library** to prepare for:
+  - **Minor Project Review**  
+
+---
+
+**8:40 AM – 9:35 AM | Free Lecture**  
+- Continued **minor project preparation** in library  
+- Also:
+  - Solved **1 LeetCode problem**  
+
+---
+
+### 🎓 Lectures & Academics  
+
+**9:50 AM – 10:40 AM | MLOps**  
+- Lecture by **Dr. Priyank Thakkar Sir**.  
+
+**Results:**
+- **Innovative Assignment:** 37/40  
+- **Sessional Exam:** 49/50  
+
+**Topics Covered:**
+- Started **Kubernetes**  
+
+- Key Concepts:
+  - Open-source **container orchestration platform** (by Google)  
+
+- Explained:
+  - **Pods**  
+  - **Kubernetes Clusters**  
+  - Difference:
+    - Pod → Process  
+    - Service → Not a process (IP + rules)  
+
+- Concepts:
+  - Pod-to-pod communication  
+  - Pods are **immutable**  
+  - Automated coordination & management in Kubernetes  
+
+---
+
+**10:40 AM – 11:40 AM | Deep Learning**  
+- Lecture by **Dr. Swati Jain Ma’am**  
+
+- Activity:
+  - **Innovative Assignment Evaluation**  
+  - My turn:
+    - Not yet  
+
+---
+
+### ☕ Break  
+
+**11:40 AM – 12:35 PM | Recess**
+
+---
+
+### 🛠️ Minor Project Lab  
+
+**12:35 PM – 2:25 PM | Minor Project Lab**  
+
+- Went for **project review**  
+- Update:
+  - **Priyank Sir was busy**  
+  - Review postponed to:
+    - **Wednesday, 2:25 PM**  
+
+---
+
+### 💬 Interaction + Wandering  
+
+**2:25 PM – 4:45 PM | W509 Lab**  
+- Sat and discussed with **CSE mates**:
+  - Their projects  
+  - General ideas and approaches  
+
+- Then:
+  - Went to **Law Canteen**  
+  - Also visited **Gwalia Canteen** for food  
+
+---
+
+### 😴 Rest  
+
+**5:30 PM – 6:30 PM | Library (4th Floor)**  
+- Took a **nap**  
+
+---
+
+### 🌆 Evening  
+
+- Around **7:00 PM**:
+  - Returned home  
+  - Talking to **her** on call  
+
+---
+
+
 
 
 
