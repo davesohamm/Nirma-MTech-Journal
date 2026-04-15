@@ -1107,6 +1107,152 @@ Total classes: 7
 
 ---
 
+## **Day 199 — 15 April 2026 (Wednesday)**  
+
+**Reached college:** 7:45 AM  
+
+---
+
+### 📝 Examinations  
+
+**7:45 AM – 9:35 AM | Explainable AI Lab (LPW Exam)**  
+- Exam by **NKP Sir**  
+
+- Task:
+  - Apply **Random Forest Classifier** on:
+    - Scikit-learn Diabetes Dataset  
+  - Use:
+    - **LIME**  
+    - **SHAP**  
+  - Write interpretation of results  
+
+- Overall:
+  - Exam went **well**  
+
+---
+
+### 🎓 Lectures & Academics  
+
+**9:50 AM – 10:40 AM | MLOps**  
+- Lecture by **Dr. Priyank Thakkar Sir**  
+
+**Topics Covered:**
+- Continued **Kubernetes Architecture**  
+
+- Components:
+  - **Control Plane Node** (brain of system)  
+  - **Data Plane Nodes**  
+
+- Key Concepts:
+  - **Pod** → Smallest deployable unit  
+  - **Cluster** → Group of nodes  
+
+- Architecture Elements:
+  - **Deployment** → Template + Controller  
+  - **Service** → Stable endpoint (IP + routing rules)  
+  - Managed via:
+    - **kube-proxy** (networking & routing)  
+
+- Internal Components:
+  - **kubelet** → Agent on each node  
+  - **etcd** → Key-value store (cluster data)  
+  - **ConfigMap / Secret** → Inject configurations  
+
+- Also:
+  - Explained **pod-to-pod communication**  
+
+---
+
+**10:45 AM – 11:40 AM | Soft Computing**  
+- Lecture by **Dr. Priyank Thakkar Sir**  
+
+**Topics Covered:**
+- Continued **Genetic Algorithms (GA)**  
+
+- **GA Flowchart**  
+
+- **Selection Methods**:
+  - Random Selection  
+  - Proportional Selection:
+    - Roulette Wheel  
+    - Stochastic Universal Sampling  
+
+- **Selective Pressure**:
+  - Also called **Takeover Time**  
+
+---
+
+### ☕ Break  
+
+**11:40 AM – 12:35 PM | Recess**
+
+---
+
+### 📝 Examination  
+
+**12:35 PM – 2:25 PM | Soft Computing Lab (LPW Exam)**  
+
+- Task:
+  - Solve **Asymmetric TSP** using:
+    - **Ant Algorithm (ACO)**  
+
+- Overall:
+  - Exam went **well**  
+
+---
+
+### 🧑‍🏫 Minor Project Review  
+
+**3:00 PM – 4:30 PM**  
+- Review with:
+  - **Dr. Priti Kathiria Ma’am**  
+  - **Dr. Priyank Thakkar Sir**  
+
+- Feedback:
+  - Did **not go well**  
+  - They did not like:
+    - **Project title**  
+    - Felt it was **unnecessary / forced**  
+
+---
+
+### 🌿 Reset  
+
+- Went to **Gwalia Canteen**  
+- Ate something to **refresh mind**  
+- Then went to **library** and slept  
+
+---
+
+### 🌆 Evening (Unexpected Best Part)  
+
+**Around 6:00 PM**  
+- **She came by surprise** ❤️  
+
+- Felt:
+  - Extremely happy  
+
+- We:
+  - Talked  
+  - Laughed  
+  - Spent quality time together  
+
+- Had:
+  - Pasta  
+  - Mexican hotpot  
+  - Softy ice cream  
+  - Iced latte  
+  - And more  
+
+---
+
+### 🏠 Night  
+
+- Around **9:00 PM**:
+  - Reached home  
+
+---
+
 
 
 
