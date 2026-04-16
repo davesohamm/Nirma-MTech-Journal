@@ -1253,6 +1253,113 @@ Total classes: 7
 
 ---
 
+## **Day 200 — 16 April 2026 (Thursday)**  
+
+**Reached college:** 7:45 AM  
+
+---
+
+### 🎤 Presentations & Academics  
+
+**7:45 AM – 9:35 AM | Deep Learning Innovative Assignment (Presentations)**  
+- Presentation session by **Dr. Swati Jain Ma’am**  
+
+- My presentation:
+  - **First presenter of the day**  
+  - Showcased:
+    - **AI Debate Opponent Project**  
+    - Architecture explanation  
+    - Live demo  
+    - PPT  
+
+- Feedback:
+  - Ma’am was **very happy**  
+  - Whole class **clapped** 👏  
+
+- Also received:
+  - **Deep Learning Sessional Exam Marks**:
+    - **33/50**  
+    - Slightly low, but can improve later  
+
+---
+
+**9:50 AM – 10:40 AM | Explainable AI**  
+- Lecture by **NKP Sir**  
+
+**Topics Covered:**
+- **Explainable AI in Reinforcement Learning**  
+
+- Key Note:
+  - Important for **theory questions (5 marks)**  
+  - No numerical problems expected  
+
+---
+
+**10:45 AM – 11:40 AM | Soft Computing**  
+- Lecture by **Dr. Priyank Thakkar Sir**  
+
+**Topics Covered:**
+- Continued **Selection Methods**:
+  - Tournament Selection  
+  - Random Selection  
+  - Elitism  
+
+- Additional Concepts:
+  - **Hall of Fame**  
+
+- **Crossover Techniques**:
+  - One-point crossover  
+  - Two-point crossover  
+  - Uniform crossover  
+  - Arithmetic crossover  
+  - Heuristic crossover  
+
+- **Exploration vs Exploitation** (in depth)  
+
+- **Mutation Operators**:
+  - Random (Uniform) Mutation  
+  - Inversion Mutation  
+
+---
+
+### ☕ Break  
+
+**11:40 AM – 12:35 PM | Recess**
+
+---
+
+### 🛠️ Minor Project / Lab Prep  
+
+**12:35 PM – 2:25 PM | Minor Project Lab (Shifted to 1106 Classroom)**  
+- Lab shifted due to **NLC LPW Exams**  
+
+- Activity:
+  - Prepared for **Deep Learning Lab Practicals Viva**  
+
+---
+
+### 🧪 Viva Evaluation  
+
+**2:25 PM – 3:25 PM**  
+- Got all **10 lab practicals checked** by **Dr. Parita Oza Ma’am**  
+
+---
+
+### 📚 Library + Relaxation  
+
+**3:25 PM – 6:00 PM | Library**  
+- Watched **Andhadhun** to:
+  - Refresh mind  
+
+---
+
+### 🌆 Evening  
+
+- Left for home while talking to **her** on call  
+
+---
+
+
 
 
 
