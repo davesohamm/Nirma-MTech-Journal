@@ -1359,6 +1359,119 @@ Total classes: 7
 
 ---
 
+## **Day 201 — 17 April 2026 (Friday)**  
+
+**Reached college:** 7:45 AM  
+
+---
+
+### 📚 Research & Academics  
+
+**7:45 AM – 8:35 AM | Minor Project Lab**  
+- Started reading **new research papers on Federated Learning**  
+- Exploring:
+  - Advanced approaches for upcoming **project review**  
+
+---
+
+**8:35 AM – 9:45 AM | Deep Learning**  
+- Lecture by **Dr. Swati Jain Ma’am**  
+
+**Topics Covered:**
+- **Generative Adversarial Networks (GANs)**  
+  - Concept  
+  - Architecture  
+  - Algorithm  
+
+---
+
+**9:50 AM – 11:40 AM | Minor Project Lab**  
+
+- Continued **Federated Learning research**  
+
+- Completed:
+  - Submitted all pending work for:
+    - **Deep Learning (DL)**  
+    - **Explainable AI (XAI)**  
+  - Uploaded on **LMS portal**  
+
+---
+
+### ☕ Break  
+
+**11:40 AM – 12:35 PM | Recess**
+
+---
+
+### 🧑‍🏫 Project Work + Fun Moments  
+
+**12:35 PM – 2:25 PM | Minor Project Lab**  
+
+- Met **Dr. Priti Kathiria Ma’am**  
+  - Guidance for:
+    - Final review  
+    - Report submission  
+
+- Created:
+  - **Summary document** of all Federated Learning approaches  
+  - For structured preparation  
+
+- Back in lab:
+  - Had a **chorus singing session** with:
+    - **Jash**  
+    - **Mayank**  
+
+- Highlight:
+  - Mayank sang a **solo song**  
+  - Absolute **banger performance 🔥**  
+
+- Continued singing together:
+  - Fun, light, and energetic vibe  
+
+---
+
+### 😴 Library Episode  
+
+**3:00 PM – 5:40 PM | Library (8th Floor)**  
+
+- Slept in the library 😴  
+- Got caught by **librarian ma’am** 😂  
+
+- Funny moment:
+  - She said she thought I studied so much and got tired  
+  - That’s why she didn’t wake me up earlier  
+  - Very wholesome interaction  
+
+---
+
+### 🌆 Best Surprise of the Day  
+
+**5:45 PM onwards**  
+
+- **She came to college to surprise me!! ❤️**  
+
+- Somehow managed to:
+  - Get her inside the **library**  
+
+- Spent time:
+  - Sitting on the **5th floor**  
+  - Talking and chilling  
+
+- Later:
+  - Went to **1st floor**  
+  - Had snacks  
+  - Laughed and talked a lot  
+
+---
+
+### 🏠 Night  
+
+- Around **8:20 PM**:
+  - Left for home  
+
+---
+
+
 
 
 
