@@ -1471,6 +1471,100 @@ Total classes: 7
 
 ---
 
+## **Day 202 — 20 April 2026 (Monday)**  
+
+**Reached college:** 7:45 AM  
+
+---
+
+### 🎓 Lectures & Academics  
+
+**7:45 AM – 8:40 AM | Explainable AI**  
+- Lecture by **NKP Sir** (free session)  
+
+- Activities:
+  - Played **GTA Vice City** for a while  
+  - Then started working on:
+    - **Minor Project Justification Report**  
+
+---
+
+**8:40 AM – 9:35 AM | Free Lecture**  
+- Continued:
+  - **Justification Report work**  
+
+- Also:
+  - Solved **1 LeetCode problem**  
+
+---
+
+### 📚 Deep Work (Library Session)  
+
+**9:45 AM – 11:40 AM | Library**  
+- Skipped:
+  - **MLOps Lecture**  
+  - **Deep Learning Lecture**  
+
+- Focused on:
+  - **Minor Project Justification Report**  
+  - **Presentation preparation**  
+
+---
+
+### ☕ Break + Tasks  
+
+**11:40 AM – 12:35 PM | Recess**  
+
+- Went to:
+  - **Kalupur Bank (Campus Branch)**  
+    - Deposited a cheque  
+
+- Then:
+  - Visited **III Cell** with **Ayush**  
+  - Purpose:
+    - Query regarding **DTDL joining date**  
+  - Outcome:
+    - No response  
+
+---
+
+### 📞 Midday  
+
+**12:35 PM – 1:00 PM**  
+- Video call with **her** ❤️  
+
+---
+
+### 🛠️ Minor Project Work  
+
+**1:00 PM – 2:25 PM | Minor Project Lab**  
+- Started working on:
+  - **Final Report (Drafting Phase)**  
+
+---
+
+### 💻 Long Deep Work Session  
+
+**2:35 PM – 7:20 PM | Library**  
+
+- Worked extensively on:
+  - **Final Report of Minor Project**  
+  - Rewriting content to:
+    - Reduce **AI detection score to minimal / 0**  
+
+- Collaboration:
+  - **She helped a lot ❤️**  
+  - Contribution:
+    - She wrote **2 chapters out of 5**  
+    - I completed the **remaining 3 chapters**  
+
+---
+
+### 🌆 Evening  
+
+- Returned home  
+
+---
 
 
 
