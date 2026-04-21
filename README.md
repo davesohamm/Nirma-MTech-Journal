@@ -1567,6 +1567,141 @@ Total classes: 7
 ---
 
 
+## **Day 203 — 21 April 2026 (Tuesday)**  
+
+**Reached college:** 7:45 AM  
+
+---
+
+### 🎓 Lectures & Academics  
+
+**7:45 AM – 8:40 AM | MLOps**  
+- Lecture by **Dr. Priyank Thakkar Sir**  
+
+**Topics Covered:**
+- **Kubernetes Services & Use Cases**:
+  - **ClusterIP** → Internal communication within cluster  
+  - **NodePort** → Exposes service on node’s port  
+  - **LoadBalancer** → External load-balanced access  
+  - **ExternalName** → Maps service to external DNS  
+
+- Explained:
+  - Sample service file: `webapp_service.yml`  
+
+- Brief intro to:
+  - **Ingress** (routing external traffic to services)  
+
+---
+
+**8:45 AM – 9:35 AM | Soft Computing**  
+- Lecture by **Dr. Priyank Thakkar Sir**  
+
+**Topics Covered:**
+- **Replacement Strategies in Genetic Algorithms**:
+  - **GGA (Generational GA)** → Entire population replaced each generation  
+  - **SSGA (Steady-State GA)** → Only a few individuals replaced  
+
+- SSGA Variants:
+  - Replace Worst → worst individuals removed  
+  - Replace Random → random individuals replaced  
+  - Kill Tournament → weakest from tournament removed  
+  - Replace Oldest → oldest individuals replaced  
+  - Conservative Selection → best preserved  
+  - Parent-Offspring → offspring replaces parent  
+
+- **Crossover Techniques**:
+  - Cyclic Crossover → preserves position-based relationships  
+  - Protochild → intermediate offspring generation approach  
+  - Order Crossover → preserves relative ordering  
+  - Position-Based Crossover → fixed positions inherited  
+  - Order-Based Crossover → maintains sequence structure  
+
+- **Mutation Techniques**:
+  - Inversion Mutation → reverses a segment  
+  - Insertion Mutation → shifts element to new position  
+  - Exchange Mutation → swaps two elements  
+
+- ✅ **Genetic Algorithm Chapter Completed**  
+
+---
+
+### 📝 Examination  
+
+**9:50 AM – 11:40 AM | MLOps LPW Exam**  
+- Exam by **Dr. Priyank Thakkar Sir**  
+
+- Task:
+  - Create **multi-stage Docker Compose setup**  
+  - With 2 microservices:
+    - `dbapp`  
+    - `webapp`  
+
+- Outcome:
+  - Could not fully complete  
+  - Tried best  
+
+---
+
+### ☕ Break  
+
+**11:40 AM – 12:35 PM | Recess**  
+
+- Went to **III Cell**:
+  - Query regarding **offer letter details**  
+  - Did not receive clear answers  
+
+- Had lunch  
+
+---
+
+### 📝 Examination  
+
+**12:35 PM – 2:25 PM | Deep Learning LPW Exam**  
+- Exam by **Dr. Parita Oza Ma’am**  
+
+- Task:
+  - Solve **Named Entity Recognition (NER)** problem  
+
+- Outcome:
+  - Solved easily  
+
+---
+
+### 🧑‍🏫 Project Guidance  
+
+**2:25 PM – 3:25 PM**  
+- Met **Dr. Priti Kathiria Ma’am**  
+
+- Work:
+  - Verified **final minor project report**  
+
+- Guidance:
+  - Suggested **future work directions**  
+  - Gave **research paper writing instructions**  
+
+---
+
+### 💻 Deep Work  
+
+**3:35 PM – 6:00 PM | Library**  
+
+- Refined:
+  - **Minor Project Final Report**  
+
+- Submitted to:
+  - **Dr. Priyank Thakkar Sir**  
+  - **Dr. Priti Kathiria Ma’am**  
+
+---
+
+### 🌆 Evening  
+
+- Returned home  
+
+---
+
+
+
 
 
 
