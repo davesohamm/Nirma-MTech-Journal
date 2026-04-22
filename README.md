@@ -1700,6 +1700,119 @@ Total classes: 7
 
 ---
 
+## **Day 204 — 22 April 2026 (Wednesday)**  
+
+**Reached college:** 7:45 AM  
+
+---
+
+### 🎓 Lectures & Academics  
+
+**7:45 AM – 9:35 AM | Explainable AI Lab**  
+- Lab by **NKP Sir**  
+
+- Discussed:
+  - **End Semester Examination Pattern**  
+  - Chapter-wise breakdown  
+
+- Remaining lab:
+  - Free session  
+
+- Activities:
+  - Played **GTA Vice City** and **GTA San Andreas**  
+  - With **Jash** and **Raj**  
+
+---
+
+**9:50 AM – 10:40 AM | MLOps**  
+- Lecture by **Dr. Priyank Thakkar Sir**  
+
+**Topics Covered:**
+- **Kubernetes Architecture (Detailed Completion)**  
+
+- **ConfigMap & Secrets**:
+  - Inject configuration and sensitive data into applications  
+
+- **Control Plane Components**:
+  - **kube-apiserver**:
+    - Handles **management traffic** (not application traffic)  
+  - **etcd**:
+    - Highly consistent **key-value store**  
+    - Stores cluster state  
+
+- **Quorum Concept**:
+  - Formula:
+    - `n/2 + 1` (strict majority)  
+  - Importance:
+    - Ensures consistency  
+    - Prevents failure scenarios  
+
+- **Split Brain Problem**:
+  - Explained why quorum is critical  
+
+- **Worker Nodes (Data Plane)**:
+  - Internal components discussed  
+
+- Additional Topics:
+  - **Cluster Configurations**  
+  - **Sidecar Pattern**  
+  - **Minikube Setup**:
+    - Step-by-step installation on Windows  
+
+- ✅ **Kubernetes Chapter Completed**  
+
+---
+
+**10:45 AM – 11:40 AM | Soft Computing**  
+- Lecture by **Dr. Priyank Thakkar Sir**  
+
+**Topics Covered:**
+- **8 Puzzle Problem**  
+
+- Algorithms Discussed:
+  - **Generate & Test (G&T)**  
+  - **Simple Hill Climbing**  
+  - **Steepest Ascent Hill Climbing**  
+
+- All concepts explained **in depth**  
+
+---
+
+### ☕ Break  
+
+**11:40 AM – 12:35 PM | Recess**  
+- Had lunch  
+
+---
+
+### 💬 Personal Time  
+
+**12:35 PM – 3:00 PM**  
+- Skipped lab  
+- Video call with **her** ❤️  
+
+---
+
+### 😴 Library Time  
+
+**3:00 PM – 5:40 PM | Library**  
+- Slept  
+
+---
+
+### 📞 Evening  
+
+**5:40 PM – 6:40 PM**  
+- Video call with **her** again ❤️  
+
+- Then:
+  - Left for home  
+
+---
+
+These feel like the **last slow days of the semester**:
+
+---
 
 
 
