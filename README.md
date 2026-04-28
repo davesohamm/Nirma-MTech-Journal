@@ -1815,7 +1815,147 @@ These feel like the **last slow days of the semester**:
 ---
 
 
+## **Days 205–207 — 24, 25 & 27 April 2026**
 
+Since I haven’t been writing much in this journal for the past few days, I’m just summarizing everything together. I can’t go into perfect detail like before, but I’ll write whatever I remember… and whatever stayed with me.
+
+---
+
+### **24 April 2026 (Friday)**  
+
+I went to college mainly to submit my **minor project report**.  
+Got the signature from **Dr. Priti Kathiria Ma’am**, but then found out that **Dr. Swati Jain Ma’am (PG coordinator)** wasn’t present… so submission didn’t happen that day.
+
+I spent almost the entire day sitting in the **library**, just waiting, thinking, doing random work…
+
+Then suddenly, around **4:45 PM**, a message dropped from **Dr. Priyank Thakkar Sir** —  
+our **DTDL internship is in Bangalore**, starting **18th May**.
+
+Honestly… that moment hit hard.
+
+So little time left?
+
+I immediately called all my friends who got selected.  
+We all decided — *let’s try for Gurugram instead of Bangalore.*
+
+Then I went alone to Sir…
+
+And yeah…  
+that turned into probably the **worst scolding I’ve ever received**.  
+Not just in Nirma… but in my entire **BTech + MTech journey**.
+
+He was really angry —  
+called it unprofessional, questioned our decision-making, everything…
+
+For a moment, it genuinely felt heavy.
+
+But after almost **1–2 hours of intense discussion**,  
+he calmed down… and eventually agreed to **forward our request to DTDL authorities**.
+
+Now everything depends on **29th April**…  
+maybe that’s when the offer letters come.
+
+After that whole emotional rollercoaster,  
+I had a call with *her* from **5:40 PM to 7:20 PM**…  
+and then went home.
+
+---
+
+### **25 April 2026 (Saturday)**  
+
+This day…  
+was something else.
+
+Probably **the best date we had in 2026**.
+
+We went out and just… lived.
+
+Food list (insane one):
+- Sourdough pizza 🍕  
+- Focaccia bread  
+  *(at Si Nonna’s)*  
+
+- Asparagus pak choi dimsums  
+- Tempura asparagus sushi  
+  *(at Cha Hong Kong, Palladium Mall)*  
+
+And so much more…
+
+Everything felt so light… so perfect.
+
+We even watched **Dhurandhar 2 again in theatres**,  
+while eating **spicy maggie** inside 😭
+
+The whole day was just full of:
+- laughter  
+- comfort  
+- peace  
+
+We returned home **late night**…
+
+And somewhere in between all that happiness,  
+this thought kept coming again and again:
+
+> *I won’t get these days again for a long time…*  
+> *(internship starts on 18th May)*  
+
+---
+
+### **27 April 2026 (Monday)**  
+
+Went to college again.
+
+Spent almost the **entire day in the library** —  
+quiet… slow… a bit heavy inside.
+
+Finally:
+- Got my report signed from **Dr. Swati Jain Ma’am**  
+- Successfully **submitted the minor project report**  
+
+One big thing done.
+
+After that,  
+had a long call with *her* before heading home…
+
+---
+
+### **Reflection**  
+
+These days… feel different.
+
+It’s like something is slowly ending.
+
+My journey in **Nirma**…  
+and in a way, even in **Ahmedabad**…
+
+Everything is starting to feel a bit **gloomy**,  
+not because things are bad —  
+but because they are about to change.
+
+I know I’m moving forward…  
+internship… career… new life…
+
+But still,  
+I will miss:
+- my people  
+- these random days  
+- the library sittings  
+- the laughter  
+- *her* presence around  
+
+It feels heavy.
+
+I just hope…  
+all of this will be worth it someday.
+
+---
+
+**Jay Shree Krishna 🙏**  
+God, please stay with me.  
+And keep my loved ones always happy.
+
+
+---
 
 
 
