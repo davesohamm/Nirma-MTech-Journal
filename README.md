@@ -6,3 +6,38 @@
 **Click here to read:** [April Journal](https://github.com/davesohamm/Nirma-MTech-Journal/blob/main/April/README.md)
 
 ---
+
+## 📅 5th May 2026, Tuesday — Day 209
+
+### 📝 Overview
+- First paper of Semester End Examinations  
+- Subject: Explainable AI  
+- Overall: Productive and positive day  
+
+---
+
+### ⏱️ Timeline
+
+**🕚 11:00 AM — Reached College**  
+- Sat in W506 lab (chilled AC 🧊)  
+- Continued revision till 1:30 PM  
+- Met Dr. Jaiprakash Verma sir — he greeted me for my upcoming internship (starting 18th May)
+
+**🕑 2:00 PM – 5:00 PM — Exam (Explainable AI)**  
+- Paper went well  
+- Confident about performance  
+
+📄 Paper Link:  
+https://github.com/davesohamm/Nirma-Papers/blob/main/XAI_SEE_Q.pdf  
+
+**🕔 Post-Exam (5:00 PM onwards)**  
+- Discussed internship plans with Nikhil and Ayush  
+  - Topics: commute, accommodation  
+  - Decision: finalize everything by this week  
+
+**🕠 5:30 PM – 6:30 PM**  
+- Video call with *her*  
+
+**🕖 7:00 PM — Reached Home**
+
+---
