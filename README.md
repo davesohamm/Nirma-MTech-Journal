@@ -41,3 +41,34 @@ https://github.com/davesohamm/Nirma-Papers/blob/main/XAI_SEE_Q.pdf
 **🕖 7:00 PM — Reached Home**
 
 ---
+
+
+## 📅 6th May 2026, Wednesday — Day 210
+
+### 📝 Overview
+- Second Semester End Examination paper  
+- Subject: Soft Computing  
+- Mixed feelings about the paper  
+
+---
+
+### ⏱️ Timeline
+
+**🕙 10:00 AM — Reached College**  
+- Studied in W506 lab till 1:40 PM  
+- Quiet preparation time before the exam  
+
+**🕑 2:00 PM – 5:00 PM — Exam (Soft Computing)**  
+- Paper went okay-ish  
+- Not very satisfied with the performance, but let’s see how much I score  
+
+📄 Paper Link:  
+https://github.com/davesohamm/Nirma-Papers/blob/main/SC_SEE_Q.pdf  
+
+**🕕 6:00 PM — Reached Home**
+
+---
+
+
+
+
