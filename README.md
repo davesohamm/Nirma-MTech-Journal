@@ -70,5 +70,33 @@ https://github.com/davesohamm/Nirma-Papers/blob/main/SC_SEE_Q.pdf
 ---
 
 
+## 📅 7th May 2026, Thursday — Day 211
+
+### 📝 Overview
+- Third Semester End Examination paper  
+- Subject: MLOps  
+- Overall paper experience was good  
+
+---
+
+### ⏱️ Timeline
+
+**🕥 10:25 AM — Reached College**  
+- Sat in the chilled AC W506 lab till 1:35 PM  
+- Revised MLOps concepts and important topics before the exam  
+
+**🕑 2:00 PM – 5:00 PM — Exam (MLOps)**  
+- Paper went well overall  
+- Only a couple of questions felt uncertain  
+
+📄 Paper Link:  
+https://github.com/davesohamm/Nirma-Papers/blob/main/MLOps_SEE_Q.pdf  
+
+**🕔 After Exam**  
+- Sat in the library till 6:20 PM  
+- Left while talking to *her* on a call  
+
+---
+
 
 
