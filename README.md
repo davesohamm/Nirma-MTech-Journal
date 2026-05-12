@@ -187,4 +187,100 @@ i will think what i should do of this repo now. should i continue my further jou
 
 ---
 
+## 📅 11th May 2026, Monday — Day 215
 
+### 📝 Overview
+- Called to college for NAAC Data Entry TA work  
+- One final visit to Nirma before leaving for Gurgaon internship  
+- Emotional day filled with gratitude, memories, and silent goodbyes  
+
+---
+
+### ⏱️ Timeline
+
+**🕘 9:00 AM — Reached College**  
+- Brought sweets for professors  
+  - Wanted to celebrate my internship opportunity  
+  - Also wanted to thank them before leaving college life behind  
+
+- Sat in the lab from 9 AM to 11 AM  
+- Many students were called for the work, but not everyone showed up  
+- No task was assigned initially, so we mostly waited around  
+
+**🍽️ Breakfast Break**  
+- Sandwiches and samosas were provided  
+
+**🖥️ 11:00 AM – 2:40 PM — NAAC Data Entry Work**  
+- Worked on NAAC-related data entry tasks with others  
+
+---
+
+### 🎓 Meeting Professors
+
+After the work, till around 3 PM, I visited:
+
+- Dr. Preeti Kathiria Ma’am  
+- Dr. Pimal Khanpara Ma’am  
+- Dr. Jaiprakash Verma Sir  
+
+I gave them sweets and sat with them for some time.  
+We talked about the future, internships, career paths, and life ahead.
+
+It felt strange — almost like quietly closing a long chapter of life.
+
+---
+
+### 🌇 Evening
+
+**🕒 3:00 PM — Left College**  
+- Reached *her* office around 3:30 PM  
+- Sat there till around 6:30 PM  
+- Wrote letters for her  
+
+I tried to send those letters to her, but I could not find her Activa there.
+
+And so, with a slightly disheartened heart, I left from there.
+
+Maybe somewhere deep inside, I just wanted to meet her one last time before leaving Ahmedabad.
+
+---
+
+### 🛕 Temple Visit
+
+On the way home, I visited:
+
+- Mata Vaishnodevi Temple  
+- Marutidhaam Hanumanji Temple  
+
+The atmosphere there felt peaceful and comforting.  
+I felt positive energy and calmness after all the emotional chaos of the past few days.
+
+Had prashad there and spent some quiet moments with my thoughts.
+
+---
+
+### 💭 Reflections
+
+This day felt like a transition between two phases of life.
+
+College corridors, labs, professors, canteens, friendships, memories — everything suddenly feels distant now, even though it all happened so recently.
+
+There’s excitement for the new beginning in Gurgaon.  
+But at the same time, there’s heaviness in the heart while leaving behind people and moments that became a part of life.
+
+Some goodbyes happen loudly.  
+Some happen silently, inside the heart.
+
+Reached home around 7:15 PM.
+
+---
+
+### 🙏 Final Thoughts
+
+Grateful for every teacher who guided me.  
+Grateful for every memory this campus gave me.  
+And grateful for every emotion that made this journey meaningful.
+
+Jay Shree Krishna. 🌸
+
+---
