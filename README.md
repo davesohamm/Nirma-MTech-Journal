@@ -473,4 +473,98 @@ A new beginning started today. 🌅
 
 ---
 
+## 📅 19th May 2026, Tuesday — Day 223
+
+### 📝 Overview
+- Second day at Deutsche Telekom Digital Labs  
+- Introduction meeting with manager and team culture  
+- Relaxed but memorable office day  
+
+---
+
+### ⏱️ Timeline
+
+**🕗 8:00 AM — Woke Up**  
+- Got ready by 9:15 AM  
+- Did pooja before leaving for office  
+
+**🛺 Travel to Office**  
+- Booked an e-rickshaw  
+- Reached office around 10 AM  
+
+**🍽️ Breakfast**  
+- Had peanut butter sandwiches  
+
+---
+
+### 🏢 Office Day
+
+**🕦 11:30 AM — Meeting with Manager**  
+- Had an introductory session with Manu Shrot Sir  
+- He introduced us to:
+  - the company  
+  - internship roles  
+  - team culture and work environment  
+
+- We also introduced ourselves:
+  - academic background  
+  - strengths and weaknesses  
+  - interests and experiences  
+
+The session felt welcoming and comfortable.
+
+---
+
+### 🍛 Lunch
+
+Had another amazing lunch at the office cafeteria:
+- Soya chaap  
+- Arbi sabzi  
+- Rajma chawal  
+- and more delicious food 😭✨  
+
+The food here genuinely continues to surprise me every single time.
+
+---
+
+### ☕ Rest of the Day
+
+After the meeting, the day was mostly free.
+
+So we:
+- roamed around the office  
+- explored different areas  
+- played chess  
+- used the indoor exercise cycle  
+- talked and chilled for a while  
+- had tea, coffee, and cookies  
+
+The office atmosphere feels very open, relaxed, and positive.
+
+**🕕 Evening Snacks (6 PM)**  
+- Vermicelli  
+- Bread pakoda  
+
+---
+
+### 🌃 Evening
+
+**🕖 7:00 PM — Reached Home**  
+- Got fresh  
+- Talked to family on call  
+- Texted *her* for a while  
+- Spent time talking with Nikhil and Ayush  
+
+And done for the day.
+
+---
+
+### 💭 Notes
+- Slowly getting comfortable with this new city and office life  
+- The people and culture here feel welcoming  
+- Feels nice seeing life transition from academics to professional space  
+- Great day overall 🌟  
+
+---
+
 
