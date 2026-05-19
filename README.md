@@ -284,3 +284,193 @@ And grateful for every emotion that made this journey meaningful.
 Jay Shree Krishna. 🌸
 
 ---
+
+# ॐ कृष्णाय वासुदेवाय हरये परमात्मने ।  
+# प्रणतः क्लेशनाशाय गोविंदाय नमो नमः ॥
+
+## 📅 18th May 2026, Monday — Day 222
+
+### 📝 Overview
+- Mini vacation officially over  
+- First day of internship at Deutsche Telekom Digital Labs, Gurgaon  
+- A completely new chapter of life begins  
+
+---
+
+### 🏡 Before Today
+
+The past few days were all about shifting, shopping, settling in, and preparing for this new journey.
+
+From 15th–17th May, me, Nikhil, and Ayush stayed at LimeTree Hotel near 32nd Avenue while searching for a permanent place to stay.
+
+And finally, we found a beautiful fully furnished villa with all amenities and a huge garden:
+
+📍 **Home Address:**  
+1576, Sector 23 East Pocket, Gurgaon – 122017  
+
+📍 **Office Address:**  
+Deutsche Telekom Digital Labs, Atrium Place,  
+Udyog Vihar Phase V, Sector 19, Gurgaon – 122016  
+
+Distance from office: approximately 5 km.
+
+All online onboarding formalities and broker agreement formalities had already been completed.
+
+Everything finally felt... *set*.
+
+---
+
+## 🌅 The First Day
+
+Today was the first official day at office.
+
+We woke up early in the morning.  
+Did pooja together.  
+I sprinkled Gangajal all around the house — a small spiritual beginning before stepping into this new phase of life.
+
+There was peace in that moment.
+
+Around 9 AM, we booked a Rapido auto and left for office.
+
+Reached around 9:30 AM — almost half an hour early.
+
+The building looked beautiful.  
+Modern glass architecture, corporate atmosphere, people walking with purpose — it all felt surreal.
+
+We clicked photos outside the office, capturing the beginning of something we had worked hard for.
+
+---
+
+### 🏢 Entering Deutsche Telekom Digital Labs
+
+Around 10 AM, we completed our gate pass formalities and entered the office.
+
+Sharp at 10, HR Kirti Rajput Ma’am arrived and welcomed us warmly to DTDL.
+
+She gave us a brief introduction about the company and then told us to explore the office and canteen area.
+
+And honestly...
+
+The office felt incredible.
+
+---
+
+### 🍽️ The Food 😭✨
+
+One thing that instantly became unforgettable — the food.
+
+Free breakfast, lunch, and evening snacks.
+
+And not just ordinary food — genuinely delicious food.
+
+Sandwiches, pasta, paneer lababdar, chapati, dal makhni, rice, cookies, tea, coffee...
+
+Every meal felt like a celebration.
+
+After months of college life and hostel/canteen food experiences, this felt unreal.
+
+---
+
+### 💻 MacBook Day
+
+At around 3 PM, we received our office laptops from the IT department.
+
+A MacBook Pro with M1 chip.
+
+Holding it in hand felt symbolic somehow.
+
+A reminder that life had genuinely moved into a new phase now — from classrooms and assignments to corporate systems, teams, products, and real-world responsibilities.
+
+After that, we sat around in the office, explored the culture, observed people working, and simply absorbed the atmosphere.
+
+---
+
+### 🌃 Back Home
+
+Around 6 PM, we packed our bags and left office.
+
+Reached home around 7 PM.
+
+Today, we also got a new AC installed at our villa.
+
+Slowly, this new place is beginning to feel like home.
+
+Later at night:
+- Posted about the internship on LinkedIn  
+- Got a very positive response from everyone  
+- Talked to family on call  
+- Freshened up and talked to *her* on call  
+
+And then slept late at night.
+
+---
+
+## 💭 Reflections & Learnings
+
+Today felt like standing at the edge of two worlds.
+
+One world behind me:
+- college life,
+- classrooms,
+- exams,
+- canteens,
+- memories,
+- comfort,
+- familiarity.
+
+And one world ahead of me:
+- corporate life,
+- responsibility,
+- independence,
+- discipline,
+- growth,
+- uncertainty,
+- opportunity.
+
+Somewhere deep inside, there is fear too.
+
+Fear of whether I will be able to truly succeed here.  
+Fear of handling responsibilities properly.  
+Fear of distance from loved ones.
+
+But stronger than fear... is gratitude.
+
+A few years ago, this version of life existed only in imagination.
+
+And today, I entered the office wearing my ID card.
+
+Life changes quietly.
+
+Not in one giant cinematic moment —  
+but through thousands of small efforts, stressful nights, silent prayers, sacrifices, and consistency.
+
+Today taught me something important:
+
+> New beginnings always feel uncomfortable at first.  
+> But discomfort is often proof that life is expanding.
+
+I also realized that no matter how modern or fast life becomes, spiritual grounding remains important.
+
+Starting the day with pooja, Gangajal, and prayers gave inner calmness before stepping into this corporate world.
+
+And maybe that balance will become very important going forward.
+
+---
+
+## 🙏 Final Thoughts
+
+Thank you, Krishna.
+
+For guiding me till this point.  
+For protecting me during uncertain phases.  
+For giving me strength, opportunities, good people, and hope.
+
+May this new journey bring wisdom before success, humility before achievement, and peace alongside ambition.
+
+And may the people I truly care about stay beside me through all phases of life.
+
+A new beginning started today. 🌅
+
+---
+
+
