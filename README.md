@@ -567,4 +567,99 @@ And done for the day.
 
 ---
 
+## 📅 20th May 2026, Wednesday — Day 224
+
+### 📝 Overview
+- Relaxed office day at DTDL  
+- Hit a huge LeetCode milestone: 700 problems solved 🎯  
+- Completed IBM Agentic AI introductory course  
+- Balanced productivity, fun, fitness, and home life nicely  
+
+---
+
+### ⏱️ Timeline
+
+**🕤 9:45 AM — Reached Office**  
+- Had breakfast:
+  - Peanut butter toast  
+  - Chocos milk  
+
+- Set up the workstations and settled in for the day  
+
+---
+
+### 💻 Office Day
+
+Today, we didn’t have any specific tasks assigned.
+
+So most of the time was spent:
+- roaming around the office  
+- playing chess  
+- casually exploring different spaces  
+- relaxing and talking  
+
+But amidst all this, I still managed to stay productive.
+
+✅ Solved 2 LeetCode problems today  
+🎉 Reached exactly **700 solved problems** on LeetCode!
+
+That felt really satisfying.  
+A reminder that consistency slowly compounds over time.
+
+Also completed the **Agentic AI Introductory Course** on the IBM platform.
+
+---
+
+### 🍛 Lunch
+
+Lunch today was amazing again:
+
+- Curry pakoda  
+- Paneer tikka  
+- Chapati  
+- Rice  
+- Rasgulla 😭✨  
+
+The food here genuinely keeps making the office experience even better.
+
+---
+
+### ☕ Evening
+
+Spent some time:
+- watching comedy videos on YouTube  
+- doing cardio on the office cycle desk  
+
+**Evening Snacks:**  
+- Sprouts  
+
+**🕡 6:30 PM — Left Office**  
+**🕖 7:00 PM — Reached Home**
+
+---
+
+### 🏡 Night Routine
+
+- Talked with family on video call  
+- Had a call with *her*  
+- Listened to some good old music 🎶  
+
+Also completed some household chores:
+- washing clothes in the washing machine  
+- watering the garden  
+
+And finally called it a day.
+
+See you tomorrow 🌙
+
+---
+
+### 💭 Notes
+- Felt nice maintaining balance between learning, relaxation, and personal life  
+- 700 LeetCode problems feels like a major milestone worth appreciating  
+- Slowly adapting to this new Gurgaon routine and independent lifestyle  
+- Good music, productive work, family calls, and peaceful evenings — simple things matter a lot  
+
+---
+
 
