@@ -663,3 +663,104 @@ See you tomorrow 🌙
 ---
 
 
+## 📅 21st May 2026, Thursday — Day 225
+
+### 📝 Overview
+- Meeting-heavy office day at DTDL  
+- Learned about company systems, compliance, and security processes  
+- Big academic achievement unlocked: CGPA crossed 9 🎉  
+
+---
+
+### ⏱️ Timeline
+
+**🕤 9:45 AM — Reached Office**  
+- Had breakfast:
+  - Peanut butter toast  
+  - Chocos milk  
+
+- Went to the workstation and got settled in  
+
+---
+
+### 🏢 Office Day
+
+Today, we had planned to meet team members informally and interact with more people around the office.
+
+However, that wasn’t really possible because the entire day was packed with back-to-back meetings.
+
+Attended sessions related to:
+- IT department overview  
+- Information Security Management System (ISMS)  
+- Compliance processes  
+- Organizational policies and workflows  
+
+Even though the meetings were long, they gave a good understanding of how structured and process-oriented large companies operate.
+
+---
+
+### 🍛 Lunch
+
+Lunch today was absolutely loaded 😭✨
+
+- Chhole chawal  
+- Chapati  
+- Paneer tikka masala  
+- Pad Thai noodles  
+- Banana ice cream  
+
+One thing is certain — office food continues to be elite.
+
+---
+
+### 🎮 Evening
+
+Spent some time in the cafeteria:
+- playing Deadshot.io  
+- relaxing and chilling around  
+
+**Evening Snacks:**  
+- Samosas  
+- Hummus with tacos  
+
+---
+
+### 🎓 Academic Achievement
+
+Today, our **Nirma M.Tech Data Science Seminar 2 results** were announced.
+
+✅ Scored **9.10 / 10**  
+
+And with that...
+
+🎉 My cumulative CGPA across both semesters has officially become **9.05**!
+
+Honestly, I feel extremely proud and happy about this achievement.
+
+A lot of hard work, consistency, sleepless nights, projects, exams, pressure, and learning went behind reaching this point.
+
+Feels good seeing the efforts reflect in numbers.
+
+---
+
+### 🌃 Evening at Home
+
+**🕖 Around 7 PM — Reached Home**
+
+- Talked with family on video call  
+- Talked with *her* on call  
+- Spent some time ironing formal clothes  
+
+After finishing the daily chores, called it a day.
+
+---
+
+### 💭 Notes
+- Today felt like a mix of professional learning and personal achievement  
+- Slowly understanding how corporate environments function beyond technical work  
+- Crossing 9 CGPA feels very special and rewarding  
+- Grateful for how things are shaping up recently — new city, internship, growth, and achievements all together 🌟  
+
+---
+
+
