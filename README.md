@@ -763,4 +763,99 @@ After finishing the daily chores, called it a day.
 
 ---
 
+## 📅 22nd May 2026, Friday — Day 226
+
+### 📝 Overview
+- Final working day of Office Week 1 at DTDL  
+- Relaxed and enjoyable office atmosphere  
+- Continued work on federated learning college project alongside internship life  
+
+---
+
+### ⏱️ Timeline
+
+**🕤 9:45 AM — Reached Office**  
+- Had breakfast:
+  - Muesli  
+  - Peanut butter toast  
+
+- Set up the workstation  
+- Chatted with Nikhil and Ayush for a while  
+
+---
+
+### 🏢 Office Day
+
+**🕦 11:30 AM – 12:30 PM — HR Introduction Meet**  
+- Attended another HR session introducing us further to DTDL  
+- Learned more about the company structure, processes, and workplace culture  
+
+After the meeting, there wasn’t much assigned work for the day.
+
+So till lunch:
+- watched series on the laptop  
+- relaxed around the workstation area  
+
+---
+
+### 🍛 Lunch
+
+Another elite cafeteria lunch 😭✨
+
+- Idli sambhar  
+- Plain dosa  
+- Dal khichdi  
+- Roti  
+- Paneer angara sabzi  
+- Sabudana kheer  
+
+---
+
+### 🎮 Afternoon & Evening
+
+After lunch:
+- played chess  
+- played carrom with office mates  
+- spent time chilling around the office  
+
+Meanwhile, also worked on the college federated learning minor project:
+- trained **MobileNetV2**  
+- trained **EfficientNetB0**  
+- worked on FEB Proto testing  
+
+Felt good balancing internship life with ongoing academic project responsibilities.
+
+---
+
+### ☕ Evening Snacks
+
+- Poha  
+- Pakode  
+
+**🕢 Around 7:30 PM — Reached Home**
+
+---
+
+### 🌃 Night
+
+- Completed daily chores  
+- Talked with family on call  
+- Spent time with Nikhil and Ayush  
+- Watched IPL together 🏏  
+
+And called it a day.
+
+---
+
+### 💭 Notes
+- Office Week 1 officially completed ✅  
+- Slowly adapting to the new lifestyle, routines, and environment in Gurgaon  
+- Feels nice having a balance of learning, fun, friendships, and responsibilities  
+- Happy that college project work is also progressing alongside internship life  
+- Looking forward to what the upcoming weeks at DTDL bring 🌟  
+
+---
+
+
+
 
