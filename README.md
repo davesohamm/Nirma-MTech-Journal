@@ -856,6 +856,177 @@ And called it a day.
 
 ---
 
+## 📅 25th May 2026, Monday — Day 229
+
+### 📝 Overview
+- Fun and productive office day at DTDL  
+- Met our mentor and got introduced to the broadband backend domain  
+- Learned about several important industry technologies and systems  
+
+---
+
+### ⏱️ Timeline
+
+**🕙 10:15 AM — Reached Office**  
+- Had breakfast  
+- Headed to the workstation and completed setup  
+
+After settling in:
+- completed the data filling process for payment-related formalities  
+  - bank passbook details  
+  - account information  
+  - onboarding paperwork  
+
+Till lunch, we also discussed the Darwinbox access issue that I was facing.
+
+---
+
+### 🍛 Lunch
+
+Amazing lunch today 😭✨
+
+- Shrikhand  
+- Rajma chawal  
+- Paneer sabzi with roti  
+- Dahipuri  
+
+Definitely one of the best lunch combinations so far.
+
+---
+
+### 🎮 Fun Time at Office
+
+After lunch:
+- played foosball for around an hour  
+- had way too much fun there 😭  
+
+Then spent some time at the workstation.
+
+And again…
+
+Went back to the cafeteria area and played table tennis for another hour.
+
+The office environment genuinely feels energetic and refreshing.
+
+---
+
+## 💻 Meeting with Mentor — Broadband Backend Team
+
+Later, we met our mentor **Ankit Gupta**.
+
+He took a brief introduction from all of us and then introduced us to the kind of work our team handles.
+
+Since we are going to be part of the **Broadband Backend Team**, several interesting topics were discussed:
+
+---
+
+### 🌐 Self-Healing Broadband
+
+Self-healing broadband systems are designed to automatically detect, diagnose, and sometimes fix network-related issues without human intervention.
+
+The goal is to reduce downtime and improve user experience by using automation and monitoring systems.  
+For example:
+- if a router disconnects frequently,  
+- or bandwidth suddenly drops,  
+
+the system can automatically analyze logs, restart services, or suggest fixes.
+
+This concept combines networking, monitoring tools, AI-based analysis, and automation.
+
+---
+
+### 🧠 GraphRAG
+
+GraphRAG is an advanced Retrieval-Augmented Generation (RAG) approach that uses graph structures along with vector search.
+
+Instead of only retrieving text chunks from documents, GraphRAG connects related entities, concepts, and relationships using graphs.
+
+This helps LLM systems:
+- understand context better  
+- retrieve interconnected knowledge  
+- improve reasoning capabilities  
+
+It is especially useful for enterprise knowledge systems and complex data relationships.
+
+---
+
+### 🔍 Semantic Search
+
+Semantic search focuses on understanding the *meaning* behind a query instead of just matching keywords.
+
+Traditional search checks exact words, while semantic search uses embeddings and vector databases to understand intent and context.
+
+For example:
+- “internet issue”  
+- and “broadband not working”  
+
+can produce similar results even though the keywords differ.
+
+This technology is heavily used in AI assistants, recommendation systems, and intelligent enterprise search platforms.
+
+---
+
+### 📡 NATCOs
+
+NATCOs refers to National Telecom Companies or telecom operator ecosystems that manage communication infrastructure and broadband services.
+
+These organizations handle:
+- network operations  
+- customer services  
+- internet infrastructure  
+- telecom deployments  
+
+Understanding NATCO workflows is important because backend broadband systems often interact with telecom-level operational processes and customer issue management systems.
+
+---
+
+### ⚙️ RDK Software
+
+RDK (Reference Design Kit) is an open-source software platform used in broadband devices, routers, set-top boxes, and smart home systems.
+
+It provides standardized software layers for device management and connectivity.
+
+Large telecom and broadband companies use RDK to:
+- manage devices remotely  
+- push firmware updates  
+- monitor network health  
+- maintain consistent device behavior  
+
+It plays a huge role in modern broadband ecosystems.
+
+---
+
+### ☕ Evening Snacks
+
+- Pink sauce pasta  
+- Chinese spring rolls  
+
+And then we headed home.
+
+---
+
+### 🌃 Evening
+
+**🕢 Around 7:30 PM — Reached Home**
+
+- Talked with *her* on call  
+- Completed daily chores  
+- Had video call with family  
+
+And after all that…
+
+Called it a day 🌙
+
+---
+
+### 💭 Notes
+- Today felt like the first real glimpse into the actual technical domain of the internship  
+- The concepts discussed today sounded exciting and industry-oriented  
+- Also loved how balanced the office culture is — learning + fun + interaction together  
+- Feeling more connected with the team and the work environment day by day 🚀  
+
+---
+
 
 
 
