@@ -1027,6 +1027,96 @@ Called it a day 🌙
 
 ---
 
+## 📅 26th May 2026, Tuesday — Day 230
+
+### 📝 Overview
+- Relaxed office day at DTDL  
+- Got Jira access for company workflows  
+- Balanced work, fun, movies, games, and personal moments nicely  
+
+---
+
+### ⏱️ Timeline
+
+**🕙 10:00 AM — Reached Office**  
+- Had breakfast:
+  - Peanut butter toast  
+  - Corn flakes  
+
+- Set up the workstation for the day  
+
+---
+
+### 💻 Office Day
+
+After settling in:
+- raised the query/request for getting Jira access from the company systems  
+
+Till lunch, the Jira access process got completed successfully ✅
+
+Apart from that, there wasn’t much assigned work for the day.
+
+---
+
+### 🍛 Lunch
+
+Lunch today was amazing again 😭✨
+
+- Dal chawal  
+- Roti  
+- Soya chaap sabzi  
+- Salad  
+- Papdi chaat  
+- Ice cream  
+
+Office cafeteria continues to carry the internship experience honestly 😭
+
+---
+
+### 🎮 Afternoon Fun
+
+Since there wasn’t much work after lunch:
+
+- played chess  
+- played foosball  
+- watched *Dune: Part Two* for some time 🎬  
+
+The day had a very relaxed and enjoyable vibe overall.
+
+---
+
+### ☕ Evening Snacks
+
+- Medu vada  
+- Cheese chilli bun  
+
+**🕡 Around 6:20 PM — Left Office**  
+**🕖 7:00 PM — Reached Home**
+
+---
+
+### 🌃 Evening at Home
+
+- Video called with family  
+- Called *her*  
+- Completed daily chores  
+
+And later…
+
+*We two* did a Google Meet and spent quality time together till sleep.
+
+Finally, called it a day 🌙
+
+---
+
+### 💭 Notes
+- Slowly settling deeper into the office routine and Gurgaon life  
+- Nice balance between technical setup work and enjoying the office culture  
+- Small moments — games, movies, calls, conversations — are making this new phase feel comfortable and memorable  
+- Grateful for peaceful days like this ✨  
+
+---
+
 
 
 
