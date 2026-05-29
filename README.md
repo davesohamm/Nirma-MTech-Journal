@@ -1117,6 +1117,90 @@ Finally, called it a day 🌙
 
 ---
 
+## 📅 27th May 2026, Wednesday — Day 231
+
+### 📝 Overview
+- Productive setup day at DTDL  
+- Prepared the development environment for upcoming project work  
+- Ended the day with Tekken 7 on the office PlayStation 5 🎮  
+
+---
+
+### ⏱️ Timeline
+
+**🕙 10:00 AM — Reached Office**  
+- Had breakfast  
+- Headed to the workstation and got ready for the day's tasks  
+
+---
+
+### 💻 Office Day
+
+Today's primary objective was to prepare our systems for development work.
+
+Throughout the day, we installed and configured various development tools, libraries, and common dependencies required for the project environment.
+
+Setup included:
+
+- Python
+- Java
+- IntelliJ IDEA
+- Node.js
+- Git
+- Docker
+- Cursor
+- Maven
+- PyCharm
+- Other supporting tools and dependencies
+
+Most of the day was spent ensuring everything was installed correctly and working properly.
+
+It felt like an important milestone because the actual development work is now getting closer.
+
+---
+
+### 🍛 Lunch
+
+Had another delicious office lunch during the day.
+
+As always, the cafeteria did not disappoint 😭✨
+
+---
+
+### 🎮 Evening
+
+By the evening, most of the setup work was completed.
+
+**🕕 6:00 PM – 7:00 PM**
+
+Spent an hour in the cafeteria gaming zone playing:
+
+🎮 **Tekken 7 on the PlayStation 5**
+
+Had a lot of fun battling with friends and unwinding after a day of installations and configurations.
+
+---
+
+### 🌃 Evening at Home
+
+**🕖 Around 7:00 PM — Reached Home**
+
+- Completed daily chores
+- Talked with family
+- Talked with *her*
+
+And then called it a day.
+
+---
+
+### 💭 Notes
+- Today's work may not have looked exciting from the outside, but setting up the development environment is an important step before real project work begins
+- Happy that most of the required tools are now installed and ready
+- Looking forward to finally getting hands-on with the actual broadband backend project
+- A productive day followed by an hour of Tekken made for a pretty good combination 🎮🚀
+
+---
+
 
 
 
