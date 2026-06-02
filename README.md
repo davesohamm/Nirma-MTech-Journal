@@ -57,3 +57,60 @@ Overall, the day was primarily focused on project onboarding, access setup, team
 
 ---
 
+# 2 June 2026 (Tuesday) - Day 235
+
+## Morning
+
+Reached the office around **10:30 AM**. Had a quick breakfast and headed straight to my workstation.
+
+The first part of the day was focused on project onboarding activities. I coordinated with **Rajat Bhaiya** and successfully received access to the project's **GitLab** repositories. He also walked me through the project requirements and provided a higher-level understanding of what the team is building and how it is being used.
+
+Alongside the onboarding tasks, I also solved **one LeetCode problem**, continuing my daily coding practice.
+
+## Afternoon
+
+Lunch today was exceptionally good. The menu included:
+
+- Malai Kofta
+- Soya Chaap Tikka
+- Brownie
+- Orange Juice
+- Roti
+- Dal Chawal
+- Masala Popcorn
+
+Definitely one of the most enjoyable lunches I've had recently.
+
+After lunch, I worked closely with Rajat Bhaiya to set up the development environment. We cloned the entire project repository onto my laptop and successfully ran the application locally.
+
+The rest of the afternoon was dedicated to understanding the project's documentation, architecture, and overall workflow. I started taking notes to build my own understanding of the system.
+
+From my initial exploration, the project appears to be a **QA automation platform** that helps automate manual test cases while keeping a **human-in-the-loop** for validation and decision-making. The platform operates on top of a very large knowledge base and involves multiple interconnected components.
+
+Although I now have a rough understanding of the project's purpose and architecture, I still need more time to fully understand the complete tech stack, system design, and internal implementation details.
+
+## Evening
+
+After **5:30 PM**, we had evening snacks consisting of:
+
+- Samosa Chaat
+- Corn Bowl
+
+Following snacks, we spent some time playing **PS5**, which was a fun and refreshing break after a day filled with onboarding and documentation reading.
+
+We left the office and reached home at around **7:00 PM**.
+
+## Night
+
+After returning home, I completed my daily chores and then called my family to catch up with everyone.
+
+Later, I spoke with *her* over a call and spent some quality time talking.
+
+One of the highlights of the day was listening to music for about **one and a half hours**. It had been quite a long time since I sat down and simply enjoyed music without any distractions. The experience felt surprisingly refreshing and relaxing, and it helped me unwind after a mentally intensive day of learning and project exploration.
+
+Overall, today was primarily focused on gaining access to the project, setting up the development environment, understanding the documentation, and beginning the journey of learning a large-scale QA automation system.
+
+**Day Ended.**
+
+---
+
