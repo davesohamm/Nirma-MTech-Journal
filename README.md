@@ -184,3 +184,103 @@ Overall, today felt productive and satisfying. I successfully completed my proje
 **Day Ended.**
 
 ---
+
+# 4 June 2026 (Thursday) - Day 237
+
+## Morning
+
+Reached the office around **10:00 AM** and had breakfast consisting of **muesli with milk** and a **peanut butter sandwich**. After breakfast, I set up my workstation and started working at around **10:40 AM**.
+
+The primary focus for the morning was completing the **Review Update Comment** functionality that I had been working on over the past couple of days. Before the scheduled team meeting, I continued refining the implementation and trying to finalize the feature.
+
+At around **11:45 AM**, we had a meeting with the AI Charter team to discuss the feature and overall architecture. During the discussion, it became clear that the current implementation, although functionally correct, was extremely **slow** and **cost-sensitive**. The approach was consuming significant resources and would not scale efficiently in production.
+
+As a result, I had to rethink the design and revisit the architecture almost from scratch.
+
+## Afternoon
+
+Lunch was delicious today and included:
+
+- Curry Pakoda Rice
+- Chapati
+- Mutter Paneer
+- Baingan Bharta
+- Strawberry Ice Cream
+
+After lunch, I spent a significant amount of time studying the project's architecture in detail. Instead of directly modifying code, I focused on understanding the entire flow, identifying bottlenecks, and analyzing where unnecessary latency and token consumption were occurring.
+
+After a thorough analysis, I documented multiple improvement opportunities and started redesigning the implementation.
+
+Some of the key improvements included:
+
+- Implementing a more effective **RAG (Retrieval-Augmented Generation)** approach
+- Improving prompt efficiency through strategic prefix additions
+- Optimizing context window utilization
+- Reducing redundant information passed to the LLM
+- Improving overall execution flow and retrieval strategy
+
+The results were much better than expected.
+
+### Performance Improvements
+
+- Overall execution time reduced from approximately **17 minutes to 3 minutes**
+- Review Update Comment functionality reduced to approximately **30–40 seconds**
+- Significant reduction in unnecessary context processing
+- Better architectural separation and scalability
+
+This was probably the most technically intensive task I have worked on since joining the project.
+
+There was one funny yet slightly terrifying side effect though.
+
+To complete all the experimentation, testing, prompt engineering, architecture redesigns, and repeated executions, I consumed approximately **4 crore 85 lakh Cursor tokens**.
+
+That is **more than twice the monthly token allocation provided by the company**.
+
+At the moment, I have absolutely no idea what will happen when someone notices the usage statistics. Fingers crossed.
+
+Still, considering the performance gains and architectural improvements achieved, I feel the effort was worthwhile.
+
+## Project Discussions
+
+During the day, I also got an opportunity to meet **Anmol Bhaiya**, who had originally designed the primitive version of the project's architecture.
+
+It was great talking with him and understanding some of the earlier design decisions. Conversations with people who have built a system from the ground up always provide valuable context and insights.
+
+I also solved **one LeetCode problem**, keeping up with my daily practice.
+
+## Evening
+
+I wrapped up most of the implementation work by around **5:30 PM**.
+
+After that, it was time to relax a little.
+
+We played **Tekken 7 on the PS5**, which was a fun break after spending almost the entire day deeply focused on architecture, optimization, and implementation.
+
+For evening snacks, we had:
+
+- Tacos
+- Sprouts Salad
+
+Afterward, I headed home and reached around **7:00 PM**.
+
+## Night
+
+After returning home, I completed my daily chores and routines.
+
+A pleasant surprise today was that my cousin, **Piyush Bhaiya**, came to meet me. We spent some time together catching up and talking, which was nice after a busy workday.
+
+Later, I called my family and shared updates about the day.
+
+I also spoke with *her* and told her about the architecture changes, performance improvements, and the surprisingly large Cursor token consumption.
+
+Even after all of that, I wasn't quite done for the day.
+
+Since I have to present this work to the team tomorrow morning, I spent some additional time reviewing the architecture, revisiting my notes, and mentally preparing the explanation and reasoning behind all the changes.
+
+Overall, today was one of the most productive and technically satisfying days of the internship so far. The amount of learning, architectural thinking, optimization work, and measurable performance improvements made the day feel extremely rewarding.
+
+Now all that's left is to present everything successfully tomorrow.
+
+**Day Ended.**
+
+---
