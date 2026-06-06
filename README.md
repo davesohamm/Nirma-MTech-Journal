@@ -284,3 +284,94 @@ Now all that's left is to present everything successfully tomorrow.
 **Day Ended.**
 
 ---
+
+# 5 June 2026 (Friday) - Day 238
+
+## Morning
+
+Reached the office around **10:15 AM**, set up my workstation, and had breakfast right at my desk before starting work.
+
+I had already spent some time earlier in the morning preparing for the team's architecture discussion. Since I was expecting to present my optimization work, I had carefully prepared notes in my diary and even created a flow diagram to explain the changes and reasoning behind the new architecture.
+
+However, as it turned out, both my manager and **Rajat Bhaiya** were working from home today. As a result, the detailed update and discussion have now been postponed until Monday.
+
+Since the meeting did not happen, I spent the morning discussing various AI concepts with **Shobit Bhaiya**. We had interesting conversations around:
+
+- Retrieval-Augmented Generation (RAG)
+- Generative Adversarial Networks (GANs)
+- Transformer model training
+- Data synthesis and synthetic datasets
+- Training methodologies and practical AI systems
+
+The discussions were insightful and helped me understand how different AI paradigms are applied in real-world systems.
+
+## Afternoon
+
+Lunch was fantastic today and included:
+
+- Dal Makhani
+- Chawal
+- Naan
+- Paneer Lababdar
+- Hara Bhara Kebabs
+- Lassi
+- Sevaiya
+
+After lunch, I received a call from **Piyush Bhaiya**, who invited me to join them for a trip to **Haridwar** over the weekend.
+
+At first, neither of us was particularly excited about that plan, so we politely declined. However, the conversation sparked another idea altogether.
+
+Soon, we started discussing the possibility of planning our own trip somewhere in **Himachal Pradesh** or **Uttarakhand**. As of now, it is only in the planning stage, but it definitely sounds exciting. Let's see whether it eventually becomes a successful trip or remains another one of those ideas that never leave the group chat.
+
+## Evening
+
+Nikhil left for home earlier than usual today.
+
+For evening snacks, we had:
+
+- Pasta
+- Uttapam
+
+After work, instead of heading straight home, **Ayush** and I decided to do something different and explore Delhi using the metro network.
+
+We boarded the metro from **Cyber City, Gurugram**, traveled to **Sikanderpur Junction**, and from there continued towards **Chandni Chowk**, one of the most iconic and historic areas of Delhi.
+
+The metro journey itself was an experience. Being a Friday evening, the stations and trains were packed with people, giving us a glimpse into the energy and pace of life in Delhi.
+
+## Delhi Exploration
+
+Our primary destination was the famous **Parathe Wali Gali**, a historic food street known for serving parathas for over a century.
+
+:contentReference[oaicite:0]{index=0}
+
+The place has been operating since the late 19th century and carries a rich culinary legacy. Walking through the narrow lanes, seeing the old shops, crowded streets, and vibrant atmosphere felt like stepping into a different era of Delhi.
+
+We ordered **Paneer Parathas** served with sabzi and chutney.
+
+To be honest, the food was just **okay-ish** in my opinion. It wasn't bad, but considering the reputation and popularity of the place, I expected something more memorable. It also felt a little overpriced for what was offered.
+
+Still, the experience was much bigger than the food itself. Exploring the historic streets, observing the Friday night crowd, and experiencing the atmosphere of Old Delhi made the visit worthwhile.
+
+## Night
+
+After spending some time wandering around Chandni Chowk, we started our return journey.
+
+At around **9:30 PM**, we boarded the metro from Chandni Chowk and eventually reached home at around **11:00 PM**.
+
+Overall, it turned out to be a very enjoyable exploration trip. We got to experience:
+
+- Delhi Metro during peak Friday evening hours
+- The bustling atmosphere of Chandni Chowk
+- The historic charm of Old Delhi
+- The legacy of Parathe Wali Gali
+- A completely different side of the city than our usual office-home routine
+
+After reaching home, I called my family and shared the highlights of the day.
+
+Later, I talked with *her* over a call for quite some time. We discussed the Delhi trip, weekend travel ideas, and everything else that had happened during the day.
+
+It was a refreshing end to the work week—part learning, part exploration, and part adventure.
+
+**Day Ended.**
+
+---
