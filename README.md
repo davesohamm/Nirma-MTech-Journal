@@ -1068,3 +1068,186 @@ And perhaps most importantly, it reinforced another valuable lesson:
 ---
 
 
+# 17 June 2026 (Wednesday) - Day 246
+
+## Morning
+
+Reached the office around **10:15 AM**, had breakfast, and set up my workstation for the day.
+
+Shortly after settling in, I joined the regular Scrum discussion with **Rajat Bhaiya**, where we reviewed the current project status, discussed pending tasks, and planned the work for the day.
+
+The morning was relatively calm compared to the previous few days. There were no major feature implementations or urgent fixes pending, so I spent some time organizing my work and preparing for the tasks that were assigned later in the day.
+
+## Afternoon
+
+Lunch today was quite enjoyable and included:
+
+- Japanese Tempura Vegetables
+- Gulab Jamun
+
+After lunch, I returned to my desk and started working on two important documentation tasks.
+
+The team needed:
+
+1. A detailed **Cost Estimation Document**
+2. A complete **AWS EC2 Deployment Guide**
+
+I spent the majority of the afternoon researching, compiling information, structuring the content, and documenting everything in a clear and professional manner.
+
+The cost estimation document focused on understanding the infrastructure requirements and estimating the expenses associated with running the project in a production environment.
+
+The deployment guide covered the necessary steps for hosting and running the application on an **AWS EC2 instance**, including environment setup, deployment considerations, and operational requirements.
+
+Although documentation work is very different from coding, it is equally important. A well-written document can save hours of confusion and onboarding effort later.
+
+By the end of the day, both documents were completed and sent to **Rajat Bhaiya** for review and feedback.
+
+## Evening
+
+For evening snacks, we had:
+
+- Medu Vada
+- Idli Sambhar
+
+Today was slightly different because **Ayush** and **Nikhil** left early.
+
+Since there was no rush, I decided to walk back home instead of taking the usual route. The walk felt refreshing and provided a nice opportunity to unwind after spending most of the day working on documentation and planning activities.
+
+## Night
+
+After reaching home, I freshened up and completed the usual daily chores.
+
+Later, I called my family and spent some time talking with everyone.
+
+I also talked with *her* over a call and shared the highlights of the day.
+
+Before ending the night, I solved **one LeetCode problem**, maintaining my daily coding consistency.
+
+Overall, today was a quieter and more documentation-focused day compared to the intense development work of previous weeks. While there wasn't much coding involved, creating deployment and cost estimation documents provided a better understanding of the production side of software engineering and the practical considerations involved in taking a project beyond development.
+
+**Day Ended.**
+
+---
+
+
+# 18 June 2026 (Thursday) - Day 247
+
+## Morning
+
+Reached the office around **10:00 AM**, had breakfast, and logged in to my laptop to begin the day.
+
+The first thing I noticed was the notifications regarding the project's demo meeting. There was a sense of anticipation because this was an opportunity to showcase the work our team had been putting together over the past few weeks.
+
+From **10:30 AM to 11:00 AM**, we had the **QA AI Agent Orchestrator Platform** demo with our **Senior Vice President, Anurag Sharma**.
+
+The meeting went extremely well.
+
+The platform, the approach, and the overall direction of the project were appreciated, and it was encouraging to see positive feedback coming from senior leadership. Seeing the work receive recognition at that level felt rewarding, especially considering the amount of effort that had gone into improving the architecture, optimizing performance, and refining the overall experience.
+
+After the successful meeting, we returned to our workstations feeling motivated and satisfied.
+
+## A Surprising Opportunity
+
+Shortly afterward, something happened that genuinely surprised me.
+
+Both **Rajat Bhaiya** and **Kumar Kunal** mentioned that they were impressed by my **prompting skills**, the way I interact with AI systems, and the results I have been able to achieve through prompt engineering and optimization techniques.
+
+Because of this, they have arranged a **Prompt Engineering Session for the entire department**, and I have been asked to conduct it.
+
+For a few moments, I genuinely didn't know how to react.
+
+I felt surprised.
+
+I felt honored.
+
+I felt proud.
+
+And I also felt a sense of responsibility.
+
+Just a few weeks ago, I was joining the project and learning its architecture. Today, I have been given the opportunity to teach and share knowledge with people across the department.
+
+It is a moment I do not want to take for granted.
+
+I have decided that I will prepare thoroughly for the session and give it my absolute best.
+
+## Afternoon
+
+Lunch today was delicious and included:
+
+- Japanese Udon Bowl
+- Brownie
+- Roti
+- Palak Paneer
+- Dal Rice
+
+After lunch, **Rajat Bhaiya** shared a Notion document with me that explained how to deploy the project into an **AWS test environment** using **LocalStack** for practice purposes.
+
+I followed the document step-by-step and performed all the deployment-related tasks myself. It was a valuable hands-on learning experience because it provided practical exposure to the deployment side of the project rather than just development.
+
+Understanding how a project moves from local development to a deployed environment is an important part of becoming a better engineer, and today's exercise helped reinforce that understanding.
+
+## Architecture Discussions
+
+Later in the day, I had a discussion with **Rajat Bhaiya** and **Anmol Bhaiya** regarding:
+
+- RAG (Retrieval-Augmented Generation)
+- Vector Databases
+- ADK-based implementations
+- Long-term conversational memory
+- Context management strategies
+
+The discussion was extremely insightful.
+
+One of the most interesting suggestions from Anmol Bhaiya was the idea of implementing a **persistent chat database** that could maintain conversational history across sessions.
+
+We also discussed approaches for:
+
+- Extending context throughout longer conversations
+- Improving memory retention
+- Making interactions more personalized
+- Enhancing overall user experience through persistent context
+
+These ideas opened up several possibilities for future improvements in the platform.
+
+## Evening
+
+After the technical discussions, I spent a little time relaxing and watching some Himalayan travel videos.
+
+Those mountains never fail to create a sense of peace and curiosity about future adventures.
+
+For evening snacks, we had:
+
+- Vada Pav
+- Poha
+
+After snacks, I decided to walk back home.
+
+During the walk, I talked with *her* over a call, which made the journey feel much shorter and more enjoyable.
+
+## Night
+
+After reaching home, I completed my daily chores and routine tasks.
+
+Later, I talked with my family over a call and spent some time catching up with everyone.
+
+I also spoke with *her* again later in the evening.
+
+Before ending the day, I solved **one LeetCode problem**, maintaining my daily consistency.
+
+Overall, today was one of those days that felt both rewarding and motivating.
+
+The successful project demo, positive feedback from senior leadership, learning deployment practices, architectural discussions, and the opportunity to conduct a Prompt Engineering session for the department made the day memorable.
+
+If there is one thing I want to remember from today, it is this:
+
+> Opportunities often arrive quietly.
+>
+> Sometimes they come disguised as responsibility.
+>
+> And sometimes they remind you how far you have come in a very short amount of time.
+
+**Day Ended.**
+
+
+---
+
