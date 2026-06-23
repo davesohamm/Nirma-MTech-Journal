@@ -1476,3 +1476,136 @@ The work is gradually becoming more refined, and with every iteration, the path 
 ---
 
 
+# 23 June 2026 (Tuesday) - Day 250
+
+## Morning
+
+Reached the office around **10:00 AM** and started the day with breakfast consisting of **muesli with milk** and a **peanut butter sandwich**.
+
+After breakfast, I set up my workstation and began work at around **10:40 AM**.
+
+The day started with a Scrum call involving **Rajat Bhaiya** and **Ankit Sir**. One of the major updates discussed was the successful deployment of the **Commenter Bot**, which automatically comments on specific JIRA issues and their linked stories with generated:
+
+- Impact Analysis
+- Relevant Test Cases
+- Story-wise testing recommendations
+
+It felt good to see the feature move from an idea into an actual deployed implementation.
+
+However, soon after deployment, we received feedback from **Namrata Mishra** regarding the quality of the generated test cases.
+
+According to her observations, our current test case coverage was only around **20–25%** when compared to manually generated test cases. To help us understand the gap, she also shared some of the tester-generated test cases for comparison.
+
+This immediately became the highest-priority task of the day.
+
+## Investigation & Root Cause Analysis
+
+We began comparing our generated outputs with the manually prepared test cases and quickly started identifying differences.
+
+After a detailed analysis, we discovered one of the major issues:
+
+The system was **not fetching enough knowledge base information from the primary repository**, which meant the generated impact analysis and test cases lacked sufficient context.
+
+Because the knowledge retrieval was incomplete, the model simply did not have enough information to generate comprehensive coverage.
+
+Once we identified the root cause, we immediately started working on improving the knowledge retrieval pipeline.
+
+After implementing the required changes, we began testing again.
+
+The issue is not fully resolved yet and still requires additional validation, but the improvements already look promising.
+
+## Afternoon
+
+Lunch today included:
+
+- Dum Aloo
+- Chapati
+- Dal Chawal
+- Chocolate Chips Ice Cream
+
+After lunch, we continued focusing on the test coverage problem.
+
+While working on the retrieval improvements, we discovered another challenge.
+
+The system was now pulling more than **3 lakh token characters** from various knowledge base input files.
+
+Although this improved context quality, it introduced a new problem:
+
+The context window became excessively large and inefficient.
+
+We discussed the situation with **Ankit Sir**, and he suggested implementing a **context compaction strategy** to reduce unnecessary information while preserving important knowledge.
+
+The idea was to compress and optimize the retrieved context before passing it downstream.
+
+I spent the remainder of the afternoon implementing this optimization and refining the retrieval pipeline.
+
+By evening, the compaction mechanism was largely in place.
+
+## Current Challenge
+
+Although the knowledge retrieval improvements significantly increased coverage, they also exposed another issue.
+
+The generated results have become **too granular**.
+
+For example:
+
+- Manual tester coverage: approximately **69 test cases**
+- Agentic system output: approximately **700+ test cases**
+
+From one perspective, this means the system is identifying far more scenarios and edge cases.
+
+However, from a practical QA standpoint, generating ten times more test cases is not necessarily useful.
+
+Many of the generated cases are:
+
+- Highly repetitive
+- Extremely fine-grained
+- Difficult to manage
+- Not aligned with how human testers structure coverage
+
+The next challenge is no longer increasing quantity.
+
+The challenge is improving **quality, relevance, prioritization, and meaningful coverage**.
+
+Finding the balance between completeness and usability will likely be the primary focus of upcoming work.
+
+## Evening
+
+I continued working on the test coverage improvements until around **6:20 PM**.
+
+Although the problem is not completely solved yet, the day resulted in significant progress and a much clearer understanding of the underlying challenges.
+
+After work, I decided to walk back home.
+
+During the walk, I talked with *her* over a call, which made the journey much more enjoyable after a long day of debugging, testing, and optimization.
+
+## Night
+
+After reaching home, I freshened up and completed my daily chores.
+
+Later, I talked with my family over a call and spent some time catching up with everyone.
+
+I also solved **one LeetCode problem**, continuing my daily coding streak.
+
+Today felt like a classic engineering day:
+
+- Build something.
+- Receive feedback.
+- Discover hidden problems.
+- Investigate root causes.
+- Improve the system.
+- Discover new problems.
+- Improve it again.
+
+Progress wasn't measured by completing the task today.
+
+It was measured by understanding the problem better than yesterday.
+
+And today, we definitely moved one step closer to the solution.
+
+**Day Ended.**
+
+
+---
+
+
