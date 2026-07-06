@@ -383,3 +383,264 @@ The day ended on a balanced note with a walk back home, conversations with famil
 Overall, it was a long but highly productive Friday filled with **demonstration, technical discussions, documentation, development, collaboration, and steady progress**.
 
 ---
+
+
+**Date:** 6 July 2026, Monday
+**Day:** 259
+
+---
+
+# 🌅 Morning
+
+Reached the office around **9:50 AM** and started the day with breakfast:
+
+* Cornflakes with milk
+* Peanut butter sandwich
+
+After breakfast, I headed to my workstation, set everything up, and prepared for the day.
+
+We then had our daily **scrum meeting with Rajat Bhaiya**. Since I had completed **5 out of the 14 action items** identified during Friday's Agentic QA System demonstration, I walked him through each of the completed tasks and demonstrated the changes.
+
+We reviewed the improvements one by one and discussed the current state of the remaining tasks.
+
+---
+
+# 🧠 Deep Dive into Prompt Efficiency
+
+After the scrum meeting, Rajat Bhaiya and I had a detailed technical discussion about **prompt efficiency** and improving the way our Agentic QA System uses its Knowledge Base.
+
+One of the major questions we explored was:
+
+> How can we map our actual Knowledge Base to identify API-level impact and eventually generate better and more relevant test cases?
+
+This led to a deep exploration of different strategies and architectural approaches.
+
+The challenge is not simply to retrieve more information. The real goal is to retrieve the **right information** and understand how different pieces of the Knowledge Base are connected to the JIRA story being analyzed.
+
+We explored multiple possible strategies and architectures for:
+
+* Mapping Knowledge Base content to impacted APIs
+* Identifying relevant project files
+* Tracing dependencies between different components
+* Reducing unnecessary information in the LLM context window
+* Improving the connection between retrieved knowledge and generated test cases
+* Increasing test-case relevance and overall coverage
+
+After discussing the possible approaches, we moved from exploration to implementation.
+
+We used **Cursor** to generate multiple development plans for the proposed architecture. Instead of immediately implementing the first suggestion, we carefully reviewed and compared the different plans.
+
+After evaluating the approaches, we selected one strategy and started working on its implementation.
+
+We continued this work until around **12:00 PM**.
+
+---
+
+# 👥 Daily Team Meeting
+
+At noon, we had our daily team meeting with **Kumar Kunal**, where we shared the latest progress of the Agentic QA System.
+
+We provided updates about:
+
+* The completed action items
+* The ongoing prompt-efficiency work
+* The improvements being explored for Knowledge Base retrieval
+* The current state of the project
+
+During the discussion, Kumar Kunal suggested a few additional improvements.
+
+Most of these suggestions were related to the **frontend and user experience** of the system. Immediately after the meeting, we started working on those improvements and addressing the newly suggested points.
+
+---
+
+# 🌐 Core Broadband Router Discussion
+
+During the day, we also had a technical discussion with **Shobhit Bhaiya** about **Core Broadband Router configuration**.
+
+The discussion went into lower-level networking concepts, particularly around:
+
+* Router configuration
+* Hardware-level packet tracing
+* Understanding how packets flow through the system
+
+It was interesting to explore a topic closer to the networking and hardware layers, especially alongside our ongoing AI and software development work.
+
+---
+
+# 🍽️ Lunch
+
+Later, we went for lunch.
+
+Today's menu included:
+
+* Malai Kofta
+* Chapati
+* Dal Makhani
+* Pulao
+* Kebabs
+* Gulab Jamun
+* Salad
+
+It was a satisfying lunch before returning to another technically packed afternoon.
+
+---
+
+# 💻 Returning to Prompt Efficiency
+
+After lunch, we returned to our work on **prompt efficiency** and Knowledge Base optimization.
+
+However, while we were working, we received a call from **Ankit Sir**, asking us to join him for a discussion in the **5th-floor conference room**.
+
+We paused our current work and joined the meeting.
+
+---
+
+# 🏢 AI Infrastructure & Agile Stand-up Discussion
+
+We remained in the conference room until approximately **4:00 PM**.
+
+The discussion was centered around their **AI Infrastructure Agentic Framework**.
+
+Apart from the technical discussion, the meeting also gave me an opportunity to observe how actual **Agile stand-up meetings** are conducted in a larger and more practical team environment.
+
+It was useful to see how different team members:
+
+* Shared their progress
+* Discussed blockers
+* Coordinated dependencies
+* Exchanged technical context
+* Planned the next steps
+
+The session gave me a better understanding of how real-world Agile collaboration works beyond just theoretical concepts.
+
+---
+
+# 🔗 PageIndex, Context Linking & Advanced Retrieval
+
+From approximately **4:00 PM to 5:30 PM**, Rajat Bhaiya and I had another deep technical discussion.
+
+This time, the primary topic was **PageIndex** and how we could improve the linking and retrieval of information within our Agentic QA System.
+
+The central problem we were trying to solve was:
+
+> How can we keep only the truly relevant files inside the LLM context window while ignoring everything that does not contribute to the current task?
+
+Currently, simply providing more files does not necessarily produce better results. In fact, irrelevant information can increase token usage, reduce prompt efficiency, and distract the LLM from the information that actually matters.
+
+We explored how better data linking could help the system understand relationships between:
+
+* JIRA stories
+* APIs
+* Source-code files
+* Knowledge documents
+* README files
+* Wiki pages
+* Related project components
+* Generated test cases
+
+The discussion gradually led us toward more advanced retrieval architectures, particularly:
+
+* **Vector Databases**
+* **Graph RAG**
+* Better semantic linking between related data
+* Dependency-aware retrieval
+* Relevance-based context construction
+
+These approaches could potentially help us build a smarter Knowledge Base where the system does not simply search for similar text but also understands how different pieces of information are connected.
+
+---
+
+# 🧪 Improving Test Case Generation
+
+Until around **5:30 PM**, Rajat Bhaiya and I continued experimenting with the test-case generation workflow.
+
+We tried multiple tweaks to improve the quality and coverage of the generated test cases.
+
+One important limitation we identified was that, until now, our agent was **not fetching the contents of Wiki links** referenced in the available project context.
+
+Today, we implemented support for fetching and using information from those Wiki links.
+
+This was an important improvement because Wiki pages can contain valuable information such as:
+
+* Architecture details
+* Feature behavior
+* API documentation
+* Business rules
+* Technical constraints
+* Implementation-specific knowledge
+
+However, even after adding Wiki retrieval and experimenting with additional tweaks, we still did not see a major improvement in overall **test-case coverage**.
+
+The results were better informed, but the expected jump in coverage was still missing.
+
+This made it clear that the core problem likely requires a deeper architectural solution rather than only adding more sources of information.
+
+---
+
+# ☕ Evening Snacks
+
+Later in the evening, we went for snacks.
+
+Today's snacks included:
+
+* Sprouts cutlets
+* Sandwiches
+* Bourbon biscuits
+
+After wrapping up the day's work, we booked a cab and headed home.
+
+I reached home around **7:00 PM**.
+
+---
+
+# 🏠 Night
+
+After reaching home, I completed my usual daily chores.
+
+I maintained my coding consistency by solving **one LeetCode problem**.
+
+Later, I talked to my family over a call and spent some time catching up with them.
+
+I also talked to **her** over a call.
+
+After completing everything for the day, I finally wrapped up and called it a day.
+
+---
+
+# 📌 Highlights of the Day
+
+* Demonstrated the **5 completed tasks out of 14** to Rajat Bhaiya.
+* Had a deep technical discussion on **prompt efficiency**.
+* Explored how to map the Knowledge Base to identify **API-level impact** and improve test-case generation.
+* Designed and reviewed multiple architectural plans using Cursor.
+* Started implementing the selected architecture.
+* Shared project updates with Kumar Kunal during the daily team meeting.
+* Worked on additional frontend improvements suggested during the meeting.
+* Discussed **Core Broadband Router configuration** and **hardware-level packet tracing** with Shobhit Bhaiya.
+* Participated in a discussion about an **AI Infrastructure Agentic Framework**.
+* Observed how real-world Agile stand-up meetings are conducted.
+* Explored **PageIndex** for better data linking and context management.
+* Investigated **Vector Database** and **Graph RAG** approaches.
+* Implemented support for fetching information from **Wiki links**.
+* Continued experimenting with improvements to test-case generation and coverage.
+* Solved **1 LeetCode problem**.
+* Talked to my family and **her** over calls.
+
+---
+
+# 💭 Reflection
+
+Today was one of the most technically exploratory days in recent weeks.
+
+A major theme throughout the day was understanding that improving an AI system is not simply about giving the LLM more information. The real challenge is identifying, connecting, and retrieving the **right information at the right time**.
+
+Our discussions around prompt efficiency, API-level impact analysis, PageIndex, Vector Databases, and Graph RAG all pointed toward the same fundamental problem: **context quality matters more than context quantity**.
+
+Implementing Wiki-link retrieval was another useful step forward, although the limited improvement in test-case coverage showed that adding another data source alone is not enough. The system needs a better understanding of relationships between JIRA requirements, APIs, code, documentation, and potential test scenarios.
+
+The discussions around the AI Infrastructure Agentic Framework and observing a real Agile stand-up also added another dimension to the day. Alongside technical development, I gained a better understanding of how larger engineering teams communicate, coordinate, and solve problems collaboratively.
+
+Overall, it was a productive Monday filled with **architecture discussions, prompt optimization, retrieval experiments, networking concepts, implementation work, and continuous learning**.
+
+
+---
