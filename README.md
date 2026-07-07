@@ -644,3 +644,262 @@ Overall, it was a productive Monday filled with **architecture discussions, prom
 
 
 ---
+
+
+**Date:** 7 July 2026, Tuesday
+**Day:** 260
+
+---
+
+# 🌅 Morning
+
+Reached the office around **9:45 AM** and started the day with breakfast:
+
+* Muesli with milk
+* Peanut butter sandwich
+
+After breakfast, I headed to my workstation and finished setting everything up by approximately **10:15 AM**.
+
+Once the workstation was ready, I started working.
+
+---
+
+# 👥 Daily Scrum & Feature Branch Review
+
+The first meeting of the day was the daily **scrum meeting with Rajat Bhaiya**.
+
+The main topic of discussion was the new feature branch that I had created. Rajat Bhaiya had already tested the branch, so we went through the implementation, discussed the changes, and reviewed the points that were still pending.
+
+The good news was that the branch had passed his testing and was **approved**.
+
+After that, we discussed the remaining improvements from the **14 action items** that we had documented after our previous Agentic QA System demonstration.
+
+With the feature branch approved, I continued implementing the remaining action items one by one.
+
+---
+
+# 💻 Completing the Demo Action Items
+
+I spent the rest of the morning applying more improvements from the original list of **14 points**.
+
+The work included addressing pending bugs, refining existing functionality, and incorporating the suggestions that had come from the previous demonstration meeting.
+
+By approximately **11:35 AM**, I had completed almost all of them.
+
+Only **3 out of the original 14 points** were still remaining.
+
+The remaining tasks were primarily related to:
+
+* PPT generation
+* Prompt improvements
+* Further refinement of the prompt-related workflow
+
+Reaching this stage felt satisfying because most of the feedback from the previous demonstration had now been converted into actual working improvements.
+
+---
+
+# 🕸️ Discovering Graphify
+
+Later in the morning, **Ankit Sir** shared an interesting framework with me called **Graphify**.
+
+Graphify is designed to help build a **Graph RAG system directly over a codebase**, allowing the system to understand and query relationships within the code.
+
+Since we had already been exploring:
+
+* Knowledge Base linking
+* PageIndex
+* Vector Databases
+* Graph RAG
+* API-level impact analysis
+* Better context retrieval
+
+the framework was highly relevant to our current problem.
+
+I spent some time exploring the Graphify repository and reading through its documentation. I also read several blogs to better understand:
+
+* How it creates a graph representation of a codebase
+* How relationships between code components are identified
+* How the graph can be queried
+* How it could potentially improve code-aware retrieval
+* Whether it could help our Agentic QA System identify impacted APIs and relevant files
+
+The exploration gave me another possible direction for improving the Knowledge Base and retrieval architecture of our system.
+
+---
+
+# 🍽️ Lunch
+
+Later, we went for lunch.
+
+Today's menu included:
+
+* Palak Paneer
+* Chapati
+* Dal Chawal
+* Mango-Orange Juice
+* Papad
+* Salad
+* Veg Barbecue
+
+After lunch, we returned for another team meeting.
+
+---
+
+# 🏢 DSM Meeting with the AI Infrastructure Team
+
+After lunch, we attended a **DSM meeting with Ankit Sir and the team**.
+
+During the meeting, Ankit Sir formally introduced us interns to the **AI Infrastructure team**.
+
+It was another useful opportunity to observe how sprint and daily team meetings are handled in a real engineering environment.
+
+We observed:
+
+* How team members share their progress
+* How sprint tasks are tracked
+* How blockers are discussed
+* How technical dependencies are coordinated
+* How work is divided across the team
+
+Ankit Sir also distributed a few **micro-tasks** among us interns, giving us an opportunity to contribute to smaller tasks alongside our primary project work.
+
+---
+
+# 🧪 Testing the Latest Agentic QA Branch
+
+After the meeting, Rajat Bhaiya and I returned to our Agentic QA System and tested the latest branch together.
+
+We generated test cases using the newest version of the workflow and observed the system's behavior.
+
+One noticeable change is that the complete test-case generation process has now become significantly more time-consuming.
+
+With every improvement iteration, we have added more useful context to the agents. The system now processes information from multiple sources and handles a much larger amount of data than before.
+
+As a result, the agents have more information available for reasoning, but the overall execution time has also increased.
+
+This creates an important engineering trade-off:
+
+> More context can improve understanding, but it also increases processing time and system complexity.
+
+We will eventually need to find the right balance between:
+
+* Context quality
+* Context quantity
+* Test-case coverage
+* Execution time
+* Token usage
+* Overall system efficiency
+
+After completing the testing, I pushed all my feature branches.
+
+I also created and pushed one final consolidated branch containing all the latest code and ensuring that the complete system was working properly.
+
+---
+
+# 🎱 Playing Pool for the First Time
+
+From approximately **5:30 PM to 6:15 PM**, we went to the **5th floor** to play pool.
+
+This was actually the **first time in my life that I played pool**.
+
+I had never played it before, so learning how to aim, control the cue, and understand the basic flow of the game was a completely new experience.
+
+And it was fun!
+
+After a long day of coding, meetings, testing, and technical discussions, playing pool was a refreshing break.
+
+---
+
+# ☕ Evening Snacks
+
+After playing pool, we went for evening snacks.
+
+Today's snacks included:
+
+* Paneer Kulcha
+* Quinoa Fried Rice
+* Biscuits
+
+After snacks, we planned to leave for home.
+
+---
+
+# 🌧️ Rain, Research Paper & Waiting for a Cab
+
+However, the weather had other plans.
+
+Due to **heavy rain**, we were unable to book a cab online.
+
+Since there was no immediate way to leave, we sat in the cafeteria and waited for the situation to improve.
+
+Instead of wasting the time, I opened my academic work and continued working on my **research paper for Nirma University**.
+
+While waiting for the cab, I successfully completed the work for **Draft 4 of my research paper**.
+
+What could have been unproductive waiting time turned into useful progress on my academic work.
+
+---
+
+# 🚕 Journey Back Home
+
+While I was still waiting in the cafeteria, **she called me**.
+
+I started talking to her over the call, and shortly afterward, our cab finally arrived.
+
+I continued talking to her during the cab ride as well.
+
+After the long wait caused by the rain, I finally reached home around **7:50 PM**.
+
+---
+
+# 🏠 Night
+
+After reaching home, I maintained my coding consistency by solving **one LeetCode problem**.
+
+I then completed my usual daily chores.
+
+Later, I talked to my family over a call and spent some time catching up with them.
+
+I also spent some time with **her** before finally wrapping up the day.
+
+After another productive and eventful day, I called it a day.
+
+---
+
+# 📌 Highlights of the Day
+
+* Reached the office around **9:45 AM**.
+* Got my latest feature branch tested and approved by Rajat Bhaiya.
+* Completed almost all of the original **14 demo action items**.
+* Reduced the remaining list to only **3 tasks**, mainly related to PPT generation and prompt improvements.
+* Explored **Graphify** as a potential framework for building Graph RAG over a codebase.
+* Read Graphify's repository, documentation, and related blogs.
+* Attended a DSM meeting with the AI Infrastructure team.
+* Observed how sprint meetings and task distribution are handled.
+* Received micro-tasks along with the other interns.
+* Tested the latest Agentic QA System branch with Rajat Bhaiya.
+* Observed the increasing execution-time cost of adding more context to the agents.
+* Pushed all feature branches.
+* Created a consolidated branch containing the latest stable and working code.
+* Played **pool for the first time in my life**.
+* Completed **Draft 4 of my Nirma University research paper** while waiting for a cab.
+* Solved **1 LeetCode problem**.
+* Talked to my family and spent time with **her**.
+
+---
+
+# 💭 Reflection
+
+Today felt like a day of both completion and exploration.
+
+On one side, most of the 14 action items from our previous demonstration have now been implemented, leaving only three major areas to address. Getting my feature branch tested and approved was also a positive milestone.
+
+On the other side, exploring Graphify opened another possible direction for solving one of the biggest challenges in our Agentic QA System: understanding relationships inside a large codebase and retrieving only the information that truly matters.
+
+The testing session also highlighted an increasingly important problem. As our system becomes smarter and receives more context, it also becomes slower. The next stage of improvement cannot simply be about adding more data. We need to make the system more selective and efficient so that it can achieve better test-case coverage without unnecessarily increasing execution time and context-window usage.
+
+Beyond work, the day had several memorable moments. I played pool for the first time, completed Draft 4 of my research paper while waiting because of the heavy rain, maintained my LeetCode consistency, and ended the day spending time with the people who matter to me.
+
+Overall, it was a productive Tuesday filled with **development, technical exploration, system testing, new experiences, academic progress, and meaningful conversations**.
+
+ ---
