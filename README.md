@@ -903,3 +903,176 @@ Beyond work, the day had several memorable moments. I played pool for the first 
 Overall, it was a productive Tuesday filled with **development, technical exploration, system testing, new experiences, academic progress, and meaningful conversations**.
 
  ---
+
+
+**Date:** 8 July 2026, Wednesday
+**Day:** 261
+
+---
+
+# 🌅 Morning
+
+Reached the office around **9:50 AM** and started the day with breakfast.
+
+After breakfast, I headed to my workstation, set everything up, and prepared for the day's work.
+
+Today had a very clear focus. Most of my work revolved around the **three remaining action items out of the original 14 points** that we had documented after our Agentic QA System demonstration.
+
+Over the past few days, I had gradually completed almost all the technical improvements and feedback points. Now, only three tasks remained, and most of them were related to the **presentation and demonstration of the project**.
+
+---
+
+# 👥 Daily Scrum & Presentation Discussion
+
+We had our daily **scrum meeting with Rajat Bhaiya**, where we discussed the remaining tasks and the presentation that needed to be prepared for the project.
+
+Since most of the core development and feature-related action items had already been completed, today's priority was to make sure that the project could also be presented clearly and effectively.
+
+We discussed what the presentation should cover, how the system should be explained, and how the overall flow of the Agentic QA System could be communicated to someone seeing the project for the first time.
+
+The goal was not simply to create slides, but to build a presentation that was actually **demo-ready**.
+
+---
+
+# 📊 Building the Demo-Ready Project Presentation
+
+I spent a major portion of the day working on the presentation for our **Agentic QA System**.
+
+The project has grown considerably over time. It now includes multiple agents, several LLM calls, different retrieval mechanisms, context-management strategies, compaction approaches, monitoring dashboards, and test-case generation workflows.
+
+Because of this, presenting the system in a simple and structured way required careful thought.
+
+I worked on organizing the project into a clear story that could explain:
+
+* The problem we are trying to solve
+* Why an Agentic QA System is needed
+* The overall architecture of the system
+* How the orchestrator coordinates the workflow
+* The role of different specialized agents
+* How information is retrieved from different sources
+* How the Knowledge Base contributes to the workflow
+* How context is managed across LLM calls
+* How test cases are generated
+* The improvements made during recent iterations
+* The current capabilities of the system
+
+By the end of the work, I had created a **demo-ready presentation** for the project.
+
+This was an important milestone because the system was now not only technically functional but also better prepared to be explained and demonstrated to a wider audience.
+
+---
+
+# 🍽️ Lunch
+
+Later, we went for lunch and took a break from the morning's work.
+
+After lunch, we returned for another technical and learning-focused session.
+
+---
+
+# 🏢 DSM with the Agentic AI Team
+
+After lunch, I attended the **DSM meeting of Ankit Sir's Agentic AI team**.
+
+These meetings have been useful because they allow us to observe how another team working on agentic systems approaches architecture, infrastructure, retrieval, and task execution.
+
+During today's discussion, we learned about two particularly interesting concepts:
+
+* **Google's OKF**
+* **PageIndex**
+
+The discussion gave us a better understanding of how modern AI systems can organize, retrieve, and connect information more intelligently.
+
+This was especially relevant to our own work because we have been actively exploring ways to improve:
+
+* Knowledge Base retrieval
+* Context relevance
+* Data linking
+* Prompt efficiency
+* Codebase understanding
+* Test-case generation quality
+
+The discussion around PageIndex connected directly with our recent exploration of Graph RAG, Vector Databases, and better methods for keeping only relevant information inside the LLM context window.
+
+---
+
+# 💻 LeetCode Practice
+
+During the office day, I also found some time to solve **one LeetCode problem**.
+
+Maintaining consistency with problem-solving practice alongside internship work and research has become an important part of my routine.
+
+Another problem solved. Another day of consistency maintained.
+
+---
+
+# 📄 Research Paper Progress
+
+I also made progress on my academic work today.
+
+Yesterday, while waiting for a cab because of the heavy rain, I had completed **Draft 4 of my research paper** for Nirma University.
+
+Today, after reviewing the draft, I sent **Draft 4** to **Priti Ma'am**, my internal guide, via email.
+
+Submitting the updated draft marked another important step in the research-paper process. Now, I can wait for her feedback and use it to further improve the paper in the next revision.
+
+Balancing internship work, the Agentic QA project, LeetCode practice, and academic research can sometimes be challenging, but it felt good to make progress across all of them today.
+
+---
+
+# 🚕 Journey Back Home
+
+After completing the day's work, we left the office and headed home.
+
+I reached home around **7:00 PM**.
+
+---
+
+# 🏠 Night
+
+After reaching home, we had dinner.
+
+Later, I talked to my family over a call and spent some time catching up with them.
+
+I also talked to **her** over a call.
+
+Afterward, I completed some of my usual daily chores and gradually wrapped up everything for the night.
+
+With another productive day completed, I finally called it a day.
+
+---
+
+# 📌 Highlights of the Day
+
+* Reached the office around **9:50 AM**.
+* Focused on the final **3 remaining action items out of the original 14**.
+* Had a scrum meeting with Rajat Bhaiya to discuss the project presentation.
+* Created a **demo-ready PPT** for the Agentic QA System.
+* Structured the project's architecture, workflow, capabilities, and progress into a clear presentation.
+* Attended the DSM meeting of Ankit Sir's Agentic AI team.
+* Learned about **Google's OKF** and **PageIndex**.
+* Connected these concepts with our ongoing work on retrieval, context management, and Knowledge Base optimization.
+* Solved **1 LeetCode problem** in the office.
+* Sent **Draft 4 of my research paper** to Priti Ma'am, my internal guide.
+* Reached home around **7:00 PM**.
+* Talked to my family and **her** over calls.
+* Completed my daily chores and wrapped up the day.
+
+---
+
+# 💭 Reflection
+
+Today was largely about turning technical work into something that could be communicated effectively.
+
+Over the past several days, I had been focused on implementing the 14 action items identified during our Agentic QA System demonstration. With most of the development work completed, today's focus shifted toward the final presentation-related tasks.
+
+Creating a demo-ready presentation made me look at the project from a different perspective. Building a system and explaining a system are two very different challenges. A technically complex architecture only becomes truly valuable when its purpose, workflow, and impact can be communicated clearly.
+
+The DSM discussion around Google's OKF and PageIndex also continued the larger theme of this week: improving how AI systems organize, retrieve, and reason over large amounts of information. These concepts are closely aligned with the challenges we are currently facing in our own system.
+
+The day also brought progress outside the internship. Solving another LeetCode problem maintained my consistency, while sending Draft 4 of my research paper to Priti Ma'am marked another step forward in my academic work.
+
+Overall, it was a focused and balanced Wednesday filled with **presentation building, technical learning, problem-solving, academic progress, and meaningful conversations**.
+
+
+---
