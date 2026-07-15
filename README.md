@@ -1500,3 +1500,147 @@ Even though things didn't go as planned, I was thankful that we were all togethe
 Overall, it was a day filled with **family, learning, recovery, and a reminder that health should always come first**.
 
 ---
+
+
+**Date:** 14 July 2026, Tuesday
+**Day:** 265
+
+---
+
+# 🌅 Morning
+
+Today, I continued to work from home as I was still recovering from the stomach infection that had started the previous night. Although I was feeling slightly better than yesterday, my body still needed rest, so working remotely was the best option.
+
+In the morning, **Rajat Bhaiya** called me regarding **HGW-2926**. One of the pending tasks involved deleting the unnecessary comments from the JIRA story. I worked on it immediately and completed the task before **11:00 AM**.
+
+Later, during our daily discussions, I also demonstrated the **Graphify** work that I had been exploring. I explained the implementation, what I had learned from experimenting with it, and how it could potentially be useful for our QA AI Agent project, especially in the context of Graph RAG and codebase understanding.
+
+---
+
+# 💻 A Light Workday
+
+Apart from the Graphify discussion and the JIRA cleanup task, there were no additional assignments for me today.
+
+For once, I was actually grateful for having a lighter workload.
+
+My body was still recovering from the previous day's illness, and the extra time allowed me to rest without worrying about pending office work.
+
+Sometimes, slowing down is exactly what the body needs.
+
+---
+
+# ❤️ Grateful for Family
+
+One thing I kept thinking throughout the day was how thankful I was that **Mummy and Papa were here with me**.
+
+When I wasn't feeling well yesterday, they took care of me just like they always have.
+
+Being away from home for months makes you realize how comforting a parent's presence really is. Whether it's simply asking if you've eaten, making sure you're resting, or just being around, their support brings a sense of peace that is difficult to describe.
+
+I genuinely felt lucky that they happened to be here during the days when I needed them the most.
+
+---
+
+# 🏢 A Visit to My Office
+
+Before leaving Gurgaon, there was one thing I really wanted to do.
+
+I took **Mummy and Papa to my office** and showed them around my workplace.
+
+I showed them where I spend most of my weekdays, the environment I work in, and the place where I have been learning, building projects, and growing professionally over the past few months.
+
+Seeing their smiles while they walked through the office was incredibly special.
+
+They looked genuinely happy and proud.
+
+I also took a picture of them there—a memory that I know I will cherish for a very long time.
+
+It wasn't just a photograph.
+
+It felt like a small milestone.
+
+For the first time, I was able to show my parents the place where I have been working hard every day, and seeing the happiness on their faces made me feel an incredible sense of accomplishment.
+
+---
+
+# 🚉 Saying Goodbye
+
+As evening approached, it was finally time for them to begin their journey back home.
+
+We prepared their luggage and headed towards the railway station.
+
+Sitting in the cab with them, I slowly realized that the past four days had gone by so quickly.
+
+It was difficult saying goodbye.
+
+Watching them leave for Ahmedabad made me emotional once again.
+
+After helping them board their train and making sure everything was settled, I stood there for a moment before heading back home.
+
+The journey back felt much quieter than the journey to receive them a few days ago.
+
+---
+
+# 🏠 Returning to an Empty House
+
+After coming back home, everything suddenly felt different.
+
+Just a few hours earlier, the house was filled with conversations, laughter, family meals, and the comforting feeling of having Mummy and Papa around.
+
+Now, it was quiet again.
+
+Even though they had stayed for only **four days**, those few days had completely changed the feeling of this place.
+
+For those four days...
+
+**This house truly felt like home.**
+
+---
+
+# 💻 Daily Consistency
+
+Before ending the day, I continued my daily routine by solving **one LeetCode problem**.
+
+After that, I decided to sleep a little earlier than usual.
+
+Partly because I was still recovering physically...
+
+And partly because I knew the silence of the house would make me miss them even more.
+
+---
+
+# 📌 Highlights of the Day
+
+* Continued working from home while recovering from poor gut health.
+* Completed the **HGW-2926 JIRA comment cleanup** task before 11:00 AM.
+* Demonstrated my **Graphify** implementation and findings during the team's discussion.
+* Had a lighter workday, which helped me focus on recovering.
+* Spent quality time with Mummy and Papa before their departure.
+* Took them to my office and showed them my workplace.
+* Captured a memorable photograph with them at my office.
+* Dropped them at the railway station for their return journey.
+* Solved **1 LeetCode problem**.
+* Slept early to continue recovering.
+
+---
+
+# 💭 Reflection
+
+Today was emotionally heavier than it was technically challenging.
+
+Work was relatively light, and I was thankful for that because it gave me time to recover both physically and mentally. Completing the Graphify discussion and finishing the JIRA cleanup task were the only office responsibilities I had, allowing me to spend the rest of the day with Mummy and Papa before they left.
+
+Taking them to my office became the most memorable moment of the day. Watching them walk through the place where I spend so much of my time and seeing how proud and happy they were is a memory I will always carry with me. That single photograph means much more than just a picture—it represents a chapter of my life that I was finally able to share with them.
+
+Saying goodbye at the railway station wasn't easy. The house feels quieter now, and I already miss having them around.
+
+For just four days, this place wasn't simply the flat where I live.
+
+**It felt like home.**
+
+**I love you, Mummy and Papa.**
+
+**Miss you already. ❤️**
+
+
+---
