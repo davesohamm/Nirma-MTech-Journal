@@ -1644,3 +1644,158 @@ For just four days, this place wasn't simply the flat where I live.
 
 
 ---
+
+
+
+**Date:** 15 July 2026, Wednesday
+**Day:** 266
+
+---
+
+# 🌅 Morning
+
+Woke up around **8:00 AM** and got ready for the office.
+
+I reached the office at approximately **10:20 AM** and started the day with breakfast:
+
+* Cornflakes with milk
+
+After breakfast, I set up my workstation around **10:45 AM** and prepared for the day's work.
+
+Soon after, we had our daily **scrum meeting with Rajat Bhaiya**. During the meeting, I learned that we had an important **demo scheduled at 12:00 PM** with **Saravanan B. K.** The meeting was an opportunity to showcase the progress of our **QA AI Agent** platform and demonstrate the latest improvements we had been working on.
+
+---
+
+# 📊 Preparing for the Demo
+
+Following the scrum meeting, Rajat Bhaiya and I focused entirely on preparing for the upcoming demonstration.
+
+Using the guidance and feedback previously provided by **Kumar Kunal**, we refined our presentation and carefully reviewed the entire demo flow.
+
+We made sure that:
+
+* The presentation clearly explained the motivation behind the QA AI Agent.
+* The architecture and workflow were easy to follow.
+* The sequence of the demonstration was smooth.
+* The latest features and improvements were highlighted.
+* The overall story of the project was coherent and easy for stakeholders to understand.
+
+By the time we finished preparing, we were confident that both the presentation and the live demonstration were ready.
+
+---
+
+# 👥 Demo Meeting with Saravanan B. K.
+
+Around **12:00 PM**, we booked a training room on the **5th floor** and conducted the demonstration.
+
+We showcased the **QA AI Agent** platform, walking through its architecture, workflow, and the recent enhancements made over the past few weeks.
+
+During the discussion, **Saravanan B. K.** asked several technical questions, particularly around our **context compaction strategies** and the algorithms we had been experimenting with.
+
+I answered questions related to:
+
+* Context compaction approaches
+* The reasoning behind our retrieval strategy
+* The differences between various compaction techniques
+* How these optimizations impact the quality of generated test cases
+
+It was a valuable experience to participate actively in a stakeholder discussion rather than simply observing it. Answering technical questions helped strengthen both my understanding of the project and my confidence in explaining complex concepts to others.
+
+Overall, the meeting went well and provided another great learning experience in both technical communication and product demonstration.
+
+---
+
+# 🎱 A Short Break
+
+After the demo, we took a short break and went to play **pool** for some time.
+
+Having recently learned the game, it has become a fun way to unwind between work sessions and spend some relaxed time with the team.
+
+---
+
+# 🍽️ Lunch
+
+For lunch today, I had:
+
+* Kadhi Pakoda
+* Rice
+* Salad
+* One scoop of Vanilla Ice Cream
+
+It was a simple but satisfying meal after the successful demo.
+
+---
+
+# 🤝 Welcoming a New Intern
+
+The afternoon was comparatively relaxed, and I did not have any major development tasks assigned.
+
+Today, a **new intern** joined the team.
+
+Since I had experienced the first-day nervousness myself a few months ago, I introduced myself to him and spent some time talking with him to help him feel comfortable in the new environment.
+
+We had a friendly conversation about the office, the team, and the work culture. It felt good to welcome someone new and hopefully make their first day a little easier.
+
+---
+
+# 💻 Learning & Personal Development
+
+With a relatively free afternoon, I continued my daily learning routine by solving **one LeetCode problem**.
+
+Maintaining this consistency has become an important habit, regardless of how busy or relaxed the workday is.
+
+---
+
+# ☕ Evening
+
+Around **6:00 PM**, we went for evening snacks.
+
+Today's menu included:
+
+* Podi Idli
+* Sandwich
+
+After wrapping up work, I headed home and reached around **7:20 PM**.
+
+---
+
+# 🏠 Night
+
+After reaching home, I completed my usual daily chores.
+
+Later in the evening, I spent a long time talking with **Nikhil** and **Ayush**. It was a nice opportunity to have relaxed conversations outside of regular work discussions.
+
+I also called my family and caught up with them after they had safely returned home from their visit.
+
+After winding down for the day, I went to sleep.
+
+---
+
+# 📌 Highlights of the Day
+
+* Woke up at **8:00 AM** and reached the office around **10:20 AM**.
+* Prepared the QA AI Agent presentation with Rajat Bhaiya based on Kumar Kunal's guidance.
+* Conducted the project demo with **Saravanan B. K.** in the 5th-floor training room.
+* Answered technical questions related to **context compaction algorithms** and retrieval strategies.
+* Gained valuable experience presenting technical concepts to stakeholders.
+* Played pool after the successful demonstration.
+* Had lunch consisting of Kadhi Pakoda, Rice, Salad, and Vanilla Ice Cream.
+* Welcomed a new intern and helped him settle into the team.
+* Solved **1 LeetCode problem**.
+* Enjoyed evening snacks of Podi Idli and Sandwich.
+* Spent time talking with Nikhil, Ayush, and my family.
+
+---
+
+# 💭 Reflection
+
+Today was a rewarding blend of technical work, communication, and mentorship.
+
+The highlight of the day was undoubtedly presenting our **QA AI Agent** to **Saravanan B. K.**. Over the past several weeks, I have spent countless hours working on different aspects of the project—from retrieval strategies and context compaction to test-case generation and system improvements. Being able to explain those concepts and answer technical questions during the demo made me realize how much my understanding has grown throughout the internship.
+
+Another meaningful moment was welcoming the new intern. I still remember how unfamiliar everything felt on my own first day, so taking a few minutes to introduce myself and help someone else feel comfortable was a small gesture that felt worthwhile.
+
+The day ended on a relaxed note with conversations with friends, family, and another LeetCode problem completed. Overall, it was a productive Wednesday filled with **preparation, presentation, learning, collaboration, and giving back in a small way to someone just beginning their internship journey**.
+
+
+---
