@@ -1249,3 +1249,129 @@ Overall, it was a calm Thursday filled with **light work, travel planning, house
 Tomorrow, after two long months, I finally get to see Mummy and Papa again. ❤️
 
 ---
+
+
+**Date:** 10 July 2026, Friday
+**Day:** 263
+
+---
+
+# 🌅 A Morning I Had Been Waiting For
+
+I barely slept throughout the entire night.
+
+The excitement was simply too much because **Mummy and Papa were finally coming to Gurgaon!**
+
+After almost **two months** of staying away from home, I was finally going to meet them again. Every time I looked at the clock, it felt like morning couldn't arrive soon enough.
+
+At around **6:00 AM**, I left for the railway station to receive them.
+
+And finally...
+
+**They were here. ❤️**
+
+The moment I saw them stepping out of the station, I felt an overwhelming wave of happiness and relief. It is difficult to put into words how emotional that moment was. Two months may not sound like a very long time, but when you're away from your family, every week feels much longer.
+
+Seeing them again, talking to them in person, and simply being together after such a long gap made the entire morning incredibly special.
+
+---
+
+# 💻 Work From Home
+
+Since I wanted to spend the day with my parents, I took **Work From Home** today.
+
+After getting home, I logged into my office laptop and completed the necessary work for the day.
+
+The primary task I worked on was creating a **Wiki page** that provided an overview of our **QA AI Agent** project.
+
+The documentation summarized the overall system and acted as a concise reference for the project. It also served as a meaningful work update for the day while keeping me available to spend time with my family.
+
+Once the documentation was completed and my work responsibilities for the day were finished, I logged off and dedicated the rest of the day to my parents.
+
+---
+
+# ❤️ Family Time
+
+The rest of the day was exactly what I had been looking forward to.
+
+There was no rush, no meetings, and no deadlines.
+
+Just quality time with Mummy and Papa.
+
+We spent hours talking about everything that had happened over the past two months. I shared stories from my internship, life in Gurgaon, the projects I had been working on, and all the little experiences that are difficult to explain over phone calls.
+
+We also rested for some time since everyone was tired from the journey.
+
+It felt comforting to simply have them around after such a long time.
+
+Sometimes, the best moments are the simplest ones.
+
+---
+
+# 🎒 Preparing for the Weekend Trip
+
+Since we had already planned a short weekend getaway, we spent part of the evening preparing for our upcoming trip.
+
+We packed our bags, checked our travel essentials, finalized the itinerary, and made sure everything was ready for departure.
+
+The excitement continued because another memorable experience was just a few hours away.
+
+---
+
+# 🍽️ Dinner Together
+
+One of the nicest parts of the day was having dinner together with Mummy and Papa.
+
+After weeks of eating office meals and managing everything independently, sharing a meal with family again felt incredibly comforting.
+
+There is something about eating together at the same table that simply feels like home.
+
+---
+
+# 🚆 Beginning the Journey
+
+As the day came to an end, it was finally time to leave for our long-awaited weekend trip.
+
+Around **11:30 PM** on Friday night, we left Gurgaon and started our journey towards **Haridwar and Rishikesh** for a two-day family trip.
+
+The excitement of the upcoming pilgrimage and sightseeing, combined with finally being with my parents again, made the journey even more special.
+
+---
+
+# 💻 Daily Consistency
+
+Before leaving for the trip, I continued my daily habit by solving **one LeetCode problem**.
+
+No matter how busy or exciting the day gets, maintaining consistency in learning is something I always try to preserve.
+
+---
+
+# 📌 Highlights of the Day
+
+* Stayed awake the entire night because of the excitement of meeting Mummy and Papa.
+* Went to the railway station around **6:00 AM** to receive them.
+* Met my parents after almost **two months**.
+* Worked from home.
+* Created a Wiki page documenting the overview of the **QA AI Agent** project.
+* Spent the rest of the day talking, relaxing, and enjoying time with Mummy and Papa.
+* Prepared for the upcoming **Haridwar–Rishikesh weekend trip**.
+* Had dinner together with my parents.
+* Left Gurgaon around **11:30 PM** for the two-day family trip.
+* Solved **1 LeetCode problem** before starting the journey.
+
+---
+
+# 💭 Reflection
+
+Today reminded me that some of the most meaningful days are not defined by how much work gets done, but by the people we get to spend them with.
+
+Meeting Mummy and Papa after nearly two months was the happiest moment I have had in a long time. The excitement had kept me awake the entire night, and the moment I finally saw them at the railway station made every minute of waiting worthwhile.
+
+Although I completed my office responsibilities by documenting the QA AI Agent project through a Wiki page, the real highlight of the day was simply being with my family again. Talking, resting, sharing meals, and preparing together for our upcoming Haridwar–Rishikesh trip brought a sense of comfort that had been missing for weeks.
+
+As we boarded our journey late at night, I felt grateful—not just for the work I am doing, but for the opportunity to create memories with the people who matter the most.
+
+It was a simple day, but one I know I will remember for a very long time. ❤️
+
+
+---
