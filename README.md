@@ -1920,3 +1920,147 @@ Overall, it was a peaceful Thursday focused on **learning, reflection, continuou
 
 
 ---
+
+
+
+**Date:** 17 July 2026, Friday
+**Day:** 268
+
+---
+
+# 🌅 Morning
+
+Reached the office around **10:00 AM** and started the day with breakfast:
+
+* Chocos with milk
+* Peanut butter sandwich
+
+After breakfast, I set up my workstation and was ready to start working by around **10:45 AM**.
+
+The day started on a relatively light note. Since I did not have any immediate development tasks assigned, I spent some time exploring **YouTube** for inspiration on personal GitHub project ideas. I wanted to look at interesting open-source projects and explore ideas that I could potentially build in my free time to strengthen my portfolio and continue learning outside of work.
+
+---
+
+# 👥 A New Opportunity
+
+Around **11:40 AM**, **Ankit Sir** invited me to join one of the **DSM meetings** for the Agentic AI project.
+
+During the meeting, he introduced me to **Utkarsh Gupta** and assigned me to work under his guidance for a new initiative.
+
+From the coming week onward, I will be contributing to work related to:
+
+* **Guardrails**
+* **LLM Evaluations (Evals)**
+* **Automation Framework**
+
+This marks the beginning of a new learning opportunity alongside my internship work.
+
+To help me get familiar with the project, Ankit Sir also shared a **one-hour recorded Knowledge Transfer (KT) session**, which would serve as the introductory material for understanding the framework before starting development.
+
+---
+
+# 🍽️ Lunch
+
+Around **1:00 PM**, we went for lunch.
+
+Since I wasn't feeling particularly hungry today, I kept it simple and had:
+
+* Dal Chawal
+
+After lunch, I returned to my workstation and dedicated my time to completing the introductory KT video.
+
+The recording provided a high-level understanding of the project, its objectives, and the architecture that I would be working with in the coming weeks.
+
+---
+
+# 📚 Beginning the MAGNUS Knowledge Transfer
+
+After finishing the introductory recording, I reached out to **Utkarsh Gupta** over Teams for further guidance.
+
+He promptly arranged another Knowledge Transfer session for all the interns from **4:30 PM to 5:40 PM**.
+
+During this session, he explained the **MAGNUS Agentic Framework**, with today's discussion focusing primarily on the **frontend architecture**.
+
+The session covered:
+
+* The overall purpose of the MAGNUS framework.
+* The frontend structure and navigation.
+* How different modules interact.
+* The workflow followed by the application.
+* The technologies involved.
+* The overall direction of the project.
+
+It was a detailed and informative introduction that provided a much clearer picture of the framework.
+
+By the end of the meeting, it was clear that **this project will become my primary focus starting Monday**, where we will gradually begin contributing to its development.
+
+I am looking forward to working on a new codebase and learning about another large-scale agentic system.
+
+---
+
+# ☕ Evening Snacks
+
+Later in the evening, we went for snacks.
+
+Today's menu included:
+
+* Momos
+* French Fries
+
+After wrapping up the day's learning sessions, I headed back home.
+
+I reached home around **7:30 PM**.
+
+---
+
+# 🏠 Night
+
+After reaching home, I completed my usual daily chores.
+
+As part of my daily learning routine, I solved **one LeetCode problem**, continuing the consistency that I have maintained throughout the internship.
+
+Later, I talked to my family over a call and caught up with them after their journey back home.
+
+I also spent some time talking with **her** over a call before winding down for the night.
+
+After another day filled with learning and a brand-new opportunity ahead, I finally went to sleep.
+
+---
+
+# 📌 Highlights of the Day
+
+* Reached the office around **10:00 AM**.
+* Started exploring ideas for future personal GitHub projects.
+* Joined Ankit Sir's DSM meeting.
+* Got assigned to work with **Utkarsh Gupta**.
+* Learned that my upcoming work will focus on:
+
+  * Guardrails
+  * LLM Evaluations (Evals)
+  * Automation Framework
+* Received a one-hour introductory Knowledge Transfer recording.
+* Completed the introductory KT session.
+* Connected with Utkarsh Gupta for further guidance.
+* Attended a **4:30 PM – 5:40 PM** Knowledge Transfer session on the **MAGNUS Agentic Framework**.
+* Learned about the frontend architecture and workflow of the project.
+* Prepared to begin working on the new project starting Monday.
+* Had evening snacks of Momos and French Fries.
+* Solved **1 LeetCode problem**.
+* Talked with my family and **her** before ending the day.
+
+---
+
+# 💭 Reflection
+
+Today marked the beginning of an exciting new chapter in my internship.
+
+After spending the past several weeks working extensively on the **QA AI Agent**, I have now been introduced to another large-scale project—the **MAGNUS Agentic Framework**. Being assigned to work on areas such as **Guardrails**, **LLM Evaluations**, and the **Automation Framework** is a great opportunity to explore another important aspect of AI system development.
+
+The Knowledge Transfer sessions gave me an initial understanding of the project and helped reduce the learning curve before I begin contributing next week. It feels exciting to start fresh on a new codebase while carrying forward everything I have learned from the QA AI Agent project.
+
+Outside of work, it was another balanced day with time for learning, planning personal GitHub projects, maintaining my LeetCode streak, and spending time talking with my family and **her**.
+
+Overall, it was a productive Friday centered around **new beginnings, knowledge transfer, continuous learning, and preparing for the next phase of my internship journey**.
+
+
+---
