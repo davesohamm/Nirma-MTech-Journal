@@ -2064,3 +2064,208 @@ Overall, it was a productive Friday centered around **new beginnings, knowledge 
 
 
 ---
+
+
+
+**Date:** 20 July 2026, Monday
+**Day:** 269
+
+---
+
+# 🌅 Morning
+
+Reached the office around **10:10 AM** and started the day with breakfast:
+
+* Chocos with milk
+* Bread butter toast
+
+After breakfast, I set up my workstation and prepared for the day's work.
+
+The morning began with the **Agentic AI DSM** conducted by **Ankit Sir**. During the meeting, he officially assigned me to work with **Utkarsh Gupta** for the **Guardrails, Evals, and Automation Framework** initiative. This project will now become one of my primary focus areas alongside the knowledge I gained from working on the QA AI Agent.
+
+It feels exciting to begin contributing to a new project while building on everything I learned over the past few months.
+
+---
+
+# 🛠️ Building a Google ADK MCP Tool
+
+After the DSM meeting, I spent some time experimenting with **Google ADK**.
+
+As a small learning exercise, I built a simple **MCP tool for JIRA retrieval**. The tool accepted a JIRA ID as input and retrieved the associated information, allowing me to understand how MCP tools can be integrated within the Google ADK ecosystem.
+
+The implementation was intentionally simple and primarily built for:
+
+* Learning Google ADK
+* Understanding MCP tool development
+* Exploring JIRA integration
+* Demonstrating the overall workflow
+
+Although it was only a demo implementation, it helped me understand the development flow much better and served as a good hands-on learning exercise.
+
+---
+
+# 🍽️ Lunch
+
+Lunch today was especially good.
+
+The menu included:
+
+* Chapati
+* Paneer Sabzi
+* Chhole Rice
+* Croquettes
+* Mango Lassi
+* Rasgulla
+
+It was definitely one of the tastier office lunches in recent days.
+
+---
+
+# 📚 Knowledge Transfer with Utkarsh Gupta
+
+After lunch, I had a dedicated **Knowledge Transfer session with Utkarsh Gupta**.
+
+The session focused entirely on the new project that I will be contributing to over the coming weeks.
+
+Utkarsh explained the overall objectives and requirements of the project, with particular emphasis on:
+
+* **LLM Guardrails**
+* **Evaluation (Evals)**
+* **Automation Framework**
+* The expected development workflow
+* Existing implementation details
+* Future roadmap
+
+To help me understand the project better, he also shared several useful resources, including:
+
+* Internal documentation
+* Design notes
+* Reference materials
+* One of his previous **Merge Requests (MR)**
+
+He specifically suggested studying the previous MR carefully to understand how the Guardrails module had been implemented and how future work should follow similar patterns.
+
+By the end of the session, I had a much clearer understanding of the project's architecture and what my responsibilities would be starting **tomorrow**.
+
+---
+
+# ⚙️ Project Setup & Development Environment
+
+The remainder of the afternoon was spent preparing my development environment for the new project.
+
+I focused on setting up the complete Agentic AI project locally, including the required agents and platform components.
+
+To make future development easier, I also created several utility scripts and documentation, including:
+
+* Shell scripts for starting different project components.
+* Runbook files documenting the setup process.
+* Notes to simplify future executions and onboarding.
+
+Although no major feature development started today, preparing the environment properly will save considerable time once implementation begins.
+
+---
+
+# 🎉 Office Team Party
+
+After **6:00 PM**, we wrapped up work and headed to the office team party.
+
+We travelled to **Sector 53, Clock Tower**, where the entire team gathered for an evening of food, conversations, and fun.
+
+It turned out to be one of the most enjoyable team outings of the internship.
+
+For the next few hours, everyone relaxed, laughed together, and enjoyed spending time outside the usual office environment.
+
+The food was absolutely amazing.
+
+### 🍕 Starters & Snacks
+
+We enjoyed:
+
+* Pizza
+* Noodles
+* Paneer starters
+* Veg Kebab starters
+
+### 🥤 Drinks
+
+Unlimited beverages were available throughout the evening.
+
+I tried:
+
+* Strawberry Mocktail
+* Diet Coke
+
+### 🍛 Dinner
+
+For dinner, we had:
+
+* Naan
+* Paneer Makhani
+* Dal Makhani
+* Rice
+
+And finally...
+
+### 🍨 Dessert
+
+We ended the meal with:
+
+* Brownie
+* Ice Cream
+
+Beyond the food, the best part of the evening was spending quality time with the entire team.
+
+There were countless conversations, jokes, laughter, and memorable moments. It was a great opportunity to connect with everyone outside of work, strengthen team bonding, and simply enjoy the evening together.
+
+The atmosphere at the venue was lively, energetic, and full of positive vibes.
+
+---
+
+# 🏠 Night
+
+We returned home around **10:30 PM**.
+
+After reaching home, I completed my usual daily chores.
+
+As always, I maintained my daily consistency by solving **one LeetCode problem**.
+
+Later, I talked to my family over a call and caught up with them.
+
+I also spent some time talking with **her** before finally winding down for the night.
+
+After an eventful and memorable Monday, I called it a day.
+
+---
+
+# 📌 Highlights of the Day
+
+* Reached the office around **10:10 AM**.
+* Joined the Agentic AI DSM with Ankit Sir.
+* Officially started onboarding for the **Guardrails, Evals, and Automation Framework** project under Utkarsh Gupta.
+* Built a simple **Google ADK MCP Tool** for JIRA retrieval as a learning exercise.
+* Had a dedicated Knowledge Transfer session with Utkarsh Gupta.
+* Studied the Guardrails project architecture and received documentation along with a previous Merge Request for reference.
+* Set up the complete Agentic AI development environment.
+* Created shell scripts and runbook documentation for easier project execution.
+* Attended the office team party at **Sector 53, Clock Tower**.
+* Enjoyed delicious food, mocktails, and dinner with the team.
+* Spent quality time strengthening connections with colleagues.
+* Solved **1 LeetCode problem**.
+* Talked with my family and **her** before ending the day.
+
+---
+
+# 💭 Reflection
+
+Today marked the beginning of another exciting learning journey.
+
+After spending months working on the QA AI Agent, I officially started onboarding for a completely new area focused on **Guardrails, LLM Evaluations, and Automation Frameworks**. The Knowledge Transfer session with Utkarsh Gupta gave me a clear direction for the work ahead, and setting up the development environment today means I can start contributing immediately from tomorrow.
+
+Building a small Google ADK MCP tool, even as a simple demo, was another enjoyable learning experience. It reminded me that experimenting with small prototypes is often one of the fastest ways to understand new technologies.
+
+The perfect ending to the day was the office party. Sometimes, the best memories are created outside meeting rooms and code editors. Sharing food, laughter, and conversations with the team helped strengthen friendships and made me appreciate the positive culture around me even more.
+
+Overall, it was a wonderful Monday filled with **new beginnings, hands-on learning, project onboarding, team bonding, and memorable moments**.
+
+
+---
