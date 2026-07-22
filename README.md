@@ -2443,3 +2443,182 @@ Overall, it was a fulfilling Tuesday filled with **planning, learning, first con
 
 
 ---
+
+
+**Date:** 22 July 2026, Wednesday
+**Day:** 271
+
+---
+
+# 🌅 Morning
+
+Reached the **office** around **10:00 AM** and started the day with breakfast:
+
+* Peanut butter sandwich
+* Chocos with milk
+
+After breakfast, I set up my workstation and prepared for the day's work.
+
+The first task of the morning was a quick discussion with **Utkarsh Bhaiya** regarding the **Guardrails analysis report** that I had shared with him yesterday. We went through the observations, discussed some improvements, and aligned on the next steps before moving ahead with the implementation.
+
+---
+
+# 👥 Agentic AI DSM
+
+Around **11:30 AM**, we attended the **Agentic AI DSM**, which lasted for approximately an hour.
+
+During the meeting, the team discussed the current sprint progress with **Krishna Kumar Sir** and **Ankit Sir**. Each contributor shared updates on their assigned work, blockers, and the progress made since the sprint began.
+
+It was useful to understand how the different workstreams were progressing and where the overall project currently stood.
+
+---
+
+# 🍽️ Lunch
+
+After the DSM, we went for lunch.
+
+Today's menu included:
+
+* Paratha
+* Paneer Adraki Sabzi
+* Chana
+* Chawal
+* Angoori Rasgullas
+* Nutri Salad
+* Litchi Juice
+
+It was a delicious and filling lunch before another busy afternoon.
+
+---
+
+# 💻 Deployment Planning
+
+After lunch, I had another discussion with **Utkarsh Bhaiya**.
+
+During the call, we decided to schedule a meeting with **Mayank Gauba** later in the evening to discuss the **deployment of the Guardrails project on the CMS MAGNUS UI**.
+
+Before the deployment meeting, we reviewed the current setup and identified the components that needed to be verified once the pipelines were executed.
+
+---
+
+# 🎉 DTDL Townhall & FIFA Success Celebration
+
+From approximately **3:00 PM to 5:30 PM**, we attended the **DTDL Townhall**.
+
+The event served two purposes:
+
+* Quarterly Townhall and Awards Session
+* FIFA Success Celebration for the company
+
+It was a refreshing break from the regular work routine.
+
+The leadership team shared updates about the organization's achievements, recognized outstanding contributions across teams, and celebrated recent successes.
+
+After the formal sessions, everyone gathered for refreshments and celebrations.
+
+Although beer was served during the celebration, I chose not to drink and instead enjoyed:
+
+* Coke
+* Paneer Tikka
+* Corn Chaat
+* French Fries
+
+The food was delicious, and it was nice to spend some relaxed time with colleagues outside the usual work environment.
+
+---
+
+# 🚀 Production Deployment Discussion
+
+After reaching home around **6:30 PM**, I immediately joined the scheduled deployment meeting with **Utkarsh Bhaiya** and **Mayank Gauba**.
+
+The meeting continued until approximately **8:40 PM**.
+
+During the session, we discussed the complete production deployment flow for the Guardrails project on the CMS MAGNUS platform.
+
+Together, we executed the deployment pipelines for **two different agents**.
+
+The outcome was encouraging:
+
+* One agent pipeline executed successfully.
+* The second pipeline failed and will require further debugging.
+
+Despite the pipeline failure, one important achievement was that the **Guardrails implementation was working correctly on the Orchestrator Agent**.
+
+This confirmed that the core implementation was functioning as expected, and the remaining deployment issues were limited to the other agent.
+
+We concluded that the remaining deployment problems could be investigated and resolved in the coming days.
+
+Before ending the meeting, we also planned another discussion for **tomorrow afternoon with Arshpreet**, where we will review the overall architecture and discuss the remaining implementation details.
+
+---
+
+# 🎓 Major Project Discussion
+
+Later in the evening, I attended another scheduled meeting—this time for my **Nirma University major project**.
+
+The meeting was with:
+
+* **Priti Kathiria Ma'am**
+* **Pimal Khanpara Ma'am**
+
+We discussed possible research directions for our major project and finalized the primary topic.
+
+After exploring different options, we decided that our major project will focus on:
+
+> **Network Security using Post-Quantum Cryptographic Approaches**
+
+It was an exciting discussion because post-quantum cryptography is an emerging field with significant real-world importance, especially as quantum computing continues to evolve.
+
+I am looking forward to exploring this topic further over the coming months.
+
+---
+
+# 🌙 Night
+
+After completing both meetings, I relaxed for a while and had some chips.
+
+Later, I talked to my family over a call and caught up with them.
+
+I also spent some time talking with **her** over a call.
+
+As always, I maintained my daily consistency by solving **one LeetCode problem**.
+
+After completing my daily chores, I finally wrapped up another productive day and went to sleep.
+
+---
+
+# 📌 Highlights of the Day
+
+* Reached the office around **10:00 AM**.
+* Discussed the Guardrails analysis report with Utkarsh Bhaiya.
+* Attended the **Agentic AI DSM** with Krishna Kumar Sir and Ankit Sir.
+* Planned the production deployment discussion with Mayank Gauba.
+* Attended the **DTDL Quarterly Townhall** and FIFA Success Celebration.
+* Enjoyed snacks including Paneer Tikka, Corn Chaat, French Fries, and Coke.
+* Participated in a production deployment meeting for the **CMS MAGNUS UI**.
+* Successfully verified the Guardrails implementation on the **Orchestrator Agent**.
+* Executed deployment pipelines for two agents, with one succeeding and one requiring further debugging.
+* Scheduled an architecture discussion with Arshpreet for the following day.
+* Attended the Nirma University major project meeting.
+* Finalized the major project topic:
+
+  * **Network Security using Post-Quantum Cryptographic Approaches**
+* Solved **1 LeetCode problem**.
+* Talked with my family and **her** before ending the day.
+
+---
+
+# 💭 Reflection
+
+Today balanced professional work, company-wide events, and academic planning exceptionally well.
+
+The deployment discussions with Utkarsh Bhaiya and Mayank Gauba marked an important step in moving the Guardrails project toward production. Although one of the deployment pipelines failed, successfully validating the implementation on the Orchestrator Agent was a reassuring sign that the core functionality is working as intended.
+
+The DTDL Townhall was another enjoyable part of the day. It was refreshing to step away from coding for a while, celebrate the organization's achievements, and spend informal time with colleagues.
+
+The day concluded with an exciting academic milestone as we finalized the topic for my Nirma University major project. Working on **Network Security using Post-Quantum Cryptographic Approaches** promises to be both technically challenging and highly relevant for the future of cybersecurity.
+
+Overall, it was a productive Wednesday filled with **deployment work, collaboration, celebration, academic planning, and continuous learning**.
+
+
+---
