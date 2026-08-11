@@ -254,3 +254,99 @@ With that thought, I called it a night.
 
 
 ---
+
+
+# 7 August 2026 | Day 283 | Friday
+
+## 🌅 Morning
+
+I wasn't feeling quite like myself from the moment I woke up. I reached the office around **10:00 AM** and kept my breakfast very light compared to my usual routine, since I wasn't feeling particularly well.
+
+After breakfast, I had a meeting with **Manu Shrot**, our reporting manager. It was our **first in-person interaction**, from around **10:30 AM to 11:00 AM**. The conversation was mostly informal—we talked about how things were going, what we had been working on, and how everything was progressing.
+
+---
+
+## 🚀 QA AI Agent Demo
+
+After the meeting, **Kunal Kumar Sir** asked me to present a demo of our **QA AI Agent** in front of the management team, including **Manu, Vipul, and Somesh**.
+
+Honestly, the demo went **fabulously**—much better than I had expected.
+
+I was able to explain the work, demonstrate the system, and showcase what we had built with confidence. After the demo, **Kunal Sir appreciated my work**, and all three senior managers also praised the presentation and the work I had done.
+
+It was definitely one of those moments that makes all the effort feel worthwhile. Seeing the work I had been putting so much time into being recognized by senior management felt genuinely good.
+
+---
+
+## 🤝 Team Sync
+
+After the demo, I joined the **Agentic AI DSM** call, where I discussed my tasks and progress for the day with the team.
+
+---
+
+## 🍽️ Lunch
+
+Since I still wasn't feeling completely fine, I kept lunch light as well.
+
+I had a **small portion of white sauce pasta** along with some **cottage cheese pieces**.
+
+---
+
+## 🏗️ Agentic AI Insights Hub
+
+Later, I attended an **architectural discussion for the Agentic AI Insights Hub** with **Utkarsh and Armaan**.
+
+We set up the project locally and went through the overall architecture and workflow. Utkarsh gave us a clear understanding of the **end-to-end automation pipeline**, including:
+
+* Evaluations and the evaluation workflow
+* Golden datasets
+* Automated insight generation
+* Using an **LLM as a Judge**
+* How the different components fit together into the overall pipeline
+
+It was a very useful discussion and gave me a much clearer picture of how the Insights Hub was designed and how the evaluation process would work.
+
+---
+
+## 🌧️ A Difficult Evening
+
+Around **4:00 PM**, I started feeling worse and felt that I should probably head home and rest.
+
+I asked **Nikhil** to leave with me, but there was **heavy rain outside**. We waited until around **5:30 PM**, trying to find a cab, but couldn't get one.
+
+So, we came back to the office canteen and sat there for a while. Eventually, **Ayush, Nikhil, and I** managed to find cabs, booked one, and finally reached home around **8:20 PM**.
+
+The office AC had also made me feel extremely cold throughout the evening, and by the time I reached home, I felt as though I might have a fever.
+
+I changed my clothes and tried to sleep around **10:00 PM**.
+
+After that, I honestly don't remember much.
+
+---
+
+## 🏠 A Difficult Weekend
+
+Unfortunately, the rest of the weekend turned out to be one of the **worst weekends in a while**.
+
+I wasn't feeling well throughout the weekend and had what seemed like a significant **digestion/food-related issue**, which left me feeling drained.
+
+As if that wasn't enough, the heavy rain created another problem at home. Our **terrace started leaking into the bedroom**, and our beds ended up getting wet.
+
+That completely ruined my mood even further.
+
+Thankfully, we were able to complete the **waterproofing work by Sunday evening**, so at least that problem was taken care of.
+
+---
+
+## 🌙 Closing Thoughts
+
+Despite the difficult ending, the day itself had one really bright moment—the **QA AI Agent demo**.
+
+The recognition from Kunal Sir and the senior managers was something I'll remember. It reminded me that the work I've been putting in is visible and that I am capable of delivering something that can genuinely impress people.
+
+The day started with me feeling unwell and ended with a difficult night, followed by an even worse weekend. But somewhere in between, there was a moment of pride and validation.
+
+Sometimes a single good moment is enough to remind you that the journey is still worth it.
+
+
+---
