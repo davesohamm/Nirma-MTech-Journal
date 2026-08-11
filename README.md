@@ -350,3 +350,58 @@ Sometimes a single good moment is enough to remind you that the journey is still
 
 
 ---
+
+
+# 10 August 2026 | Day 286 | Monday
+
+## 🌅 Morning
+
+Reached the office around **10:00 AM** and had a light breakfast before getting started with work.
+
+The first priority for the day was fixing the remaining **SMTP email functionality bugs**. I connected with **Paramjeet Singh Walia**, who helped me understand the DevOps-side setup and provided **two DevOps accounts** where the required **AWS Secrets Manager SMTP configuration and whitelisting** were already in place. This allowed us to send emails through those accounts.
+
+After working through the configuration and debugging the remaining issues, I was able to fix the SMTP-related problems.
+
+---
+
+## 🔧 UI & Service Token Discussion
+
+Later, I discussed an issue with **Ankit Sir** regarding the **Magnus UI token and service token mismatch**.
+
+The mismatch was causing a few problems in the overall flow, so we went through the issue in detail and identified the areas that needed correction. After further discussion with **Ankit Sir and Tarun**, I worked on fixing some of the issues arising from the token mismatch.
+
+It was another one of those debugging sessions where understanding how different components communicate with each other was just as important as fixing the actual code.
+
+---
+
+## 🍽️ Lunch
+
+Had lunch with:
+
+* Dal Chawal
+* Gulab Jamun
+* Guacamole
+* Nachos
+
+A slightly more enjoyable lunch after a fairly technical morning. 😄
+
+---
+
+## 🌆 Evening
+
+Wrapped up work and reached home around **7:00 PM**.
+
+After coming home, I completed my daily chores and spoke with my family over a call. Later, I spent some time talking with **her**, which was a nice and calming part of the evening.
+
+I also kept my **LeetCode streak** going by solving **one problem**.
+
+---
+
+## 🌙 Night
+
+After finishing everything for the day, I finally went to sleep.
+
+A fairly straightforward Monday—productive debugging, some tricky integration issues, a few useful technical discussions, and keeping the small personal routines going alongside work.
+
+
+---
