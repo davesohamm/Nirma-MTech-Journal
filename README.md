@@ -505,3 +505,97 @@ By the end of the day, quite a lot had been accomplished—technical issues were
 
 
 ---
+
+# 12 August 2026 | Day 288 | Wednesday
+
+## 🌅 Morning
+
+Reached the office around **9:50 AM** and had breakfast consisting of a **peanut butter sandwich** and **Chocos with milk** before heading to my workstation.
+
+I started the day with a quick discussion with **Ankit Sir**, followed by a long call with **Naumaan** to work on the **API fixes for backend-utils**.
+
+---
+
+## 🔧 Backend Utils Debugging
+
+I spent the morning working with Naumaan until around **12:00 PM** on the backend-utils APIs.
+
+During the debugging, we discovered an important issue—the **test environment setup was only configured for certain tenants**, rather than all the required tenants. It was working for tenants such as **GR and DTDL**, but not for others such as **DE**.
+
+This explained some of the unexpected behavior we had been seeing.
+
+I skipped the **Agentic AI DSM** today so that I could continue focusing on this issue.
+
+After the discussion with Naumaan, I had a combined discussion with **Ankit Sir, Sandeep, and Naumaan**. During this conversation, we realized that **Cursor had over-complicated parts of the codebase**, making the overall API flow unnecessarily difficult to understand and debug.
+
+Later, **Mayank Gauba** provided us with **two simple APIs to hit**, which helped us understand the expected flow much more clearly.
+
+Using those APIs, **Ankit Sir and I** went through the entire codebase, debugged the flow, and started removing the unnecessary parts introduced into the structure.
+
+We continued this work until around **2:30 PM**.
+
+---
+
+## 🍽️ Lunch
+
+Had lunch around **2:30 PM**, consisting of:
+
+* Rajma Chawal
+* Paneer Masala
+* Chapati
+* Vanilla Ice Cream
+
+---
+
+## 🛠️ Afternoon Debugging
+
+After lunch, we went back to debugging the backend-utils codebase.
+
+The afternoon was almost entirely dedicated to understanding the existing implementation, simplifying the code, and making sure the APIs behaved as expected.
+
+We continued debugging until around **5:30 PM**.
+
+It was one of those days where I didn't get to work on any of my other planned tasks, but the backend-utils debugging itself required a lot of focused effort.
+
+---
+
+## 🏠 Evening
+
+Reached home around **7:00 PM** and quickly completed my daily chores.
+
+I also made sure to keep my **LeetCode streak alive by solving one problem**.
+
+After that, I shifted my focus completely towards my **M.Tech major project**.
+
+---
+
+## 🎓 Major Project — A Major Decision
+
+I spent the evening working on my research topic before my meeting with **Dr. Preeti Kathiria Ma'am** and **Dr. Pimal Khanpara Ma'am** from **Nirma University**.
+
+The discussion was focused on finalizing the direction of my major project.
+
+After going through the possible research directions and thinking through the problem statement, I finally arrived at a topic around a **V2X authorization solution using Post-Quantum Cryptography**.
+
+I presented the idea and discussed it with both faculties during the meeting, which continued until around **10:00 PM**.
+
+Thankfully, the topic was **approved by the faculties**.
+
+It felt like a significant milestone after all the research, paper reading, confusion, and discussions over the past few days. Now I finally have a concrete direction to move forward with.
+
+---
+
+## ❤️ Night
+
+After the meeting, I spoke with my family over a call and later spent some time talking with **her**. We had a good conversation and spent some peaceful time together.
+
+Tomorrow marks the beginning of the **Shravan month**.
+
+As the month begins, I hope **Mahadev blesses us all with strength, clarity, peace, and the courage to keep moving forward.**
+
+**Har Har Mahadev. 🕉️**
+
+And with that, I called it a day and went to sleep.
+
+
+---
