@@ -707,3 +707,86 @@ A calm and productive first day of Shravan.
 
 
 ---
+
+# 14 August 2026 | Day 290 | Friday
+
+## 🌅 Morning
+
+Reached the office around **10:00 AM** and had a light breakfast of **one banana and milk**.
+
+After settling in, I started working on the pending issues from the Preprod environment. I had a small discussion with **Ankit Sir** regarding the **Preprod error** I had been facing and went through the possible causes and next steps.
+
+---
+
+## 🤝 Agentic AI DSM
+
+From **11:30 AM to 12:15 PM**, we had our daily **Agentic AI DSM** meeting.
+
+I discussed my progress on the **Facade Layer API generation** and shared the work I had been doing around it.
+
+During the discussion, **Shubham** also asked me to take up the **Guardrails task on the TV side**. I will need to get the required **KT (Knowledge Transfer)** for this before starting the implementation.
+
+I also brought up a few points during the DSM that needed further discussion. We decided to have a dedicated **architectural meeting for the Agentic AI Insights Dashboard** from **3:30 PM to 5:00 PM**.
+
+---
+
+## 🧪 Preprod & MCP Testing
+
+After the DSM, I helped **Nikhil** test his **MCP plugin**.
+
+Later, after discussing the Preprod issue with **Sandeep and Naumaan**, we generated a **new basic token for the Preprod environment**. The tenant-related issue that had been causing problems was resolved with this setup.
+
+I tested it again, and thankfully, **the Preprod flow was working properly for me now**.
+
+It felt good to finally get this issue resolved after spending quite a bit of time debugging the tenant and authentication-related problems.
+
+---
+
+## 🏗️ Agentic AI Insights Dashboard — Architecture
+
+From **3:30 PM to 5:00 PM**, we had the planned architectural discussion for the **Agentic AI Insights Dashboard**.
+
+We went deeper into the overall project structure and discussed how the different components would fit together.
+
+**Krishna** pointed out several important things during the discussion, which gave me a few more areas to explore.
+
+I realized that I still need to understand the **core of this entire project** much more deeply rather than just working on individual components. So I've decided to dedicate some time this weekend to properly go through the architecture, repositories, workflow, and overall purpose of the project.
+
+Hopefully, I'll be able to get a much clearer picture of the entire system by the end of the weekend.
+
+---
+
+## 🌆 Evening
+
+Reached home around **7:00 PM** and completed some of my daily chores.
+
+Later, I spoke with my old friend **Het Soni**, who currently lives in Canada. Today was a special day for him—he completed his **last exam for his MS**, and he also received an **internship offer**.
+
+I was genuinely happy for him and congratulated him on both milestones. It's always nice to see an old friend progressing and achieving the things they worked hard for.
+
+After that, I spoke with my family over a call.
+
+---
+
+## 🎬 Night
+
+Later in the evening, I watched the movie ***Troll* (2022)**.
+
+I also solved **one LeetCode problem**, keeping the streak alive, and spent some time talking with **her** over text.
+
+After wrapping everything up, I finally went to sleep.
+
+---
+
+## 🌙 Closing Thoughts
+
+Friday ended on a good note.
+
+The **Preprod tenant issue was finally resolved**, I got a clearer understanding of the upcoming Facade Layer and Insights Dashboard work, and I also picked up a new Guardrails task for the TV side.
+
+There is still a lot to learn about the Insights Dashboard, but I'm looking forward to using this weekend to understand its **core architecture and complete workflow** properly.
+
+Another week wrapped up—with more things to learn, more problems to solve, and a little more clarity than I had yesterday.
+
+
+---
