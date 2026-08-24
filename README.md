@@ -1138,4 +1138,102 @@ Another steady day of building, integrating, debugging, and learning—one piece
 ---
 
 
+# 21 August 2026 | Day 295 | Friday
+
+## 🌅 Morning
+
+Reached the office around **10:35 AM** and had **milk** before getting started.
+
+Before the day's main meetings, I spent some time gathering all the important updates—what had already been completed, what was still pending, and what needed to be picked up next. It helped me get a clear picture of where everything stood before starting the day's work.
+
+---
+
+## 🤝 Agentic AI DSM
+
+From **11:30 AM to 12:30 PM**, we had the daily **Agentic AI DSM** meeting.
+
+Today's discussion was primarily focused on **LLM costing and efficiency**—understanding how we can make our AI workflows more efficient while keeping the associated model costs under control.
+
+It was a useful discussion, especially considering how important token usage, model selection, and overall inference efficiency become as these systems scale.
+
+---
+
+## 🧩 Dashboard JSON Issue
+
+After the DSM, I had a detailed discussion with **Utkarsh** regarding the **JSON issue** that had been persisting in our Agentic AI Insights Dashboard.
+
+He provided me with a proper schema containing the required JSON structure, which made it much easier to identify what was missing.
+
+I worked on the dashboard implementation and fixed the missing details so that the data was now being represented correctly.
+
+It felt good to finally close another one of those small but persistent issues that had been hanging around for a while.
+
+---
+
+## 🚀 Backend Utils — Production Planning
+
+Later, I had a quick discussion with **Ankit Sir** regarding taking the **backend-utils service to production**.
+
+To coordinate the deployment and environment requirements more efficiently, I created a group involving **the DevOps team, Ankit Sir, and me**.
+
+We started discussing the various **keys, tokens, and environment-specific configurations** that would be required for the production setup.
+
+**Sandeep** helped by providing the appropriate **basic tokens for the different environments and tenants**, which gave us the required credentials to move forward with the deployment planning.
+
+It felt like an important step—the backend-utils work that had taken so much debugging and effort was now getting closer to production.
+
+---
+
+## 🏠 Going Home Soon
+
+Around **4:00 PM**, I left the office and headed home.
+
+Today was also a little emotional.
+
+Of the three friends who live together here in Gurgaon—**Nikhil, Ayush, and me**—Nikhil is going back to his hometown for a few days.
+
+I'm going next week, and Ayush will be going the week after me.
+
+One after another, we're all finally heading home.
+
+And honestly, **I can't wait.**
+
+It's been almost **three months** since I've been home. I miss **Ahmedabad**. I miss my family, my people, the familiar surroundings, and just the feeling of being home.
+
+I've never stayed away from home for this long in my life.
+
+Maybe that's why the thought of going back feels so special now.
+
+---
+
+## 🌙 Evening
+
+Nikhil left around **7:00 PM**.
+
+After that, I spent some time watching YouTube, then solved **one LeetCode problem**, keeping the streak alive.
+
+I called my family and spoke with them for a while. Later, I called **her** and spent some time talking with her as well.
+
+After completing my daily chores, I finally went to sleep.
+
+---
+
+## 🌌 End of the Week
+
+Friday ended with a mix of **work, progress, and homesickness**.
+
+The dashboard moved forward, the backend-utils production discussion finally started taking shape, and another week of work came to an end.
+
+But more than anything, tonight I kept thinking about home.
+
+**Ahmedabad.**
+
+Three months away has been a long time.
+
+Just a little more waiting now.
+
+**Home is getting closer. ❤️**
+
+
+---
 
