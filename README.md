@@ -1054,5 +1054,88 @@ Done for the day. 🌙
 ---
 
 
+# 20 August 2026 | Day 294 | Thursday
+
+## 🌅 Morning
+
+Reached the office around **9:50 AM** and had breakfast consisting of a **banana and milk**.
+
+I started working around **10:30 AM**. My first discussion of the day was with **Armaan**, where we went through his latest changes and I incorporated the required updates into my branches.
+
+---
+
+## 🤝 Agentic AI DSM
+
+At around **11:30 AM**, we had the daily **Agentic AI DSM** meeting.
+
+I discussed the **APIs I had developed yesterday for data ingestion and retrieval** and shared the current progress. We also briefly discussed the ongoing **Agentic AI Insights Dashboard** work and its development status.
+
+After the DSM, I had a deeper discussion with **Utkarsh and Armaan** regarding the current implementation and the improvements we needed to make.
+
+The discussion continued until around **1:00 PM**, during which we identified the major tasks and improvements to focus on for the day.
+
+---
+
+## 🍽️ Lunch
+
+Had lunch around **1:00 PM**, consisting of:
+
+* Chapati
+* Paneer Butter Masala
+* Chole Chawal
+* Pink Sauce Pasta
+* Custard
+* Corn Salad
+
+---
+
+## 💻 User Management & Dashboard Development
+
+The pace of work was slightly slower after lunch, but I continued making steady progress on the dashboard.
+
+I successfully developed the **`/users` API** and then implemented the **User Management section** in the dashboard for the **Admin role**.
+
+Based on **Utkarsh's suggestions**, I incorporated the different **user roles and their respective scopes of view** properly into the dashboard. This made the access-control behavior much clearer and aligned the UI with the expected role-based functionality.
+
+---
+
+## 🔗 UI Integration & Data Improvements
+
+Later, I reviewed **Armaan's UI implementation** and merged both of our changes together.
+
+After integrating the work, I also made an important improvement related to the **JSON data structure**.
+
+Some fields that had previously appeared to be missing were not being properly incorporated into the workflow. I traced the issue and updated the implementation so that the relevant data was now being captured and displayed properly.
+
+It was a small but important improvement because having complete data is essential for the dashboard to provide accurate insights.
+
+---
+
+## 🔍 End-of-Day Review
+
+Towards the end of the workday, I had a quick review meeting with **Utkarsh and Armaan**.
+
+We went through the changes made during the day, reviewed the current state of the dashboard, and aligned on the next steps.
+
+The project is gradually becoming more complete—backend APIs, data ingestion, user management, RBAC, and UI integration are all starting to come together into one cohesive system.
+
+---
+
+## 🌙 Evening
+
+Reached home around **7:00 PM**.
+
+After completing my daily chores, I solved **one LeetCode problem**, keeping the streak alive.
+
+Later, I had a **video call with my family** and spent some peaceful time talking with them.
+
+After wrapping everything up, I finally went to sleep.
+
+Another steady day of building, integrating, debugging, and learning—one piece at a time.
+
+
+
+---
+
 
 
