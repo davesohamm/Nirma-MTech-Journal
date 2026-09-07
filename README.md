@@ -1452,3 +1452,126 @@ Tomorrow is going to be a special day.
 
 
 ---
+
+
+# 26 August 2026 | Day 298 | Wednesday
+
+## 🌅 Morning
+
+Reached the office early today, around **9:00 AM**, and had **milk** for breakfast.
+
+The day started differently from the usual routine because we had an important meeting scheduled with senior leadership.
+
+---
+
+## 👔 Leadership Interaction
+
+From **10:00 AM to 11:30 AM**, we had an informal introductory session with **Anurag Sharma Sir, Senior Vice President**.
+
+It was primarily a conversation to get to know the team, understand what everyone was working on, and have an informal interaction with senior leadership.
+
+The session went really well and was a great experience.
+
+There was **no Agentic AI DSM meeting today**.
+
+---
+
+## 🏗️ Agentic AI Insights Dashboard
+
+After the leadership session, **Utkarsh, Armaan, and I** spent some time planning the next set of changes for the **Agentic AI Insights Dashboard**.
+
+We discussed the improvements that needed to be incorporated and aligned on how we wanted to take the dashboard forward.
+
+---
+
+## 🚀 Backend Utils — Production Deployment
+
+Later, I had a call with **Param**, from the DevOps team, regarding the **production deployment of backend-utils**.
+
+We discussed the remaining deployment requirements and the environment configuration that needed to be taken care of before moving the service to production.
+
+The work was getting closer to the final deployment stage.
+
+---
+
+## 🍽️ Lunch
+
+Had lunch consisting of:
+
+* Paneer Do Pyaza
+* Gulab Jamun
+* Rotis
+* Live Mix Sauce Pasta
+* Chhole Pulao
+
+---
+
+## 🖥️ Dashboard Demo
+
+After lunch, we presented our **Agentic AI Insights Dashboard** to **Ankit Sir**.
+
+He gave us a few pointers and improvements to incorporate. Most of the feedback was around relatively basic **UI improvements**, so **Armaan took ownership of those changes**.
+
+It was good to get another round of feedback before moving further with the dashboard.
+
+---
+
+## 🤖 CPE Logs Monitoring MCP Demo
+
+After the dashboard demo, I had another demonstration meeting with **Ankit Sir**, this time regarding **Nikhil's CPE Logs Monitoring DTDL MCP Tool**.
+
+Nikhil was facing some network-related issues, so I stepped in and showcased the tool directly from **my laptop**.
+
+It was a nice opportunity to help out and ensure that the demonstration could happen smoothly despite the connectivity problems.
+
+---
+
+## 🔧 Backend Utils — Preprod Deployment
+
+From around **3:30 PM to 6:00 PM**, I worked closely with **Param** on the backend-utils deployment.
+
+We went through the remaining **environment-property-related bugs**, fixed them one by one, and finally managed to successfully deploy the **backend-utils project to Preprod**.
+
+🎉 **Preprod deployment completed successfully!**
+
+The next target is **Production**, which we plan to handle tomorrow.
+
+After all the work over the past several weeks—debugging, tokens, tenants, environment issues, secrets, and deployment problems—seeing the service finally running on Preprod felt like a satisfying milestone.
+
+---
+
+## 🚆 The Journey Home
+
+After wrapping up the work, I spent almost **half an hour searching for a cab**.
+
+Around **7:10 PM**, I finally found an e-rickshaw and started making my way towards the railway station.
+
+Then, around **8:45 PM**, I finally boarded my **Rajdhani Express**.
+
+And just like that...
+
+**I was on my way home. ❤️**
+
+I settled into my berth, called my family, and spoke with **her** for a while.
+
+Later, I had some casual conversations with fellow passengers before finally getting comfortable and going to sleep.
+
+---
+
+## 🏠 Finally Going Home
+
+Today felt like the culmination of a long wait.
+
+I started the day at the office, worked through deployments and dashboard tasks, got the backend-utils service successfully deployed to Preprod—and then, by night, I was sitting on a train heading back home.
+
+Tomorrow, I'll wake up much closer to **Ahmedabad**.
+
+After almost three months away...
+
+**I'm finally going home. 🏠❤️**
+
+Goodnight.
+
+
+
+---
