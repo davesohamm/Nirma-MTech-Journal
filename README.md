@@ -1727,3 +1727,154 @@ As I talked with my family, I slowly drifted off to sleep.
 
 
 ---
+
+
+# 28 August 2026 | Day 300 | Friday
+
+## 🪔 Raksha Bandhan Morning
+
+Woke up around **7:00 AM**.
+
+Today was **Raksha Bandhan**. ❤️
+
+As per our **Brahmin family tradition**, after getting ready in the morning, **Papa and I changed our Janeu**.
+
+There was something especially peaceful about beginning the day with a family tradition that has been part of our lives for so long.
+
+---
+
+## 🏡 Back to Dahegam
+
+After getting ready, we left for our **family home in Dahegam**.
+
+I was officially taking **work from home** today, but honestly, I completely forgot to even log in to my laptop. 😄
+
+Most of our team members were on leave, and there weren't really any tasks assigned to me, so I decided to simply enjoy the day with my family.
+
+And honestly, I don't think I could have asked for a better reason to forget about work for a day.
+
+---
+
+## ❤️ Family Time
+
+After reaching my hometown, I spent some really good quality time with **Dadu and the entire family**.
+
+After being away for almost three months, being surrounded by everyone again felt incredibly comforting.
+
+There were conversations, laughter, catching up, and that familiar feeling of simply being around your own people.
+
+---
+
+## 🎀 Rakhi Celebration
+
+Then came the **Raksha Bandhan celebration**.
+
+We celebrated Rakhi together as a family and had a wonderful family lunch afterwards.
+
+I also had a little surprise planned for my sister.
+
+I gifted her something from her wishlist—a **complete Harry Potter Bloomsbury book collection set**. 📚⚡
+
+Seeing her reaction made me genuinely happy.
+
+**She was SO happy!** ❤️
+
+Sometimes the best part of giving a gift isn't the gift itself—it's seeing someone's face light up because you remembered something they wanted.
+
+---
+
+## 😴 Afternoon Rest
+
+After the celebrations and the big family lunch, I took a **nap for a while**.
+
+It felt good to slow down completely.
+
+No deadlines.
+
+No debugging.
+
+No deployments.
+
+Just home.
+
+---
+
+## 👨‍👩‍👧‍👦 Evening Family Get-Together
+
+In the evening, we had a **get-together with our extended family**.
+
+I met all my cousins, spent time with everyone, had dinner, laughed, talked, and simply enjoyed being around the whole family again.
+
+It was one of those evenings where time passes without you noticing.
+
+---
+
+## 🌙 Night
+
+Eventually, we came back home.
+
+Before sleeping, I solved **one LeetCode problem**, keeping the streak alive.
+
+And then I finally went to sleep.
+
+---
+
+## 🏠 Home Is Home
+
+Today made me realize something very simple.
+
+You can live anywhere.
+
+You can build a routine somewhere else.
+
+You can become independent, productive, busy, and comfortable in a new city.
+
+But there is still something about **home** that nothing else can replace.
+
+The people.
+
+The food.
+
+The traditions.
+
+The familiar voices.
+
+The random conversations.
+
+The celebrations.
+
+The feeling of belonging.
+
+After three months away...
+
+**Really. Home is home. ❤️**
+
+---
+
+## ❤️ And Then... This Weekend
+
+And now there's another thing I'm ridiculously excited about.
+
+After **three whole months**...
+
+**I'M FINALLY MEETING HER. IN PERSON. THIS WEEKEND.** 🥹❤️
+
+I genuinely can't wait.
+
+So many calls.
+
+So many conversations.
+
+So much time spent missing each other.
+
+And now, finally, I'll get to see her again.
+
+**CANNOT WAIT TO SEE YOUUUU. ❤️**
+
+Tomorrow can't come soon enough.
+
+**Goodnight.**
+
+
+
+---
