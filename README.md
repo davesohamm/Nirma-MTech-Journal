@@ -1575,3 +1575,155 @@ Goodnight.
 
 
 ---
+
+
+# 27 August 2026 | Day 299 | Thursday
+
+## 🚆 The Journey Home
+
+At around **7:30 AM**, my train finally dropped me at **Sabarmati Junction**—my destination.
+
+I booked a cab from the station, and by around **8:00 AM**, I was home.
+
+**After three whole months.**
+
+Finally.
+
+I was back at my home, my comfort place, surrounded by the people and things that feel familiar.
+
+---
+
+## 🏠 Home. Finally.
+
+The moment I reached home, there were **so many hugs, conversations, and emotions**.
+
+Three months is a long time.
+
+And suddenly being back with the entire family made all the waiting worth it.
+
+There was so much to talk about, so many things to share, and honestly...
+
+**Emotionsssssss. ❤️**
+
+It felt incredibly good to be home.
+
+---
+
+## 😴 A Little Rest
+
+After all the excitement, I took a short **nap**.
+
+Once I woke up and got fresh, **Didi worked from home for the office for some time**, and the house slowly settled back into its usual rhythm.
+
+And then came the moment I had been waiting for.
+
+Lunch.
+
+---
+
+## 🍛 Mom's Magic
+
+Lunch was everything I had missed.
+
+* Dal Rice
+* Chapatis
+* Aloo Gobhi
+* Aamras
+* Laddus
+
+**Oh God!**
+
+My mom's hands have magic. ❤️
+
+After being away from home for three months, eating a proper homemade meal prepared by Mom felt completely different.
+
+No fancy restaurant could ever replace this.
+
+**Ghar ka khana is ghar ka khana.**
+
+---
+
+## 💻 Agentic AI Dashboard
+
+Even though I was home, work didn't completely disappear.
+
+After lunch, I had a discussion with **Utkarsh and Armaan** regarding the **Agentic AI Insights Dashboard**, specifically focusing on the **Live Session Data APIs and database contracts**.
+
+We discussed how the live-session information would be integrated into the existing architecture and what the backend would need to support it.
+
+I also prepared a proper **backend plan for the Live Session integration**, which gave us a clearer direction for the next phase of development.
+
+---
+
+## ❤️ Meeting Everyone
+
+After the discussion, I booked a cab and went out to meet family.
+
+The day turned into a beautiful little family tour.
+
+First, we went to meet **Nanu**.
+
+From there, we met **Masi and one of my cousins**.
+
+Then came one of the sweetest parts of the day—we went to meet my **newborn nephew**, who is just around **2.5 months old**.
+
+And he is **SO CUTE!** 🥹❤️
+
+Holding the little one and seeing him after everything that had happened over the past few months made the day even more special.
+
+After that, we went to meet **another Masi and Masa**, spending some more time with family before finally heading back home at night.
+
+---
+
+## 🌙 Evening
+
+After reaching home, I got freshened up and finally had some quiet time.
+
+Despite being surrounded by family all day, I still made sure to solve **one LeetCode problem**, keeping the streak alive.
+
+Later, I spent some time talking with my family.
+
+And honestly, tonight felt different.
+
+Not because anything extraordinary happened.
+
+But because I was **home**.
+
+---
+
+## 🏡 End of the Day
+
+Today was probably one of the most wholesome days I've had in a long time.
+
+Three months away.
+
+Three months of office, deadlines, debugging, deployments, learning, living away from family, and waiting for this exact moment.
+
+And now I'm here.
+
+At home.
+
+With Mom's food.
+
+With family.
+
+With hugs.
+
+With conversations.
+
+With a tiny new nephew to adore.
+
+With everything that makes home feel like **home**.
+
+As I talked with my family, I slowly drifted off to sleep.
+
+**Day 299.**
+
+**Three months later.**
+
+**Finally home. ❤️**
+
+**Goodnight.**
+
+
+---
