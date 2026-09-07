@@ -1347,3 +1347,108 @@ Maybe that's enough to call a day well spent.
 
 
 ---
+
+# 25 August 2026 | Day 297 | Tuesday
+
+## 🌧️ A Rainy Morning
+
+Today, **Gurugram was hit by heavy rainfall**. The situation was serious enough that the police advised corporates to enforce **work from home**.
+
+Initially, **Ayush and I** thought we would follow the same and stay home.
+
+But around **11:00 AM**, something changed in my mind. I decided I wanted to go in anyway, got ready, and eventually reached the office around **11:30 AM**.
+
+Sometimes, you just suddenly feel like you need to show up.
+
+---
+
+## 🤝 Agentic AI DSM
+
+After reaching the office, I attended the **Agentic AI DSM** meeting and got myself aligned with the day's work.
+
+The major focus of the day, however, was the deployment of **OB backend-utils**.
+
+---
+
+## 🚀 Backend Utils — Almost There
+
+Throughout the day, I had multiple discussions with **Ankit Sir, Paramjeet Singh Walia, and Sandeep Sharma** regarding the deployment.
+
+We worked through the remaining issues in the codebase and finally managed to get **all the major bugs fixed**.
+
+We also completed the required configuration of the **secret values in AWS Secrets Manager**.
+
+After all the debugging, environment issues, token problems, and deployment discussions over the past few days, we finally reached a point where the service is **ready for environment-level testing**.
+
+Tomorrow, we'll test it across the different environments and make sure everything works as expected.
+
+**One more step. Almost there.**
+
+---
+
+## 🌍 A Few Random Thoughts
+
+**Zimbabwe. Argentina. America.**
+
+Sometimes the mind just throws random words at you.
+
+Maybe it's the anticipation of going home tomorrow. Maybe it's just the strange way thoughts wander at the end of a long day.
+
+Either way, I'll leave these three words here.
+
+---
+
+## 🏠 Evening
+
+Reached home around **7:00 PM**.
+
+After completing my daily chores, I solved **one LeetCode problem**, keeping the streak alive.
+
+I then spoke with **her** over a call for a while and later talked with my family.
+
+But the biggest thing on my mind wasn't work anymore.
+
+It was **home**.
+
+---
+
+## 🎒 Packing for Home
+
+After everything else was done, I finally started **packing my bags**.
+
+And suddenly, it hit me.
+
+**Tomorrow, I'm going home.**
+
+After almost **three months away from Ahmedabad**, the wait is finally over.
+
+I'm genuinely excited.
+
+And relieved.
+
+There is something incredibly comforting about knowing that tomorrow I'll wake up with the journey back home ahead of me.
+
+---
+
+## ❤️ Finally. Home.
+
+For the past few weeks, I've kept thinking about Ahmedabad.
+
+About family.
+
+About familiar places.
+
+About the feeling of being home.
+
+I've never stayed away from home for this long in my life, and these three months have definitely taught me a lot.
+
+But now...
+
+**Finally.**
+
+**Home. 🏠❤️**
+
+Tomorrow is going to be a special day.
+
+
+---
