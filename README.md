@@ -391,3 +391,84 @@
 
 
 ---
+
+# 📔 Daily Journal — 9 September 2026
+### Wednesday | Day 312
+
+- 🌅 **Morning — Office**
+  - Reached the office at around **10:10 AM**.
+  - Had a simple breakfast of **milk and banana**.
+  - Started working around **10:45 AM**.
+
+- 🗓️ **New Sprint Planning**
+  - Today we did not have the regular **Agentic AI DSM call** because it was time for **new sprint planning**.
+  - The new sprint brought another important phase of work for the Agentic Insight Dashboard.
+
+- 🚀 **Backend Utils — Image Promotion**
+  - In the morning, discussed the **backend-utils deployment** with **Ankit Gupta**.
+  - Worked on the image promotion process and successfully deployed the image to **pre-production and production**.
+  - This was another important step towards getting the backend utilities properly rolled out across environments.
+
+- 📊 **Agentic Insight Dashboard — Demo Preparation**
+  - Me and **Armaan** spent time preparing for the **Agentic Insight Dashboard demo**.
+  - Reviewed the current implementation and made sure we were prepared to present the dashboard.
+  - However, the dashboard meeting was eventually **postponed after lunch**.
+  - As part of the upcoming sprint, I was assigned the **same dashboard task again**, with the next major responsibility being to **deploy the dashboard**.
+
+- 🍛 **Lunch**
+  - Went for lunch with the team.
+  - Today's lunch included:
+    - Paneer Methi Sabzi
+    - Parathe
+    - Kebabs
+    - Mango Punch Juice
+    - Gulab Jamuns
+    - Rajma Kashmiri
+    - Pulao
+  - A delicious and filling lunch before getting back to the remaining work.
+
+- 💻 **LeetCode**
+  - After lunch, spent a major portion of my time working through **one LeetCode problem**.
+  - Took the time to properly understand and solve it rather than rushing through it.
+  - Another day of keeping the daily problem-solving habit alive.
+
+- 🏠 **Back Home**
+  - Wrapped up the office work and reached home at around **7:00 PM**.
+  - The workday was over, but there were still a few technical discussions and issues to take care of.
+
+- 🤖 **Guardrails POC Discussion**
+  - Had several discussions with **Utkarsh Bhai** regarding the **Guardrails POC**.
+  - Discussed the POC further, particularly around its **distribution** and how the solution should be taken forward.
+  - These discussions helped clarify some of the next steps for the Guardrails work.
+
+- 🔧 **Backend Utils — Preprod Routing Bugs**
+  - Some **routing bugs** appeared for the backend-utils on the pre-production environment.
+  - Investigated the issues and worked on fixing the bugs.
+  - Managed to resolve the routing-related problems that had surfaced after the deployment.
+
+- ⚙️ **CI/CD Cron Job**
+  - Also discussed with **Rahul Rai** regarding the creation of a **cron-based CI/CD job**.
+  - The idea is to have the job run automatically **every 30 minutes**.
+  - Discussed the requirements and approach for setting this up.
+
+- 🍽️ **Dinner**
+  - After finishing the technical discussions and work, had a **light dinner**.
+  - Took some time to wind down after a long day.
+
+- ❤️ **Family & Her**
+  - Talked to my **family over a call** and caught up with everyone.
+  - Later, talked to **her** till late night.
+  - As usual, ending the day with a long conversation with her was one of the most peaceful parts of the day. ❤️
+
+- 🌙 **End of the Day**
+  - Finally went to sleep late at night.
+  - Today was another packed day — **production deployment, dashboard preparation, new sprint planning, Guardrails discussions, preprod bug fixing, CI/CD planning, and LeetCode**.
+  - The dashboard demo may have been postponed, but the upcoming sprint now gives me a clear goal: **get the Agentic Insight Dashboard deployed and ready.**
+
+---
+
+### ✨ Today's Highlight
+> **A new sprint, successful backend-utils promotion to preprod and prod, dashboard deployment becoming the next major goal, several Guardrails and CI/CD discussions, and another LeetCode problem before ending the day with her. 💻🤖❤️**
+
+
+---
