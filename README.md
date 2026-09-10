@@ -48,7 +48,59 @@
 
 ---
 
-
-
 ### ✨ Today's Highlight
 > **Back in Gurgaon, back to work, one LeetCode problem solved, and a special birthday spent together from a distance. ❤️**
+
+---
+
+
+# 📔 Daily Journal — 2 September 2026
+### Wednesday | Day 305
+
+- 🌅 **Morning — Nikhil Arrives**
+  - Nikhil came to **Gurgaon** this morning as well.
+  - We got ready and left for the office together at around **11:00 AM**.
+  - It was nice having company on the way to work.
+
+- 💻 **Work & DSM Meeting**
+  - Attended the **DSM meeting** after reaching the office.
+  - Discussed the **backend plan for the live sessions** in detail.
+  - After the discussion, we started moving from planning towards the **actual implementation**.
+  - Spent the rest of the work session working on the assigned tasks and making progress on the live-session backend.
+
+- 🍛 **Office Lunch**
+  - Had a **tasty lunch at the office**.
+  - Took a short break before getting back to the remaining work.
+
+- 🏠 **Back Home**
+  - Finished the planned tasks and reached home at around **4:00 PM**.
+  - After reaching home, I took a much-needed **nap** and got some rest.
+
+- 🧹 **House Cleaning**
+  - Booked a **house help through Urban Company**.
+  - The house was cleaned properly, which felt good after returning from Ahmedabad and settling back into the routine.
+  - Having a cleaner and more organized space made the evening feel much better.
+
+- 💻 **LeetCode**
+  - Solved **one LeetCode problem** today.
+  - Another small step towards keeping my problem-solving practice consistent.
+
+- 🍽️ **Dinner & Family**
+  - Had a **light dinner** at home.
+  - Later, talked to my family over a call and caught up with everyone.
+
+- ❤️ **Late-Night Conversations**
+  - Spent the later part of the night **talking to her**.
+  - We continued talking till late night, enjoying some quiet and quality time together.
+  - Eventually, while still talking to her, I went to sleep.
+
+- 🌙 **End of the Day**
+  - A relatively productive day — **work progressed on the live-session backend, the house got cleaned, one LeetCode problem was solved, and the day ended with family and her.** ❤️
+
+---
+
+### ✨ Today's Highlight
+> **A productive day of implementation, a cleaner home, one more LeetCode problem, and another peaceful night spent talking to her. ❤️**
+
+
+---
