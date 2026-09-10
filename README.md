@@ -165,3 +165,57 @@
 > **A peaceful darshan at Neem Karoli Dham, a beautiful sunset, tasty homemade food, quality time with Masa and Masi, and ending the night talking to her. A genuinely wholesome day. ❤️🌅**
 
 ---
+
+# 📔 Daily Journal — 4 September 2026
+### Friday | Day 307
+
+- 🪷 **Janmashtami Morning**
+  - Today was **Janmashtami**, so the office was much quieter than usual.
+  - Very few people came to the office because of the festival.
+  - Reached the office at around **10:30 AM**.
+  - Had a simple breakfast of **milk** before starting work.
+
+- 💻 **Work & DSM Meeting**
+  - Started working after reaching the office.
+  - During today's **DSM meeting**, the seniors asked us to schedule a **demo meeting for the dashboard**.
+  - We are planning to conduct the dashboard demo **next week**.
+  - Since there weren't many tasks assigned to me for the rest of the day, I used the time productively.
+
+- 📝 **Dashboard Wiki Updates**
+  - Spent most of the day updating the **Wiki page for our dashboard**.
+  - Documented the new approaches we are taking for the dashboard and organized the information around the overall implementation.
+  - It was a good opportunity to properly document the work and approaches that we have been developing.
+
+- 🏠 **Back Home Early**
+  - Came back home relatively early from the office.
+  - Wanted to make the most of the evening since **Masa and Masi** were still here.
+  - Spent a lot of time talking with them and enjoying their company.
+
+- 🍽️ **Dinner With Family**
+  - Had dinner together with Masa and Masi.
+  - After dinner, we talked for quite a while and spent some relaxed family time together.
+  - It felt nice to slow down after a normal workday and simply enjoy being around them.
+
+- 🛕 **Janmashtami Celebration**
+  - Later at night, we went to a **nearby mandir** for the Krishna Janma ceremony.
+  - The temple had a beautiful festive atmosphere with people gathered for the Janmashtami celebrations. 🪷
+  - Had **ice cream as prasaadam**, which was a sweet little highlight of the celebration. 🍦
+  - Being there for Krishna Janma on Janmashtami made the evening feel especially peaceful and festive.
+
+- 🚆 **Masa & Masi's Journey Ahead**
+  - Tomorrow morning, Masa and Masi will leave for **Haridwar**.
+  - They need to leave early, around **7:00 AM**.
+  - I am thinking of waking up early and going to the railway station to **drop them off** before they leave.
+  - It will be nice to spend a little more time with them before they continue their journey.
+
+- 🌙 **End of the Day**
+  - Went to sleep after a peaceful Janmashtami evening.
+  - Today was a relatively light workday, but the evening made it special — **family time, Krishna Janma, prasaadam, and the final evening with Masa and Masi before their journey to Haridwar.**
+  - Tomorrow starts early, so it's time to get some rest.
+
+---
+
+### ✨ Today's Highlight
+> **A quiet Janmashtami at the office, productive documentation work, and a beautiful evening with Masa and Masi at the mandir for Krishna Janma. 🪷❤️**
+
+---
