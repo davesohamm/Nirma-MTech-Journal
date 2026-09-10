@@ -104,3 +104,64 @@
 
 
 ---
+
+
+# 📔 Daily Journal — 3 September 2026
+### Thursday | Day 306
+
+- 🌅 **Early Morning — Railway Station**
+  - Woke up early and got ready to receive **Masa and Masi**, who came to Gurgaon today.
+  - Went to the railway station to pick them up.
+  - After meeting them, we came back home together.
+  - Today, I decided to **work from home**, which also gave me some time to spend with them.
+
+- 💻 **Work From Home**
+  - Started my workday from home and continued working on my assigned tasks.
+  - Also worked on fixing some **deployment issues that Param had flagged**.
+  - Managed to finish my tasks **earlier than expected**, which gave me the opportunity to spend the evening with Masa and Masi.
+
+- ❤️ **Time With Masa & Masi**
+  - Spent a good amount of time talking to them and catching up.
+  - It felt really nice having them around and being able to spend some quality time together.
+  - We had a **very tasty lunch** together.
+  - Masi had prepared the food and brought it with her, which made the lunch even more special. ❤️
+
+- 🛕 **Visit to Neem Karoli Dham**
+  - After finishing my work, we went out to explore a few places in Gurgaon.
+  - Our first stop was **Neem Karoli Dham** for darshan.
+  - The atmosphere of the mandir was incredibly peaceful and calming.
+  - **Masa and Masi really loved the peaceful environment** of the temple.
+  - The sunset from there was absolutely stunning. 🌅
+  - Being there felt like a complete escape from the chaos and noise of the city.
+  - Such a **lovely and peaceful place** — definitely one of the highlights of the day.
+
+- 🛍️ **Ambience Mall**
+  - After the temple visit, we went to **Ambience Mall**.
+  - Spent the rest of the evening there, walking around, exploring and spending time together.
+  - Stayed there till night before heading back home.
+
+- 🍽️ **Dinner & Family Call**
+  - Came back home and had dinner together.
+  - Later, called my family and talked to them over the phone.
+  - It was a warm and wholesome end to a day spent with family.
+
+- 💻 **LeetCode**
+  - Despite having a busy day, I still managed to solve **one LeetCode problem**.
+  - Keeping the consistency going, one problem at a time.
+
+- ❤️ **Late-Night Conversations**
+  - Later at night, I talked to her.
+  - We kept talking till late night and eventually **fell asleep while talking**.
+  - Ending the day this way made the whole day feel even more peaceful and complete. ❤️
+
+- 🌙 **End of the Day**
+  - Today was a beautiful combination of **work, family, spirituality, a peaceful sunset, and meaningful conversations**.
+  - Got some important work done, fixed deployment issues, solved a LeetCode problem, and most importantly, got to spend a wonderful day with Masa and Masi.
+  - A day that felt **far away from the usual city chaos** and much closer to the things that actually matter. ❤️
+
+---
+
+### ✨ Today's Highlight
+> **A peaceful darshan at Neem Karoli Dham, a beautiful sunset, tasty homemade food, quality time with Masa and Masi, and ending the night talking to her. A genuinely wholesome day. ❤️🌅**
+
+---
