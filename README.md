@@ -472,3 +472,95 @@
 
 
 ---
+
+
+# 📔 Daily Journal — 10 September 2026
+### Thursday | Day 313
+
+- 🌅 **Morning — Office**
+  - Reached the office at around **9:40 AM**.
+  - Had a simple breakfast of **milk**.
+  - Started working soon after and got into the backend-utils tasks for the day.
+
+- 🔧 **Backend Utils — Debugging & Automation**
+  - Spent the morning debugging the **backend-utils** and fixing the bugs that were currently present.
+  - As discussed with **Ankit Sir**, worked on automating an important Jira workflow.
+  - The required flow was:
+    - Check whether **all Serial ID checks are in the present state**.
+    - Once all the checks are completed, add the required **comment on Jira**.
+    - Automatically update the Jira state from **`ReadyToTest` → `Closure`**.
+  - Implemented the required changes and applied the fixes to the codebase.
+  - Started working towards deploying the updated backend-utils on **UAT**.
+
+- 🤖 **Agentic AI DSM**
+  - Attended the daily **Agentic AI DSM meeting** from around **11:30 AM to 12:20 PM**.
+  - Discussed the current **Guardrails approach** and the direction we are taking with it.
+  - We also discussed the schedule for the upcoming **Agentic Insights Dashboard demo**.
+  - The meeting helped align everyone on the current state of both the Guardrails work and dashboard demonstration.
+
+- 🚀 **UAT Deployment — Debugging**
+  - After the DSM meeting, continued working on the UAT deployment until lunch.
+  - Deployed the backend-utils to **UAT multiple times** while debugging the issues.
+  - The APIs were initially **not fetching the correct details**, which required repeated testing and investigation.
+  - Continued debugging the API behaviour and deployment until the issues were properly understood.
+
+- 🍛 **Lunch**
+  - Had a delicious and filling lunch:
+    - Custard
+    - Chapati
+    - Palak Paneer
+    - Jeera Aloo
+    - Litchi Juice
+    - Chhole
+    - Pulao
+    - Honey Chilli Potato
+    - Salad
+  - Took a short break before getting back to the deployment work.
+
+- ✅ **Backend Utils — Successful UAT Deployment**
+  - After lunch, continued debugging and testing the backend-utils.
+  - Finally managed to **successfully deploy and test the backend-utils on UAT**.
+  - Verified the changes and ensured that the updated flow was working as expected.
+
+- 🚀 **Preprod Promotion**
+  - After the successful UAT deployment, requested an **MR merge for image promotion** of the backend-utils to pre-production.
+  - The MR was approved by **Ankit Sir**.
+  - The updated project was successfully deployed on **preprod**.
+  - After the deployment, contacted **Thiru Balaji Somusundaram** and requested the relevant **Jira ticket** so that the required testing could be carried out on the preprod environment.
+
+- 🏠 **Evening — Home**
+  - Reached home at around **7:00 PM**.
+  - Today, some **electrical repair work** was also carried out at home by the electrician.
+  - Once that was done, completed my daily chores and settled down for the evening.
+
+- 🍽️ **Dinner**
+  - Had a **light dinner** at home.
+  - Kept the evening relatively simple after a long and technically demanding day.
+
+- 💻 **LeetCode**
+  - Solved **one LeetCode problem** today.
+  - Even with a long day of debugging and deployments, managed to keep the daily problem-solving streak going.
+
+- ❤️ **Family & Her**
+  - Talked to my **family over a call** and caught up with everyone.
+  - Later, spent some time **talking to her**.
+  - These conversations gave me some much-needed downtime after the long workday.
+
+- 📚 **MTech Research Work**
+  - Later at night, worked on my **MTech Federated Learning research paper**.
+  - Spent time working on the **handwritten draft** and developing the research work further.
+  - Continued working on it till late night.
+
+- 🌙 **End of the Day**
+  - Finally went to sleep **late at night**.
+  - Today was a long and highly productive technical day — from debugging backend-utils and automating the Jira workflow to successfully deploying on UAT and then promoting the image to preprod.
+  - Alongside work, managed to solve a LeetCode problem, spend time with family and her, and make progress on my MTech research paper.
+  - A tiring day, but definitely one where **a lot of things moved forward.** 💻🚀📚
+
+---
+
+### ✨ Today's Highlight
+> **Successfully took the backend-utils from debugging to UAT and then preprod, while also automating the Jira closure flow — and still managed to keep up with LeetCode and make progress on my MTech research paper. 💻🚀📚❤️**
+
+
+---
