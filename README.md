@@ -219,3 +219,80 @@
 > **A quiet Janmashtami at the office, productive documentation work, and a beautiful evening with Masa and Masi at the mandir for Krishna Janma. 🪷❤️**
 
 ---
+
+
+# 📔 Daily Journal — 7 September 2026
+### Monday | Day 310
+
+- 🌅 **Morning — Office & Setup**
+  - Reached the office at around **10:00 AM**.
+  - Had a simple breakfast of **banana and milk**.
+  - Before the DSM meeting, spent some time setting up the **sprint dashboard and task management** so that the ongoing work could be tracked and organized properly.
+
+- 💻 **DSM Meeting**
+  - Around **11:30 AM**, we had the daily **DSM meeting**.
+  - Shared updates regarding:
+    - ✅ **Completed deployment tasks**
+    - ⏳ **Pending deployment tasks**
+    - 🐛 Current **deployment issues**
+    - 📌 Further pointers and next steps
+  - It was a good opportunity to clearly communicate where the dashboard deployment currently stands.
+
+- 👨‍💻 **Development Work**
+  - Till lunchtime, worked on the changes that **Utkarsh had mentioned**.
+  - Also spent some time trying to resolve the existing **deployment issue**.
+  - I tried multiple things, but unfortunately couldn't get the deployment issue completely resolved today.
+  - Continued working on the remaining development tasks instead.
+
+- 🍛 **Lunch**
+  - Had a very wholesome lunch at the office:
+    - Bhindi Do Pyaza
+    - Malai Kofta
+    - Parathe
+    - Bhel
+    - Dal Makhani
+    - Rice
+    - Boiled Salad
+  - A pretty filling and satisfying lunch before getting back to work.
+
+- 🧑‍💻 **UI, Backend & Database Review**
+  - After lunch, had a meeting with **Utkarsh and Armaan**.
+  - We went through the dashboard together and identified quite a few issues.
+  - Most of the issues were **UI-related**, along with a few **backend and database-related problems**.
+  - The discussion gave me a clear list of things that needed to be fixed.
+
+- 🔧 **Fixing the Issues**
+  - Started working through the issues identified during the meeting.
+  - Spent the afternoon fixing the UI issues and addressing the backend/database problems.
+  - Managed to complete the identified tasks by around **5:30 PM**.
+  - It felt good to close out a large chunk of the pending work before leaving the office.
+
+- 🏠 **Evening — Back Home**
+  - After completing the tasks, left the office and reached home at around **6:40 PM**.
+  - Took some time to settle down before heading out again.
+
+- 🛕 **Mandir & Pooja**
+  - Went to the **mandir** in the evening as it was **Agiyaras** and also the **last Monday of the Shraavan month**.
+  - Did **pooja** at the mandir and spent some peaceful time there.
+  - Coming back from the mandir after a busy workday felt calming.
+
+- 💻 **LeetCode**
+  - Later in the evening, solved **one LeetCode problem**.
+  - Another small step towards keeping the problem-solving routine consistent.
+
+- ❤️ **Conversations**
+  - Talked to **her** for a while and spent some quiet time together.
+  - Later, had a call with my **family** and caught up with everyone.
+
+- 🌙 **End of the Day**
+  - Finally went to sleep after a long but productive Monday.
+  - Today was packed with work — from **sprint planning and deployment updates to UI, backend and database fixes**, followed by some peaceful time at the mandir.
+  - Even though the deployment issue is still pending, most of the other tasks were successfully wrapped up today.
+
+---
+
+### ✨ Today's Highlight
+> **A packed Monday of fixing UI, backend and database issues, followed by a peaceful pooja at the mandir, one LeetCode problem, and ending the night with her and family. 🛕💻❤️**
+
+
+---
