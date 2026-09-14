@@ -658,3 +658,119 @@
 
 
 ---
+
+
+# 📔 Daily Journal — 14 September 2026
+### Monday | Day 317
+
+- 🌅 **Morning — A New Workspace!**
+  - Reached the office at around **10:00 AM**.
+  - Had breakfast of **Chocos with milk and a peanut butter sandwich**.
+  - Started working around **10:35 AM**.
+  - Today was a little different because we finally started working from our **new workspace on the 2nd floor**! 🎉
+  - The entire **Home Central team** has now been shifted to the newly built second floor.
+  - Our **Broadband department** also has a customized desk lab here, especially for working with routers and related hardware.
+  - The entire floor looks really great and feels like a major upgrade to our workspace.
+  - We had a small tour of the new floor together, explored the different areas, and everyone seemed to really like the new setup.
+  - Definitely an exciting change to start the week with!
+
+- 🤖 **Agentic AI DSM**
+  - Around **11:30 AM**, attended the daily **Agentic AI DSM meeting**.
+  - Mentioned that a significant portion of my current bandwidth is being spent on the secondary **Backend Utils project**.
+  - Shared the current workload situation with the team so that my parallel responsibilities were clear.
+
+- 🔐 **Four Tokens — Authentication Issue**
+  - After the DSM meeting, had a call with **Naumaan** regarding the issue where **four tokens were not working**.
+  - Investigated the problem and understood that the issue was happening because the required **field value name was not mentioned** in those tokens.
+  - Because of this missing field value, the tokens were running into **authentication issues**.
+  - Pinged **Param** regarding the issue and shared the findings so that it could be looked into further.
+
+- 📊 **Agentic AI Dashboard — Deployment Planning**
+  - Had another meeting with **Utkarsh Bhai** regarding the deployment of the **Agentic AI Dashboard**.
+  - He asked me to prepare all the necessary **deployment prerequisites**.
+  - After the meeting, started working on both projects in parallel — the **Backend Utils** work as well as the **Agentic AI Dashboard deployment**.
+
+- 🧪 **Backend Utils — End-to-End Testing**
+  - **Thiru Balaji Somusundaram** asked me to run the complete **end-to-end flow for a Jira ticket**.
+  - Took up the ticket and managed to complete the required testing and work in a fairly short time.
+  - It felt good to quickly close out the task and move on to the remaining issues.
+
+- 🔀 **Routing Issue — UAT to Preprod**
+  - Later, worked on a **routing issue** related to the mismatch between **UAT and preprod**.
+  - Discussed the issue with **Anmol** to understand the difference between the two environments.
+  - After understanding the mismatch, fixed the routing issue successfully.
+
+- 🔧 **Upload Credential API — Serial ID Validation**
+  - Thiru had another important pointer regarding the **Upload Credential API**.
+  - He wanted to add a header that would allow the system to check **all Serial IDs instead of only the sampled Serial IDs**.
+  - Developed the required functionality for him.
+  - Kept the behaviour **configurable**, so that the validation mode can be controlled depending on the requirement.
+  - Another useful improvement to the Backend Utils flow completed today.
+
+- 🍛 **Lunch**
+  - Had lunch around **1:00 PM**.
+  - Today's lunch included:
+    - Chapati
+    - Aloo Gobhi
+    - Chhole Rice
+    - Paneer Lababdar
+    - Pink Sauce Pasta
+    - Salad
+    - Motichoor Laddu
+    - Aam Panna Juice
+  - A pretty delicious and filling Monday lunch.
+
+- 🚀 **Agentic AI Dashboard — Deployment Preparation**
+  - After lunch, shifted my focus towards the **Agentic AI Dashboard deployment**.
+  - Started by organizing the project properly.
+  - Created the appropriate **folder structures for both the frontend and backend repositories**.
+  - Once the repository structure was organized, started preparing the detailed **deployment plans and prerequisites**.
+  - Worked through the setup while simultaneously handling the Backend Utils tasks.
+
+- 🧑‍💻 **Parallel Project Work**
+  - A major part of today's work involved switching between the two projects:
+    - 🤖 **Agentic AI Dashboard** — deployment preparation, folder structures, prerequisites and deployment planning.
+    - 🔧 **Backend Utils** — E2E testing, routing fixes, API improvements and environment-related issues.
+  - It was a busy day, but managing both streams of work gave me a clearer understanding of where each project currently stands.
+
+- 🤝 **Final Deployment Discussion**
+  - Had one final meeting with **Utkarsh Bhai** regarding the Agentic AI Dashboard deployment.
+  - Showed him the **current blockers and issues** that were preventing us from moving ahead with the deployment.
+  - He suggested that we would discuss these issues with **Shitunjay** and work towards fixing them as soon as possible.
+  - At least the blockers are now clearly identified, so the next step is to resolve them and push the deployment forward.
+
+- 🍝 **Evening Snacks**
+  - Had **macaroni masala and a sandwich** as evening snacks.
+  - A nice little break after a long day of switching between development, debugging and deployment work.
+
+- 🏠 **Back Home**
+  - Reached home at around **7:00 PM**.
+  - Completed my daily chores and finally got some time to slow down after the hectic workday.
+
+- 💻 **LeetCode**
+  - Solved **one LeetCode problem** today.
+  - Even on a day packed with project work and meetings, managed to maintain the daily problem-solving routine.
+
+- ❤️ **Family & Her**
+  - Talked to my **family over a call** and caught up with everyone.
+  - Later, spent some time **talking to her**.
+  - A peaceful way to disconnect from the technical work of the day.
+
+- 📚 **MTech Research Work**
+  - After that, continued working late into the night on my **MTech major research project**.
+  - Also worked on the **minor report for the Federated Learning project**.
+  - Slowly making progress on both academic deliverables alongside the regular office workload.
+
+- 🌙 **End of the Day**
+  - Finally went to sleep **late at night**.
+  - Today was an extremely packed Monday — a **new office workspace, Agentic AI DSM, Backend Utils debugging and development, routing fixes, API enhancements, dashboard deployment planning, multiple meetings, LeetCode, and MTech research work**.
+  - The new second floor was definitely the most refreshing part of the day, while the amount of technical work made it one of the busiest Mondays in a while.
+  - A tiring day, but a productive one. 💻🚀📚
+
+---
+
+### ✨ Today's Highlight
+> **A fresh start on the new 2nd-floor workspace, two projects running in parallel, important Backend Utils fixes, and serious progress towards the Agentic AI Dashboard deployment — followed by LeetCode and late-night MTech research work. A very productive Monday! 🚀💻❤️**
+
+
+---
