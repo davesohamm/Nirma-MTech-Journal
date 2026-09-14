@@ -559,6 +559,100 @@
 
 ---
 
+# 📔 Daily Journal — 11 September 2026
+### Friday | Day 314
+
+- 🌅 **Morning — Office**
+  - Reached the office at around **10:00 AM**.
+  - Had a simple breakfast of **milk**.
+  - Started working around **10:35 AM**.
+  - Since the morning was relatively free from development tasks, I first went through all the pending communication.
+  - Replied to the **pending emails and Teams messages** and cleared out the communication backlog.
+
+- 🤖 **Agentic AI DSM**
+  - Around **11:30 AM**, attended the daily **Agentic AI DSM meeting**.
+  - Mentioned that my current bandwidth is largely occupied with the parallel **Backend Utils project**.
+  - Shared this context with the team so that the workload and priorities were clear.
+
+- 📚 **Research Paper Work**
+  - After the DSM meeting, there were no major office tasks assigned to me for the day.
+  - Used the available time productively by working on my **MTech research paper**.
+  - I had received the research paper material from college, so I spent a significant part of the day **reframing and restructuring the paper**.
+  - Worked on improving the overall flow and presentation of the research work.
+
+- 🍛 **Lunch**
+  - Had lunch around **1:00 PM**.
+  - Today's lunch included:
+    - Kadhi Pakoda
+    - Rice
+    - Rumali Roti
+    - Soya Chaap Sabzi
+    - Mix Veg
+    - Shahi Tukda
+    - Mango Juice
+    - Salad
+    - Dahi Bhalle
+  - A very satisfying and filling Friday lunch.
+
+- ❤️ **A Long Conversation**
+  - After lunch, received a call from **her**.
+  - Spent a long time talking to her, all the way till around **3:30 PM**.
+  - It was a nice break from work and gave me some quality time together during the afternoon.
+
+- 🌧️ **Heavy Rain — Leaving Office Early**
+  - It started **raining heavily** later in the afternoon.
+  - Because of the weather, we decided to leave the office early.
+  - Came back home and continued with the remaining tasks from there.
+
+- 🧪 **Backend Utils — Testing New Jira Tickets**
+  - After reaching home, tested the **new Backend Utils Jira tickets** that **Thiru Balaji Somusundaram** had provided.
+  - Went through the relevant flows and tested the changes carefully.
+  - During testing, identified a few issues.
+  - Flagged those issues and shared them with Thiru so that they could be addressed.
+
+- 🔀 **Tenant-Wise Routing Discussion**
+  - Also clarified a few things with Thiru regarding the project.
+  - Discussed the **tenant-wise routing** approach and cleared up some of the questions around how the routing should work.
+  - These discussions helped bring more clarity to the backend-utils implementation and testing process.
+
+- 😴 **Evening Rest**
+  - After finishing the testing and discussions, I was quite tired.
+  - Slept for a **couple of hours** and got some much-needed rest.
+  - Woke up later and continued with the evening routine.
+
+- 🍽️ **Dinner & Family**
+  - Had a **light dinner** after waking up.
+  - Later, talked to my **family over a call** and caught up with everyone.
+
+- 🎬 **Movie Night With Her**
+  - Spent some quality time with **her**.
+  - We watched a **horror movie together**.
+  - It was a nice and relaxed way to spend the night, especially after a tiring day.
+
+- 💻 **LeetCode**
+  - Before going to bed, solved **one LeetCode problem**.
+  - Managed to maintain the daily consistency despite the relatively unusual workday.
+
+- 📚 **Late-Night Research Work**
+  - Before sleeping, spent some more time working on my **MTech research paper**.
+  - Continued refining the draft and making progress on the paper.
+  - Slowly getting the research work into a more structured and polished form.
+
+- 🌙 **End of the Day**
+  - Finally went to sleep after a long Friday.
+  - Today was a comparatively lighter office day, but I still managed to make good use of the time — **cleared pending communication, worked on my research paper, tested Backend Utils tickets, clarified tenant-wise routing, solved LeetCode, and spent quality time with family and her.**
+  - The heavy rain also gave the day an unexpected early finish, making the evening a little more relaxed.
+
+---
+
+### ✨ Today's Highlight
+> **A quieter workday turned into a productive research and testing day — with Backend Utils testing, progress on my MTech paper, a horror movie with her, one LeetCode problem, and a rainy early exit from the office. 🌧️💻📚❤️**
+
+---
+
+
+
+
 ### ✨ Today's Highlight
 > **Successfully took the backend-utils from debugging to UAT and then preprod, while also automating the Jira closure flow — and still managed to keep up with LeetCode and make progress on my MTech research paper. 💻🚀📚❤️**
 
