@@ -996,3 +996,132 @@
 ---
 
 
+# 📔 Daily Journal — 17 September 2026
+### Thursday | Day 320
+
+- 💧 **Morning Chaos — No Water!**
+  - Today morning started with an absolute **tragedy** — we had **no water supply at home!** 😭
+  - Had to somehow manage our morning routine using multiple **Bisleri bottles**.
+  - Brushing teeth and taking a bath with bottled water was definitely an experience. 😂
+  - Honestly, only we know how we managed to get ready this morning!
+  - Because of all this chaos, reached the office a little late at around **10:30 AM**.
+
+- 🥛 **Breakfast**
+  - Had breakfast of **sing bhujiya and Hode & Seek biscuits with hot milk**.
+  - Started getting into work mode after breakfast.
+
+- 💻 **Agentic AI DSM**
+  - Started working around **11:20 AM**.
+  - At **11:30 AM**, attended the daily **Agentic AI DSM meeting**.
+  - Discussed the ongoing **Spring-to-Node.js backend migration** for the Agentic Insights Dashboard.
+  - The migration is still **in progress** and remains one of the major ongoing tasks.
+  - Also discussed a few additional points related to the **dashboard deployment** and its current status.
+
+- 🐳 **Dashboard Deployment — Docker & Nginx**
+  - After the DSM meeting, had a quick call with **Utkarsh and Param**.
+  - Discussed the deployment setup with Param from the DevOps team.
+  - Based on my suggestions, Param made the required changes to the **Dockerfile and `app.conf`**.
+  - I then attempted the dashboard deployment again.
+  - Unfortunately, the deployment **failed once again**, this time with an **Nginx-related error**.
+  - Another round of debugging was needed to figure out what was going wrong.
+
+- 📊 **Incident Analyzer — Auto-Generated Emails**
+  - Had a discussion with **Ankit Gupta Sir** regarding the **Incident Analyzer auto-generated email functionality**.
+  - Discussed the data fields that need to be included in the generated emails.
+  - Also went through the different configuration possibilities:
+    - 📅 Daily
+    - 📅 Weekly
+    - 📅 Monthly
+    - 📡 Broadband (BB)
+    - 📺 TV
+    - 🔄 Both BB + TV
+  - Also had a small discussion regarding the **priority Jira age diagram types** and how the relevant information should be represented.
+  - These discussions helped clarify several functional requirements for the Incident Analyzer.
+
+- 🍛 **Lunch**
+  - Went for lunch around **1:00 PM**.
+  - Today's lunch included:
+    - Paneer Mutter
+    - Methi Paratha
+    - Pizza Pocket
+    - Corn Salad
+    - Kesar Phirni
+    - Kadhi Pakoda
+    - Rice
+  - A delicious and filling lunch before getting back to the deployment battle.
+
+- 🚀 **Agentic Insights Dashboard — Finally Deployed!**
+  - After lunch, asked **Shitunjay from DevOps** for help with the dashboard deployment.
+  - Continued debugging and working through the deployment issues.
+  - Eventually, I managed to **deploy the dashboard successfully by myself around 3:30 PM**! 🎉
+  - After getting it deployed, shared the **deployment report with Utkarsh** as well.
+  - After several attempts and the Nginx-related problems earlier in the day, getting the dashboard deployed was a very satisfying moment.
+
+- ▶️ **A Small Break**
+  - Around **4:00 PM**, took some time to watch **YouTube** and freshen up my mind.
+  - Needed a short mental break after spending so much time debugging deployment issues.
+
+- ⚛️ **MTech Thesis — V2X & Quantum Cryptography**
+  - Around **4:00 PM**, got back to work, but this time shifted my focus completely towards my **MTech thesis project**.
+  - My thesis focuses on the **V2X authentication problem using quantum cryptography**.
+  - With my college review coming up in just **two days**, I needed to seriously prepare.
+  - Spent the afternoon and evening working on:
+    - 📚 Literature review
+    - 📊 Literature review Excel sheets
+    - 📝 Important research points
+    - 🖥️ Presentation preparation
+    - 📐 Technical diagrams
+  - Organized the research material and prepared the content that I would need for the upcoming review.
+  - This was an important preparation session because the review is getting very close now.
+
+- 🍽️ **Evening Snacks**
+  - Around **6:00 PM**, had **dhokla and poha** as evening snacks.
+  - A nice Gujarati-style snack break before leaving the office.
+
+- 🚶 **Walking Back Home — 4.5 KM!**
+  - Left the office around **6:30 PM**.
+  - Decided to walk back home today.
+  - Reached home around **7:20 PM**.
+  - Walked for approximately **50 minutes and covered 4.5 km**. 🚶‍♂️🔥
+  - Managed to complete my daily steps target as well!
+  - After sitting and working for most of the day, the walk felt like a great way to get some movement in.
+
+- 📞 **Evening With Her**
+  - After reaching home, talked to **her** for a while over a call.
+  - It was nice to unwind and talk after such a long day.
+
+- 💻 **LeetCode**
+  - Solved **one LeetCode problem** today.
+  - Even with the thesis preparation and deployment work, managed to keep the daily streak alive.
+
+- 🚿 **The Best Shower Ever**
+  - Took a **long one-hour bath** after everything was done.
+  - Shampoo, proper shower, and finally having **loads of water again!** 😂
+  - After the morning's water-supply disaster, that shower felt absolutely heavenly.
+  - Honestly, **what a god-level feeling after a tiring day!** 🚿😂
+
+- ❤️ **Family & Daily Chores**
+  - Talked to my **family over a call**.
+  - Completed my daily chores and settled down for the night.
+  - Finally, the house had water again, so the morning crisis felt like a distant memory. 😭➡️😂
+
+- 📚 **Late-Night Research**
+  - Later at night, talked to **her** again.
+  - Continued working on the **pending research work** for my upcoming MTech thesis review.
+  - Finished the remaining preparation and research tasks for the day.
+  - With the review only two days away, the pressure is definitely increasing, but today's preparation helped me feel more organized.
+
+- 🌙 **End of the Day**
+  - Finally went to sleep late at night.
+  - What a day — it literally started with **no water**, moved through multiple deployment failures and an Nginx issue, eventually ended with a **successful dashboard deployment**, and then shifted into intense thesis preparation.
+  - On top of everything, managed to walk **4.5 km**, solve LeetCode, spend time with family and her, and finally enjoy a proper shower after the water supply returned.
+  - Definitely one of those **chaotic but incredibly productive days**. 💻🚀📚🚿
+
+---
+
+### ✨ Today's Highlight
+> **From brushing and bathing with Bisleri bottles in the morning to successfully deploying the Agentic Insights Dashboard, preparing seriously for my V2X thesis review, walking 4.5 km, solving LeetCode, and finally taking a heavenly one-hour shower after the water returned — today was pure chaos, productivity, and satisfaction all at once! 😂💧🚀📚❤️**
+
+
+---
+
