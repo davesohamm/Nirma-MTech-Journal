@@ -774,3 +774,121 @@
 
 
 ---
+
+# 📔 Daily Journal — 15 September 2026
+### Tuesday | Day 318
+
+- 🌅 **Early Morning — Thesis Preparation**
+  - Woke up around **6:00 AM**.
+  - Started working early in the morning on the upcoming **19 September college thesis review**.
+  - Spent some focused time doing a **literature review** for my research work.
+  - It felt good to make progress on the academic work before starting the office day.
+
+- 🏢 **Morning — Office**
+  - Reached the office at around **10:00 AM**.
+  - Had breakfast consisting of a **peanut butter sandwich and muesli with milk**.
+  - Started working after breakfast.
+
+- 🔧 **Backend Utils — Incident Analysis API**
+  - Had a quick meeting with **Ankit Sir** in the morning.
+  - He guided me through the Backend Utils project and discussed the next requirement.
+  - I was asked to develop an **Incident Analysis Weekly Report API**.
+  - The requirement included:
+    - 📊 Generating the weekly incident analysis report.
+    - 📧 Providing an **auto-generated email facility**.
+    - 🔗 Including the relevant **TV-side Jira** information as part of the flow.
+  - Discussed the requirements and expected flow with Ankit Sir in detail.
+  - After getting clarity, started working on the implementation.
+
+- 🎫 **OBPES Jira — Token Issue**
+  - Raised an **OBPES Jira** for the DevOps team regarding the ongoing **four-token issue**.
+  - Assigned the ticket to **Shitunjay** so that the issue could be investigated from the DevOps side.
+  - The authentication problem is still being tracked and requires further investigation.
+
+- 🤖 **Agentic AI DSM**
+  - Today we **did not have the regular Agentic AI DSM call at 11:30 AM**.
+  - This gave me some additional uninterrupted time to focus on the Backend Utils development work.
+
+- 🍛 **Lunch**
+  - Went for lunch around **1:00 PM**.
+  - Today's lunch included:
+    - Paneer Tikka Masala
+    - Aloo Paratha
+    - Dal Rice
+    - Pasta
+    - Salad
+    - Corn Chaat
+    - Baingan Bharta
+    - Rasgulla
+  - A delicious and filling lunch before getting back to the afternoon tasks.
+
+- 🔐 **Token Issue — Discussion With Shitunjay**
+  - After lunch, had a meeting with **Utkarsh Bhai**.
+  - He connected me with **Shitunjay** over a call so that we could discuss the token issue directly.
+  - Had a long discussion with Shitunjay regarding the **four tokens and their authentication problems**.
+  - Went through the issue and possible causes in detail.
+  - Unfortunately, the issue is **not resolved yet** and still needs further investigation and fixing.
+
+- 🧁 **2nd Floor Celebration**
+  - We got **three cupcakes** as part of the celebration for the opening of the new **2nd-floor workspace**. 🎉
+  - The cupcakes were:
+    - 🫐 Blueberry
+    - 🍓 Mix Fruit
+    - 🍫 Chocolate
+  - A small but sweet celebration for the new workspace and a nice break from the technical work.
+
+- 🎸 **Leisure Conversation**
+  - Later, had some relaxed conversations with **Utkarsh Bhai**.
+  - Talked about things beyond work, including:
+    - ✈️ Travelling
+    - 🎸 Guitar
+    - 🎵 Music
+    - 🦁 Safari
+    - And other random interests
+  - It was nice to have some casual conversations and take a break from the usual technical discussions.
+
+- 💻 **Incident Analyzer — Implementation**
+  - Continued working on the **Incident Analyzer / Incident Analysis Weekly Report** after the discussions.
+  - Focused on completing the required functionality and integrating the planned flow.
+  - Worked on it until around **5:30 PM**.
+  - Successfully **finished the assigned work** by the evening.
+  - It felt satisfying to complete the requirement within the day.
+
+- 🍔 **Evening Snacks**
+  - Had **burger and French fries** as evening snacks.
+  - A tasty reward after finishing the Incident Analyzer work.
+
+- 🏠 **Back Home**
+  - Reached home around **7:00 PM**.
+  - Completed my daily chores and settled down for the evening.
+
+- 💻 **LeetCode**
+  - Solved **one LeetCode problem** today.
+  - Even after starting the day early and completing a full day of office work, managed to keep the daily practice going.
+
+- ❤️ **Family & Her**
+  - Talked to my **family over a call** and caught up with everyone.
+  - Later, spent some quality time **talking to her**.
+  - The evening conversations helped me unwind after a busy day.
+
+- 📚 **MTech Major Project**
+  - After spending some time with her, continued working on my **MTech major project report**.
+  - Worked on the report late into the night as the **19 September thesis review** is getting closer.
+  - The combination of literature review in the morning and report writing at night made the entire day quite academically focused as well.
+
+- 🌙 **End of the Day**
+  - Finally went to sleep **late at night**.
+  - Today was a long but productive day, beginning with thesis preparation at **6:00 AM** and ending with work on the major project report.
+  - At the office, made good progress on the **Incident Analyzer**, raised the DevOps Jira for the token issue, and had several useful technical discussions.
+  - The token issue remains unresolved, but the Incident Analyzer work was successfully completed.
+  - Another busy day of balancing **office work, technical problem-solving, LeetCode, and MTech research**. 💻📚🚀
+
+---
+
+### ✨ Today's Highlight
+> **Started the day at 6 AM with thesis literature review, completed the Incident Analyzer work, raised the token issue for DevOps, celebrated the new 2nd floor with cupcakes, and ended the day working on my MTech report. A busy but productive Tuesday! 📚💻🧁❤️**
+
+
+---
+
+
