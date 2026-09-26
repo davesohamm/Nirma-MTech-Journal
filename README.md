@@ -1307,3 +1307,101 @@
 
 ---
 
+
+# 📔 Daily Journal — 22 September 2026
+### Tuesday | Day 325
+
+- 🌅 **Morning — Office**
+  - Reached the office at around **10:00 AM**.
+  - Had breakfast of **muesli with milk and a peanut butter sandwich**.
+  - Started working around **10:30 AM**.
+
+- 🚀 **Agentic AI Dashboard — Deployment Status**
+  - Started the morning with a discussion with **Utkarsh Bhai** regarding the current status of the **Agentic AI Dashboard deployment**.
+  - Went through the blockers and the remaining steps required to move the deployment forward.
+
+- 🤖 **Agentic AI DSM**
+  - Around **11:30 AM**, attended the daily **Agentic AI DSM meeting**.
+  - Discussed the current dashboard task, its **deployment status**, and the other blockers that were still pending.
+  - Shared the progress made so far and the issues that were currently being worked on.
+
+- 🗄️ **Database Access — Major Progress**
+  - After the DSM, had multiple discussions with **Utkarsh and Param** regarding the dashboard deployment.
+  - After several rounds of debugging, we eventually ran an **SQL script directly on the pod**.
+  - This resolved the access issue that had been blocking us.
+  - Finally, we were able to **successfully call the database from the pod**! 🎉
+  - This was an important breakthrough for the deployment.
+
+- 🔐 **UAT & Preprod Database Setup**
+  - After resolving the immediate access issue, we identified another requirement.
+  - There are multiple database specifications/configurations across the **UAT and preprod pods**.
+  - The next step is to create a **shared database user** that can work across both environments.
+  - I will be working with **Shitunjay from DevOps** to set this up.
+  - Once this is properly configured, we should be able to move ahead with the **production deployment**.
+  - The deployment is getting closer, but there are still a few infrastructure-level pieces to complete.
+
+- 🍛 **Lunch**
+  - Had lunch around **1:00 PM**.
+  - Today's lunch included:
+    - Mutter Paneer
+    - Aloo Gobhi Mix Veg
+    - Pizza Pocket
+    - Brownie with Vanilla
+    - Chapati
+    - Rajma Chawal
+    - Corn Salad
+  - A filling lunch before getting back to the technical work.
+
+- 🧠 **Architecture Discussions**
+  - After lunch, had multiple discussions with **Utkarsh Bhai**.
+  - Along with the regular implementation work, we spent time on some **deep architectural thinking sessions**.
+  - Discussed the bigger picture around the dashboard architecture, deployment requirements, and how the different components should fit together.
+  - These discussions helped me think beyond just fixing the immediate deployment blockers and understand the architecture more deeply.
+
+- 🎨 **Dashboard UI Changes**
+  - Also worked on some **UI changes suggested by Krishna Kumar**.
+  - Incorporated the required changes into the dashboard while continuing with the deployment-related work.
+
+- ⚙️ **Backend Utils — Cron Job**
+  - Had a discussion with **Chandan from DevOps** regarding the **cron job for the Backend Utils project**.
+  - Discussed the setup and requirements for the scheduled job and the next steps needed from the DevOps side.
+
+- 📊 **Incident Analyzer — Graph Issue**
+  - Around **4:50 PM**, received a message from **Ankit Sir** regarding an issue with one of the graphs in the **Incident Analyzer**.
+  - Discussed the issue and planned to work on it together with **Param**.
+  - Also need to start working on **Graph Number 3** based on Ankit Sir's guidance.
+  - Another task added to the list as the Incident Analyzer continues to evolve.
+
+- 🥟 **Evening Snacks**
+  - Had **spring rolls and vada pav** as evening snacks.
+  - A nice little break after a long day of deployment discussions and technical work.
+
+- 🏠 **Back Home**
+  - Reached home at around **7:00 PM**.
+  - Completed my daily chores after getting back.
+
+- 💻 **LeetCode**
+  - Solved **one LeetCode problem** today.
+  - Managed to keep the daily problem-solving routine going despite another busy workday.
+
+- ❤️ **Family & Her**
+  - Talked to my **family over a call** and caught up with everyone.
+  - Later, spent some time **talking to her**.
+  - A peaceful way to end the day after spending most of it thinking about deployments, databases and architecture.
+
+- 🌙 **End of the Day**
+  - Finally went to sleep after wrapping up the day.
+  - Today was another heavily technical day, with a major breakthrough in the **Agentic AI Dashboard deployment**.
+  - Getting database access working from the pod was a big step forward.
+  - Now the focus shifts towards creating the shared DB user for UAT and preprod, completing the remaining deployment prerequisites, and eventually moving towards production.
+  - At the same time, continued balancing dashboard work with Backend Utils and Incident Analyzer tasks.
+  - A productive day with some real progress on the deployment front. 🚀💻
+
+---
+
+### ✨ Today's Highlight
+> **Finally resolved the dashboard's database access issue by running the required SQL script on the pod! Now we can call the DB, and the next major step is setting up a shared user across UAT and preprod before moving towards production. A day of deep architecture discussions, UI changes, Backend Utils planning, and steady progress. 🚀🗄️💻❤️**
+
+
+---
+
