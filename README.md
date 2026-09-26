@@ -1215,3 +1215,95 @@
 ---
 
 
+# 📔 Daily Journal — 21 September 2026
+### Monday | Day 324
+
+- 🌅 **Morning — Office**
+  - Reached the office at around **10:30 AM**.
+  - Had a simple breakfast of **milk and peanuts**.
+  - Started working after breakfast.
+
+- 💼 **LinkedIn — Spring Course Update**
+  - In the morning, posted on **LinkedIn** about recently completing the **Master Microservices with Spring Boot and Spring Cloud** course on Udemy.
+  - Also shared the demo project I prepared alongside the learning:
+    - 🔗 **Spring Book Library:** https://github.com/davesohamm/spring-book-library
+  - It felt good to finally share the learning journey and the project publicly after spending time getting comfortable with Spring and the related technologies.
+
+- 🤖 **Agentic AI DSM**
+  - Attended the daily **Agentic AI DSM meeting**.
+  - Discussed the current status of the **Agentic AI Dashboard deployment**.
+  - Also mentioned the parallel tasks and responsibilities I am currently handling for the **Backend Utils project**.
+  - The dashboard deployment continues to be one of the major ongoing tasks.
+
+- 🚀 **Dashboard Deployment Discussions**
+  - After the DSM meeting, had a quick call with **Utkarsh Bhai** regarding the deployment.
+  - Later, also discussed the deployment with **Shitunjay** from the DevOps side.
+  - Went through the current deployment situation and the blockers we were facing.
+
+- 🎨 **Agentic Dashboard — UI Changes**
+  - Apart from the deployment work, implemented some of the **dashboard UI changes** that Krishna Kumar had discussed during the previous review.
+  - Worked on incorporating the feedback into the dashboard so that the UI better matches the expected requirements.
+
+- 💻 **LeetCode**
+  - Solved **one LeetCode problem** today.
+  - Managed to keep the daily problem-solving streak going even with a deployment-heavy day.
+
+- 🍛 **Lunch**
+  - Had lunch around **1:00 PM**.
+  - Today's lunch included:
+    - Paratha
+    - Aloo Mutter Gobhi
+    - Paneer Butter Masala
+    - Hara Bhara Kebabs
+    - Sevaiya
+    - Amritsari Dal
+    - Chawal
+  - A pretty filling lunch before getting back to the deployment work.
+
+- 🧑‍💻 **Deployment — Sitting With DevOps**
+  - After lunch, went to the **4th floor** and sat with the **DevOps team** to work directly on the dashboard deployment.
+  - Spent a significant amount of time troubleshooting the **503 error** that had been blocking the deployment.
+  - Tried multiple approaches and worked through the issue with the DevOps team.
+  - Unfortunately, we still couldn't completely resolve the **503 error** today.
+  - Even though the deployment issue remained unresolved, sitting with the DevOps team was useful because I got more visibility into the deployment infrastructure and tools.
+
+- ☸️ **Argo CD Access**
+  - One major benefit of spending time with the DevOps team was that I got **Argo CD access**! 🚀
+  - This gives me better visibility into the Kubernetes deployment environment and observability around the application.
+  - Hopefully, this additional access will make debugging and understanding the deployment issues much easier going forward.
+  - Definitely a useful takeaway from today's deployment struggle.
+
+- 🥙 **Evening Snacks**
+  - Around the evening, had **Dahi Puri and Shashlik Paneer Hotdogs** as snacks.
+  - A tasty end to the office day before heading home.
+
+- 🏠 **Back Home — Completely Exhausted**
+  - Reached home at around **7:00 PM**.
+  - After getting home, my body basically gave up. 😂
+  - Fell asleep **sitting on the sofa itself**.
+  - Didn't even make it properly to bed — the tiredness from the day caught up with me instantly.
+
+- 😴 **Unexpected Evening Nap**
+  - Woke up around **9:30 PM**.
+  - Realized I had several **missed calls from my family** while I was sleeping.
+  - Called them back and talked to them for some time.
+  - It felt good to catch up with everyone after waking up.
+
+- 💬 **LinkedIn Replies**
+  - After the family call, checked the LinkedIn post I had shared in the morning.
+  - Spent some time **replying to comments and messages** on the post.
+  - Nice to see some interaction around the Spring learning journey and the demo project.
+
+- 🌙 **Early Sleep**
+  - Unlike most days, I decided not to stay up late tonight.
+  - After the exhausting deployment work and the unexpected sofa nap, I finally went to sleep **early**.
+  - Definitely needed the rest.
+
+---
+
+### ✨ Today's Highlight
+> **The dashboard's 503 error still survived another day, but I gained Argo CD access while working directly with DevOps, pushed the UI changes, shared my Spring learning journey on LinkedIn, solved LeetCode, and finally let my exhausted body win with an early sleep. 😂💻🚀**
+
+
+---
+
