@@ -1593,3 +1593,115 @@
 
 ---
 
+# 📔 Daily Journal — 25 September 2026
+### Friday | Day 328
+
+- 🌅 **Morning — Office**
+  - Reached the office around **10:00 AM**.
+  - Had breakfast of **Chocos with milk and a peanut butter sandwich**.
+  - Started working around **10:30 AM**.
+
+- 💻 **LeetCode**
+  - Started the workday by solving **one LeetCode problem**.
+  - Another day of keeping the daily problem-solving habit consistent.
+
+- 📚 **Udemy — Software Architecture & Design**
+  - Continued the Udemy course I started yesterday:
+    - **Software Architecture & Design of Modern Large-Scale Systems**
+  - Spent some time watching the next set of lectures.
+  - Covered concepts around:
+    - SQL
+    - Databases
+    - Load Balancing
+    - DNS
+    - And other large-scale system architecture concepts
+  - It was interesting to connect these concepts with the kind of infrastructure and deployment problems I am currently dealing with at work.
+
+- 🤖 **Agentic AI DSM**
+  - Attended the **Agentic AI DSM meeting** around **11:30 AM**.
+  - Discussed the recent **Agentic Insights Dashboard deployment task** and the progress made so far.
+  - Shared the current state of the deployment and the remaining work.
+
+- 🗄️ **Dashboard — Shared Database User Setup**
+  - After the DSM meeting, **Utkarsh Bhai and I** sat down and worked on configuring the dashboard codebase according to the **new shared database user** created by the DevOps team.
+  - The shared user is intended to provide access to both the **UAT and preprod databases**.
+  - Updated the codebase accordingly and worked through the required database connection changes.
+  - Also fixed some required **Dockerfile changes** and sent the updated configuration to the DevOps team.
+
+- 🍝 **Lunch**
+  - Had lunch around **1:00 PM**.
+  - Today's lunch included:
+    - Lasagna
+    - Spaghetti
+    - Tiramisu Cup
+    - Chapati
+    - Paneer Do Pyaza
+    - Dal Chawal
+    - Salad
+  - A pretty elaborate Friday lunch before getting back to the deployment work.
+
+- 🚀 **Agentic Insights Dashboard — Deployment Day!**
+  - After lunch, got straight back to the **dashboard deployment**.
+  - Spent the afternoon resolving several issues that came up during the deployment.
+  - Worked on things such as:
+    - 🗄️ Database grant/access issues for the shared user
+    - 🔄 Refresh button changes
+    - 🔐 Shared database user access
+    - 🐳 Deployment and Docker configuration changes
+    - Other environment-specific issues
+  - There were multiple things to troubleshoot, but slowly everything started falling into place.
+
+- 🎉 **PREPROD DATA IS LIVE!**
+  - Around **7:00 PM**, I was finally free after spending most of the day on the deployment.
+  - And finally — **the preprod data is LIVE on the Agentic Insights Dashboard!** 🎉🚀
+  - The dashboard is now displaying the **live session data from preprod**.
+  - The **database connection is successfully done**! 🗄️✅
+  - Showed the working dashboard to **Utkarsh Bhai**, and he approved it as well.
+  - This was a major milestone after all the deployment issues, database access problems, shared-user configuration and 503 errors we had been dealing with for so long.
+
+- ⏳ **One Small Thing Still Pending**
+  - There is just **one small remaining dependency** from the DevOps side.
+  - The **LLM-as-a-Judge Azure API key** still needs to be added to the **AWS Secrets Manager**.
+  - Once that is configured, the remaining piece should also be ready.
+  - But the biggest hurdle — getting the **database connection and live preprod session data working on the dashboard** — is finally done! 🎉
+
+- 🌆 **Friday Night — CyberHub!**
+  - Since it was Friday night, decided to finally explore **CyberHub** in Gurgaon.
+  - This was actually my **first time visiting CyberHub**!
+  - And wow — what a lively place! ✨
+  - The combination of the bright lights, modern architecture, restaurants, people and overall atmosphere made the place feel incredibly vibrant.
+  - I was genuinely **awestruck by the lights and charming infrastructure** — such a completely different vibe from the usual office-to-home routine.
+
+- 🛍️ **A Little Shopping**
+  - While at CyberHub, bought a **bag from Decathlon** for my upcoming trip.
+  - One more thing checked off the preparation list! 🎒
+
+- 🚶 **Walking Back Home**
+  - After spending some time at CyberHub, started walking back home.
+  - Reached home around **10:00 PM**.
+  - While walking, talked to my **family over a video call**.
+  - It was actually a nice way to spend the walk — getting some steps in while catching up with family.
+
+- ❤️ **Time With Her**
+  - After reaching home, talked to **her** for a while.
+  - Spent some quiet quality time together after an extremely eventful Friday.
+
+- 🚶‍♂️ **14K Steps!**
+  - Today I completed around **14,000 steps**! 🔥
+  - Between all the movement at work, going to CyberHub and walking back home, the step count went way up.
+  - Definitely a satisfying way to end the day, especially after yesterday's early accidental sleep and today's long deployment grind.
+
+- 🌙 **Late Night**
+  - Completed all my daily chores after reaching home.
+  - Finally went to sleep around **midnight**.
+  - What. A. Day. 😮‍💨
+  - Started the day with LeetCode and system architecture learning, spent most of the workday fighting through deployment issues, finally got the **live preprod dashboard working**, explored CyberHub for the first time, bought a travel bag, walked home, hit **14K steps**, and ended the night with family and her.
+  - Definitely one of those days that feels much longer when you look back at everything that happened.
+
+---
+
+### ✨ Today's Highlight
+> **THE DATABASE CONNECTION IS DONE! 🎉🚀 Preprod live-session data is finally showing on the Agentic Insights Dashboard, Utkarsh Bhai approved it, and only the LLM-as-a-Judge Azure key remains. Then I celebrated the Friday night by visiting CyberHub for the first time, bought my travel bag, walked home, completed 14K steps, and ended the day around midnight. What a day! 💻🌆❤️**
+
+
+---
