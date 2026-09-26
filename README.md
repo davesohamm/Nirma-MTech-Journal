@@ -891,4 +891,108 @@
 
 ---
 
+# 📔 Daily Journal — 16 September 2026
+### Wednesday | Day 319
+
+- 🌅 **Morning — Office**
+  - Reached the office at around **10:00 AM**.
+  - Had breakfast of **corn flakes with milk and a peanut butter sandwich**.
+  - Started working soon after breakfast.
+
+- 🔧 **Backend Utils — Line Chart Issue**
+  - Started the day by working on the **Backend Utils project**.
+  - Fixed the **line chart issue** that was occurring in the project.
+  - Continued working on the related Backend Utils and Incident Analyzer tasks before the DSM meeting.
+
+- 🤖 **Agentic AI DSM — New TV Lab**
+  - Around **11:30 AM**, attended the daily **Agentic AI DSM meeting**.
+  - We attended the meeting from the **new TV lab** along with **Krishna Kumar**.
+  - During the meeting, discussed:
+    - 🛡️ The current **Guardrails POC**
+    - 🚀 The ongoing **Agentic AI Dashboard deployment**
+  - Shared the current progress and discussed the next steps for both areas.
+
+- 📊 **Agentic Insights Dashboard — Review**
+  - After the DSM call, we moved to the **Rangbhoomi meeting room**.
+  - Demonstrated our **Agentic Insights Dashboard** to Krishna Kumar.
+  - He reviewed the dashboard and gave us multiple pointers for improvement.
+  - One of the major recommendations was to **migrate the Spring backend to Node.js**.
+  - The objective is to make the deployment simpler by allowing the application to be deployed from a **single pod**.
+  - This introduced an important new technical task and gave us a clearer direction for the dashboard's deployment architecture.
+
+- 💻 **Backend Utils & Incident Analyzer**
+  - Before lunch, continued working on the **Backend Utils project** and its **Incident Analyzer**.
+  - Balanced the ongoing Backend Utils work alongside the newly discussed dashboard migration requirements.
+
+- 🍛 **Lunch**
+  - Had lunch around **1:00 PM**.
+  - Today's lunch included:
+    - Palak Patta Chaat
+    - Gulab Jamuns
+    - Paneer Shahi
+    - Chapati
+    - Shimla Aloo
+    - Dal Rice
+  - A nice and filling lunch before getting back to the technical work.
+
+- 🔄 **Agentic Dashboard — Migration Planning**
+  - After lunch, started planning the **migration of the dashboard backend from Spring to Node.js**.
+  - Thought through the migration approach and started working on the required changes.
+  - This became one of the major technical focuses of the day.
+
+- 🔐 **Backend Utils — Four Tokens Finally Working!**
+  - One of the biggest blockers from the past few days was finally resolved today.
+  - The **four Backend Utils tokens started working** after being blocked for around **four days**.
+  - This was a major relief because the issue had been preventing further testing and progress.
+  - Finally pushed the updated code and attempted to deploy it to the **test environment**.
+  - The next step is to perform **thorough testing** of the complete flow over the upcoming days.
+
+- 🏠 **Back Home**
+  - Reached home at around **7:00 PM**.
+  - Completed my daily chores after getting back home.
+  - Took some time to settle down after another packed day.
+
+- 💻 **LeetCode**
+  - Solved **one LeetCode problem** today.
+  - Managed to keep the daily problem-solving routine going despite the long list of technical and academic tasks.
+
+- 🍝 **Homemade Dinner**
+  - Made **pink sauce pasta** for myself.
+  - Made it extra cheesy — and it turned out to be a very satisfying dinner. 🧀🍝
+
+- 🚀 **Late-Night Dashboard Migration**
+  - After dinner, continued working on the **Agentic Insights Dashboard Node.js migration**.
+  - Worked on the migration changes and eventually **pushed the branch late at night**.
+  - Also tried deploying the migrated version.
+  - Unfortunately, the deployment was **not successful yet** and still needs further debugging.
+
+- 📚 **MTech Major Project — Literature Review**
+  - After working on the dashboard migration, shifted back to my **MTech major project**.
+  - Continued working on the **literature review** for my research.
+  - With the college review approaching, spent additional time organizing and refining the research material.
+
+- 🖥️ **College Presentation Preparation**
+  - Also prepared the **PPT for the 19 September college presentation**.
+  - Worked on the slides and organized the content required for the upcoming presentation.
+  - The thesis review is getting closer, so it felt important to make meaningful progress on both the literature review and presentation.
+
+- ❤️ **Late-Night Conversation**
+  - Before going to sleep, spent some time **talking to her**.
+  - A peaceful conversation after an extremely busy day of work and research.
+
+- 🌙 **End of the Day**
+  - Finally went to sleep late at night.
+  - Today was one of those days where **everything happened at once** — Backend Utils fixes, Agentic AI DSM, dashboard review, a major architectural migration decision, resolution of the four-token blocker, deployment attempts, LeetCode, cooking, literature review, and college presentation preparation.
+  - The four-token issue finally getting resolved was definitely one of the biggest wins of the day.
+  - At the same time, the Node.js migration has opened up a new technical challenge that I will continue working on in the coming days.
+  - Another long day, but a lot of important progress happened. 💻🚀📚❤️
+
+---
+
+### ✨ Today's Highlight
+> **The four-token Backend Utils blocker that had been stuck for four days finally got resolved, while the Agentic Insights Dashboard received an important architectural direction — migrate the Spring backend to Node.js for single-pod deployment. Ended the day with dashboard migration work, MTech research, college PPT preparation, and a little quality time with her. 💻🚀📚❤️**
+
+
+---
+
 
