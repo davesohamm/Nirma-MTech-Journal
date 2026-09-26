@@ -1494,3 +1494,102 @@
 
 ---
 
+# 📔 Daily Journal — 24 September 2026
+### Thursday | Day 327
+
+- 🌅 **Early Morning — Exercise After a Long Time!**
+  - Woke up at around **6:00 AM** today.
+  - Finally got back to doing a proper **morning exercise session after such a long time**! 💪
+  - Started with a short **jog**.
+  - Did **biceps and triceps curls**.
+  - Also did some **push-ups**.
+  - It felt amazing to finally sweat through exercise again.
+  - The morning atmosphere made the whole experience even better — our **garden looked amazingly fresh in the morning breeze**.
+  - The combination of the fresh air, greenery and morning workout felt incredibly refreshing.
+  - Honestly, I really **love that feeling of sweating after a good workout**! 🔥
+
+- 🏢 **Morning — Office**
+  - Reached the office around **10:00 AM**.
+  - Had breakfast of **muesli with milk and a peanut butter sandwich**.
+  - Started working around **10:35 AM**.
+
+- 💻 **LeetCode**
+  - Started the office day by solving **one LeetCode problem**.
+  - Good to keep the daily problem-solving routine going, especially after starting the day with exercise.
+
+- 🏠 **SuperHome Repo — Discussion With Krishna Kumar**
+  - Had a quick discussion with **Krishna Kumar** regarding the **SuperHome repository**.
+  - He gave me a complete demonstration of the project.
+  - He also explained the overall setup, flow and functionality thoroughly.
+  - It was useful to get a proper walkthrough and understand the project from end to end.
+
+- 🤖 **Agentic AI DSM**
+  - Around **11:30 AM**, the Agentic AI DSM call was scheduled.
+  - However, the meeting was eventually **cancelled because almost everyone was occupied in a parallel call**.
+  - This gave me some additional time to focus on the other ongoing tasks.
+
+- 📊 **Incident Analyzer — Priority & Age Visualization**
+  - Worked on possible approaches for showing the **age of incidents based on their priority levels**.
+  - Prepared around **3–4 different approaches** and shared them with **Ankit Sir**.
+  - The approaches included:
+    - 📋 **List-based approach**
+    - 🥧 **Pie chart approach**
+    - 📊 **Tabular approach**
+    - Other possible visualization formats for representing incident age and priority
+  - Had a quick discussion with Ankit Sir regarding the different options.
+  - The discussion helped explore how the information could be presented in a way that is clear and useful.
+
+- 🍛 **Lunch**
+  - Had lunch around **1:00 PM**.
+  - Today's lunch included:
+    - Chapati
+    - Paneer Lababdar
+    - Baingan Bharta
+    - Chinese Bhel
+    - Tiramisu Cake
+    - Salad
+    - Dal Chawal
+  - A nice and filling lunch before getting back to the afternoon.
+
+- 📚 **Afternoon — Learning Something New**
+  - Didn't have too many office tasks remaining after lunch.
+  - Decided to use the free time productively by starting a new Udemy course:
+    - **Software Architecture & Design of Modern Large-Scale Systems**
+  - Spent the afternoon studying and exploring the concepts covered in the course.
+  - A good opportunity to learn something beyond my immediate project responsibilities and strengthen my understanding of large-scale system design.
+
+- 🍽️ **Evening Snacks**
+  - Had **masala idli, poha and Bourbon biscuits** as evening snacks.
+  - A simple but satisfying snack break before heading home.
+
+- 🏠 **Back Home**
+  - Reached home around **7:00 PM**.
+  - Completed my daily chores after coming back.
+  - After such a long morning and workday, the evening was kept relatively relaxed.
+
+- ❤️ **A Quick Call With Her**
+  - Talked to **her** for a little while.
+  - Just a short conversation before settling down for the night.
+
+- 📺 **Taarak Mehta & Unexpected Sleep**
+  - Later, started watching **Taarak Mehta Ka Ooltah Chashmah** on my phone.
+  - Was just casually watching and relaxing...
+  - And somehow, without even realizing it, I **fell asleep around 9:00 PM!** 😂
+  - I genuinely don't remember what happened after that.
+  - Looks like the combination of an early morning workout, a full workday and an overall busy day finally caught up with me.
+  - Apparently, my body simply decided: **"Bas bhai, aaj ke liye enough."** 😴😂
+
+- 🌙 **End of the Day**
+  - Today's day ended much earlier than usual.
+  - From waking up at **6:00 AM and exercising after a long gap**, to solving LeetCode, understanding the SuperHome repo, discussing Incident Analyzer visualizations, studying system architecture and finally falling asleep while watching Taarak Mehta — it was a surprisingly wholesome day.
+  - The early sleep was probably exactly what I needed after such a refreshing but tiring day.
+  - No late-night work, no staying awake unnecessarily — just an accidental **9 PM shutdown**. 😂
+
+---
+
+### ✨ Today's Highlight
+> **Finally got back to morning exercise after a long time, enjoyed the fresh garden breeze and that amazing post-workout sweat, learned about the SuperHome repo, explored new Incident Analyzer visualizations, started a new system architecture course — and then accidentally shut down at 9 PM while watching Taarak Mehta! 😂💪🌿📚😴**
+
+
+---
+
