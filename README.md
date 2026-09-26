@@ -1125,3 +1125,93 @@
 
 ---
 
+# 📔 Daily Journal — 18 September 2026
+### Friday | Day 321
+
+- 🌅 **Morning — Office**
+  - Reached the office at around **10:00 AM**.
+  - Had breakfast of **milk and Chocos with a peanut butter sandwich**.
+  - After breakfast, started working around **11:00 AM**.
+
+- 🔧 **Backend Utils — Line Chart Task**
+  - Started the morning by completing the **Backend Utils task assigned by Ankit Sir**.
+  - Worked on the **line chart-related changes** and completed the required implementation.
+  - Another pending task successfully checked off from the Backend Utils work.
+
+- 🤖 **Agentic AI DSM**
+  - Around **11:30 AM**, attended the daily **Agentic AI DSM meeting**.
+  - Discussed the ongoing **Node.js migration of the Agentic Insights Dashboard**.
+  - Also discussed the **UI changes and improvement points** that Krishna Kumar had mentioned during the previous dashboard review.
+  - Shared the current progress and discussed the next steps for the dashboard.
+
+- 🚀 **Dashboard Deployment — 503 Error**
+  - After the DSM meeting, continued working on the dashboard deployment.
+  - Tried deploying the updated dashboard **2–3 times before lunch**.
+  - Unfortunately, the deployments were still failing with a **503 Service Unavailable error**.
+  - Continued investigating the deployment setup and the possible causes of the issue.
+  - The dashboard deployment remains one of the major technical tasks that still needs attention.
+
+- 🍛 **Lunch — South Indian Food**
+  - Went for lunch around **1:00 PM**.
+  - Had a South Indian lunch with items including:
+    - Sambar
+    - Idli
+    - Medu Vada
+    - Uttapam
+    - And other South Indian dishes
+  - A nice lunch break before heading home early.
+
+- 🏠 **Early Leave — Thesis Preparation**
+  - Around **3:00 PM**, we left the office and headed home.
+  - The main focus for the rest of the day shifted completely towards tomorrow's **college thesis presentation**.
+  - With the review just one day away, I needed to make sure the presentation was properly prepared.
+
+- ⚛️ **V2X + PQC Thesis Preparation**
+  - Spent the afternoon working on my **V2X Post-Quantum Cryptography thesis presentation**.
+  - Prepared and refined the **PPT** for tomorrow's review.
+  - Went through the research content, organized the flow of the presentation, and made sure the important technical points were properly represented.
+  - Also worked on the supporting material required for explaining the research clearly to the faculty panel.
+
+- 💻 **LeetCode**
+  - Even with the thesis preparation taking up most of the evening, solved **one LeetCode problem**.
+  - Managed to keep the daily problem-solving routine consistent.
+
+- 🧹 **Daily Chores**
+  - Took some time to complete my **daily chores** at home.
+  - After getting everything done, returned to the thesis preparation.
+
+- 🎓 **Presentation Demo With Priti Kathiria Ma'am**
+  - At night, had a discussion with **Priti Kathiria Ma'am** regarding the presentation.
+  - Gave her a complete **demo of the thesis presentation**.
+  - Discussed the flow and the way I planned to present the research.
+  - She **appreciated the efforts** I had put into preparing the presentation.
+  - Her feedback and appreciation gave me some confidence going into tomorrow's review.
+
+- 📞 **Family & Her**
+  - Later, talked to my **family over a call** and caught up with everyone.
+  - Also spent some time **talking to her** till late night.
+  - It was nice to have some peaceful time with her after a day focused almost entirely on preparation.
+
+- 🎓 **Tomorrow — Thesis Review**
+  - Tomorrow is the **big college thesis review**.
+  - The presentation will be conducted in front of a **panel of four faculty members**.
+  - They will examine our thesis work, research topics, methodology, understanding and overall presentation.
+  - After weeks of research, literature review, diagrams, PPT preparation and late-night work, tomorrow is finally the day to present it.
+  - Feeling a mix of **excitement, nervousness and anticipation**.
+
+- 🌙 **End of the Day**
+  - Finally went to sleep late at night after finishing the final preparation.
+  - Today was a day of balancing office responsibilities with the pressure of an important academic milestone.
+  - Completed the Backend Utils task, worked on the dashboard deployment, prepared the thesis presentation, gave a successful demo to Priti Ma'am, solved LeetCode, and spent time with family and her.
+  - Now everything is ready for tomorrow.
+  - **Time to sleep and be ready for the big review.** 📚🎓
+
+---
+
+### ✨ Today's Highlight
+> **Finished the Backend Utils line-chart task, pushed further on the dashboard migration, and then spent the rest of the day preparing for tomorrow's V2X + PQC thesis review. The presentation demo with Priti Ma'am went well and her appreciation gave me some confidence. Tomorrow is the big day! 🎓🚀**
+
+
+---
+
+
